@@ -1,0 +1,640 @@
+{
+  "articles": [
+    {
+      "id": "eph86-09-september-1986",
+      "documentId": "eph86-09",
+      "title": "SEPTEMBER 1986",
+      "summary": "This document outlines the event schedule for the San Jose Astronomical Association (SJAA) for September, October, and early November 1986. It details various activities including general meetings with presentations on astrophotography and equipment, field expeditions for astronomical observation at state parks, introductory astronomy classes, indoor star parties, and board meetings. Events are primarily hosted at the Los Gatos Red Cross Building or designated observing sites.",
+      "categories": [
+        "Events Schedule",
+        "Club Meetings",
+        "Observational Astronomy",
+        "Educational Programs",
+        "Presentations"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomical Observation",
+        "Field Expedition",
+        "Star Party",
+        "Astronomy Class",
+        "General Meeting",
+        "Astrophotography",
+        "Telescopes",
+        "Los Gatos Red Cross",
+        "Fremont Peak",
+        "Henry Coe State Park"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph86-09-by-john-gleason",
+      "documentId": "eph86-09",
+      "title": "BY: JOHN GLEASON",
+      "summary": "This article, by John Gleason, announces new SJAA Board members, Duncan Munroe and Ron Walton. It provides an update on the FPOA Observatory, noting its near completion and encouraging members to visit before public programs begin in spring 1987. Other announcements include the recovery of Halley's Comet slides, an upcoming Equipment and Slide Night on September 27th, and a rescheduled Indoor Astronomy Class field trip to Fremont Peak on October 4th, which will include observing.",
+      "categories": [
+        "Organizational Updates",
+        "Observatory News",
+        "Member Events",
+        "Amateur Astronomy",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "SJAA Board",
+        "FPOA Observatory",
+        "30-inch reflector",
+        "Halley's Comet",
+        "Equipment and Slide Night",
+        "Astrophotography",
+        "Telescope making",
+        "Fremont Peak State Park",
+        "Indoor Astronomy Class",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-astro-ads",
+      "documentId": "eph86-09",
+      "title": "ASTRO ADS",
+      "summary": "This document is a classified advertisement for an astronomy-related item. It lists a Celestron 8 telescope with silver-coated optics and accessories available for sale at a price of $1200. Contact details for Paul Mancuso are provided for interested parties.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomy Equipment",
+        "Advertisements"
+      ],
+      "keywords": [
+        "Celestron 8",
+        "telescope",
+        "silver coated optics",
+        "accessories",
+        "used equipment",
+        "astronomy",
+        "Paul Mancuso",
+        "sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-comet-comments",
+      "documentId": "eph86-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article, titled \"COMET COMMENTS\" by Don Machholz, reports on five recent additions to the 1986 comet list, comprising three recovered periodic comets and two newly discovered ones, pushing the year's total to an above-average 12. It details the recovery of Periodic Comet Schwassmann-Wachmann 2 by J. Gibson and Periodic Comet Comas Sola by T. Gehrels and J. Scotti, along with the discovery of Comet Churyumov-Solodovnikov by Russian astronomers, including their magnitudes, orbital characteristics, and current positions.",
+      "categories": [
+        "observing reports",
+        "astronomical news",
+        "cometology",
+        "discovery news"
+      ],
+      "keywords": [
+        "comets",
+        "1986 comets",
+        "Schwassmann-Wachmann 2",
+        "Churyumov-Solodovnikov",
+        "Comas Sola",
+        "discovery",
+        "recovery",
+        "magnitude",
+        "orbital period",
+        "perihelion",
+        "Don Machholz"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph86-09-periodic-comet-kohoutek-1985i",
+      "documentId": "eph86-09",
+      "title": "Periodic Comet Kohoutek (1985I):",
+      "summary": "This document provides updates on two comets: Comet Kohoutek (1985I) was recently recovered at magnitude 13.5, months before its closest approach to the sun at 1.6 AU, and is expected to remain fainter than mag 15. Separately, news has arrived of Comet Wilson (1986I), discovered in Pegasus on August 5th photographic plates at magnitude 10, with contact information provided for updated positions.",
+      "categories": [
+        "observing reports",
+        "news",
+        "comet observations"
+      ],
+      "keywords": [
+        "Comet Kohoutek (1985I)",
+        "Comet Wilson (1986I)",
+        "comets",
+        "recovery",
+        "discovery",
+        "magnitude",
+        "perihelion",
+        "observational astronomy",
+        "Pegasus"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-what-goes-around-comes-around-halley-s",
+      "documentId": "eph86-09",
+      "title": "WHAT GOES AROUND COMES AROUND - HALLEY'S",
+      "summary": "Despite the 1986 apparition of Halley's Comet being historically dim due to unfavorable Earth-comet-sun geometry, the author argues it was a significant event. More people saw the comet than on any previous visit (estimated 1.6 billion), and advanced space technology allowed for unprecedented scientific study of its nucleus. Amateur astronomers played a crucial role in public outreach, successfully showing the comet to those interested, despite some general public apathy.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "Public Outreach",
+        "Astronomy History",
+        "Amateur Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "1986 apparition",
+        "1910 apparition",
+        "Amateur astronomy",
+        "Public viewing",
+        "Spacecraft",
+        "Comet nucleus",
+        "Earth-comet-sun geometry",
+        "Scientific observation",
+        "Light pollution",
+        "Telescopes"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph86-09-testing-fujichrome-p1500-d-techni-color-reversal-film-by-john-gleason",
+      "documentId": "eph86-09",
+      "title": "TESTING FUJICHROME P1500-D TECHNI-COLOR REVERSAL FILM BY: JOHN GLEASON",
+      "summary": "John Gleason details his experience testing the high-speed Fujichrome P1500-D reversal film for astrophotography. Initially unable to use it, he later conducted tests on the summer Milky Way in Yosemite and with C8/C14 telescopes, after Bob Fingerhut had already achieved remarkable results with it in Australia. Gleason notes that processing the film was straightforward with custom labs.",
+      "categories": [
+        "product review",
+        "astrophotography",
+        "photography equipment",
+        "observing report"
+      ],
+      "keywords": [
+        "Fujichrome P1500-D",
+        "film",
+        "astrophotography",
+        "testing",
+        "Milky Way",
+        "C8",
+        "C14",
+        "exposure",
+        "film processing",
+        "Yosemite",
+        "John Gleason"
+      ],
+      "pageStart": 1500,
+      "pageEnd": 1500
+    },
+    {
+      "id": "eph86-09-the-results-are-in",
+      "documentId": "eph86-09",
+      "title": "THE RESULTS ARE IN",
+      "summary": "This article reviews the performance of Fuji 1500 film for astrophotography. While initially disappointing, the film excelled in capturing the Milky Way with exceptional color balance and a true black sky when shot at f/2.8, demonstrating razor-sharp star images. However, it suffered significantly from low-light reciprocity failure and poor response when used with slower f-numbers (f/10, f/11) on telescopes, yielding minimal detail on nebulae, and is currently difficult to acquire.",
+      "categories": [
+        "Observing Reports",
+        "Technical Review",
+        "Astrophotography Equipment",
+        "Film Photography"
+      ],
+      "keywords": [
+        "Fuji 1500",
+        "astrophotography",
+        "film review",
+        "reciprocity failure",
+        "Milky Way",
+        "Ektachrome",
+        "Zuiko lens",
+        "C8",
+        "C14",
+        "Trifid Nebula",
+        "Lagoon Nebula",
+        "M22",
+        "film grain",
+        "exposure times",
+        "lens aperture"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-calico-observatory-by-jim-vanuland",
+      "documentId": "eph86-09",
+      "title": "CALICO OBSERVATORY BY: JIM VANULAND",
+      "summary": "This report from Calico Observatory updates observations of Jupiter's Great Red Spot, noting a slight downward trend in its Jovacentric longitude and adjusting prediction times earlier. Jupiter reaches opposition this month, achieving its maximum diameter and magnitude, and the author highlights specific dates for observing rare simultaneous satellite and shadow transits, particularly for Io. These events present unique observing opportunities for astronomers.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Celestial Events",
+        "Predictions"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Jovacentric longitude",
+        "Opposition",
+        "Io",
+        "Satellite transit",
+        "Shadow transit",
+        "Planetary observation",
+        "Calico Observatory"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph86-09-great-red-spot-on-meridian-pdt",
+      "documentId": "eph86-09",
+      "title": "Great Red Spot on Meridian PDT",
+      "summary": "This article provides a schedule for observing Jupiter's Great Red Spot as it transits the meridian, presented in Pacific Daylight Time (PDT). Beyond the GRS, it encourages observers to look for other active features, specifically mentioning a prominent disturbance in the North Equatorial Belt (NEB) that appears 2.5 hours earlier, and another larger storm east of it. The author emphasizes that focusing only on the GRS means missing out on significant planetary activity.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Planetary Observation",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Meridian Transit",
+        "PDT",
+        "North Equatorial Belt",
+        "Planetary Features",
+        "Amateur Astronomy",
+        "Observation Schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-the-celestial-tourist-speaks-by-jay-reynolds-freeman",
+      "documentId": "eph86-09",
+      "title": "THE CELESTIAL TOURIST SPEAKS BY: JAY REYNOLDS FREEMAN",
+      "summary": "Jay Reynolds Freeman recounts his experience reconditioning a Celestron 14 telescope, detailing issues like electrical corrosion and simple fixes. He then compares the performance and usability of various telescopes, including reconditioned C-14s, fluorite refractors, and larger Newtonian instruments, for different observing scenarios and beginners. The article, including an editor's note, discusses their respective strengths in portability, ease of setup, and optical performance for planetary and deep-sky observations.",
+      "categories": [
+        "Telescope Maintenance",
+        "Equipment Review",
+        "Astronomical Observing",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Celestron 14",
+        "Telescope reconditioning",
+        "Electrical corrosion",
+        "Fluorite refractors",
+        "Newtonian telescopes",
+        "Telescope comparison",
+        "Planetary observation",
+        "Deep-sky observation",
+        "Aperture",
+        "Portability"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph86-09-by-don-machholz",
+      "documentId": "eph86-09",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "Don Machholz reports on the successful public viewing events for Halley's Comet in San Jose, California, which attracted over two thousand people across twelve nights. Organized in conjunction with the San Jose Parks and Recreation Dept., these events showcased not only the comet but also the Moon, Jupiter, Venus, Saturn, and star clusters, with one session drawing over 500 attendees and Channel 11 filming for their newscast. Machholz expresses gratitude to the numerous volunteers who helped make the showings enjoyable for everyone.",
+      "categories": [
+        "observing report",
+        "public outreach",
+        "events",
+        "astronomy education",
+        "community engagement"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Halley's Comet",
+        "San Jose",
+        "Branham Lane Park",
+        "public viewing",
+        "telescopes",
+        "San Jose Parks and Recreation Dept.",
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Moon",
+        "star clusters",
+        "volunteers",
+        "Channel 11"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-minima-of-algol",
+      "documentId": "eph86-09",
+      "title": "MINIMA OF ALGOL?",
+      "summary": "This article explains what variable stars are, using Algol (Beta Persei) as an initial example of an eclipsing variable star. It then categorizes variable stars into three main types: eclipsing, pulsating (like Cepheids), and eruptive (like flare stars or Novae, and R Coronae Borealis stars), describing the mechanisms behind their brightness changes. The article concludes by encouraging amateur astronomers to observe variable stars, emphasizing that it's an accessible and scientifically valuable activity, and provides information about the American Association of Variable Star Observers (AAVSO).",
+      "categories": [
+        "Educational",
+        "Amateur Astronomy",
+        "Observational Astronomy",
+        "Star Classification"
+      ],
+      "keywords": [
+        "Algol",
+        "Variable Stars",
+        "Eclipsing Variable Stars",
+        "Pulsating Variable Stars",
+        "Eruptive Variable Stars",
+        "Beta Persei",
+        "AAVSO",
+        "American Association of Variable Star Observers",
+        "Star Observation",
+        "Astronomy",
+        "Magnitude",
+        "Cepheid variables",
+        "Flare Stars",
+        "Novae",
+        "R Coronae Borealis stars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph86-09-the-apodizing-screen",
+      "documentId": "eph86-09",
+      "title": "THE APODIZING SCREEN",
+      "summary": "The article discusses the controversial effectiveness of a fly-screen apodizing screen as a \"seeing\" filter. Research by inventor Prof. Arl Leonard shows its benefit is highly dependent on the instrument's secondary obstruction, offering a 4:1 reduction in the first diffraction ring for unobstructed systems but no benefit for highly obstructed telescopes like the C-8. These findings corroborate earlier theoretical analyses and empirical observations.",
+      "categories": [
+        "Technical",
+        "Observing Aids",
+        "Research",
+        "Optics"
+      ],
+      "keywords": [
+        "Apodizing screen",
+        "Seeing filter",
+        "Diffraction",
+        "Telescope obstruction",
+        "Astronomical optics",
+        "Arl Leonard",
+        "C-5",
+        "C-8"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph86-09-construction",
+      "documentId": "eph86-09",
+      "title": "CONSTRUCTION",
+      "summary": "This article discusses the utility of a screen and neutral-density or yellow filters for improving astronomical seeing, noting that earlier analysis by Edberg overlooked the critical role of central obstruction size. It suggests that a screen might be more effective than filters for seeing improvement, encouraging personal experimentation at a star party.",
+      "categories": [
+        "Observing Techniques",
+        "Equipment",
+        "Amateur Astronomy",
+        "Seeing Conditions",
+        "Filters"
+      ],
+      "keywords": [
+        "central obstruction",
+        "screen",
+        "ND filter",
+        "yellow filter",
+        "seeing improvement",
+        "astronomical observing",
+        "Edberg",
+        "Clyde Tombaugh"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-construction",
+      "documentId": "eph86-09",
+      "title": "CONSTRUCTION",
+      "summary": "This document provides instructions for constructing a multi-layered screen filter designed to fit over the mouth of a telescope. It details building a wooden frame, cutting and painting several wire mesh screens with progressively larger central apertures, stacking them rotated, and securing them. The article also suggests creating off-axis stops for large, fast scopes and encourages experimentation with different designs and publishing the results.",
+      "categories": [
+        "Technical",
+        "DIY",
+        "Observing Aids",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Telescope filter",
+        "Aperture mask",
+        "Screen filter",
+        "Off-axis stop",
+        "DIY astronomy",
+        "Contrast improvement",
+        "Telescope accessories",
+        "Stray color reduction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-observing-with-the-apodizing-screen",
+      "documentId": "eph86-09",
+      "title": "OBSERVING WITH THE APODIZING SCREEN",
+      "summary": "This article describes the use of an 'apodizing screen' for astronomical observation, primarily for planets and the Moon. It suggests experimenting with the screen for different details, noting that it produces diffraction spikes and color smears but ultimately enhances detail. The author recommends using it under most conditions, even on the Moon and brighter deep-sky objects like the Pleiades.",
+      "categories": [
+        "observing techniques",
+        "astronomical equipment",
+        "observing guide",
+        "planetary observation",
+        "lunar observation"
+      ],
+      "keywords": [
+        "apodizing screen",
+        "planetary observing",
+        "lunar observing",
+        "diffraction",
+        "filters",
+        "Cassini's division",
+        "Great Red Spot",
+        "Pleiades",
+        "Venus",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-theory-a-little",
+      "documentId": "eph86-09",
+      "title": "THEORY (a little)",
+      "summary": "The article discusses theories on improving astronomical observations, particularly regarding image quality and signal-to-noise ratio. Dr. Freeman posits that turbulence primarily disturbs the first diffraction ring, and reducing this ring improves image quality. This concept, along with the benefit of reduced glare shown in experiments by Edberg and findings by Dr. Tombaugh using neutral density filters, suggests methods for clearer observation.",
+      "categories": [
+        "Technical",
+        "Theory",
+        "Astronomical Observation",
+        "Optics"
+      ],
+      "keywords": [
+        "diffraction ring",
+        "turbulence",
+        "signal-to-noise ratio",
+        "glare reduction",
+        "ND filters",
+        "atmospheric effects",
+        "telescope optics"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph86-09-general-meetings",
+      "documentId": "eph86-09",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings and \"Indoor Star Parties\" at the Los Gatos Red Cross building in Los Gatos, California. These gatherings, held on the 4th Saturday of each month starting at 8 PM, provide a friendly atmosphere for members to share interests in astrophotography, deep sky observation, telescope making, and general astronomy. The article includes detailed directions to the venue.",
+      "categories": [
+        "club events",
+        "meeting information",
+        "logistics"
+      ],
+      "keywords": [
+        "General Meetings",
+        "SJAA",
+        "Los Gatos Red Cross building",
+        "Indoor Star Parties",
+        "astronomy",
+        "astrophotography",
+        "deep sky observation",
+        "telescope making",
+        "club activities",
+        "Los Gatos",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-indoor-star-parties",
+      "documentId": "eph86-09",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Monthly \"Indoor Star Parties\" are informal Saturday evening gatherings for amateur astronomy enthusiasts, including both members and non-members. These events feature telescope sharing, discussions, outdoor observing, astrophotography slideshows, and an introductory astronomy workshop, often coinciding with the SJAA's board meetings.",
+      "categories": [
+        "events",
+        "community",
+        "education",
+        "observing reports",
+        "meetings"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Astronomy Workshop",
+        "SJAA",
+        "Community Gathering"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-henry-coe-state-park",
+      "documentId": "eph86-09",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed directions to an astronomical observing site located within Henry Coe State Park, accessible via Hwy 101 south and the East Dunne exit. It outlines the route, landmarks near the park entrance, and important access information including a locked gate with a club combination (4585) used by the SJAA. The article also offers advice for safe parking and finding a setup spot, particularly for those arriving after dark.",
+      "categories": [
+        "Location Guide",
+        "Observing Locations",
+        "Directions",
+        "Club Information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Observing site",
+        "SJAA",
+        "Directions",
+        "Gate combination",
+        "Astronomy",
+        "Morgan Hill",
+        "East Dunne",
+        "Anderson Reservoir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-fremont-peak-state-park",
+      "documentId": "eph86-09",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is presented as a popular location for astronomical observation, regularly hosting 30 to 40 telescopes during clear new moon weekends. The article provides detailed driving directions to this 3000 ft elevation site, noting that the San Jose Astronomical Association (SJAA) frequently sets up at Coulter Camp. It also includes contact information for SJAA officers and board members, and details about their monthly publication, EPHEMERIS.",
+      "categories": [
+        "Observing Site Guide",
+        "Astronomical Club Information",
+        "Directions",
+        "Community Events"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "Astronomical observation",
+        "Stargazing",
+        "New moon",
+        "Observing site",
+        "Directions",
+        "Coulter Camp",
+        "EPHEMERIS"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph86-09-san-jose-astronomical-association-membership-application",
+      "documentId": "eph86-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details various membership types, including 'Membership Only,' 'Membership/S&T,' and 'Junior (Under 18),' along with their respective fees. The form also requests applicant contact information and provides submission instructions to the treasurer for new or renewal memberships.",
+      "categories": [
+        "Membership",
+        "Organizational Documents",
+        "Forms",
+        "Club Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Junior Membership",
+        "Renewal",
+        "S&T",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-09-questionnaire-optional",
+      "documentId": "eph86-09",
+      "title": "Questionnaire (optional)",
+      "summary": "This document presents an optional questionnaire aimed at understanding an individual's astronomical interests, telescope ownership, and areas of expertise to help others. It also functions as a mailing label, providing contact and postage information for the \"SJAA EPHEMERIS,\" a non-profit organization distributing time-sensitive news material.",
+      "categories": [
+        "Questionnaire",
+        "Community Engagement",
+        "Administrative",
+        "Newsletter"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope ownership",
+        "astronomy expertise",
+        "SJAA EPHEMERIS",
+        "non-profit",
+        "news material",
+        "membership survey"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph86-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8609/Eph86_09.pdf",
+      "txtPath": "8609/Eph86_09.md"
+    }
+  ]
+}

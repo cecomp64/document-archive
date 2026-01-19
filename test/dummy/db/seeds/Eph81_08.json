@@ -1,0 +1,278 @@
+{
+  "articles": [
+    {
+      "id": "eph81-08-observations",
+      "documentId": "eph81-08",
+      "title": "Observations",
+      "summary": "This issue of the Ephemeris details several San Jose Astronomical Association (SJAA) activities, including a well-attended Mt. Umunhum star party featuring the public debut of the club's new 12.5\" dobsonian telescope, despite challenging viewing conditions. It also covers the annual SJAA picnic, where new members were welcomed and a discussion began regarding new name tags for the growing club membership. Additionally, the bulletin shares general club announcements, calls for contributions, and upcoming astronomical information like the Perseid meteor shower.",
+      "categories": [
+        "Club News",
+        "Observing Report",
+        "Events",
+        "Announcements",
+        "Astronomical Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Mt. Umunhum",
+        "Star Party",
+        "Club Telescope",
+        "12.5\" Dobsonian",
+        "Picnic",
+        "Name Tags",
+        "Board Meeting",
+        "Perseid Meteor Shower",
+        "Stardats",
+        "M-31",
+        "Blinking Planetary",
+        "Saturn Nebula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-want-ad",
+      "documentId": "eph81-08",
+      "title": "WANT AD",
+      "summary": "This classified advertisement offers a 14¼\" Newtonian telescope with a new Telescop World mirror and a 4¼\" RFT, both mounted on a research-grade Meade 12½\" mount. The package, including a Meade finder and inverter, is listed for $2400 or best offer, down from an original cost of $2800. Interested parties are directed to contact Bob Hollenbeck.",
+      "categories": [
+        "classifieds",
+        "equipment for sale",
+        "astronomy equipment",
+        "telescopes"
+      ],
+      "keywords": [
+        "telescope",
+        "Newtonian",
+        "RFT",
+        "Meade mount",
+        "for sale",
+        "astronomy equipment",
+        "optical tube",
+        "mirror",
+        "accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-sjaa-officers-board-members-1981",
+      "documentId": "eph81-08",
+      "title": "SJAA Officers & Board Members, 1981",
+      "summary": "The article lists the 1981 officers and board members of the San Jose Astronomical Association (SJAA) and announces an upcoming star party. It features a detailed \"Celestial Tourist\" observing report by Jay Freeman, discussing various telescopes, observations of the Moon, double stars, nebulae, and galaxies, alongside a brief update on comet observations and discoveries.",
+      "categories": [
+        "Organizational News",
+        "Observing Reports",
+        "Club Activities",
+        "Astronomy Equipment",
+        "Celestial Objects",
+        "Comet Updates"
+      ],
+      "keywords": [
+        "SJAA",
+        "officers",
+        "board members",
+        "1981",
+        "star party",
+        "Fremont Peak",
+        "Stellafane",
+        "observing report",
+        "Dobson telescope",
+        "Kutter tri-schiefspiegler",
+        "binocular",
+        "equatorial table",
+        "Moon",
+        "double stars",
+        "Pipe Nebula",
+        "IC 4592",
+        "NGC 6440",
+        "NGC 6445",
+        "Lagoon Nebula",
+        "Trifid Nebula",
+        "NGC 7331",
+        "comets",
+        "Comet Bowell"
+      ],
+      "pageStart": 3,
+      "pageEnd": 1386
+    },
+    {
+      "id": "eph81-08-comet-bowell-1980b",
+      "documentId": "eph81-08",
+      "title": "Comet Bowell (1980b)",
+      "summary": "This document provides an ephemeris for Comet Bowell (1980b) covering late July through early September 1980. It lists the comet's right ascension, declination, and estimated magnitude, noting its position near Virgo and its considerable distance from Earth, while encouraging observers to view it.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Astronomy Data",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Bowell (1980b)",
+        "Comet",
+        "Ephemeris",
+        "Observation",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Virgo",
+        "1980"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-great-comets",
+      "documentId": "eph81-08",
+      "title": "GREAT COMETS",
+      "summary": "The article describes Donati's Comet, discovered on June 2, 1858, by Giambattista Donati. Notable for its beautiful appearance, it displayed a main tail over 50 million miles long and two thinner tails, with matter sometimes leaving its nucleus. Designated 1858VI, this comet is expected to return in approximately 2,000 years.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Historical Observation",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Donati's Comet",
+        "Comet 1858VI",
+        "Giambattista Donati",
+        "Comet tails",
+        "Arcturus",
+        "1858",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-space-sickness-remedy",
+      "documentId": "eph81-08",
+      "title": "Space Sickness Remedy",
+      "summary": "NASA is evaluating a new non-drowsy antimotion-sickness patch called Transderm-V Scopolamine for use in the space shuttle program. This 3/4-inch patch, worn behind the ear, delivers medication directly through the skin for up to 72 hours, offering an alternative to oral medicines. Although prime crew members for the second shuttle launch have been screened with the drug, NASA has no firm plans to use it for that specific mission.",
+      "categories": [
+        "news",
+        "technical",
+        "space program",
+        "medicine",
+        "health"
+      ],
+      "keywords": [
+        "space sickness",
+        "antimotion-sickness",
+        "NASA",
+        "space shuttle",
+        "Transderm-V Scopolamine",
+        "medication patch",
+        "astronaut health"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph81-08-second-space-shuttle-orbiter-progressing",
+      "documentId": "eph81-08",
+      "title": "Second Space Shuttle Orbiter Progressing",
+      "summary": "Construction of the second Space Shuttle Orbiter, designated Orbiter 099, is progressing well, with four times more thermal protection tiles installed compared to the Columbia at a similar stage. Orbiter 099 is expected to be delivered to NASA in approximately one year.",
+      "categories": [
+        "news",
+        "spacecraft development",
+        "program update",
+        "technical progress"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Orbiter 099",
+        "thermal protection system",
+        "tiles",
+        "Columbia",
+        "NASA",
+        "construction progress"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-halley-s-comet-flyby",
+      "documentId": "eph81-08",
+      "title": "Halley's Comet Flyby",
+      "summary": "The article details the anticipated resolution of Halley's Comet's nucleus from various international space missions planned for 1984. The Soviet Union's mission expects 500-1000 feet resolution, the European Giotto mission 300 feet, and a hypothetical U.S. mission 100 feet, highlighting the varying technical capabilities.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy",
+        "Space Missions",
+        "News"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comet Nucleus",
+        "Space Mission",
+        "Soviet Union",
+        "Giotto Mission",
+        "Resolution",
+        "Flyby",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-kuiper-airborne-observatory-to-study-solar-eclipse",
+      "documentId": "eph81-08",
+      "title": "Kuiper Airborne Observatory to Study Solar Eclipse",
+      "summary": "The Kuiper Airborne Observatory (KAO) is being deployed to Japan for a week to study the July 31 solar eclipse. It will intercept the path of totality over the North Pacific to observe solar limb brightening in the far infrared and submillimeter spectral regions. These observations will be conducted at wavelengths of 30, 50, 100, and 200 microns.",
+      "categories": [
+        "Events",
+        "Observing Plans",
+        "Astronomy News",
+        "Research"
+      ],
+      "keywords": [
+        "Kuiper Airborne Observatory",
+        "KAO",
+        "Solar Eclipse",
+        "July 31",
+        "Japan",
+        "North Pacific",
+        "Solar limb brightening",
+        "Far infrared",
+        "Submillimeter",
+        "Wavelengths",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-08-heao-3-mission-ends",
+      "documentId": "eph81-08",
+      "title": "HEAO 3 Mission Ends",
+      "summary": "NASA's HEAO 3 high-energy astronomy observatory has concluded its mission after expending its attitude control propellant, leading to its shutdown by ground controllers. Launched in September 1979 to conduct an all-sky survey for gamma-ray sources, the spacecraft significantly exceeded its design life, with atmospheric reentry anticipated later this year.",
+      "categories": [
+        "Astronomy News",
+        "Space Exploration",
+        "High-Energy Astrophysics",
+        "Satellite Decommissioning"
+      ],
+      "keywords": [
+        "HEAO 3",
+        "NASA",
+        "Gamma-ray astronomy",
+        "All-sky survey",
+        "Space mission",
+        "Spacecraft decommissioning"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8108/Eph81_08.pdf",
+      "txtPath": "8108/Eph81_08.md"
+    }
+  ]
+}

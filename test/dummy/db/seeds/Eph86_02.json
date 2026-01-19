@@ -1,0 +1,679 @@
+{
+  "articles": [
+    {
+      "id": "eph86-02-february-22th",
+      "documentId": "eph86-02",
+      "title": "FEBRUARY 22TH",
+      "summary": "This document outlines a series of astronomical events and meetings for February and early March, primarily hosted by the San Jose Astronomical Association. Key events include field expeditions for observation, an introductory astronomy class, and a board meeting. A highlight is a general meeting featuring Dr. Jeff Cuzzi from NASA, who will present new data and photographs from the Voyager flyby of Uranus.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Educational",
+        "News",
+        "Technical",
+        "Meetings"
+      ],
+      "keywords": [
+        "Voyager",
+        "Uranus",
+        "NASA",
+        "Dr. Jeff Cuzzi",
+        "Astronomical Observation",
+        "Field Expedition",
+        "San Jose Astronomical Association",
+        "Astronomy Class",
+        "Halley's Comet",
+        "Messier Marathon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-field-of-view-by-john-gleason",
+      "documentId": "eph86-02",
+      "title": "FIELD OF VIEW BY: JOHN GLEASON",
+      "summary": "The article details two astronomy-related events: an upcoming Electronics Seminar in Fullerton, California, with a shared flight organized by Joe Perry, and a past \"Wine, Cheese, and Comet Tails\" event at Murrsoa Winery. The winery event, co-hosted by SJAA and Orion, promoted a Halley's Comet champagne and offered telescope views of Halley's Comet and Jupiter, though attempts to video the comet were hampered by equipment limitations. Additionally, Joe Perry is organizing a stargazing trip to Tucson, Arizona.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Community Activities"
+      ],
+      "keywords": [
+        "EOA2 Seminar",
+        "Electronics Seminar",
+        "Fullerton",
+        "Joe Perry",
+        "Halley's Comet",
+        "Murrsoa Winery",
+        "SJAA",
+        "Orion",
+        "Telescopes",
+        "Jupiter",
+        "Stargazing",
+        "Tucson trip",
+        "Comet observing",
+        "Astronomy events"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph86-02-board-elections-february-22nd",
+      "documentId": "eph86-02",
+      "title": "BOARD ELECTIONS FEBRUARY 22ND",
+      "summary": "The SJAA will hold board elections on February 22nd during their General Meeting to fill several expired board member terms. Members whose terms have expired include Joe Sungert, Gene Cianeros, Dave Ambrose, and Steve Greenberg, and nominations will be taken for these vacancies.",
+      "categories": [
+        "Events",
+        "News",
+        "Organizational Announcement"
+      ],
+      "keywords": [
+        "Board Elections",
+        "SJAA",
+        "General Meeting",
+        "Vacancies",
+        "Nominations",
+        "February 22nd",
+        "Board Members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-more-on-konica-1600",
+      "documentId": "eph86-02",
+      "title": "MORE ON KONICA 1600",
+      "summary": "This article discusses Konica 1600 super-speed film, soon to be released under the Fotomat brand, and its companion SO-278 film used to create high-contrast color slides from negatives. The author details a cost-effective 1-hour processing method for SO-278 and its use with a slide copier. Despite its graininess, Konica 1600's high speed makes it ideal for low-light astrophotography, enabling quicker capture of celestial objects, though it performs best with long focal length systems to mitigate grain issues.",
+      "categories": [
+        "Film Photography",
+        "Astrophotography",
+        "Product Review",
+        "Technical Guide"
+      ],
+      "keywords": [
+        "Konica 1600",
+        "SO-278",
+        "Fotomat",
+        "High-speed film",
+        "Color slides",
+        "C-41 processing",
+        "Slide copier",
+        "Low-light photography",
+        "Astrophotography",
+        "Graininess",
+        "Milky Way",
+        "Film processing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-zeiders-on-astronomy",
+      "documentId": "eph86-02",
+      "title": "ZEIDERS ON ASTRONOMY",
+      "summary": "Jack Zeiders will be holding introductory astronomy classes on the 15th of this month at the Los Gatos Red Cross building. The class schedule is designed not to conflict with the board meeting, which will take place in a separate room.",
+      "categories": [
+        "events",
+        "education",
+        "local news"
+      ],
+      "keywords": [
+        "Jack Zeiders",
+        "astronomy classes",
+        "Los Gatos",
+        "Red Cross building",
+        "introductory astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-notice-to-members-and-ephemeris-contributors",
+      "documentId": "eph86-02",
+      "title": "NOTICE TO MEMBERS AND EPHEMERIS CONTRIBUTORS",
+      "summary": "Due to the editor's travel to the southern hemisphere in April, the May Ephemeris will be canceled. Instead, an April/May issue will be published by March 26, including calendar events up to the first week of June. The subsequent June issue is scheduled to be mailed on May 26.",
+      "categories": [
+        "Announcement",
+        "Publication Update",
+        "Editorial Notice"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "publication",
+        "deadline",
+        "submission",
+        "calendar events",
+        "editor",
+        "schedule change"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-fpoa-update",
+      "documentId": "eph86-02",
+      "title": "FPOA UPDATE",
+      "summary": "The massive 30-inch telescope has been successfully moved to its new location to begin preliminary mechanical assembly. Preparatory work on the installation site is expected to start in the very near future.",
+      "categories": [
+        "News",
+        "Project Update",
+        "Construction"
+      ],
+      "keywords": [
+        "30-inch telescope",
+        "telescope assembly",
+        "site work",
+        "FPOA",
+        "observatory project",
+        "relocation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-fremont-peak-recap",
+      "documentId": "eph86-02",
+      "title": "FREMONT PEAK RECAP",
+      "summary": "An astronomy viewing event at Fremont Peak on January 10th, intended for observing Halley's Comet, was unsuccessful due to persistent high overcast conditions. Although the skies eventually cleared, most observers had already departed. Plans are underway to try observing Halley's Comet again in the morning sky later this month.",
+      "categories": [
+        "observing report",
+        "events",
+        "astronomy",
+        "recap"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Halley's Comet",
+        "comet observation",
+        "weather",
+        "January 10th"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-comet-comments-by-don-machholz",
+      "documentId": "eph86-02",
+      "title": "COMET COMMENTS BY DON MACHHOLZ",
+      "summary": "Don Machholz provides updates on several comets, noting that a previously faint periodic comet has brightened enough to be seen with most telescopes. Comet Halley reaches its perihelion this month and begins its outbound journey, while Comet Hartley-Good moves from the morning to the evening sky. Additionally, Comet Thiele is pulling away from the Sun and Earth but remains observable.",
+      "categories": [
+        "Observing reports",
+        "Astronomy updates",
+        "Comet observations"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Comets",
+        "Comet Halley",
+        "Comet Hartley-Good",
+        "Comet Thiele",
+        "Perihelion",
+        "Telescopes",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-comet-hartley-good-1985l",
+      "documentId": "eph86-02",
+      "title": "Comet Hartley-Good (1985L)",
+      "summary": "This article provides an ephemeris for Comet Hartley-Good (1985L) from late January to early March, detailing its Right Ascension, Declination, elongation, and estimated magnitude. The comet is noted to be closest to Earth in late February at 72 million miles on its outbound journey, moving through the constellations Libra and Virgo, and passing south of Spica.",
+      "categories": [
+        "astronomy",
+        "comets",
+        "observing guides",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Hartley-Good",
+        "1985L",
+        "ephemeris",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "elongation",
+        "Libra",
+        "Virgo",
+        "Spica",
+        "orbital data"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph86-02-periodic-comet-boethin-1985n",
+      "documentId": "eph86-02",
+      "title": "Periodic Comet Boethin (1985n)",
+      "summary": "This document provides an ephemeris for Periodic Comet Boethin (1985n), detailing its predicted celestial coordinates (Right Ascension and Declination), elevation, and estimated magnitude for specific dates from late January to early March. The comet's estimated magnitude ranges from 9 to 10 during this period, indicating it might be visible with small telescopes.",
+      "categories": [
+        "Ephemeris",
+        "Observing Data",
+        "Comets",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Boethin",
+        "1985n",
+        "Periodic Comet",
+        "Ephemeris",
+        "RA",
+        "Dec",
+        "Magnitude",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-periodic-comet-boethin-notes",
+      "documentId": "eph86-02",
+      "title": "Periodic Comet Boethin notes",
+      "summary": "Periodic Comet Boethin is making its first return since its 1975 discovery, moving at one degree daily and maintaining a constant elongation in the evening sky. Its current magnitude is uncertain, but it recently passed three degrees south of Comet Halley in December, marking the fourth comet to visit Halley's vicinity in as many months.",
+      "categories": [
+        "Comet observation",
+        "Astronomical news",
+        "Observing notes"
+      ],
+      "keywords": [
+        "Periodic Comet Boethin",
+        "Comet Halley",
+        "Comets",
+        "Magnitude",
+        "Elongation",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-what-goes-around-comes-around-halley-s",
+      "documentId": "eph86-02",
+      "title": "WHAT GOES AROUND COMES AROUND - HALLEY'S",
+      "summary": "This article discusses Halley's Comet's perihelion on February 9th, 1986, when it reached its closest point to the sun before embarking on its long journey back to the outer solar system, with its next return anticipated in 2061. It details the comet's surprising brightness surge in late 1985 and offers practical advice for observing it in the morning sky during late February, including potential naked-eye daylight sightings based on 1910 observations. The piece also provides phone hotlines for further information and discusses the comet's orbital mechanics and visibility factors.",
+      "categories": [
+        "Astronomy News",
+        "Comet Observations",
+        "Observing Guides",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Perihelion",
+        "Comet brightness",
+        "Naked-eye viewing",
+        "Daylight sightings",
+        "Comet tail",
+        "Observing tips",
+        "1986",
+        "2061",
+        "Solar System"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-periodic-comet-halley-1982i",
+      "documentId": "eph86-02",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This document provides an ephemeris for Periodic Comet Halley (1982i), detailing its predicted celestial coordinates, elongation from the Sun, and estimated magnitudes from late January to early March. The table includes specific dates, Right Ascension, Declination, elongation, magnitude, offset from the Sun, and visibility relative to sunrise/sunset. Notably, the magnitude estimates are based on daylight naked-eye observations from 1910.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "Ephemeris",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Visibility",
+        "Comet Observation",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph86-02-halley-s-comet-how-many-answers-do-you-know",
+      "documentId": "eph86-02",
+      "title": "HALLEY'S COMET HOW MANY ANSWERS DO YOU KNOW?",
+      "summary": "This article presents a 20-question quiz about Halley's Comet, designed to engage readers during its 1985-86 passage, especially if viewing is obstructed by clouds. The questions cover various aspects of the comet, including its history, scientific properties, orbital mechanics, and related space missions, with answers promised in the following month's publication.",
+      "categories": [
+        "Quiz",
+        "Astronomy",
+        "Comets",
+        "Observing Reports",
+        "Historical Astronomy",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comets",
+        "Quiz",
+        "1985-86 passage",
+        "Comet tail",
+        "Orbital mechanics",
+        "Comet composition",
+        "Edmond Halley",
+        "Space missions",
+        "Giotto",
+        "Oort Cloud",
+        "Historical events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-astro-ads",
+      "documentId": "eph86-02",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" features two classified advertisements for used astronomical equipment. Items for sale include a 4-inch Unitron refractor with a motor drive and a 5-month-old Celestron Super C8 telescope, both listed with prices and contact information.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "telescope",
+        "refractor",
+        "Celestron",
+        "Unitron",
+        "C8",
+        "astronomy equipment",
+        "for sale",
+        "motor drive",
+        "eyepieces"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-the-celestial-tourist-speaks-by-jay-reynolds-freeman",
+      "documentId": "eph86-02",
+      "title": "THE CELESTIAL TOURIST SPEAKS BY: JAY REYNOLDS FREEMAN",
+      "summary": "This article, 'The Celestial Tourist Speaks,' offers practical advice on stabilizing binoculars for astronomical observation, detailing hand-holding techniques for different binocular sizes to ensure steady views. It then transitions into a consumer guide, reviewing various binocular models available during the 1985 Christmas season, discussing their optical quality, price points, and suitability for both astronomy and general daylight use.",
+      "categories": [
+        "Observing Techniques",
+        "Equipment Review",
+        "Buying Guide",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Binoculars",
+        "Astronomical Observation",
+        "Holding Techniques",
+        "Equipment Recommendations",
+        "Optical Quality",
+        "Tasco",
+        "Bushnell",
+        "Nikon",
+        "Orion",
+        "7x50",
+        "11x80",
+        "Shopping Guide"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph86-02-by-bob-fingerhut",
+      "documentId": "eph86-02",
+      "title": "BY: BOB FINGERHUT",
+      "summary": "This article details various space exploration and astronomy news, including the recent launches of Space Shuttle Columbia and the upcoming Challenger mission, both of which will study Halley's Comet. It also reports on Voyager's images of Uranus's rings, delays for the Space Telescope and Space Station, and an early return for Salyut 7 cosmonauts due to illness. Additionally, a significant portion provides an update on the 30-inch telescope project, detailing its final assembly stages, recent move to a warehouse, and mechanical progress, indicating it is 85% complete.",
+      "categories": [
+        "Space Exploration News",
+        "Astronomy News",
+        "Space Technology",
+        "Project Update",
+        "Observatory Development"
+      ],
+      "keywords": [
+        "Shuttle Orbiter Columbia",
+        "Challenger",
+        "Halley's Comet",
+        "Voyager",
+        "Uranus rings",
+        "Space Telescope",
+        "Space Station",
+        "Salyut 7",
+        "Ariane launch",
+        "Space manufacturing",
+        "30-inch telescope",
+        "Telescope assembly",
+        "Kennedy Space Center",
+        "Spacelab",
+        "Erythropoietin"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph86-02-general-meetings",
+      "documentId": "eph86-02",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This article outlines the details for the monthly general meetings and \"Indoor Star Parties\" hosted by the SJAA. These events commence at 8 PM at the Los Gatos Red Cross building, located at 15011 Los Gatos-Saratoga Rd, Los Gatos, California, with comprehensive driving directions provided.",
+      "categories": [
+        "Events",
+        "Meeting Information",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "General Meetings",
+        "SJAA",
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross building",
+        "Meeting location",
+        "Directions",
+        "Los Gatos-Saratoga Rd"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-grant-ranch-county-park",
+      "documentId": "eph86-02",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "Grant Ranch County Park is highlighted as a popular observing site for the SJAA, providing detailed driving directions via Mt. Hamilton Road and instructions for accessing the park's front gate with a combination lock (4565). The article also notes an additional observing area further up the road and advises contacting the SJAA for more information. It's a key location for local astronomy enthusiasts.",
+      "categories": [
+        "Observing Sites",
+        "Astronomy Club Information",
+        "Directions and Logistics",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Observing site",
+        "Mt. Hamilton Road",
+        "Directions",
+        "Gate access",
+        "Stargazing",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-henry-coe-state-park",
+      "documentId": "eph86-02",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed driving directions to Henry Coe State Park, starting from Hwy 101 south towards Gilroy and the East Dunne exit. It includes instructions for accessing a specific site within the park, noting a locked gate with a club combination and important rules regarding parking and lights after dark, particularly for finding an observing site.",
+      "categories": [
+        "Directions",
+        "Observing Site Guide",
+        "Venue Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Hwy 101",
+        "Gilroy",
+        "East Dunne exit",
+        "Gate combination",
+        "Parking",
+        "Observing site",
+        "Night sky",
+        "Access information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-fremont-peak-state-park",
+      "documentId": "eph86-02",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, specifically Coulter Camp, which is the setup location for the San Jose Astronomical Association (SJAA). It guides visitors from Hwy 101 South, through Hwy 156 East, with specific turns and distances, and includes a reminder to use parking lights only after dark at the park.",
+      "categories": [
+        "Directions",
+        "Club Information",
+        "Event Logistics"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "Directions",
+        "Coulter Camp",
+        "Astronomy",
+        "Star Party",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-officers",
+      "documentId": "eph86-02",
+      "title": "OFFICERS:",
+      "summary": "This document lists the current officers of an organization, including the President, Vice-President, Secretary, and Treasurer. For each officer, their name, address, and phone number are provided, serving as essential contact information for the organization's leadership.",
+      "categories": [
+        "administration",
+        "organizational structure",
+        "contact information",
+        "personnel directory"
+      ],
+      "keywords": [
+        "officers",
+        "president",
+        "vice-president",
+        "secretary",
+        "treasurer",
+        "contact details",
+        "organization",
+        "leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-board-of-directors",
+      "documentId": "eph86-02",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document lists the names and contact phone numbers of the individuals serving on a Board of Directors. It provides a directory for reaching these specific board members with their respective phone numbers.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "contact information",
+        "phone numbers",
+        "board members",
+        "Paul Mancuso",
+        "Steve Greenberg",
+        "Tom Ahl",
+        "Gene Cisneros",
+        "Joe Sunseri",
+        "Chris Pratt",
+        "Denni Medlock"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-ephemeris-editor",
+      "documentId": "eph86-02",
+      "title": "EPHEMERIS EDITOR:",
+      "summary": "This document snippet identifies an 'Ephemeris Editor' and provides the contact details for John P. Gleason, including his address and phone number. No further information about the editor's functionality, purpose, or content beyond this contact listing is available in the provided pages.",
+      "categories": [
+        "Technical",
+        "Software",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Ephemeris Editor",
+        "Ephemeris",
+        "Software",
+        "John P. Gleason",
+        "Contact"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph86-02-san-jose-astronomical-association-membership-application",
+      "documentId": "eph86-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types and their corresponding fees, including options for general membership, membership with a Sky & Telescope subscription, and a junior membership. The form also provides instructions for submission, either by bringing it to an SJAA meeting or mailing it to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "membership fees",
+        "junior membership",
+        "Sky & Telescope",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-02-questionnaire-optional",
+      "documentId": "eph86-02",
+      "title": "Questionnaire (optional)",
+      "summary": "This document presents an optional questionnaire designed to gauge the astronomical interests, equipment ownership (specifically telescopes), and areas of expertise of its readers. It serves as a tool for the San Jose Astronomical Association (SJAA) 'Ephemeris' to understand its audience. The footer indicates it's a time-sensitive 'NEWS MATERIAL' from a non-profit organization based in San Jose, CA.",
+      "categories": [
+        "Questionnaire",
+        "Membership Engagement",
+        "Community Survey",
+        "Organizational Communication",
+        "News Material"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "astrophotography",
+        "deep-sky observation",
+        "telescope making",
+        "telescope ownership",
+        "astronomy help",
+        "SJAA EPHEMERIS",
+        "San Jose Astronomical Association",
+        "non-profit organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph86-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8602/Eph86_02.pdf",
+      "txtPath": "8602/Eph86_02.md"
+    }
+  ]
+}

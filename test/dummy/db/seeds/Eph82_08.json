@@ -1,0 +1,452 @@
+{
+  "articles": [
+    {
+      "id": "eph82-08-ephemeris",
+      "documentId": "eph82-08",
+      "title": "Ephemeris",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) events for August and September, including general meetings, board meetings, and multiple star parties. Key highlights feature a talk on 'Light Pollution' by Dr. Sandra Faber, observations of the Perseid meteor shower, and a joint astronomy conference. The bulletin also provides organizational details like membership information, contact persons, and meeting locations.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Opportunities",
+        "Conferences",
+        "Community News"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Perseid meteor shower",
+        "Star Parties",
+        "Astronomy Talks",
+        "Light Pollution",
+        "Space Medicine",
+        "WAA/AANC/NASA Conference",
+        "Membership",
+        "Dr. Sandra Faber"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-08-observations",
+      "documentId": "eph82-08",
+      "title": "Observations",
+      "summary": "The 'Observations' article begins with an apology for the delayed July Bulletin and its impact on club event notifications. It then issues a final urgent call for membership and subscription dues, listing numerous unpaid members and subscribers, warning that non-renewal by August 15th will result in discontinuation of the Bulletin. The article also includes diverse announcements: a request for volunteers to field-test astronomy programs for pocket computers, reviews of astronomy-related articles in *Physics Today* and *Apple Magazine*, a recommendation for *Odyssey* magazine for young astronomy enthusiasts, and an encouragement for members to contribute articles to the Bulletin.",
+      "categories": [
+        "Club Announcements",
+        "Membership/Dues",
+        "Technology",
+        "Publications/Literature",
+        "Education",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Bulletin",
+        "Membership Dues",
+        "Club Events",
+        "Apology",
+        "Astronomy Programs",
+        "Pocket Computers",
+        "Physics Today",
+        "Odyssey Magazine",
+        "Apple Magazine",
+        "Article Contributions",
+        "Renewals"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-08-world-s-most-compact-telescope",
+      "documentId": "eph82-08",
+      "title": "World's Most Compact Telescope!",
+      "summary": "The article discusses the author's pursuit of a compact telescope for travel and highlights a newly reported 'Edmund 8' telescope from Livermore Lab, advertised as extremely compact, alongside an ad for a high-quality planetary refractor. It also includes administrative club announcements regarding missing club microscopes and the availability of club nameplates.",
+      "categories": [
+        "Product Announcement",
+        "Astronomy Equipment",
+        "Club News",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Compact Telescope",
+        "Telescope Design",
+        "Livermore Lab",
+        "Edmund 8",
+        "Planetary Refractor",
+        "Club Microscopes",
+        "Club Nameplates",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-galaxy",
+      "documentId": "eph82-08",
+      "title": "Galaxy",
+      "summary": "This article, part of the 'Galaxy' miscellany department, provides a table of Great Red Spot (GRS) transit times across Jupiter for August, with tips for observing. The author notes that Jupiter is well-placed but will soon be obscured by the sun, and encourages observers to compare GRS color perceptions. This will be the final GRS ephemeris for the current apparition, with observations set to resume in November.",
+      "categories": [
+        "Observing Report",
+        "Ephemeris",
+        "Planetary Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Transit times",
+        "Observing",
+        "Ephemeris",
+        "Planetary observation",
+        "Astronomy",
+        "Jim van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-ads",
+      "documentId": "eph82-08",
+      "title": "Ads",
+      "summary": "This document features two advertisements. One ad offers discounted Tipton Atlases available from the SJAA. The second ad is for a complete C-8 telescope package, including a cold camera and numerous accessories, all in new condition, priced at $1700.",
+      "categories": [
+        "Classifieds",
+        "Equipment for Sale",
+        "Astronomical Resources"
+      ],
+      "keywords": [
+        "Tipton Atlases",
+        "SJAA",
+        "C-8 telescope",
+        "Celestron-Williams cold camera",
+        "telescope accessories",
+        "astronomical equipment",
+        "for sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-frank-and-ernest",
+      "documentId": "eph82-08",
+      "title": "FRANK AND ERNEST",
+      "summary": "This \"Frank and Ernest\" comic strip features one character humorously presenting a theory that the universe has begun to contract. The 'evidence' offered for this cosmic event is the character's personal observation of bumping into things more frequently than before, playing on scientific theories with a comedic twist.",
+      "categories": [
+        "Comic Strip",
+        "Humor",
+        "Entertainment",
+        "Science Parody"
+      ],
+      "keywords": [
+        "Frank and Ernest",
+        "comic strip",
+        "humor",
+        "universe contraction",
+        "scientific theory",
+        "joke",
+        "personal observation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-08-the-celestial-tourist-speaks",
+      "documentId": "eph82-08",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "The author recounts observing a vivid July lunar eclipse, noting its surprising resemblance to Mars amidst local Independence Day revelry. The article then details a comprehensive comparative test of four different eyepiece types—Erfle, Orthoscopic, Kellner, and Ramsden—evaluating their performance, field of view, and optical aberrations across telescopes with varying focal ratios. The findings indicate that while cheaper eyepieces suffice for narrow fields at slower f-ratios, more expensive options offer wider views, with all exhibiting challenges at fast f/4.5 systems due to inherent telescope and eyepiece aberrations.",
+      "categories": [
+        "Astronomy Observation",
+        "Astronomical Equipment Review",
+        "Optical Testing",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "Lunar Eclipse",
+        "Eyepiece Comparison",
+        "Optical Aberrations",
+        "Focal Ratio",
+        "Erfle",
+        "Orthoscopic",
+        "Kellner",
+        "Ramsden",
+        "Telescope Performance",
+        "Field of View"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-08-glac-5",
+      "documentId": "eph82-08",
+      "title": "GLAC -5-",
+      "summary": "This article discusses the performance of expensive eyepieces, particularly a 13-mm Nagler, at a star party. It notes that high-end eyepieces offer superior field of view and image quality, making them a worthwhile investment. While praising the Nagler's wide field and aesthetics, the author also points out a common limitation of very wide apparent fields: uneven illumination and fuzziness at the extreme edges when looking off-axis.",
+      "categories": [
+        "observing reports",
+        "equipment review",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "eyepieces",
+        "Nagler",
+        "C-11",
+        "star party",
+        "field of view",
+        "image quality",
+        "apparent field",
+        "astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-a-basic-program-for-converting-right-ascension-and-declination-to-azimuth-and-elevation",
+      "documentId": "eph82-08",
+      "title": "A BASIC Program for Converting Right Ascension and Declination to Azimuth and Elevation",
+      "summary": "This article presents a BASIC program designed to convert Right Ascension and Declination coordinates to Azimuth and Elevation, facilitating the finding of celestial objects using Dobsonian telescopes equipped with setting circles. The program, written in standard BASIC, offers a cost-effective alternative to expensive handheld calculators or manual tables, making it suitable for personal computers or programmable calculators. It emphasizes the importance of accurate local sidereal time for effective coordinate conversion and provides the program code along with sample runs.",
+      "categories": [
+        "Technical",
+        "Programming",
+        "Astronomy",
+        "Amateur Astronomy",
+        "Equipment"
+      ],
+      "keywords": [
+        "BASIC Program",
+        "Right Ascension",
+        "Declination",
+        "Azimuth",
+        "Elevation",
+        "Coordinate Conversion",
+        "Dobsonian",
+        "Altazimuth Setting Circles",
+        "Local Sidereal Time",
+        "Personal Computers",
+        "Telescopes"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-08-comet-comments",
+      "documentId": "eph82-08",
+      "title": "Comet Comments",
+      "summary": "Amateur astronomer Rodney Austin from New Zealand recently discovered a new comet, designated Comet Austin (1982g), which is his first discovery. It will be visible in the southern hemisphere until mid-August before becoming observable in the northern hemisphere. The magnitude 10.2 comet will be closest to Earth in early August at 0.30 AU and closest to the sun on August 24th at 0.65 AU.",
+      "categories": [
+        "news",
+        "observing reports",
+        "comet discovery"
+      ],
+      "keywords": [
+        "Comet Austin (1982g)",
+        "Rodney Austin",
+        "comet discovery",
+        "amateur astronomer",
+        "southern hemisphere",
+        "northern hemisphere",
+        "visibility",
+        "magnitude",
+        "perihelion",
+        "close approach"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-comet-austin-1982g",
+      "documentId": "eph82-08",
+      "title": "Comet Austin (1982g)",
+      "summary": "This document provides an ephemeris for Comet Austin (1982g) from late July through August, detailing its celestial coordinates and changing visual magnitude as it moves northward and becomes visible in the evening sky. Additionally, it offers a historical account of Comet Bennett (1969i 1970II), highlighting its discovery, peak brightness, distinct two-tailed appearance, and the detection of a vast hydrogen cloud surrounding its coma.",
+      "categories": [
+        "Observing Guide",
+        "Comet Data",
+        "Historical Astronomy",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "1982g",
+        "Comet Bennett",
+        "1969i 1970II",
+        "ephemeris",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "comets",
+        "observational astronomy",
+        "hydrogen cloud",
+        "coma",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-sjaa-picnic",
+      "documentId": "eph82-08",
+      "title": "SJAA PICNIC",
+      "summary": "The annual SJAA picnic, held on July 10th at Coyote Lake, gathered approximately fifty members and their families for a day of food, games, and social interaction. Despite initial concerns about turnout, the event successfully installed new officers and presented the Dr. A. B. Gregory Award to Gerry Rattley, who also provided casual solar observing with his C-90 telescope.",
+      "categories": [
+        "Club Event",
+        "Social Gathering",
+        "Award Ceremony",
+        "Observing Report",
+        "News"
+      ],
+      "keywords": [
+        "SJAA Picnic",
+        "Coyote Lake",
+        "Dr. A. B. Gregory Award",
+        "Gerry Rattley",
+        "Officer Installation",
+        "Potluck",
+        "Solar Observing",
+        "Club Activities",
+        "Santa Clara County",
+        "Jack Zeiders"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-08-space-program-update",
+      "documentId": "eph82-08",
+      "title": "Space Program Update",
+      "summary": "This article provides an update on the space program, beginning with an In Memoriam for Esther C. Kirk Goddard, wife of rocket pioneer Dr. Robert H. Goddard. It then details the successful completion of Space Shuttle Columbia's developmental test program with STS-4, outlines the upcoming STS-5 and STS-6 missions, and mentions the introduction of new equipment like the lightweight external tank and Inertial Upper Stage. Finally, it notes the formation of a Space Station Office at JSC and planning for a joint Soviet/Indian space mission.",
+      "categories": [
+        "news",
+        "space exploration",
+        "space shuttle program",
+        "historical figures",
+        "technical updates",
+        "program planning"
+      ],
+      "keywords": [
+        "Esther C. Kirk Goddard",
+        "Robert H. Goddard",
+        "rocket pioneers",
+        "Space Shuttle Columbia",
+        "STS-4",
+        "STS-5",
+        "STS-6",
+        "Kennedy Space Center",
+        "Edwards AFB",
+        "lightweight external tank",
+        "Inertial Upper Stage (IUS)",
+        "Challenger",
+        "Space Station Office",
+        "Johnson Space Center (JSC)",
+        "Soviet/Indian space flight",
+        "Salyut space station",
+        "commercial satellites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-observing-after-work-a-trip-to-digger-pines",
+      "documentId": "eph82-08",
+      "title": "Observing After Work: A Trip to Digger Pines.",
+      "summary": "Donald D. Stone recounts a challenging after-work observing trip to Digger Pines where he attempted to set up his 14-inch telescope immediately after his shift. The experience proved difficult due to late arrival, physical exertion in failing light, a cramped site, and poor seeing conditions. Despite these hurdles and extreme cold, he managed to observe several celestial objects before the session was shut down by the weather.",
+      "categories": [
+        "Observing Report",
+        "Personal Account",
+        "Amateur Astronomy",
+        "Field Trip"
+      ],
+      "keywords": [
+        "Digger Pines",
+        "Observing",
+        "Deep-space observer",
+        "Telescope setup",
+        "Seeing conditions",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "M-13",
+        "Antoniadi scale",
+        "Amateur astronomy challenges",
+        "Donald D. Stone",
+        "East Bay Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-sjaa-board-of-directors",
+      "documentId": "eph82-08",
+      "title": "SJAA BOARD OF DIRECTORS",
+      "summary": "This document lists the Board of Directors for the SJAA (San Jose Astronomical Association), providing the name and phone number for each board member. It serves as a directory for contacting the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Contact Information",
+        "Phone Numbers",
+        "Leadership"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-08-news-material",
+      "documentId": "eph82-08",
+      "title": "NEWS MATERIAL",
+      "summary": "This document appears to be a header or cover page for the \"SIAA Bulletin\" from the San Jose Astronomical Association. It provides the organization's address, contact details, and bulk rate postage information, indicating it is part of an official mailing or newsletter.",
+      "categories": [
+        "News",
+        "Organization Publication",
+        "Astronomy",
+        "Bulletin"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SIAA",
+        "Bulletin",
+        "News Material",
+        "San Jose",
+        "Astronomy Organization",
+        "Mailing Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-08-sjaa-meetings-star-party-sites",
+      "documentId": "eph82-08",
+      "title": "SJAA MEETINGS & STAR PARTY SITES",
+      "summary": "This document, titled \"SJAA MEETINGS & STAR PARTY SITES,\" primarily consists of a hand-drawn map. The map details various astronomical observation sites and meeting locations, providing basic route information, landmarks like Mt. Hamilton, and directional indicators for the San Jose Astronomical Association.",
+      "categories": [
+        "observing sites",
+        "meeting information",
+        "event planning",
+        "maps and guides"
+      ],
+      "keywords": [
+        "SJAA",
+        "meetings",
+        "star party",
+        "observing locations",
+        "Mt. Hamilton",
+        "astronomy sites",
+        "map"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8208/Eph82_08.pdf",
+      "txtPath": "8208/Eph82_08.md"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "articles": [
+    {
+      "id": "eph84-09-from-the-editors-desk",
+      "documentId": "eph84-09",
+      "title": "FROM THE EDITORS DESK",
+      "summary": "The editor reviews successful recent star parties held by the SJAA at Glacier Point and Marriott's Great America, highlighting public engagement. The article then details two significant potential projects: acquiring and installing a 16\" Alvan Clark refractor at a permanent observatory in Grant Ranch with the help of the \"Friends of Grant Ranch,\" and establishing another observatory at Fremont Peak State Park, potentially housing Kevin Medlock's 30\" telescope. The editor stresses the importance of SJAA member support for these ambitious endeavors to enhance the organization's community role and astronomical outreach.",
+      "categories": [
+        "Observing Reports",
+        "Public Outreach",
+        "Organizational News",
+        "Projects & Development",
+        "Club Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Party",
+        "Glacier Point",
+        "Marriott's Great America",
+        "Alvan Clark Refractor",
+        "Grant Ranch",
+        "Fremont Peak State Park",
+        "Observatory",
+        "Telescope",
+        "Public Astronomy",
+        "Community Engagement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-deep-sky-notes",
+      "documentId": "eph84-09",
+      "title": "DEEP SKY NOTES",
+      "summary": "This article provides a historical overview of deep-sky object cataloging, beginning with William Herschel's pioneering sweeps in 1783, which dramatically increased the number of known nebulae and clusters. It details the contributions of John Herschel, who continued his father's work and explored the southern skies, leading to the creation of the General Catalogue (GC). The text concludes by discussing the commissioning and compilation of the New General Catalogue (NGC) in 1888 and the subsequent Index Catalogues (IC1 and IC2), highlighting key figures and milestones in astronomical catalog development.",
+      "categories": [
+        "history of astronomy",
+        "observational astronomy",
+        "astronomical catalogs",
+        "deep sky objects"
+      ],
+      "keywords": [
+        "William Herschel",
+        "John Herschel",
+        "Messier",
+        "Lacaille",
+        "NGC",
+        "IC",
+        "General Catalogue",
+        "Deep Sky",
+        "Nebulae",
+        "Clusters",
+        "Cape of Good Hope",
+        "Royal Astronomical Society"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-09-september-1",
+      "documentId": "eph84-09",
+      "title": "SEPTEMBER 1",
+      "summary": "An astronomy star party is scheduled for September 1st at Grant Ranch county park, focusing on the first quarter moon and planets. This event offers members a chance to explore a new observing site near San Jose, which the SJAA is considering for a future observatory.",
+      "categories": [
+        "events",
+        "observing sites",
+        "announcement"
+      ],
+      "keywords": [
+        "September 1",
+        "star party",
+        "Grant Ranch county park",
+        "first quarter moon",
+        "planet party",
+        "observing site",
+        "San Jose",
+        "SJAA",
+        "observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-september-8",
+      "documentId": "eph84-09",
+      "title": "SEPTEMBER 8",
+      "summary": "The article announces an astronomy event scheduled for September 8 at 8 pm at the Los Gatos Red Cross Building. This equipment and slide night encourages members to showcase their astrophotos and telescopes, facilitating knowledge sharing and providing opportunities for observing in the parking lot.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Equipment",
+        "Observing"
+      ],
+      "keywords": [
+        "Astronomy event",
+        "Equipment night",
+        "Slide night",
+        "Astrophotography",
+        "Telescopes",
+        "Observing",
+        "Los Gatos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-september-22",
+      "documentId": "eph84-09",
+      "title": "SEPTEMBER 22",
+      "summary": "An event is scheduled for September 22 at Grant Ranch, featuring an early afternoon \"bring your own everything\" picnic, followed by an evening star party. Attendees are reminded to bring all necessary items for the picnic.",
+      "categories": [
+        "Events",
+        "Star Party",
+        "Community"
+      ],
+      "keywords": [
+        "September 22",
+        "Grant Ranch",
+        "picnic",
+        "star party",
+        "astronomy event",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-october-6",
+      "documentId": "eph84-09",
+      "title": "OCTOBER 6",
+      "summary": "A general monthly meeting is scheduled for October 6th at the University of Santa Clara. Norman Sperling will be the guest speaker, discussing and answering the 'Four Great Questions of Astronomy'.",
+      "categories": [
+        "events",
+        "meeting announcement",
+        "lecture"
+      ],
+      "keywords": [
+        "October 6",
+        "Monthly meeting",
+        "University of Santa Clara",
+        "Norman Sperling",
+        "Astronomy",
+        "Four Great Questions of Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-call-for-membership-renewals",
+      "documentId": "eph84-09",
+      "title": "CALL FOR MEMBERSHIP RENEWALS",
+      "summary": "This document serves as an urgent call for members to renew their memberships, providing specific instructions on where to send renewal forms, remittances, and Sky & Telescope renewal cards to Robert Fingerhut in San Jose. It encourages prompt action to avoid missing upcoming issues of the Ephemeris.",
+      "categories": [
+        "Membership Renewal",
+        "Administrative Announcement",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Membership Renewal",
+        "Renewals",
+        "Forms",
+        "Remittance",
+        "Sky and Telescope",
+        "Ephemeris",
+        "Robert Fingerhut"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-astromart",
+      "documentId": "eph84-09",
+      "title": "ASTROMART",
+      "summary": "This document, titled 'ASTROMART,' lists several astronomical items for sale, intended for inclusion in a June Ephemeris. The items include various telescopes (5\" Coulter, C8Cel, C100 refractor, 12.5\" f/5 Dobsonian), Celestron 11X80 binoculars, and an RFT, with prices and contact information provided.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Equipment Listing",
+        "Marketplace"
+      ],
+      "keywords": [
+        "astronomy equipment",
+        "telescopes",
+        "refractor",
+        "Dobsonian",
+        "binoculars",
+        "equatorial mount",
+        "Coulter",
+        "Celestron",
+        "Parks mirror",
+        "Movak components",
+        "RFT",
+        "focuser"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-by-robert-fingerhut",
+      "documentId": "eph84-09",
+      "title": "BY: ROBERT FINGERHUT",
+      "summary": "This article provides a series of brief updates on recent space-related events. Key announcements include the upcoming launch of the Discovery shuttle, the successful inaugural flight of the Ariane 3 rocket, and the first flight of the Dolphin sounding rocket. It also covers the cleaning of the Space Telescope's primary mirror, a spacewalk performed by Salyut 7 cosmonauts (including the first by a woman), the failure of the GOES-5 weather satellite, and the launch of the AMPTE triple satellite mission designed to study Earth's magnetosphere.",
+      "categories": [
+        "news",
+        "space exploration",
+        "launch reports",
+        "satellite technology",
+        "space missions",
+        "astronomy"
+      ],
+      "keywords": [
+        "Discovery shuttle",
+        "Ariane 3",
+        "Dolphin rocket",
+        "Space Telescope",
+        "Salyut 7",
+        "spacewalk",
+        "GOES-5",
+        "AMPTE",
+        "satellite launch",
+        "Van Allen radiation belts",
+        "artificial comet",
+        "Soyuz T-17"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-09-general-meetings",
+      "documentId": "eph84-09",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides detailed driving and pedestrian directions to Room 102 in the Alumni Science Hall at the University of Santa Clara for general meetings. It includes instructions for accessing the location from different highway exits (Hwy 17 North and South) and finding the specific room within the building, supplemented by a simple map reference.",
+      "categories": [
+        "meetings",
+        "event logistics",
+        "directions"
+      ],
+      "keywords": [
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "room 102",
+        "general meetings",
+        "directions",
+        "parking",
+        "Hwy 17"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-indoor-star-parties",
+      "documentId": "eph84-09",
+      "title": "INDOOR STAR PARTIES:",
+      "summary": "This document provides detailed directions to an \"INDOOR STAR PARTY\" event held at the Los Gatos Red Cross Building. It outlines specific turns and road names to reach the venue located at 18011 Los Gatos-Almaden Rd, along with a mention of a simple map.",
+      "categories": [
+        "events",
+        "location information",
+        "astronomy event"
+      ],
+      "keywords": [
+        "indoor star parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "directions",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-grant-ranch-county-park",
+      "documentId": "eph84-09",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "The San Jose Astronomical Association (SJAA) is introducing Grant Ranch County Park as a new observing site located on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. The article provides detailed directions and crucial gate access information, including a combination lock sequence (05, 06, 07, 08, 09, 10) for after-sunset entry and exit.",
+      "categories": [
+        "observing sites",
+        "club information",
+        "logistics",
+        "directions"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "observing site",
+        "gate access",
+        "directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-henry-coe-state-park",
+      "documentId": "eph84-09",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed directions to Henry Coe State Park from Hwy 101 South near Gilroy, including landmarks and distance. It outlines access procedures for club members, noting a gate combination and emphasizing rules for quiet entry and parking light usage, especially for those arriving after dark, who should park outside and hike in.",
+      "categories": [
+        "Directions",
+        "Park Information",
+        "Access Guidelines",
+        "Club Information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Hwy 101",
+        "Gilroy",
+        "Park access",
+        "Gate combination",
+        "Night etiquette",
+        "Anderson Reservoir",
+        "Club access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-fremont-peak-state-park",
+      "documentId": "eph84-09",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, guiding visitors to the San Jose Astronomical Association's (SJAA) setup location in the Coulter Camp overflow area. It includes a simple map, advises using parking lights only after dark, and mentions that the EPHEMERIS publication is published monthly by the SJAA.",
+      "categories": [
+        "Observing Site Guide",
+        "Astronomical Club Information",
+        "Directions"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Coulter Camp",
+        "Observing site",
+        "Astronomy",
+        "Directions",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-officers",
+      "documentId": "eph84-09",
+      "title": "OFFICERS:",
+      "summary": "This document lists the officers of an organization, including the President, Vice-President, Secretary, and Treasurer. For each officer, their name, address, and phone number are provided, serving as a contact directory for the leadership.",
+      "categories": [
+        "Organizational",
+        "Directory",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Contact Details",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-board-of-directors",
+      "documentId": "eph84-09",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document lists the names and contact phone numbers for the organization's Board of Directors, including members like Paul Mancuso and Steve Greenberg. Additionally, it identifies John Gleason as the Ephemeris Editor and provides his mailing address.",
+      "categories": [
+        "Organization",
+        "Contact Information",
+        "Directory",
+        "Governance"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Ephemeris Editor",
+        "Contact List",
+        "Organizational Structure",
+        "Paul Mancuso",
+        "Steve Greenberg",
+        "Jim Ahl",
+        "Gene Cisneros",
+        "Joe Sunseri",
+        "Chris Pratt",
+        "John Gleason"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-09-the-san-jose-astronomical-association",
+      "documentId": "eph84-09",
+      "title": "THE SAN JOSE ASTRONOMICAL ASSOCIATION",
+      "summary": "The San Jose Astronomical Association provides a community for individuals interested in diverse astronomical pursuits. Members can share knowledge and engage in activities such as deep-sky observing, astrophotography, telescope making, eclipse viewing, and computerized astronomy. It serves as a hub for enthusiasts to connect and collaborate on their shared passion.",
+      "categories": [
+        "Astronomical Associations",
+        "Amateur Astronomy",
+        "Community"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Deep-sky observing",
+        "Astrophotography",
+        "Telescope making",
+        "Eclipses",
+        "Computerized astronomy",
+        "Astronomy club",
+        "Amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-activities",
+      "documentId": "eph84-09",
+      "title": "ACTIVITIES",
+      "summary": "The SJAA sponsors weekly activities, including monthly general meetings with astronomical programs at the University of Santa Clara. They also organize star-gazing and observing sessions at various dark-sky locations, and informal indoor \"Star Parties\" for members to share and work on equipment in Los Gatos.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Community Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "Activities",
+        "General Meetings",
+        "Star Parties",
+        "Observing Sessions",
+        "Astronomy",
+        "Santa Clara University",
+        "Dark-sky locations",
+        "Los Gatos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-membership-benefits",
+      "documentId": "eph84-09",
+      "title": "MEMBERSHIP BENEFITS",
+      "summary": "The San Jose Astronomical Association (SJAA) outlines the advantages of becoming a member, even though participation in activities is open to all. Benefits include a subscription to Sky and Telescope magazine, the monthly SJAA EPHEMERIS newsletter, and access to the SJAA's library. Membership costs vary by type, such as standard or junior, and support the SJAA's mission to promote astronomy and public interest.",
+      "categories": [
+        "Membership Information",
+        "Organizational Benefits",
+        "Astronomy Club",
+        "Non-profit"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership benefits",
+        "Sky and Telescope magazine",
+        "SJAA EPHEMERIS",
+        "Newsletter",
+        "Astronomy library",
+        "Subscription rates",
+        "Junior membership",
+        "Non-profit organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-san-jose-astronomical-association-membership-application",
+      "documentId": "eph84-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA). It collects basic personal information like name, address, and phone number, and offers options for Adult, Junior, or Bulletin-only subscriptions. Instructions are provided to submit the form at a meeting or mail it to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organizational Document",
+        "Club Administration"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Adult Membership",
+        "Junior Membership",
+        "Bulletin Subscription",
+        "Robert Fingerhut"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-questionnaire-optional",
+      "documentId": "eph84-09",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire designed to gather information on individuals' astronomical interests, such as astrophotography or deep-sky observation, and whether they own a telescope. It also seeks to identify specific areas of astronomy where respondents feel qualified to help others. The survey aims to collect insights into the expertise and preferences of participants.",
+      "categories": [
+        "Survey",
+        "Astronomy",
+        "Community Engagement",
+        "Data Collection"
+      ],
+      "keywords": [
+        "Questionnaire",
+        "Astronomical interests",
+        "Astrophotography",
+        "Deep-sky observation",
+        "Telescope ownership",
+        "Astronomy expertise",
+        "Hobby survey",
+        "Skills"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-09-jupiter-s-red-spot-ephemerides",
+      "documentId": "eph84-09",
+      "title": "JUPITER'S RED SPOT EPHEMERIDES",
+      "summary": "This article provides an ephemeris of convenient times to observe Jupiter's Great Red Spot (GRS) on the meridian, primarily for September and October. It notes that the GRS has faded from its characteristic brick red to a dull gray-pink but is still visible with instruments as small as 2 inches. The author encourages observers to submit their findings regarding the GRS and other Jovian spots.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Planetary Observation",
+        "Ephemerides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Ephemerides",
+        "Observation",
+        "Spot-watching",
+        "Telescopes",
+        "Planetary Astronomy",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-09-comet-comments",
+      "documentId": "eph84-09",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's \"COMET COMMENTS\" article provides updates on the visibility and characteristics of several comets, specifically Comet Austin (1984j) and Periodic Comet Takamizawa (1984i), along with a brief mention of Halley's Comet. It also delves into the methods and efforts of amateur comet hunters, analyzing the types of instruments used and the extensive hours dedicated to discovering new comets.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Amateur Astronomy",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Comet Takamizawa",
+        "Halley's Comet",
+        "Comet Discovery",
+        "Amateur Astronomers",
+        "Telescopes",
+        "Binoculars",
+        "Observing",
+        "Don Machholz"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-09-atm-coatings",
+      "documentId": "eph84-09",
+      "title": "ATM coatings",
+      "summary": "The article primarily advertises ATM Coatings, a service specializing in aluminum coatings with silicon monoxide over-coating for telescope mirrors, providing a price list by mirror size and instructions for service. It also includes an advertisement for LUMICON®, a supplier of in-stock telescopes and accessories, highlighted as a world center for astrophotography.",
+      "categories": [
+        "Commercial Advertisement",
+        "Astronomy Services",
+        "Astronomy Equipment",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "telescope mirrors",
+        "aluminum coatings",
+        "silicon monoxide",
+        "mirror recoating",
+        "LUMICON",
+        "telescopes",
+        "accessories",
+        "astrophotography",
+        "pricing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8409/Eph84_09.pdf",
+      "txtPath": "8409/Eph84_09.md"
+    }
+  ]
+}

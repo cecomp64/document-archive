@@ -1,0 +1,416 @@
+{
+  "articles": [
+    {
+      "id": "eph81-04-observations",
+      "documentId": "eph81-04",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) announces a busy schedule, including an Astronomical Auction on April 25th and volunteer opportunities for the national Astronomy Day on May 9th. The article also covers SJAA membership renewals, a call for papers for the AANC conference, and the club's co-sponsorship of Space Week 1981 at San Jose State University. Additionally, it features other local astronomy events and member news.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Membership",
+        "Community Engagement",
+        "Call for Participation",
+        "Equipment Sales",
+        "Volunteer Opportunities",
+        "Astronomical Societies"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomical Auction",
+        "Astronomy Day",
+        "Membership Renewal",
+        "Sky & Telescope",
+        "AANC Conference",
+        "Space Week 1981",
+        "L-5 Society",
+        "Telescopes",
+        "Amateur Astronomy",
+        "Bay Area",
+        "Los Gatos",
+        "Santa Clara",
+        "San Jose State University",
+        "April 25",
+        "May 9",
+        "September 12-13",
+        "July 18"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-sjaa-ephemeris",
+      "documentId": "eph81-04",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document is an excerpt from the SJAA EPHEMERIS, a monthly publication of the San Jose Astronomical Association. It provides contact information for the editor and club officers, along with details regarding membership fees for adults and juniors, and bulletin subscriptions for non-members.",
+      "categories": [
+        "Newsletter",
+        "Organization Information",
+        "Membership",
+        "Contact Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Ephemeris",
+        "Astronomy club",
+        "Membership fees",
+        "Club officers",
+        "Subscription"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph81-04-comet-commets",
+      "documentId": "eph81-04",
+      "title": "COMET COMMETS",
+      "summary": "As April begins, a faint new comet has been discovered, adding to the three other comets currently visible. One of these, Comet Bus (1981b), discovered by Schelte Bus, has a magnitude of 17 and is located in the constellation Virgo.",
+      "categories": [
+        "astronomy news",
+        "observing reports",
+        "comets"
+      ],
+      "keywords": [
+        "Comet Bus (1981b)",
+        "comet discovery",
+        "Schelte Bus",
+        "Virgo",
+        "magnitude 17",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-p-comet-borrelly-1980i",
+      "documentId": "eph81-04",
+      "title": "P/Comet Borrelly (1980i)",
+      "summary": "This document provides an ephemeris for P/Comet Borrelly (1980i) from late March to early May, detailing its right ascension, declination, and a consistent magnitude of 10. The comet is noted to be moving through the constellations Perseus and Auriga in the evening sky, progressing further from the sun and Earth while remaining visible around twilight.",
+      "categories": [
+        "Observing Report",
+        "Ephemeris",
+        "Cometary Data"
+      ],
+      "keywords": [
+        "P/Comet Borrelly",
+        "1980i",
+        "comet",
+        "ephemeris",
+        "magnitude",
+        "Perseus",
+        "Auriga",
+        "astronomy",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-comet-panther-1980v",
+      "documentId": "eph81-04",
+      "title": "Comet Panther (1980v)",
+      "summary": "The article provides an ephemeris for Comet Panther (1980v) from late March to early May, including its right ascension, declination, and predicted magnitude. It notes the comet's path through Ursa Major, Lynx, and Gemini in the evening sky and encourages observation.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Panther (1980v)",
+        "Ephemeris",
+        "Observing",
+        "Ursa Major",
+        "Lynx",
+        "Gemini",
+        "Magnitude",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-comet-meier-1980q",
+      "documentId": "eph81-04",
+      "title": "Comet Meier (1980q)",
+      "summary": "This article provides an ephemeris for Comet Meier (1980q) from late March to early May, detailing its right ascension, declination, and visual magnitude. It describes the comet's trajectory from southern Hercules through Böotes, noting its diffuse and bright appearance, and its approximate distance of 200 million miles from Earth and the Sun.",
+      "categories": [
+        "Comets",
+        "Observing Guides",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Meier (1980q)",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Hercules",
+        "Böotes",
+        "Observational data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-great-comets",
+      "documentId": "eph81-04",
+      "title": "Great Comets",
+      "summary": "De Cheseaux's Comet was first discovered in December 1743 by Klinkenberg and De Cheseaux. In March 1744, the comet famously displayed at least six tails, a phenomenon often depicted in historical drawings where its head is below the horizon and its tails ascend into the night sky, a drawing likely made by De Cheseaux himself.",
+      "categories": [
+        "historical astronomy",
+        "comets",
+        "celestial events"
+      ],
+      "keywords": [
+        "Great Comets",
+        "De Cheseaux's Comet",
+        "Klinkenberg",
+        "1743",
+        "1744",
+        "comet tails"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-the-1981-messier-marathon-a-mid-point",
+      "documentId": "eph81-04",
+      "title": "The 1981 Messier Marathon- A Mid-Point",
+      "summary": "The article discusses the 1981 Messier Marathon, detailing that the initial attempt on March 6-8 was thwarted by clouds. A rescheduled observation is planned for April 3-5 at Loma Prieta, where the author anticipates observing up to 109 Messier objects, along with other celestial bodies. Despite the cloudy weekend, the author successfully observed 109 Messier objects on March 5-6.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "Planning"
+      ],
+      "keywords": [
+        "1981 Messier Marathon",
+        "Messier objects",
+        "Loma Prieta",
+        "Observing",
+        "Astronomy",
+        "Clouded out",
+        "Planets",
+        "Comets",
+        "Asteroids"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-04-massive-marathon",
+      "documentId": "eph81-04",
+      "title": "Massive Marathon",
+      "summary": "Don Machholz details his 'Massive Marathon' project, an advanced observing challenge involving over 500 non-Messier deep-sky objects. He explains his method for compiling the extensive list and plans a single-night attempt to observe 500 objects on April 3-4 from Loma Prieta. The article also provides contact information for Machholz, weather resources, and an editor's note about the observing site and the AANC Messier Club.",
+      "categories": [
+        "Observing Challenge",
+        "Amateur Astronomy Project",
+        "Deep-Sky Observing",
+        "Observing Report/Announcement",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "Massive Marathon",
+        "Don Machholz",
+        "Deep-sky objects",
+        "Non-Messier objects",
+        "Observing challenge",
+        "Loma Prieta",
+        "Galaxies",
+        "Clusters",
+        "Nebulae",
+        "Messier Marathon",
+        "AANC Messier Club"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph81-04-retired-machinists-eat-your-heart-out",
+      "documentId": "eph81-04",
+      "title": "RETIRED MACHINISTS, EAT YOUR HEART OUT",
+      "summary": "The article describes an exceptionally precise 5-1/2\" catadioptric guide telescope observed at Stanford, far surpassing typical amateur machinist-built instruments. What makes it unique is that nearly all its components, including the tube and mechanical supports, are made of fused quartz and held together by optical contact rather than fasteners or glue. This specialized instrument is designed to operate at liquid helium temperatures for Stanford's 'Relativity Gyroscope Experiment,' aiming to measure gyro precession with extreme accuracy.",
+      "categories": [
+        "Scientific Instrumentation",
+        "Optics",
+        "Precision Engineering",
+        "Space Experiment",
+        "Materials Science",
+        "Astronomy Technology"
+      ],
+      "keywords": [
+        "Telescope",
+        "Catadioptric",
+        "Fused quartz",
+        "Optical contacting",
+        "Relativity Gyroscope Experiment",
+        "Stanford",
+        "Guide telescope",
+        "Cryogenic temperatures",
+        "Precision manufacturing",
+        "Schmidt-Cassegrain",
+        "Spacecraft experiment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-star-party-and-observing-notes",
+      "documentId": "eph81-04",
+      "title": "STAR PARTY AND OBSERVING NOTES",
+      "summary": "This article details the author's late February and early March observing attempts, often thwarted by cloudy weather, which led to impromptu gatherings for conversation, mirror-making, and technical discussions. Despite weather challenges, the author successfully conducted backyard observations and provides detailed notes on several non-Messier deep-sky objects, including galaxies in Virgo and Leo, a planetary nebula in Corvus, and open clusters in Puppis, emphasizing their characteristics and observational experiences. The report also includes corrections from previous notes and expresses hope for clear skies.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Amateur Telescope Making",
+        "Astronomy Community Notes",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Star Party",
+        "Observing Notes",
+        "Deep-Sky Objects",
+        "Galaxy Observation",
+        "Planetary Nebula",
+        "Dwarf Galaxy",
+        "Mirror Making",
+        "Amateur Astronomy",
+        "NGC 4216",
+        "NGC 4361",
+        "Leo II",
+        "Loma Prieta"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-04-san-jose-astronomical-association-march-1981",
+      "documentId": "eph81-04",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION- March, 1981",
+      "summary": "This document is a membership roster for the San Jose Astronomical Association from March 1981. It lists the names, addresses, cities, zip codes, and phone numbers of its members, providing contact information for the organization's community.",
+      "categories": [
+        "Membership Directory",
+        "Organizational Record",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership List",
+        "Contact Information",
+        "Astronomy Club",
+        "San Jose",
+        "1981",
+        "Roster"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-04-directory-listing",
+      "documentId": "eph81-04",
+      "title": "DIRECTORY LISTING",
+      "summary": "This document is a directory listing containing names, addresses, cities, zip codes, and phone numbers for numerous individuals. The entries predominantly feature locations within various cities across California, such as San Jose, Saratoga, Palo Alto, and Santa Clara, with one entry in Vancouver, WA. Many phone numbers are listed, though some entries have missing phone information.",
+      "categories": [
+        "Directory",
+        "Contact Information",
+        "Listing"
+      ],
+      "keywords": [
+        "directory listing",
+        "contact list",
+        "addresses",
+        "phone numbers",
+        "California",
+        "personal information",
+        "names"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-bulletin-subscribers",
+      "documentId": "eph81-04",
+      "title": "BULLETIN SUBSCRIBERS",
+      "summary": "This document lists 'BULLETIN SUBSCRIBERS' and provides their contact information, including name, address, city, ZIP code, and phone number. The list contains individuals from various locations across the United States, as well as one international subscriber from Manchester, England, indicating it serves as a mailing or contact directory.",
+      "categories": [
+        "Directory",
+        "Mailing List",
+        "Administrative Data"
+      ],
+      "keywords": [
+        "Subscribers",
+        "Bulletin",
+        "Contact Information",
+        "Address List",
+        "Directory",
+        "Membership"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-04-shuttle-countdown",
+      "documentId": "eph81-04",
+      "title": "SHUTTLE COUNTDOWN",
+      "summary": "This article provides an update on the Space Shuttle Orbiter Columbia's preparations for its April launch, detailing final readiness checks and tests scheduled for late March, leading up to the Mission 1 countdown from April 7-12. It also includes information for SJAA members interested in attending the shuttle landing at Edwards Air Force Base, noting the need for flexible travel plans due to potential launch date changes.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Events",
+        "Launch Preparations"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Launch",
+        "Countdown",
+        "Mission 1",
+        "Edwards Air Force Base",
+        "Astronauts",
+        "John Young",
+        "Robert Crippen",
+        "External Tank",
+        "April"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-04-an-all-star-story",
+      "documentId": "eph81-04",
+      "title": "An All Star Story",
+      "summary": "The article presents a humorous fictional story about two rival scientists, Dr. Renta Hertz and Dr. Bye Cycle, who fiercely compete over naming the unit of wave measurement, leading Dr. Hertz to attempt to procure a deadly poison for Dr. Cycle, which ultimately results in a pun. The document also includes answers to last month's star riddles.",
+      "categories": [
+        "Humor",
+        "Fiction",
+        "Puzzles/Riddles"
+      ],
+      "keywords": [
+        "Hertz",
+        "Bye Cycle",
+        "Electromagnetic waves",
+        "Wave measurement",
+        "Pun",
+        "Riddles",
+        "Stars",
+        "Poison",
+        "Humorous story"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8104/Eph81_04.pdf",
+      "txtPath": "8104/Eph81_04.md"
+    }
+  ]
+}

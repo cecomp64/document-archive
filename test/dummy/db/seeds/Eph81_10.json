@@ -1,0 +1,354 @@
+{
+  "articles": [
+    {
+      "id": "eph81-10-observations",
+      "documentId": "eph81-10",
+      "title": "Observations",
+      "summary": "This document outlines an upcoming lunar grazing occultation event scheduled for October 18-19, 1981, near Los Banos, providing detailed observational parameters, location, and communication plans for participants. Additionally, it shares various club news, including a successful general meeting, a planned field trip to the Space Telescope, updates on club telescope loans, and a call for member contributions for the November newsletter.",
+      "categories": [
+        "Events",
+        "Observing Guidance",
+        "Club News",
+        "Technical Astronomy"
+      ],
+      "keywords": [
+        "Lunar graze",
+        "Occultation",
+        "SJAA",
+        "Observing event",
+        "Star party",
+        "Club activities",
+        "Space Telescope",
+        "Amateur astronomy",
+        "Newsletter",
+        "1981"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-sjaa-ephemeris",
+      "documentId": "eph81-10",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This SJAA EPHEMERIS issue highlights a significant decline in amateur comet discoveries for the year 1981, contrasting it with prior years' statistics. It reports the discovery of Comet Howell (1981k) by a professional astronomer and discusses Comet Swift-Tuttle (1862 III), linking it to the Perseid meteor shower and its anticipated return. The article also provides basic club information for the San Jose Astronomical Association.",
+      "categories": [
+        "observing reports",
+        "news",
+        "historical astronomy",
+        "club information",
+        "celestial objects"
+      ],
+      "keywords": [
+        "comet discoveries",
+        "amateur astronomers",
+        "professional astronomers",
+        "Comet Howell",
+        "Comet Swift-Tuttle",
+        "Perseid meteor shower",
+        "SJAA",
+        "ephemeris",
+        "astronomy club"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-10-the-celestial-tourist-speaks",
+      "documentId": "eph81-10",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "The article details a successful August 1981 star party at Fremont Peak State Park, featuring observations of various deep-sky objects with different large telescopes and a comparison of nebular filters. The author also shares their extensive experience with Messier object observing across multiple instruments, recommends advanced deep-sky object lists for further exploration, and introduces a mnemonic for remembering the major lunar maria.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Lunar Astronomy",
+        "Equipment & Techniques",
+        "Guides & Resources"
+      ],
+      "keywords": [
+        "Star party",
+        "Fremont Peak State Park",
+        "Deep-sky objects",
+        "Messier objects",
+        "Nebular filters",
+        "Telescopes",
+        "Visual observing",
+        "Lunar maria",
+        "Mnemonics",
+        "NGC objects",
+        "Amateur astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 119
+    },
+    {
+      "id": "eph81-10-celestial-tourist-continued",
+      "documentId": "eph81-10",
+      "title": "CELESTIAL TOURIST continued",
+      "summary": "This article provides astronomical observing tips, beginning with a mnemonic device for remembering the locations of lunar maria. It then guides observers to deep-sky objects, detailing the bright galaxies NGC 253 and NGC 55 in Sculptor, and the Cocoon Nebula (IC 5146) in Cygnus, with specific coordinates, descriptions, and observing notes for different telescope sizes. A diagram of various lunar maria is also included.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Lunar Astronomy",
+        "Telescope Observing",
+        "Star Chart References"
+      ],
+      "keywords": [
+        "Mare Nubium",
+        "Mare Frigoris",
+        "Lunar Maria",
+        "NGC 253",
+        "NGC 55",
+        "IC 5146",
+        "Cocoon Nebula",
+        "Sculptor",
+        "Cygnus",
+        "Barred Spiral Galaxy",
+        "Bright Nebula",
+        "Dark Nebulosity",
+        "Newtonian Telescope",
+        "Finder Scope",
+        "Norton's Star Atlas",
+        "Skalnate Pleso Atlas",
+        "Astronomy Mnemonics"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-10-i-bought-my-celestron-14-because-it-was-cheaper-than-a-big-dobson",
+      "documentId": "eph81-10",
+      "title": "I BOUGHT MY CELESTRON 14 BECAUSE IT WAS CHEAPER THAN A BIG DOBSON",
+      "summary": "Jay Freeman details his decision to purchase a Celestron 14 (C-14) over a large Dobson telescope, primarily due to transportation limitations imposed by his subcompact car. He explains that while a C-14 could be towed with a lightweight trailer, a large Dobson would necessitate buying an additional vehicle like a van. Through a detailed financial analysis considering capital costs, lost interest, insurance, maintenance, and vehicle expenses over a 30-year period, he concludes that the annual ownership costs for both options ultimately become comparable, making the C-14 a more practical choice for his specific situation.",
+      "categories": [
+        "Telescope Selection",
+        "Cost Analysis",
+        "Amateur Astronomy Equipment",
+        "Equipment Logistics",
+        "Financial Planning"
+      ],
+      "keywords": [
+        "Celestron 14",
+        "Dobsonian Telescope",
+        "Telescope Costs",
+        "Equipment Transport",
+        "Financial Analysis",
+        "Capital Costs",
+        "Amateur Astronomy",
+        "Vehicle Requirements",
+        "Observing Logistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-annual-costs-of-celestron-14",
+      "documentId": "eph81-10",
+      "title": "Annual costs of Celestron 14:",
+      "summary": "This article analyzes the annual costs associated with owning different astronomical equipment, specifically comparing a Celestron 14 telescope with a Dobsonian telescope. It calculates expenses such as capital cost, insurance, and maintenance for the telescopes, and also estimates the additional yearly costs of acquiring and maintaining a van for transportation, providing a comprehensive financial breakdown.",
+      "categories": [
+        "Financial Analysis",
+        "Equipment Costs",
+        "Astronomy Equipment",
+        "Cost Comparison"
+      ],
+      "keywords": [
+        "Celestron 14",
+        "Dobsonian telescope",
+        "annual costs",
+        "telescope ownership",
+        "capital cost",
+        "insurance",
+        "maintenance",
+        "van",
+        "transportation costs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-annual-costs-of-dobson-plus-van",
+      "documentId": "eph81-10",
+      "title": "Annual costs of Dobson plus van:",
+      "summary": "This document outlines the annual costs associated with owning and operating a large Dobson telescope along with a dedicated van for its transport. It calculates a total annual expense of $993.87, encompassing capital costs, maintenance, insurance, licensing, and fuel. The analysis concludes that a large Dobson, with these associated costs, can be more expensive than a Celestron 14.",
+      "categories": [
+        "Financial Analysis",
+        "Astronomy Equipment",
+        "Cost Comparison",
+        "Equipment Ownership"
+      ],
+      "keywords": [
+        "Dobson telescope",
+        "van",
+        "annual costs",
+        "capital cost",
+        "maintenance",
+        "insurance",
+        "gasoline",
+        "Celestron 14",
+        "telescope ownership",
+        "financial planning"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-10-page-content",
+      "documentId": "eph81-10",
+      "title": "Page Content",
+      "summary": "This article highlights the significant, often underestimated, costs associated with transporting bulky amateur telescopes, emphasizing that these expenses can easily offset initial purchase savings. It advocates for innovative designs to make telescopes more compact and transportable, alongside more affordable transport solutions. The author also clarifies their favorable view of Dobsonian telescopes, despite raising these logistical challenges.",
+      "categories": [
+        "Amateur Astronomy",
+        "Telescope Design",
+        "Logistics",
+        "Opinion"
+      ],
+      "keywords": [
+        "Telescope transportation",
+        "Amateur astronomy costs",
+        "Compact telescope design",
+        "Dobsonian telescopes",
+        "Observing challenges",
+        "Star party logistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-appendix",
+      "documentId": "eph81-10",
+      "title": "APPENDIX:",
+      "summary": "This document presents an appendix with a financial formula for calculating the annual cost of an item, exemplified with a Celestron 14 telescope. It also includes a 'Want Ads' section featuring various used astronomical equipment for sale, such as telescopes, eyepieces, and mirror blanks. The document concludes with a 'Quote of the Month' discussing the Hubble constant and its implications for the extra-galactic distance scale.",
+      "categories": [
+        "Technical Analysis",
+        "Financial",
+        "Classifieds",
+        "Astronomy Equipment",
+        "Cosmology",
+        "Informational"
+      ],
+      "keywords": [
+        "annual cost",
+        "purchase cost",
+        "interest rate",
+        "financial formula",
+        "Celestron 14",
+        "Newtonian telescope",
+        "equatorial mount",
+        "clock drive",
+        "guide scope",
+        "eyepiece",
+        "Pyrex blank",
+        "Hubble constant",
+        "extra-galactic distance scale",
+        "telescope sales"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-10-the-wil-tirion-sky-atlas-2000-0",
+      "documentId": "eph81-10",
+      "title": "The Wil Tirion Sky Atlas 2000.0",
+      "summary": "This article provides a comprehensive review and comparison of \"The Wil Tirion Sky Atlas 2000.0\" with other popular star atlases, particularly the Skalnate Pleso \"Atlas of the Heavens\" and the AAVSO Atlas. The author, a comet-hunter, praises the Tirion atlas for its accurate labeling of deep-sky objects, larger scale, and increased number of stars, noting its utility for both desk and field work in amateur astronomy. While acknowledging minor drawbacks like the absence of dark nebulae, the review strongly recommends the atlas for its detail and value.",
+      "categories": [
+        "Product Review",
+        "Astronomy Equipment",
+        "Observing Aids",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Wil Tirion Sky Atlas 2000.0",
+        "Star Atlas",
+        "Skalnate Pleso Atlas of the Heavens",
+        "AAVSO Atlas",
+        "Deep-sky objects",
+        "Comet-hunting",
+        "Amateur Astronomy",
+        "Epoch 2000.0",
+        "Star charts",
+        "NGC 1360"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-10-astronomical-society-of-the-pacific",
+      "documentId": "eph81-10",
+      "title": "ASTRONOMICAL SOCIETY OF THE PACIFIC",
+      "summary": "This document introduces the Astronomical Society of the Pacific. It provides contact information, directing inquiries to Andrew Fraknoi at the listed phone number.",
+      "categories": [
+        "Organizations",
+        "Astronomy",
+        "Societies",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "Andrew Fraknoi",
+        "Astronomy",
+        "Society",
+        "Contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-officers-and-staff",
+      "documentId": "eph81-10",
+      "title": "OFFICERS AND STAFF",
+      "summary": "This document lists the officers, staff, and board of directors for an unnamed organization. It includes key leadership roles such as President, Vice President, Secretary-Treasurer, and Executive Officer, along with various staff positions. The Board of Directors features individuals from prominent observatories, universities, and astronomy-related organizations.",
+      "categories": [
+        "Organizational Structure",
+        "Administration",
+        "Personnel",
+        "Astronomy Organization"
+      ],
+      "keywords": [
+        "Officers",
+        "Staff",
+        "Board of Directors",
+        "President",
+        "Vice President",
+        "Secretary-Treasurer",
+        "Executive Officer",
+        "Observatories",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-10-please-post-or-announce-in-newsletter",
+      "documentId": "eph81-10",
+      "title": "Please post or announce in newsletter",
+      "summary": "The Astronomical Society of the Pacific (A.S.P.) is making high-quality prints and slides of photographs taken by the Voyager 2 spacecraft during its encounter with Saturn, its rings, and moons available to the public. These sets will include explanatory notes and a table of results, and information for ordering can be obtained by sending a stamped, self-addressed envelope to the A.S.P.",
+      "categories": [
+        "Announcement",
+        "Space Exploration",
+        "Educational Resources",
+        "News"
+      ],
+      "keywords": [
+        "Voyager 2",
+        "Saturn",
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "Spacecraft photos",
+        "Planetary exploration",
+        "Prints",
+        "Slides"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8110/Eph81_10.pdf",
+      "txtPath": "8110/Eph81_10.md"
+    }
+  ]
+}

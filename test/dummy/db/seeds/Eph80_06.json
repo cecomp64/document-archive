@@ -1,0 +1,457 @@
+{
+  "articles": [
+    {
+      "id": "eph80-06-observations",
+      "documentId": "eph80-06",
+      "title": "Observations",
+      "summary": "This report details a busy schedule for the SJAA club, including past events like Astronomy Day and the Riverside Telescope Makers' Conference, and upcoming activities such as star parties, club elections, and the annual picnic. The high level of member participation has contributed to SJAA becoming one of California's largest and most active clubs. Members are encouraged to complete a survey to help the board make decisions aligned with their wishes.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Community Engagement",
+        "Membership"
+      ],
+      "keywords": [
+        "SJAA",
+        "club events",
+        "Astronomy Day",
+        "star parties",
+        "Riverside Telescope Makers' Conference",
+        "club elections",
+        "annual picnic",
+        "membership survey",
+        "Frank Dibbell",
+        "Dr. A.B. Gregory recipient"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-astronomy-day",
+      "documentId": "eph80-06",
+      "title": "ASTRONOMY DAY",
+      "summary": "The article details a challenging Astronomy Day event on April 26, where cloudy weather significantly hampered telescopic viewing at Chabot Observatory, Rinolita Planetarium, and a San Jose K-Mart, despite the presence of numerous telescopes and enthusiastic public interest. While viewing was difficult, organizers deemed the public outreach efforts successful. The article also briefly mentions a subsequent, much more successful star party at Fremont Peak on May 17, characterized by clear skies and a large turnout.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "Star Party",
+        "Public Viewing",
+        "Telescopes",
+        "Cloudy Weather",
+        "Fremont Peak",
+        "Chabot Observatory",
+        "Rinolita Planetarium",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-sjaa-picnic",
+      "documentId": "eph80-06",
+      "title": "SJAA PICNIC",
+      "summary": "The SJAA will host its annual picnic on July 19th at Frank Park in Cupertino, featuring food, games, and the SJAA logo contest, with members encouraged to bring a potluck dish. The article also celebrates SJAA members Ernie Flini and Patty Winter for their published astronomy articles and photos. Additionally, it announces a new volunteer opportunity for public viewing nights at DeAnza College's Minolta Planetarium every Tuesday.",
+      "categories": [
+        "Events",
+        "Member News",
+        "Volunteer Opportunity",
+        "Public Outreach",
+        "Club Activities"
+      ],
+      "keywords": [
+        "SJAA Picnic",
+        "Frank Park",
+        "Cupertino",
+        "Potluck",
+        "SJAA Logo Contest",
+        "Ernie Flini",
+        "Patty Winter",
+        "Minolta Planetarium",
+        "DeAnza College",
+        "Public Viewing Nights",
+        "Volunteer",
+        "Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-06-astronomy-80",
+      "documentId": "eph80-06",
+      "title": "ASTRONOMY 80",
+      "summary": "ASTRONOMY 80 is a joint conference hosted by the Association of Lunar and Planetary Observers, the Western Amateur Astronomers, and the Astronomical Society of the Pacific, taking place from July 7-12, 1980, at the University of Arizona in Tucson. The event features numerous lectures by professional astronomers, evening lectures for the general public, and tours to observatories like Kitt Peak and Mount Hopkins, as well as on-campus facilities. Registration costs $33 and includes some meals, with various housing options available.",
+      "categories": [
+        "Conference",
+        "Event Announcement",
+        "Astronomy",
+        "Public Outreach",
+        "Observational Astronomy",
+        "Education"
+      ],
+      "keywords": [
+        "ASTRONOMY 80",
+        "conference",
+        "ALPO",
+        "WAA",
+        "ASP",
+        "University of Arizona",
+        "Tucson",
+        "July 1980",
+        "lectures",
+        "observatory tours",
+        "Kitt Peak",
+        "Mount Hopkins",
+        "Steward Observatories",
+        "Optical Science Center",
+        "Flangran Planetarium",
+        "registration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-riverside-telescope-makers-conference",
+      "documentId": "eph80-06",
+      "title": "RIVERSIDE TELESCOPE MAKERS' CONFERENCE",
+      "summary": "The 12th annual Riverside Telescope Makers' Conference at Big Bear was unexpectedly plagued by extreme cold, high winds, and snow, making outdoor observing impossible for many of the 800 attendees. Despite the challenging weather, participants found humor and camaraderie, shifting focus to indoor activities, lectures, and social interactions, with many memorable incidents arising from the adverse conditions. The event highlighted the resilience and spirit of the amateur astronomy community even when stargazing was not an option.",
+      "categories": [
+        "Event Report",
+        "Amateur Astronomy",
+        "Conference",
+        "Observing Report (Adverse Conditions)",
+        "Community"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers' Conference",
+        "RTMC",
+        "Big Bear",
+        "Amateur Astronomy",
+        "Telescope Making",
+        "Weather Impact",
+        "Snow",
+        "Cold Weather",
+        "Astronomy Conference",
+        "Event Experience",
+        "Camping"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-tales-of-the-great-red-spot",
+      "documentId": "eph80-06",
+      "title": "Tales of the Great Red Spot",
+      "summary": "This article, the \"final chapter\" in the \"Saga of the Spot,\" discusses the challenges and occasional fine sights observed of Jupiter's Great Red Spot, highlighting a specific July event. The author plans future observation attempts in late October and seeks volunteers for recovery efforts. It also includes a table of Great Red Spot meridian transit times and thanks contributors to a bulletin.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Community Update",
+        "Planetary Observations"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Observations",
+        "Astronomy",
+        "Meridian Transit",
+        "Volunteers",
+        "Observing Techniques"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-06-may-10-star-party",
+      "documentId": "eph80-06",
+      "title": "MAY 10 STAR PARTY",
+      "summary": "The May 10 SJAA star party at Henry Coe State Park experienced poor attendance due to initial cloudy skies and chilly winds. Despite challenging conditions, the clouds cleared after sunset, allowing a small group to observe, though cold, wind, and dew on telescopes persisted. The observing session concluded later in the evening when higher clouds eventually rolled in again.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Star party",
+        "SJAA",
+        "Henry Coe State Park",
+        "Observing conditions",
+        "Weather",
+        "Telescopes",
+        "Dew",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-important-upcoming-meteor-showers",
+      "documentId": "eph80-06",
+      "title": "Important Upcoming Meteor Showers",
+      "summary": "The document outlines key upcoming meteor showers occurring from June through July, providing a schedule with details such as the shower's name, constellation, date range, right ascension, and declination. Notable showers listed include the June Lyrids, Capricornids, Northern Iota Aquarids, Perseids, and Northern Delta Aquarids, serving as a guide for observers.",
+      "categories": [
+        "Astronomy Events",
+        "Meteor Showers",
+        "Observing Guide",
+        "Calendar"
+      ],
+      "keywords": [
+        "Meteor showers",
+        "June Lyrids",
+        "Capricornids",
+        "Perseids",
+        "Aquarids",
+        "Constellations",
+        "Astronomy",
+        "Celestial events",
+        "Stargazing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-06-comet-comments",
+      "documentId": "eph80-06",
+      "title": "COMET COMMENTS",
+      "summary": "This year, no comets have been discovered by amateur astronomers, while professional astronomers have found two new comets and recovered two others. The article highlights two recent discoveries: Periodic Comet Honda-Mrkos-Pajdusakova (1980c), recovered by T. Seki, and Comet Wild (1980d), discovered by Paul Wild, both around magnitude 15 and not expected to brighten significantly.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "comets",
+        "comet-hunters",
+        "amateur astronomers",
+        "professional astronomers",
+        "Periodic Comet Honda-Mrkos-Pajdusakova",
+        "1980c",
+        "T. Seki",
+        "Comet Wild",
+        "1980d",
+        "Paul Wild",
+        "discovery",
+        "recovery",
+        "magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-comets-in-their-eyes",
+      "documentId": "eph80-06",
+      "title": "COMETS IN THEIR EYES:",
+      "summary": "This article highlights several prolific comet discoverers, focusing on three Americans from the late 1800s: Dr. William Brooks, E.E. Barnard, and Lewis Swift, who collectively found dozens of comets using various telescopes. It also briefly mentions more recent international comet hunters like S. Fujikawa, Tago, and Jose da Silva Campos, detailing their search methods and notable discoveries.",
+      "categories": [
+        "Astronomy",
+        "History",
+        "Comet Discoveries",
+        "Observing Reports",
+        "Biography"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet-hunters",
+        "William Brooks",
+        "E.E. Barnard",
+        "Lewis Swift",
+        "S. Fujikawa",
+        "Tago",
+        "Jose da Silva Campos",
+        "19th Century Astronomy",
+        "Telescopes",
+        "Photographic comet discovery"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-06-skyword-puzzle-6-by-fred-braniff",
+      "documentId": "eph80-06",
+      "title": "SKYWORD PUZZLE # 6 by Fred Braniff",
+      "summary": "This article introduces \"SKYWORD PUZZLE # 6\" created by Fred Braniff. It highlights that this particular puzzle is noted as one of the largest crosswords Fred has ever produced for the bulletin.",
+      "categories": [
+        "Puzzles/Games",
+        "Publications/Bulletin Content",
+        "Recreational Activities"
+      ],
+      "keywords": [
+        "SKYWORD PUZZLE",
+        "Fred Braniff",
+        "crossword",
+        "puzzle",
+        "bulletin"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-across",
+      "documentId": "eph80-06",
+      "title": "ACROSS",
+      "summary": "The provided document, titled \"ACROSS,\" is a list of numbered clues for what appears to be a crossword puzzle. The clues predominantly cover topics related to astronomy, including celestial bodies, constellations, galaxy types, astronomical instruments, and historical figures.",
+      "categories": [
+        "Crossword Puzzle",
+        "Astronomy",
+        "Educational Content",
+        "Space Science"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Celestial Objects",
+        "Constellations",
+        "Galaxies",
+        "Stars",
+        "Nebulae",
+        "Asteroids",
+        "Telescopes",
+        "Moons",
+        "Eyepieces",
+        "Galileo",
+        "Space"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-down",
+      "documentId": "eph80-06",
+      "title": "DOWN",
+      "summary": "This document appears to be a section of an astronomy-themed crossword puzzle, listing numerous 'DOWN' clues related to various celestial objects, phenomena, and astronomical concepts. The clues range from specific stars and constellations to types of galaxies, nebulae, meteor showers, and telescope components. Additionally, the document includes a short, philosophical quote from Kevin Medlock concerning the nature of a classical Cassegrain telescope.",
+      "categories": [
+        "Puzzle",
+        "Astronomy",
+        "Educational"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Crossword",
+        "Stars",
+        "Constellations",
+        "Nebulae",
+        "Galaxies",
+        "Meteor Showers",
+        "Telescopes",
+        "Celestial Objects",
+        "Eclipsing Binary"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-06-want-to-explore-mars",
+      "documentId": "eph80-06",
+      "title": "WANT TO EXPLORE MARS?",
+      "summary": "The San Francisco Section of the American Astronautical Society has established the Viking Fund with a goal of raising $1 million in private funding by July 20, 1980. This initiative aims to help extend the Viking spacecraft's operations on Mars, support further research, and demonstrate public commitment to space exploration, thereby influencing government funding. Contributions are sought to secure valuable data and set a precedent for private support of space activities.",
+      "categories": [
+        "Fundraising",
+        "Space Exploration",
+        "Advocacy",
+        "Mission Support"
+      ],
+      "keywords": [
+        "Viking spacecraft",
+        "Mars exploration",
+        "Private funding",
+        "NASA",
+        "American Astronautical Society",
+        "Viking Fund",
+        "Donations",
+        "Public support",
+        "Space program"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-06-schemings-for-atm-s",
+      "documentId": "eph80-06",
+      "title": "SCHEMINGS FOR ATM'S",
+      "summary": "This article, originally from the Warren (Mich.) Astronomical Society Bulletin, offers a humorous and pun-filled discussion on various telescope mountings for amateur telescope makers (ATMs). Rather than providing technical details, it playfully introduces different types like the Fork, Yoke, Pipe, German Equatorial, Horseshoe, Rocker, and English Cross-Axis mounts. The piece highlights the significant decision ATMs face when selecting a mounting, albeit through a lighthearted lens.",
+      "categories": [
+        "Amateur Telescope Making",
+        "Humor",
+        "Telescope Equipment",
+        "Mountings"
+      ],
+      "keywords": [
+        "ATM",
+        "Telescope Mounts",
+        "Fork Mount",
+        "Yoke Mount",
+        "Pipe Mount",
+        "German Equatorial Mount",
+        "Horseshoe Mount",
+        "Rocker Mount",
+        "English Cross-Axis Mount",
+        "Amateur Astronomy",
+        "Humor"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph80-06-sjaa-profiles",
+      "documentId": "eph80-06",
+      "title": "SJAA PROFILES",
+      "summary": "SJAA board member Frank Dibbell is actively seeking to understand the diverse astronomical interests of the club's members to ensure the organization meets their expectations. He has been conducting member interviews and, to expedite the process, has created a short survey. Members are encouraged to complete this survey to help compile a comprehensive club profile.",
+      "categories": [
+        "Club News",
+        "Member Engagement",
+        "Survey Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Member interests",
+        "Club profile",
+        "Survey",
+        "Frank Dibbell",
+        "Board member",
+        "Feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-06-sjaa-survey",
+      "documentId": "eph80-06",
+      "title": "SJAA SURVEY",
+      "summary": "This document is a survey from SJAA (likely an astronomical association) designed to gather information about its members. It asks about telescope ownership and specifications, principal astronomical interests such as variable star work, deep sky observing, and astrophotography, and gauges interest in attending or teaching workshops on topics like telescope making, astrophotography, and learning the night sky. The survey also inquires about participation in observing teams, aiming to inform future club programs and activities.",
+      "categories": [
+        "Surveys",
+        "Member engagement",
+        "Club activities",
+        "Astronomy interests",
+        "Workshops"
+      ],
+      "keywords": [
+        "SJAA",
+        "Survey",
+        "Telescope ownership",
+        "Astronomical interests",
+        "Workshops",
+        "Telescope making",
+        "Astrophotography",
+        "Occultations",
+        "Variable stars",
+        "Deep sky observing",
+        "Lunar and planetary observing",
+        "Club planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8006/Eph80_06.pdf",
+      "txtPath": "8006/Eph80_06.md"
+    }
+  ]
+}

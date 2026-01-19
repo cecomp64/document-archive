@@ -1,0 +1,367 @@
+{
+  "articles": [
+    {
+      "id": "eph80-07-july-80",
+      "documentId": "eph80-07",
+      "title": "July '80",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) activities for July and August 1980, including star parties, board meetings, an annual picnic, and indoor star parties. It also announces Kevin Medlock as the recipient of the first annual Dr. A.B. Gregory Award for his service to the SJAA and amateur astronomy, to be presented at the July 19th picnic.",
+      "categories": [
+        "Club Announcements",
+        "Events Calendar",
+        "Amateur Astronomy",
+        "Awards"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "Board Meeting",
+        "Annual Picnic",
+        "Dr. A.B. Gregory Award",
+        "Kevin Medlock",
+        "July 1980",
+        "August 1980",
+        "New Moon",
+        "Full Moon",
+        "Solar Eclipse",
+        "Lunar Eclipse",
+        "Club Activities",
+        "Observing Events",
+        "Rosicrucian Planetarium"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph80-07-observations",
+      "documentId": "eph80-07",
+      "title": "Observations",
+      "summary": "The article describes two successful star parties hosted by the SJAA in June: one at Sanborn Canyon and another at Fremont Peak. Both events were well-attended, featured good observing conditions, and allowed participants to view a variety of celestial objects, including planets, galaxies, globular clusters, and nebulae, using diverse astronomical equipment. Attendees enjoyed clear skies and engaging observations.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomical Clubs",
+        "Equipment",
+        "Deep-Sky Astronomy",
+        "Planetary Astronomy"
+      ],
+      "keywords": [
+        "Star party",
+        "Sanborn Canyon",
+        "Fremont Peak",
+        "SJAA",
+        "Seeing",
+        "Transparency",
+        "Mercury",
+        "Venus",
+        "Saturn",
+        "Ring Nebula (M57)",
+        "M86",
+        "NGC 6822",
+        "Helix Nebula (NGC 7293)",
+        "Galaxies",
+        "Globular Clusters",
+        "Deep-sky objects",
+        "Telescopes",
+        "Newtonian",
+        "Schmidt-Cassegrain",
+        "Meade",
+        "Celestron",
+        "Questar",
+        "Collimation",
+        "Dark nebulae",
+        "Naked-eye observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-sjaa-picnic-hamburger-fest",
+      "documentId": "eph80-07",
+      "title": "SJAA PICNIC & HAMBURGER FEST",
+      "summary": "The SJAA is hosting its annual Picnic & Hamburger Fest on July 19th at Portal Park in Cupertino, featuring food, officer installation, the Gregory Award presentation, and a club logo contest. Members are encouraged to bring potluck dishes and recreational items, with detailed directions provided. Additionally, the article announces the election of four new board members in June and reminds members to renew their annual dues.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "Picnic",
+        "Hamburger Fest",
+        "July 19th",
+        "Portal Park",
+        "Cupertino",
+        "Officer installation",
+        "Gregory Award",
+        "Logo contest",
+        "Board members",
+        "Club elections",
+        "Membership dues",
+        "Sky and Telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-07-members-news",
+      "documentId": "eph80-07",
+      "title": "Members News:",
+      "summary": "This 'Members News' article celebrates Patsy Minten's efforts in creating the club's public display board and promoting Astronomy Day. It announces the birth of Corina DeGraff, a new stargazer, and details a record-setting night at the Chabot Telescope Makers Workshop where Bobby Fingerhut, Dennis LeClerc, and the author successfully finished their telescope mirrors after months of challenging work, sharing a profound sense of accomplishment. The author, Denni, also thanks bulletin contributors and announces the next deadline.",
+      "categories": [
+        "Members News",
+        "Club Activities",
+        "Amateur Telescope Making",
+        "Community Outreach",
+        "Personal News"
+      ],
+      "keywords": [
+        "Patsy Minten",
+        "Club display board",
+        "Astronomy Day",
+        "Chabot Telescope Makers Workshop",
+        "Telescope mirror making",
+        "Mirror grinding",
+        "Bobby Fingerhut",
+        "Dennis LeClerc",
+        "Amateur astronomy",
+        "Club bulletin"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-the-glasspool-observing-site",
+      "documentId": "eph80-07",
+      "title": "The Glasspool Observing Site",
+      "summary": "The San Jose Astronomical Association (SJAA) has established a new twenty-acre observing site, the Glasspool Observing Site, in the Santa Cruz Mountains. Located at 2100 feet, the site offers excellent dark skies and ample space for telescopes, with the first star party scheduled for July. Attendees are provided with essential site guidelines, including fire safety and power usage, and the document also briefly details upcoming planetary occultations for the San Jose area.",
+      "categories": [
+        "Observing Site Announcement",
+        "Astronomical Events",
+        "Club News",
+        "Practical Information"
+      ],
+      "keywords": [
+        "Glasspool Observing Site",
+        "Star parties",
+        "SJAA",
+        "Santa Cruz Mountains",
+        "Dark skies",
+        "Observing location",
+        "Site guidelines",
+        "Astronomy club",
+        "Occultations",
+        "San Jose area"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-07-venus",
+      "documentId": "eph80-07",
+      "title": "Venus",
+      "summary": "This document presents a series of timed astronomical observations or calculations related to Venus on Wednesday, July 9. It details four contact times, presumably for a transit or occultation event, along with data on elongation, solar and lunar elevations, position angles, and lunar illumination, all recorded in PDT.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Planetary Science",
+        "Astronomical Events"
+      ],
+      "keywords": [
+        "Venus",
+        "Astronomical Observation",
+        "Contact Times",
+        "Transit",
+        "Occultation",
+        "Elongation",
+        "Lunar Illumination",
+        "Position Angle",
+        "PDT",
+        "July 9"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-jupiter",
+      "documentId": "eph80-07",
+      "title": "Jupiter",
+      "summary": "This document provides an observing guide for Jupiter on Tuesday, July 15, detailing specific times, positions, and phenomena related to its Galilean satellites' reappearance and the visibility of the Red Spot. It also includes warnings and tips for observing Venus with binoculars and mentions the moon's visibility if skies are clear.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "celestial events",
+        "planetary observation"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Galilean satellites",
+        "Callisto",
+        "Ganymede",
+        "Io",
+        "Europa",
+        "Red Spot",
+        "Venus",
+        "Moon",
+        "observation",
+        "immersion",
+        "reappearance",
+        "binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-comet-commets",
+      "documentId": "eph80-07",
+      "title": "COMET COMMETS",
+      "summary": "This article discusses the current lack of observable comets for amateur astronomers but anticipates the return of several periodic comets in Autumn and potential new discoveries. It highlights two significant amateur comet discoverers: William F. Denning (1881-1894), known for five discoveries and unique search methods, and Rolf Meier (1978-1979), the first Canadian to discover a comet, credited with two finds.",
+      "categories": [
+        "Comet Observing",
+        "Amateur Astronomy",
+        "Historical Discoveries",
+        "Comet Hunters",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discoveries",
+        "Amateur astronomers",
+        "Observing",
+        "William F. Denning",
+        "Rolf Meier",
+        "Periodic comets",
+        "Telescope",
+        "Comet hunting"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-07-astrophotography",
+      "documentId": "eph80-07",
+      "title": "ASTROPHOTOGRAPHY",
+      "summary": "This article provides an introduction to prime focus astrophotography for amateur astronomers, highlighting the challenges of insufficient light intensity with slower telescopes and film reciprocity failure. It suggests solutions like using faster f-ratio telescopes or sensitizing film. The author details essential equipment, including specific camera accessories, appropriate film types, and telescope requirements such as precise polar alignment, a rigid drive, and a guide scope, emphasizing the importance of patience.",
+      "categories": [
+        "Astrophotography",
+        "Technical Guide",
+        "Equipment Review",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Prime Focus",
+        "Amateur Telescopes",
+        "Film Photography",
+        "Reciprocity Failure",
+        "F-ratio",
+        "Film Sensitization",
+        "Polar Alignment",
+        "Guide Scope",
+        "Off-axis Guider",
+        "Nikon Camera",
+        "Celestron Telescope",
+        "Cassegrain",
+        "Newtonian"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-using-filters-in-amateur-astronomy-by-wayne-bloomah",
+      "documentId": "eph80-07",
+      "title": "Using Filters in Amateur Astronomy by Wayne Bloomah",
+      "summary": "Wayne Bloomah's article serves as a guide for amateur astronomers on using filters, detailing their applications for both visual observation and astrophotography. It outlines general rules, such as avoiding filters on faint objects, and describes specific filter types (e.g., yellow, red, blue, green, polarizing) and their effects on various celestial objects like the Moon, planets, and double stars. The author encourages experimentation and proper technique to enhance observational and photographic results in astronomy.",
+      "categories": [
+        "Observing Guide",
+        "Equipment Guide",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Educational"
+      ],
+      "keywords": [
+        "Astronomical Filters",
+        "Amateur Astronomy",
+        "Astrophotography",
+        "Visual Observing",
+        "Moon Observation",
+        "Planetary Observation",
+        "Double Star Observation",
+        "Yellow Filter",
+        "Red Filter",
+        "Blue Filter",
+        "Green Filter",
+        "Polarizing Filter",
+        "Neutral Density Filter",
+        "Telescope Accessories"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-07-answers-to-last-month-s-skyword-puzzle-6-by-fred-braniff",
+      "documentId": "eph80-07",
+      "title": "ANSWERS TO LAST MONTH'S SKYWORD PUZZLE #6 by Fred Braniff",
+      "summary": "This document displays the complete solution grid for 'SKYWORD PUZZLE #6' by Fred Braniff. It reveals various astronomical terms, constellations, and related concepts, serving as the answers to the previous month's crossword challenge.",
+      "categories": [
+        "Puzzles",
+        "Astronomy",
+        "Educational Resources",
+        "Crossword Solutions"
+      ],
+      "keywords": [
+        "Skyword Puzzle",
+        "Crossword Answers",
+        "Astronomy Terms",
+        "Constellations",
+        "Telescope",
+        "Diffuse",
+        "Spiral",
+        "Cluster",
+        "Lunar",
+        "Comet",
+        "Cassiopeia",
+        "Cygnus",
+        "Vulpecula",
+        "Lacerta",
+        "Spica",
+        "Aries",
+        "Dragon",
+        "Fred Braniff"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-07-neinchel-s",
+      "documentId": "eph80-07",
+      "title": "NEINCHEL'S",
+      "summary": "The article \"NEINCHEL'S\" humorously tackles the practical challenge of moving a large C-11 telescope tube assembly through a doorway. It presents a series of absurd and imaginative \"solutions\" to this problem, personified by various figures and concepts such as \"The Man of Steel,\" \"The Acrobat,\" \"The San Andreas Fault,\" and \"Archimedes.\"",
+      "categories": [
+        "Humor",
+        "Amateur Astronomy",
+        "Practical Challenges",
+        "Creative Problem Solving"
+      ],
+      "keywords": [
+        "C-11 telescope",
+        "Telescope assembly",
+        "Equipment transport",
+        "Astronomy humor",
+        "Practical astronomy",
+        "Problem solving"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8007/Eph80_07.pdf",
+      "txtPath": "8007/Eph80_07.md"
+    }
+  ]
+}

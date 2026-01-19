@@ -1,0 +1,1134 @@
+{
+  "articles": [
+    {
+      "id": "eph85-05-may-1985",
+      "documentId": "eph85-05",
+      "title": "MAY 1985",
+      "summary": "This document details a schedule of astronomical events for May and early June 1985, primarily for an astronomy club. Key activities include the 8th Annual Astronomical Auction, pre-auction planning, and two field expeditions for astronomical observation. Other events feature the Riverside Telescope Makers Conference, a general meeting with a guest speaker on observing and amateur astronomy, and an indoor star party.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Club Activities",
+        "Observing",
+        "Conferences",
+        "Meetings"
+      ],
+      "keywords": [
+        "May 1985",
+        "June 1985",
+        "Astronomical Auction",
+        "Field Expedition for Astronomical Observation",
+        "Riverside Telescope Makers Conference",
+        "Amateur Astronomy",
+        "Observing",
+        "Telescopes",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Grant Ranch",
+        "Los Gatos Red Cross Building"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-astronomical-auction",
+      "documentId": "eph85-05",
+      "title": "ASTRONOMICAL AUCTION",
+      "summary": "This article announces two significant astronomical events: an Astronomical Auction on May 11th at the Los Gatos Red Cross building, urging attendees to bring items for sale and pre-register. It also details the 17th Annual Riverside Telescope Makers Conference (RTMC) from May 24-27th at Camp Oakes near Big Bear City, highlighting its suitability for deep-sky observing and its status as a major gathering for amateur astronomers.",
+      "categories": [
+        "Events",
+        "News",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "RTMC",
+        "Riverside Telescope Makers Conference",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Eyepieces",
+        "Observing",
+        "Camping",
+        "Big Bear City",
+        "Los Gatos",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-field-of-view",
+      "documentId": "eph85-05",
+      "title": "FIELD OF VIEW",
+      "summary": "The article details a weekend observing session at Fremont Peak around March 23rd, characterized by clear skies but high humidity, which caused issues for Schmidt-Cassegrain telescope owners. Despite challenging conditions, attendees enjoyed activities like a demonstration of the new Minolta Maxxum SLR camera and filming for the future P.P.O. \"A\" observatory. Observations of objects like \"The Ring Tail\" galaxy and M81 were made, and preparations were noted for the movement of John Stewart's large observatory dome.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Equipment/Technology",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing session",
+        "Humidity",
+        "Schmidt-Cassegrain",
+        "Minolta Maxxum",
+        "Auto-focus camera",
+        "P.P.O. \"A\" observatory",
+        "John Stewart",
+        "Observatory dome",
+        "Ring Tail galaxy",
+        "M81",
+        "Astrophotography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph85-05-comet-mainia-strikes-telescope-manufactures",
+      "documentId": "eph85-05",
+      "title": "COMET MAINIA STRIKES TELESCOPE MANUFACTURES",
+      "summary": "The article observes that telescope prices, particularly for 8\" Celestron C8 models, have significantly increased, noting a $2400 list price in the Spring Orion Telescope Center catalogue. This surge is attributed to a \"Comet Halley mania\" driving up demand, with the author predicting a substantial price drop by the end of 1986 once the comet is no longer visible.",
+      "categories": [
+        "Industry Analysis",
+        "Consumer Advice",
+        "Observing Trends",
+        "News"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "Telescopes",
+        "Celestron C8",
+        "Prices",
+        "Demand",
+        "Orion Telescope Center",
+        "Manufacturing",
+        "1986"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-membership-renewals",
+      "documentId": "eph85-05",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "SJAA members are advised to send their Sky and Telescope subscription renewal cards and membership renewals to Bob Fingerhut. Submitting renewals promptly will ensure uninterrupted delivery of Sky and Telescope magazine and the Ephemeris.",
+      "categories": [
+        "Membership",
+        "Announcements",
+        "Administrative"
+      ],
+      "keywords": [
+        "membership renewal",
+        "SJAA",
+        "Sky and Telescope",
+        "Ephemeris",
+        "subscription"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-yosemite-star-party",
+      "documentId": "eph85-05",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The San Jose Astronomical Association is planning a star party in Yosemite National Park on July 12/13, with camping at Bridalveil campground and observing at Glacier Point. Attendees are required to entertain park guests with their telescopes until late evening, and coordination with the event organizer is necessary for sign-up and specific details regarding power and telescope setup.",
+      "categories": [
+        "Event Announcement",
+        "Observing Event",
+        "Club Activity",
+        "Camping"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Glacier Point",
+        "Bridalveil campground",
+        "SJAA",
+        "Astronomy",
+        "Telescopes",
+        "Stargazing",
+        "National Park",
+        "Event Planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-equipment",
+      "documentId": "eph85-05",
+      "title": "EQUIPMENT",
+      "summary": "The article reviews J.M.I. Inc.'s electric focuser, a device that attaches to Celestron or Meade telescopes, enabling remote focus adjustments with a 5-digit position display. While it significantly eases critical focusing for astrophotography, the unit's motor can cause telescope shake and interfere with off-axis guiders and multiple eyepiece holders, requiring an extension tube. Despite these issues, the author highly recommends it for serious astrophotographers seeking an electrically focusable telescope.",
+      "categories": [
+        "equipment review",
+        "technical",
+        "astrophotography"
+      ],
+      "keywords": [
+        "electric focuser",
+        "J.M.I. Inc.",
+        "Celestron",
+        "Meade",
+        "telescope equipment",
+        "astrophotography",
+        "focusing",
+        "Super C8",
+        "off-axis guider"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-fpoa-membership-application",
+      "documentId": "eph85-05",
+      "title": "FPOA MEMBERSHIP APPLICATION",
+      "summary": "The SJAA board has approved the inclusion of the FPOA membership application form in the Ephemeris publication. This informs members and interested parties about the availability of the application.",
+      "categories": [
+        "Organizational News",
+        "Membership",
+        "Announcement"
+      ],
+      "keywords": [
+        "FPOA",
+        "SJAA",
+        "Membership Application",
+        "Board Approval",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-vojvodich-speaks-to-the-sjaa",
+      "documentId": "eph85-05",
+      "title": "VOJVODICH SPEAKS TO THE SJAA",
+      "summary": "Nick Vojvodich, Project Manager for the Galileo Jupiter orbiter, presented to 30 members of the SJAA, providing an informative mission description despite technical difficulties. He announced a NASA update, adding an asteroid option to the Galileo mission and changing Jupiter's arrival date to December 10, 1988. The mission's 22-month tour will focus on long-term studies of Io's active volcanoes, Jupiter's atmosphere, and high-resolution mapping of its satellites.",
+      "categories": [
+        "Events",
+        "News",
+        "Space Exploration",
+        "Missions"
+      ],
+      "keywords": [
+        "Galileo mission",
+        "Jupiter orbiter",
+        "Nick Vojvodich",
+        "SJAA",
+        "NASA",
+        "Asteroid option",
+        "Jovian system",
+        "Io",
+        "Planetary science"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-lunar-silhouettes",
+      "documentId": "eph85-05",
+      "title": "LUNAR SILHOUETTES",
+      "summary": "The SJAA thanked Bob Hewett and Dick Humpheries for attending an Indoor Star Party and wished them luck with their project to photograph the full Moon rising behind Mt. Hamilton observatory buildings. Additionally, the article announces an upcoming June 1st General Meeting where Jay Fregman will present on amateur astronomy observing, covering telescope types, eyepieces, and techniques, which is highly recommended for beginners.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Tips",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "Indoor Star Party",
+        "Moon photography",
+        "Mt. Hamilton",
+        "General Meeting",
+        "Jay Fregman",
+        "amateur astronomy",
+        "telescopes",
+        "eyepieces",
+        "observing techniques",
+        "beginners"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-comet-comments-by-don-machholz",
+      "documentId": "eph85-05",
+      "title": "COMET COMMENTS BY DON MACHHOLZ",
+      "summary": "Don Machholz's \"Comet Comments\" for 1985 reports the recovery of Periodic Comet Ashbrook-Jackson (1985a1) on March 20 at magnitude 18, with expectations to brighten to magnitude 13 by late summer. It also provides an ephemeris and observational notes for Comet Shoemaker (1984f), noting its southern location, fainter-than-expected magnitude 11.3, and diffuse appearance. The article briefly mentions Comet Halley's position and historical comet observations.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Astronomy",
+        "Ephemerides",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Comets",
+        "Don Machholz",
+        "Comet Shoemaker",
+        "Comet Ashbrook-Jackson",
+        "Comet Halley",
+        "Comet Recovery",
+        "Magnitude",
+        "Ephemeris",
+        "Observational Astronomy",
+        "1985"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph85-05-what-goes-around-comes-around-halley-s-comet",
+      "documentId": "eph85-05",
+      "title": "WHAT GOES AROUND COMES AROUND - HALLEY'S COMET",
+      "summary": "The article discusses the current (at the time of writing) and anticipated visibility of Halley's Comet, noting its faintness compared to its spectacular 1910 appearance. It elaborates on Halley's 1910 pass and introduces \"The Great January Comet\" of the same year, a brighter but unexpected comet that many might have confused with Halley's, detailing key differences in their visibility and characteristics. The author suggests most people likely saw Halley's, despite the other comet's brightness.",
+      "categories": [
+        "Cometary Astronomy",
+        "Historical Astronomy",
+        "Observational Astronomy",
+        "Comet Visibility"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Great January Comet",
+        "Comet observation",
+        "1910",
+        "Magnitude",
+        "Comet tail",
+        "Naked-eye object",
+        "Lick Observatory",
+        "Robert Innes",
+        "Lunar eclipse"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-date-1985-r-a-1950-dec-elong-sky-mag-dis-sun-and-earth",
+      "documentId": "eph85-05",
+      "title": "DATE(1985) R.A. (1950) DEC ELONG SKY MAG. DIS. SUN AND EARTH",
+      "summary": "This document presents an ephemeris for Halley's Comet (1910 II) for select dates between April and June 1985. It provides crucial astronomical data including right ascension, declination, elongation, sky visibility (morning/evening), visual magnitude, and its distances from both the Sun and Earth. This information is vital for observers tracking the comet's position and brightness during that period.",
+      "categories": [
+        "Astronomical Data",
+        "Comet Ephemeris",
+        "Observing Information"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comet",
+        "Ephemeris",
+        "1985",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-date-1910-r-a-1950-dec-elong-sky-mag-dis-sun-and-earth",
+      "documentId": "eph85-05",
+      "title": "DATE(1910) R.A. (1950) DEC ELONG SKY MAG. DIS. SUN AND EARTH",
+      "summary": "The article presents an ephemeris for 'The Great January Comet (1910 I)', detailing its observational data across several dates in January and early February 1910. It includes specific figures for Right Ascension, Declination, sky elongation (morning/evening), visual magnitude, and distances from both the Sun and Earth. The data indicates the comet reached its peak brightness around January 20th, observed in the evening sky.",
+      "categories": [
+        "Historical Astronomy",
+        "Cometology",
+        "Astronomical Data",
+        "Observing Reports",
+        "Ephemerides"
+      ],
+      "keywords": [
+        "Great January Comet (1910 I)",
+        "Comet",
+        "1910",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Astronomical data",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-refreshments-wanted",
+      "documentId": "eph85-05",
+      "title": "REFRESHMENTS WANTED",
+      "summary": "The SVAA is requesting members to bring food and beverages to this year's auction, replicating last year's successful refreshment contribution. Members are encouraged to bring extra items like hot dogs, chips, dips, and soft drinks to share with others attending the event.",
+      "categories": [
+        "event announcement",
+        "club activities",
+        "member request",
+        "social event"
+      ],
+      "keywords": [
+        "auction",
+        "refreshments",
+        "food",
+        "beverages",
+        "SVAA",
+        "sharing",
+        "members",
+        "event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-by-steve-gottlieb",
+      "documentId": "eph85-05",
+      "title": "BY: STEVE GOTTLIEB",
+      "summary": "The article presents Steve Gottlieb's detailed observational notes on challenging and often misidentified planetary nebulae, including Abell 31, Minkowski 1-18, Kohodsandulak 2-21, and PK 164+31 1, complete with historical cataloging errors and observing specifics. Additionally, Don Machholz provides a guide for observing Jupiter's Great Red Spot, offering practical advice on required magnification, techniques, and a schedule for optimal viewing in 1985.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Objects",
+        "Planetary Astronomy",
+        "Observational Techniques",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "Jupiter",
+        "Great Red Spot",
+        "Abell Objects",
+        "Astronomy Catalogs",
+        "Telescope Observations",
+        "Observational Tips",
+        "Deep-Sky Observing",
+        "UHC filter"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph85-05-discovery-launched-april-12th",
+      "documentId": "eph85-05",
+      "title": "DISCOVERY LAUNCHED APRIL 12TH",
+      "summary": "The Space Shuttle Discovery launched on April 12th, deploying a Canadian Telesat satellite. However, the satellite was crippled by a lack of power, preventing its rocket from functioning. A subsequent spacewalk successfully attempted a repair, but the satellite still failed to activate when handled by the shuttle's remote manipulator arm.",
+      "categories": [
+        "Spaceflight",
+        "Mission Update",
+        "Technical Issue",
+        "News"
+      ],
+      "keywords": [
+        "Discovery",
+        "launch",
+        "Telesat",
+        "satellite",
+        "deployment",
+        "power failure",
+        "spacewalk",
+        "repair",
+        "remote manipulator arm"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-challenger-scheduled-for-launch-april-29th",
+      "documentId": "eph85-05",
+      "title": "CHALLENGER SCHEDULED FOR LAUNCH APRIL 29TH",
+      "summary": "The Spacelab 3, mission 51-B, aboard the Challenger space shuttle is scheduled for launch in the period of April 14 or 15. The mission aims to conduct various experiments, including those in material science and fluid mechanics, and will also carry instruments for astronomical observations.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Science Missions",
+        "Upcoming Events"
+      ],
+      "keywords": [
+        "Challenger",
+        "Spacelab 3",
+        "Mission 51-B",
+        "Space Launch",
+        "Material Science",
+        "Fluid Mechanics",
+        "Astronomical Observations",
+        "Experiments"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-new-shuttle-manifest-issued",
+      "documentId": "eph85-05",
+      "title": "NEW SHUTTLE MANIFEST ISSUED",
+      "summary": "The article announces the revised Space Shuttle manifest for the remainder of the year and into early 1986, detailing several missions with their scheduled dates, assigned orbiters (Discovery, Challenger, Atlantis, Columbia), and primary payloads. Key missions include Spacelab deployments, communication satellite launches, material science labs, and a Department of Defense mission. It also mentions the delivery of Atlantis to KSC and the delay of the first Vandenberg flight to March 1986.",
+      "categories": [
+        "Space Missions",
+        "Space Shuttle Program",
+        "Schedule Updates",
+        "Payloads",
+        "Astronautics"
+      ],
+      "keywords": [
+        "Shuttle manifest",
+        "Space Shuttle",
+        "NASA",
+        "Discovery",
+        "Challenger",
+        "Atlantis",
+        "Columbia",
+        "Spacelab",
+        "Payloads",
+        "Communication Satellites",
+        "Department of Defense",
+        "Vandenberg",
+        "KSC",
+        "1985",
+        "1986"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-great-red-spot-recovered",
+      "documentId": "eph85-05",
+      "title": "GREAT RED SPOT RECOVERED!",
+      "summary": "The Great Red Spot of Jupiter was successfully observed on April 14 at Fremont Peak state park under excellent conditions, noting its yellow color, position on the southern equatorial belt, and a new, strangely oval shape. The article details the observation and provides practical tips for amateur astronomers to view the Spot, including recommended equipment and optimal viewing times, emphasizing the need for good seeing and sufficient magnification.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Planetary Observation",
+        "Observational Tips"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Astronomy",
+        "Observation",
+        "Fremont Peak",
+        "Southern Equatorial Belt",
+        "Apodizing screen",
+        "Magnification",
+        "Telescope",
+        "Refractor"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph85-05-ariane-launch-delayed",
+      "documentId": "eph85-05",
+      "title": "ARIANE LAUNCH DELAYED",
+      "summary": "The Ariane launch, initially planned for April 23, has been postponed until May 7 due to concerns about possible contamination of the rocket's components. This mission is intended to deploy two communication satellites: GTE Spacenet from the USA and France's Telecom-1B.",
+      "categories": [
+        "News",
+        "Space Launch",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Ariane",
+        "Launch Delay",
+        "Communication Satellites",
+        "GTE Spacenet",
+        "Telecom-1B",
+        "Rocket",
+        "Contamination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-nasa-and-japan-agree-on-spacelab-flight",
+      "documentId": "eph85-05",
+      "title": "NASA AND JAPAN AGREE ON SPACELAB FLIGHT",
+      "summary": "NASA and Japan have reached an agreement for a Spacelab flight in January 1988. During this mission, a Japanese astronaut will perform approximately 34 different materials processing tests, marking Japan's first such experiment.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "International Cooperation"
+      ],
+      "keywords": [
+        "NASA",
+        "Japan",
+        "Spacelab",
+        "astronaut",
+        "materials processing",
+        "space flight",
+        "1988"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-nasa-testing-grazing-incidence-mirrors",
+      "documentId": "eph85-05",
+      "title": "NASA TESTING GRAZING INCIDENCE MIRRORS",
+      "summary": "NASA is conducting tests on grazing incidence mirrors at an X-ray test facility at MSFC. These mirrors are crucial for short wavelength astronomy and are intended for the Advanced X-ray Astrophysics Facility (AXAF), which NASA aims to initiate in fiscal year 1987. A minimum angular resolution has been established for these tests to meet AXAF's requirements.",
+      "categories": [
+        "news",
+        "technical",
+        "astronomy",
+        "research & development"
+      ],
+      "keywords": [
+        "NASA",
+        "grazing incidence mirrors",
+        "X-ray astronomy",
+        "AXAF",
+        "Advanced X-ray Astrophysics Facility",
+        "MSFC",
+        "short wavelength",
+        "angular resolution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-galileo-completes-initial-environmental-tests",
+      "documentId": "eph85-05",
+      "title": "GALILEO COMPLETES INITIAL ENVIRONMENTAL TESTS",
+      "summary": "The Galileo spacecraft has successfully completed its initial environmental tests. It is now scheduled for shipment from JPL in December, with its launch anticipated in May 1986.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Project Updates",
+        "Aerospace Industry"
+      ],
+      "keywords": [
+        "Galileo",
+        "Environmental Tests",
+        "JPL",
+        "Spacecraft",
+        "Launch",
+        "1986"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-esa-defines-saturn-moon-probe",
+      "documentId": "eph85-05",
+      "title": "ESA DEFINES SATURN MOON PROBE",
+      "summary": "The European Space Agency (ESA) has finished preliminary definition work for a descent probe designed for Titan, Saturn's largest moon. This probe is intended to be part of NASA's proposed Cassini mission to Saturn, which was planned for the 1990s.",
+      "categories": [
+        "Space Exploration",
+        "Mission Planning",
+        "News",
+        "Technical Development"
+      ],
+      "keywords": [
+        "ESA",
+        "Saturn",
+        "Titan",
+        "Cassini mission",
+        "Space probe",
+        "Descent probe",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-agreement-for-international-cooperation-on-space-station-reached",
+      "documentId": "eph85-05",
+      "title": "AGREEMENT FOR INTERNATIONAL COOPERATION ON SPACE STATION REACHED",
+      "summary": "NASA has finalized an agreement with Europe, Japan, and Canada for international cooperation on the space station, enabling Phase B definition studies to commence. Europe's contribution includes a Man Tended Free Flying platform, part of its Columbus program, while NASA has also selected six U.S. contractor teams for design work. A specific award for the overall station structure has been postponed due to intense competition.",
+      "categories": [
+        "News",
+        "Space Programs",
+        "International Cooperation",
+        "Space Station Development"
+      ],
+      "keywords": [
+        "NASA",
+        "Europe",
+        "Japan",
+        "Canada",
+        "Space Station",
+        "International Cooperation",
+        "Columbus program",
+        "Man Tended Free Flying platform",
+        "British Aerospace",
+        "Contractors",
+        "Phase B studies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-ussr-reveals-space-plans",
+      "documentId": "eph85-05",
+      "title": "USSR REVEALS SPACE PLANS",
+      "summary": "Russian scientists visiting the U.S. revealed detailed plans for future Soviet space missions. These include a 1986 Mars/Phobos mission involving two spacecraft, one to study Phobos up close with laser and ion beams; a 1989-90 Lunar Polar Orbiter for geochemical mapping; and a proposed 1991 Venus/Asteroid lander mission, which is not yet approved.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Future Missions",
+        "Astrophysics"
+      ],
+      "keywords": [
+        "USSR",
+        "Space Plans",
+        "Mars Mission",
+        "Phobos",
+        "Lunar Polar Orbiter",
+        "Venus Lander",
+        "Asteroid Lander",
+        "Vesta",
+        "Geochemical Mapping",
+        "Laser Beams",
+        "Ion Beams"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-astro-ads",
+      "documentId": "eph85-05",
+      "title": "ASTRO ADS",
+      "summary": "This document features two classified advertisements related to astronomical equipment. One ad offers a large 22\" Burk tube with mirrors for free, while the other is a 'wanted' ad for a Convert Compact 10\" f/5 Dobsonian telescope.",
+      "categories": [
+        "classifieds",
+        "equipment",
+        "astronomy hardware"
+      ],
+      "keywords": [
+        "telescope",
+        "Dobsonian",
+        "mirrors",
+        "Burk tube",
+        "astronomy equipment",
+        "free",
+        "wanted"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-spring-star-party-at-the-peak-by-john-gleason",
+      "documentId": "eph85-05",
+      "title": "SPRING STAR PARTY AT THE PEAK BY: JOHN GLEASON",
+      "summary": "The article details a highly successful Spring Star Party at Fremont Peak on April 13th, marked by unusually warm weather and excellent observing conditions. Attendees enjoyed spectacular celestial views, including the 'first light' of Bob Fingerhut's new 18-inch telescope, which offered phenomenal sights of the Eagle and Horsehead Nebulae. Observers also reported impressive observations of Saturn, Jupiter, and a particularly vivid view of the Trifid Nebula, making it one of the finest spring star parties held at the location.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Spring Star Party",
+        "Fremont Peak",
+        "Amateur Astronomy",
+        "Observing",
+        "Telescopes",
+        "Bob Fingerhut",
+        "Sirius",
+        "Eagle Nebula",
+        "Horsehead Nebula",
+        "Saturn",
+        "Jupiter",
+        "Trifid Nebula",
+        "Pipe Nebula",
+        "Dark Horse Nebula",
+        "Atmospheric Seeing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-questions-of-the-month",
+      "documentId": "eph85-05",
+      "title": "QUESTIONS OF THE MONTH",
+      "summary": "This article, titled 'QUESTIONS OF THE MONTH', serves as an internal inquiry from the club regarding the whereabouts of its $1000 CID camera and several club telescopes. It specifically mentions that David O. York currently has the club's 14-inch telescope and is looking for someone to take responsibility for it. The club requests members to contact the editor or David O. York with information or to arrange a transfer of the telescope.",
+      "categories": [
+        "Club Announcements",
+        "Equipment Management",
+        "Call for Information",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "Club equipment",
+        "CID camera",
+        "Club telescopes",
+        "14-inch telescope",
+        "Missing items",
+        "Equipment loan",
+        "Club assets",
+        "Community outreach"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph85-05-guidelines-for-participation-in-glacier-point-star-parties",
+      "documentId": "eph85-05",
+      "title": "GUIDELINES FOR PARTICIPATION IN GLACIER POINT STAR PARTIES",
+      "summary": "This document details the operational guidelines for participating in Glacier Point Star Parties, issued by the park service. It outlines rules for vehicle limits, participant numbers, telescope setup locations, camping regulations at both Glacier Point Ranger Station and Bridalveil Campground, and the primary goal of providing an astronomy interpretive program for park visitors. An editor's note offers additional advice on site benefits and astrophotography opportunities.",
+      "categories": [
+        "Event Guidelines",
+        "Astronomy Outreach",
+        "Logistics",
+        "Park Regulations"
+      ],
+      "keywords": [
+        "Glacier Point",
+        "Star Parties",
+        "Participation Guidelines",
+        "Park Service",
+        "Telescope Setup",
+        "Camping Rules",
+        "Visitor Education",
+        "Astrophotography",
+        "Observing Site",
+        "Bridalveil Campground"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph85-05-saturday-may-11th-6-00-pm",
+      "documentId": "eph85-05",
+      "title": "SATURDAY MAY 11TH 6:00 PM",
+      "summary": "This document announces a major astronomical swap meet and sale event scheduled for Saturday, May 11th, at 6:00 PM (doors open at 2:00 PM) at the Los Gatos Red Cross Building. It's an opportunity for individuals to buy and sell a wide array of astronomical equipment and related items, from telescopes and eyepieces to books and space art, and is described as one of the biggest and most fun astronomical events in the Bay Area.",
+      "categories": [
+        "Events",
+        "Sales",
+        "Swap Meet",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Astronomical event",
+        "Swap meet",
+        "Los Gatos",
+        "Telescopes",
+        "Eyepieces",
+        "Mountings",
+        "Mirrors",
+        "Lenses",
+        "Clock drives",
+        "Star charts",
+        "Bay Area"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph85-05-pre-registration-information",
+      "documentId": "eph85-05",
+      "title": "PRE-REGISTRATION INFORMATION",
+      "summary": "This document outlines the pre-registration process for the 5th Annual Bay Area Astronomical Auction, an event where individuals can sell astronomy or telescope-making related items. Participants are instructed to fill out a form, list their items with minimum prices and a percentage for the SJAA, and mail it with a Self-Addressed Stamped Envelope (SASE) to receive their bidder and item numbers prior to the event. The article also provides directions to the auction location, outlines the day's schedule including item registration cutoff times and auction start, payment methods, and a bidder/seller registration fee, with all proceeds benefiting public education in astronomy.",
+      "categories": [
+        "Events",
+        "Auction",
+        "How-to Guide",
+        "Event Information",
+        "Fundraising"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "Pre-registration",
+        "SJAA",
+        "Astronomy Equipment",
+        "Telescope Making",
+        "Fundraiser",
+        "Public Education",
+        "Bay Area",
+        "Auction Logistics",
+        "Item Registration"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph85-05-fremont-peak-observatory-association",
+      "documentId": "eph85-05",
+      "title": "FREMONT PEAK OBSERVATORY ASSOCIATION",
+      "summary": "The Fremont Peak Observatory Association (FPOA), founded in 1981 by Bay Area amateur astronomers, aims to build and operate an observatory at Fremont Peak State Park in California. This non-profit organization is planning to house 30-inch and 22-inch telescopes for public programs and private use, with completion expected in late 1985. The FPOA is currently seeking $8,000 in contributions and new members to fund construction and viewing opportunities, particularly anticipating Halley's Comet.",
+      "categories": [
+        "Observatory Project",
+        "Non-profit Organization",
+        "Amateur Astronomy",
+        "Community Outreach",
+        "Fundraising",
+        "News/Announcement"
+      ],
+      "keywords": [
+        "Fremont Peak Observatory Association",
+        "Fremont Peak State Park",
+        "Observatory construction",
+        "Amateur astronomers",
+        "Telescopes",
+        "Public programs",
+        "Membership",
+        "Fundraising",
+        "Halley's Comet",
+        "California State Park Department"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph85-05-all-classes-of-membership-are-entitled-to-the-following-privileges",
+      "documentId": "eph85-05",
+      "title": "All classes of membership are entitled to the following privileges:",
+      "summary": "This document details the privileges and rules for membership in the Fremont Peak Observatory Association (FPOA). Members are entitled to use telescopes and facilities, receive a quarterly newsletter, and participate in public viewing events, with voting rights generally activated after one year for non-corporate members. It also outlines a one-time initiation fee, the tax-deductible nature of contributions, and specific provisions for \"Charter Members\" through December 1985, along with payment instructions.",
+      "categories": [
+        "Membership Information",
+        "Organizational Policy",
+        "Non-profit Administration"
+      ],
+      "keywords": [
+        "Fremont Peak Observatory Association",
+        "FPOA",
+        "Membership",
+        "Privileges",
+        "Voting Rights",
+        "Charter Member",
+        "Initiation Fee",
+        "Tax-deductible",
+        "Observatory Facilities",
+        "Application"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-application-for-membership",
+      "documentId": "eph85-05",
+      "title": "Application For Membership",
+      "summary": "This document is an application form for membership in the Fremont Peak Observatory Association. It details various membership categories (General, Family, Contributing, Sustaining, Life, Corporate) along with their annual fees and a one-time initiation fee. Applicants are prompted to provide personal information, select a membership category, and submit payment.",
+      "categories": [
+        "Administrative",
+        "Membership",
+        "Application Form",
+        "Organizational Document"
+      ],
+      "keywords": [
+        "Membership Application",
+        "Fremont Peak Observatory Association",
+        "Fees",
+        "Membership Categories",
+        "Organization",
+        "Application Form"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph85-05-general-meetings",
+      "documentId": "eph85-05",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides details for the monthly general meetings of the SJAA, which are held at 8 PM at the Los Gatos Red Cross building. This location, 18011 Los Gatos-Saratoga Rd., Los Gatos, California, also hosts the SJAA's indoor star parties. Detailed driving directions from Hwy 17 are included for attendees.",
+      "categories": [
+        "meetings",
+        "events",
+        "logistics",
+        "club information"
+      ],
+      "keywords": [
+        "general meetings",
+        "Los Gatos Red Cross building",
+        "SJAA",
+        "indoor star parties",
+        "meeting location",
+        "meeting time",
+        "directions",
+        "Los Gatos, California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-grant-ranch-county-park",
+      "documentId": "eph85-05",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "Grant Ranch County Park is introduced as a new observing site for the SJAA, located on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. The article provides directions to the park and instructions for after-sunset access, including a combination lock (4585) for the gate and the importance of relocking it.",
+      "categories": [
+        "Observing Site Information",
+        "Club Announcement",
+        "Directions/Access"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "observing site",
+        "directions",
+        "gate access",
+        "combination lock",
+        "4585"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-henry-coe-state-park",
+      "documentId": "eph85-05",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed driving directions to Henry Coe State Park, advising visitors to take the East Dunne exit from Hwy 101 and continue east to the park. It includes specific instructions for arrival, such as how to handle the gate (which is left open for SJAA members to close) and a tip to park outside and hike in first if arriving after dark to find an observing site, using only parking lights once inside.",
+      "categories": [
+        "directions",
+        "observing guide",
+        "logistics",
+        "site information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "directions",
+        "observing site",
+        "parking",
+        "SJAA",
+        "astronomy",
+        "gate"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-fremont-peak-state-park",
+      "documentId": "eph85-05",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving instructions to Fremont Peak State Park, which serves as a site for the San Jose Astronomical Association (SJAA). It includes turn-by-turn directions from Hollister or San Juan Bautista and a reminder about parking light usage after dark. The article also briefly mentions \"EPHEMERIS,\" a monthly publication by the SJAA.",
+      "categories": [
+        "Directions",
+        "Observing Site Information",
+        "Astronomical Association Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "driving directions",
+        "observing site",
+        "astronomy club",
+        "EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-officers",
+      "documentId": "eph85-05",
+      "title": "OFFICERS:",
+      "summary": "This document lists the officers of an organization, including the President (Robert Fingerhut), Vice-President (Dave Ambrose), Secretary (James Van Nuland), and Treasurer (Robert Fingerhut). It provides their names, titles, addresses, and phone numbers.",
+      "categories": [
+        "administrative",
+        "organization",
+        "directory"
+      ],
+      "keywords": [
+        "officers",
+        "president",
+        "vice-president",
+        "secretary",
+        "treasurer",
+        "Robert Fingerhut",
+        "Dave Ambrose",
+        "James Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-board-of-directors",
+      "documentId": "eph85-05",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document lists the names and corresponding phone numbers of the members of an organization's Board of Directors. It serves as a contact roster for individuals such as Paul Mancuso, Steve Greenberg, Tom Ahl, and others.",
+      "categories": [
+        "Organizational",
+        "Contact Information",
+        "Directory",
+        "Administration"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "contact list",
+        "phone numbers",
+        "organizational structure",
+        "administration",
+        "Paul Mancuso",
+        "Steve Greenberg",
+        "Tom Ahl"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-club-telescopes",
+      "documentId": "eph85-05",
+      "title": "CLUB TELESCOPES",
+      "summary": "The SJAA (San Jose Astronomical Association) offers three telescopes for members to borrow for two-month periods. Members are responsible for arranging the transfer of telescopes among themselves and notifying a board member or editor when a telescope changes hands. Additionally, the article mentions that members and friends can place astronomical-related want ads in the Ephemeris publication, which will run for two months unless otherwise specified.",
+      "categories": [
+        "Member Services",
+        "Club Policy",
+        "Equipment Loan",
+        "Community Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "club telescopes",
+        "telescope loan",
+        "members",
+        "want ads",
+        "Ephemeris",
+        "astronomy club"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph85-05-san-jose-astronomical-association-membership-application",
+      "documentId": "eph85-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines various membership options, including standard adult, junior (under 18), and a combined membership with a Sky & Telescope magazine subscription, each with its corresponding fee. The form also provides instructions for submission, either by bringing it to an SJAA meeting or mailing it to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Forms",
+        "Organization Information",
+        "Fees/Pricing"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Contact Information",
+        "Application Form"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-05-questionnaire-optional",
+      "documentId": "eph85-05",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire designed to gather information from individuals about their astronomical interests, such as astro-photography or deep-sky observation, and whether they own a telescope. It also asks if they have expertise in any area of astronomy that could be shared with others. The inclusion of mailing information for \"SJAA EPHEMERIS\" suggests it's part of a publication from an astronomy club or organization.",
+      "categories": [
+        "Questionnaire",
+        "Community Engagement",
+        "Membership Survey",
+        "Club Activities",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "astronomy interests",
+        "telescope ownership",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope making",
+        "astronomical expertise",
+        "SJAA",
+        "member survey",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph85-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8505/Eph85_05.pdf",
+      "txtPath": "8505/Eph85_05.md"
+    }
+  ]
+}

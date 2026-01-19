@@ -1,0 +1,819 @@
+{
+  "articles": [
+    {
+      "id": "eph83-12-ephemeris",
+      "documentId": "eph83-12",
+      "title": "EPHEMERIS",
+      "summary": "This document is an 'EPHEMERIS' for December 1983, published by the SJAA, likely an astronomical association. It features an image of a comet, suggesting it contains astronomical data, predictions, or observing information for that month, possibly tailored for amateur astronomers.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Data",
+        "Club Publication",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "December 1983",
+        "SJAA",
+        "Comet",
+        "Astronomy",
+        "Observing Guide"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-12-upcoming-events",
+      "documentId": "eph83-12",
+      "title": "Upcoming Events",
+      "summary": "The San Jose Astronomical Association (SJAA) announces its December 17 General Meeting featuring an encore presentation by Ernie Piini on his \"Eclipse over Java\" experience and related experiments. Additionally, a star party is scheduled for December 3 at Grant Ranch County Park, following a successful event in November. The article also reports on Jim Eiselt joining the SJAA board, the passing of long-time supporter Mrs. Jean Gregory, and congratulatory birth announcements for two new families.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Observing Reports",
+        "Organizational Updates",
+        "Social Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meeting",
+        "Star Party",
+        "Solar Eclipse",
+        "Ernie Piini",
+        "Eclipse over Java",
+        "Grant Ranch County Park",
+        "Jim Eiselt",
+        "Wayne Rosing",
+        "Jean Gregory",
+        "Birth Announcements"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-12-ads",
+      "documentId": "eph83-12",
+      "title": "ADS",
+      "summary": "This document features a classifieds section primarily focused on astronomical equipment for sale, including various telescopes like C-8, C-90, and Ritchey-Chretien models, along with eyepieces, finders, and mounts. Additionally, it contains a request for an astronomical artist, a lost-and-found item from a star party, and an announcement about the Astronomical Society of the Pacific's catalog, alongside guidelines for placing ads.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "For Sale",
+        "Wanted",
+        "Lost and Found",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Astronomical equipment",
+        "Eyepieces",
+        "Finders",
+        "Mounts",
+        "Binoculars",
+        "Clock drive",
+        "Astronomy magazine",
+        "Star party",
+        "Astronomical Society of the Pacific",
+        "Artist",
+        "Advertising"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-12-old-business",
+      "documentId": "eph83-12",
+      "title": "Old Business:",
+      "summary": "This document lists items under 'Old Business' for an organization, indicating topics requiring attention or discussion. Key items include reviewing the calendar, the treasurer's report, discussion of the January meeting, an update on legal status, and the need to find a new bulletin editor.",
+      "categories": [
+        "Organizational Affairs",
+        "Administrative",
+        "Financial Reporting",
+        "Personnel Management"
+      ],
+      "keywords": [
+        "Old Business",
+        "Organizational Agenda",
+        "Treasurer's Report",
+        "Legal Status",
+        "Bulletin Editor",
+        "Meeting Discussion",
+        "Calendar Planning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-new-business",
+      "documentId": "eph83-12",
+      "title": "New Business:",
+      "summary": "The 'New Business' section outlines three key discussion points: Club Brochures, a proposal for Kevin's Observatory Pledge, and initial planning for an upcoming auction. The article also encourages all members to attend the open SJAA Board meetings, which have been made more accessible by moving them to indoor star party locations and publishing agendas to foster greater member input and engagement.",
+      "categories": [
+        "Club Operations",
+        "Board Meeting Agenda",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Club Brochures",
+        "Observatory Pledge",
+        "Auction Planning",
+        "SJAA Board",
+        "Board Meetings",
+        "Membership Engagement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-president-s-soapbox",
+      "documentId": "eph83-12",
+      "title": "PRESIDENT'S SOAPBOX",
+      "summary": "The President's end-of-year message reflects on the holiday season and provides updates on the club's progress. Key developments include the nearing approval of tax-exempt status, which will allow for tax-deductible donations, and significant steps towards acquiring a permanent observing and meeting site. The club also boasts a high membership retention rate and encourages members to provide feedback on its activities and growth.",
+      "categories": [
+        "Organizational Update",
+        "Administrative",
+        "Membership News",
+        "Financial",
+        "Future Plans"
+      ],
+      "keywords": [
+        "Tax exempt status",
+        "Permanent observing site",
+        "Membership growth",
+        "Donations",
+        "Club administration",
+        "Holiday greetings",
+        "Winter Solstice"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-12-notice-to-the-membership-of-proposed-changes-in-the-articles-of-incorporation",
+      "documentId": "eph83-12",
+      "title": "NOTICE TO THE MEMBERSHIP OF PROPOSED CHANGES IN THE ARTICLES OF INCORPORATION",
+      "summary": "This notice informs the membership about proposed changes to the organization's articles of incorporation, which were approved by the Board of Directors on November 19, 1983. These changes are necessary to obtain tax-exempt status from the IRS and are largely administrative, not expected to alter current activities. The membership will vote on these changes at the upcoming January general meeting.",
+      "categories": [
+        "Organizational Announcement",
+        "Legal/Regulatory",
+        "Membership Notice",
+        "Governance"
+      ],
+      "keywords": [
+        "Articles of Incorporation",
+        "Board of Directors",
+        "Tax Exempt Status",
+        "IRS",
+        "By-laws",
+        "Membership Vote",
+        "General Meeting",
+        "Corporate Documents"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-articles-of-incorporation",
+      "documentId": "eph83-12",
+      "title": "ARTICLES OF INCORPORATION",
+      "summary": "This document details the amended Articles of Incorporation for the San Jose Astronomical Association, certifying its establishment as a California nonprofit public benefit corporation. Its primary purpose is to further public knowledge and engage in scientific research in astronomy, operating exclusively for public purposes under Section 501(c)(3) of the Internal Revenue Code. The articles also outline restrictions against political campaigning or influencing legislation to maintain its tax-exempt status.",
+      "categories": [
+        "Legal Document",
+        "Nonprofit Organization",
+        "Corporate Governance",
+        "Compliance"
+      ],
+      "keywords": [
+        "Articles of Incorporation",
+        "San Jose Astronomical Association",
+        "Nonprofit Public Benefit Corporation",
+        "California Corporation",
+        "Astronomy",
+        "Scientific Research",
+        "Public Knowledge",
+        "501(c)(3)",
+        "Internal Revenue Code",
+        "Tax-Exempt Status"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-12-v",
+      "documentId": "eph83-12",
+      "title": "V",
+      "summary": "This document contains two distinct sections: a legal declaration outlining the corporate governance and non-profit status of an organization, detailing its dedication to public purposes and asset distribution upon dissolution to other 501(c)(3) entities. The other section is a commercial advertisement for LUMICON, an astronomy company, promoting its telescopes, astrophotography equipment, and accessories, with specific recommendations for observing or imaging Nebula NGC 7293.",
+      "categories": [
+        "Corporate Governance",
+        "Non-profit",
+        "Astronomy",
+        "Commercial Advertisement",
+        "Legal Document"
+      ],
+      "keywords": [
+        "Non-profit corporation",
+        "Corporate governance",
+        "501(c)(3)",
+        "Articles of incorporation",
+        "LUMICON",
+        "Astronomy equipment",
+        "Astrophotography",
+        "Telescopes",
+        "Nebula NGC 7293",
+        "Astronomical filters",
+        "Eyepieces"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-12-atm-coatings",
+      "documentId": "eph83-12",
+      "title": "ATM coatings",
+      "summary": "The document advertises 'ATM coatings', specializing in aluminum coatings with silicon monoxide over-coating for telescope mirrors, based in Oakland, CA. It provides a price list for various mirror sizes, notes that secondaries are free when sent with a primary, and details charges for old coating removal and minimum services. Customers are instructed to include postage and insurance for return mail.",
+      "categories": [
+        "Commercial Service",
+        "Amateur Telescope Making (ATM)",
+        "Optics",
+        "Pricing"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Aluminum Coatings",
+        "Silicon monoxide",
+        "Telescope mirrors",
+        "Mirror re-coating",
+        "Optics service",
+        "Primary mirror",
+        "Secondary mirror",
+        "Oakland CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-optron-systems",
+      "documentId": "eph83-12",
+      "title": "OPTRON SYSTEMS",
+      "summary": "OPTRON SYSTEMS is a retailer specializing in products for astronomers, offering a wide range of equipment and resources. They encourage visits to their showroom located in San Jose, CA. The company carries well-known brands such as Meade, Kalt Corporation, and Tele-Vue Optics, in addition to star atlases.",
+      "categories": [
+        "Advertisement",
+        "Retail",
+        "Astronomy Equipment",
+        "Business"
+      ],
+      "keywords": [
+        "OPTRON SYSTEMS",
+        "Astronomy",
+        "Astronomers",
+        "Meade",
+        "Kalt Corporation",
+        "Tele-Vue Optics",
+        "Star Atlases",
+        "Telescopes",
+        "Astronomy Equipment",
+        "San Jose",
+        "Retailer"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-12-calendar",
+      "documentId": "eph83-12",
+      "title": "CALENDAR",
+      "summary": "This calendar outlines upcoming astronomical events and meetings organized by the SJAA for December and January. Activities include public and indoor star parties, general meetings featuring guest speakers like Ernie Piini, and a specific observing event for a grazing occultation of 30 Piscium. The schedule also notes SJAA board meetings and a break for the holidays.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Meetings",
+        "Observing Opportunities",
+        "Schedule"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA",
+        "General Meeting",
+        "Indoor Star Party",
+        "Grazing Occultation",
+        "Eclipse Over Java",
+        "Grant Ranch County Park",
+        "Los Gatos Red Cross Building",
+        "University of Santa Clara",
+        "December",
+        "January",
+        "Astronomy Club",
+        "Board Meeting"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-12-general-meetings",
+      "documentId": "eph83-12",
+      "title": "General meetings:",
+      "summary": "This document provides detailed directions to the University of Santa Clara, Alumni Science Hall, room 102, for general meetings. It includes instructions for those traveling north and south on Hwy 17, along with specifics on navigating to the building and room from the parking lot. A simple map diagram is also included to aid navigation.",
+      "categories": [
+        "Logistics",
+        "Meeting Information",
+        "Directions"
+      ],
+      "keywords": [
+        "General meetings",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Directions",
+        "Hwy 17",
+        "Campus map",
+        "Meeting location"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-indoor-star-parties",
+      "documentId": "eph83-12",
+      "title": "Indoor Star Parties:",
+      "summary": "This document announces \"Indoor Star Parties\" and provides detailed directions to the event location: the Los Gatos Red Cross Building at 18011 Los Gatos-Saratoga Rd. It includes specific driving instructions from Hwy 17 South to the venue's parking lot.",
+      "categories": [
+        "Event Announcement",
+        "Location Information",
+        "Directions"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos Red Cross Building",
+        "Los Gatos",
+        "Saratoga",
+        "Directions",
+        "Event Venue"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-henry-coe-state-park",
+      "documentId": "eph83-12",
+      "title": "Henry Coe State Park:",
+      "summary": "This document provides detailed directions to the San Jose Astronomical Association (SJAA) observing site within Henry Coe State Park, located off Hwy 101 South near Gilroy. It includes specific landmarks and a gate combination (4565) for access, along with rules for parking and driving after dark. A map diagram further illustrates the location relative to major highways and nearby points of interest.",
+      "categories": [
+        "observing sites",
+        "directions",
+        "club information",
+        "logistics"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "observing site",
+        "directions",
+        "Gilroy",
+        "Hwy 101",
+        "Anderson Reservoir",
+        "gate code",
+        "astronomy",
+        "star gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-fremont-peak-state-park",
+      "documentId": "eph83-12",
+      "title": "Fremont Peak State Park:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, starting from Hwy 101 south towards Salinas. It specifies the San Jose Astronomical Association (SJAA) setup location at Coulter Camp overflow area and includes a crucial reminder about parking lights after dark.",
+      "categories": [
+        "Directions",
+        "Observing Site Guide",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Directions",
+        "Hwy 101",
+        "Hwy 156",
+        "San Juan Bautista",
+        "Coulter Camp",
+        "SJAA",
+        "Parking Rules",
+        "Observing Location"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-12-the-visibiliy-of-deep-sky-objects",
+      "documentId": "eph83-12",
+      "title": "THE VISIBILIY OF DEEP-SKY OBJECTS",
+      "summary": "This article is a review of Fred Klein's five-volume publication, \"The Visibility of Deep-Sky Objects,\" which expands on his earlier work by rating over 20,000 deep-sky objects based on their ease of visibility. The series provides comprehensive data for each object, including type, position, magnitude, size, chart references, and the author's personal rating, serving as a valuable resource for both beginner and advanced amateur astronomers.",
+      "categories": [
+        "Book Review",
+        "Astronomy Publications",
+        "Observational Astronomy",
+        "Amateur Astronomy Resources"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Visibility ratings",
+        "Amateur telescopes",
+        "Observing guide",
+        "Star clusters",
+        "Nebulae",
+        "Galaxies",
+        "Multiple stars",
+        "Fred Klein",
+        "Don Machholz"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-12-by-don-machholz",
+      "documentId": "eph83-12",
+      "title": "BY DON MACHHOLZ",
+      "summary": "The article reports no recent comet discoveries or recoveries, noting only one comet is currently visible in the southern evening sky. It also previews a \"Past Discovery\" section that will highlight three comets found in past Decembers, including two by Bradfield and one by an English amateur.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "Astronomical History",
+        "News/Updates"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Comet recovery",
+        "Observing",
+        "Evening sky",
+        "Bradfield",
+        "Amateur astronomy",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-past-discoveries",
+      "documentId": "eph83-12",
+      "title": "PAST DISCOVERIES",
+      "summary": "This document details two comet discoveries by William Bradfield: Comet Bradfield (1979L) and Comet Bradfield (1980t). The 1979L comet, his tenth discovery, was found with a 6-inch refractor on December 24, 1979, and remarkably, could have been discovered over four months earlier in the Northern Hemisphere. The 1980t comet, his eleventh discovery, was found with binoculars on December 17, 1980, under challenging conditions due to its rapid movement and proximity to the Sun.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Reports",
+        "Astronomy History",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "William Bradfield",
+        "Comet Bradfield (1979L)",
+        "Comet Bradfield (1980t)",
+        "comet discovery",
+        "refractor",
+        "binoculars",
+        "magnitude",
+        "orbital period",
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "Pegasus",
+        "M 15",
+        "M 11",
+        "M 9",
+        "GC 6356"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-12-shuttle-sts-9-spacelab-rescheduled-for-nov-28",
+      "documentId": "eph83-12",
+      "title": "Shuttle STS-9/Spacelab Rescheduled for Nov. 28.",
+      "summary": "The article announces the Shuttle STS-9/Spacelab mission's rescheduling to November 28 after a faulty rocket component was replaced, noting that some onboard experiments will have reduced data. Separately, it recounts the discovery of Comet Panther (1980u) by Roy Panther on December 25, 1980, discussing its rapid brightening and explaining why its detection was delayed despite being photographed earlier.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Observing Reports",
+        "Comets",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Shuttle STS-9",
+        "Spacelab",
+        "Rocket launch",
+        "Comet Panther",
+        "Comet discovery",
+        "Astronomical observation",
+        "Magnitude",
+        "Faulty nozzle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-comet-ephemeris",
+      "documentId": "eph83-12",
+      "title": "Comet Ephemeris",
+      "summary": "This document provides an ephemeris for Comet Cernis (1983L), listing its predicted positions (Right Ascension and Declination) and estimated magnitudes for dates between November 22nd and January 1st. It notes the comet's distance from Earth and the Sun (over 3 AU) and its location in the constellation Sculptor. The data is attributed to Don Machholz, with positions sourced from IAU Circular 3869.",
+      "categories": [
+        "Ephemeris",
+        "Observing Reports",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet Cernis (1983L)",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Estimated Magnitude",
+        "Sculptor",
+        "IAU Circular 3869",
+        "Don Machholz",
+        "Comet Observation"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph83-12-venusian-surface-scanned-by-radar",
+      "documentId": "eph83-12",
+      "title": "Venusian Surface Scanned by Radar",
+      "summary": "Both the United States and the Soviet Union are actively mapping the surface of Venus using radar, achieving resolutions of 1-2 km. Soviet Venera 15 and 16 spacecraft have reported deep chasms and Himalayan-type mountains, while U.S. observers using the Arecibo Radio Observatory have revealed large volcanoes, Appalachian-like terrain, and massive canyons.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "News",
+        "Radar Imaging"
+      ],
+      "keywords": [
+        "Venus",
+        "Radar",
+        "Venera 15",
+        "Venera 16",
+        "Arecibo Radio Observatory",
+        "Surface Mapping",
+        "Volcanoes",
+        "Canyons",
+        "Mountains"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-soviets-improve-and-resupply-salyut-7",
+      "documentId": "eph83-12",
+      "title": "Soviets Improve and Resupply Salyut 7",
+      "summary": "The Salyut 7 space station received a resupply of maneuvering propellant from Progress 18, intended to replenish its tanks after a main oxidizer line rupture. Cosmonauts also conducted two EVAs to install additional solar arrays, delivered by Cosmos 1443, to increase electrical power. The current crew is slated to return to Earth by late November, with the next crew expected in early 1984.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Space Operations"
+      ],
+      "keywords": [
+        "Salyut 7",
+        "Progress 18",
+        "Cosmos 1443",
+        "Space station",
+        "Resupply",
+        "EVA",
+        "Solar arrays",
+        "Propellant",
+        "Soviet space program",
+        "Crew change"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-soviet-to-launch-launch-saturn-5-class-booster",
+      "documentId": "eph83-12",
+      "title": "Soviet to Launch Launch Saturn 5 Class Booster",
+      "summary": "The first Soviet Saturn V-class booster, capable of launching 300,000 lbs. into orbit, is now on the launch pad at Tyuratam. This powerful rocket is intended to launch a 12-man space station into orbit later in the current decade.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Aerospace Technology",
+        "Future Missions"
+      ],
+      "keywords": [
+        "Soviet space program",
+        "Saturn V-class booster",
+        "Tyuratam",
+        "space station",
+        "heavy-lift rocket",
+        "orbital launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-nasa-and-department-of-defense-want-new-booster",
+      "documentId": "eph83-12",
+      "title": "NASA and Department of Defense Want New Booster",
+      "summary": "NASA and the Department of Defense are showing increased interest in developing a new unmanned heavy launch vehicle. This vehicle would serve to supplement the existing space shuttle system, addressing the DoD's concerns about over-reliance on a limited number of orbiters. A potential design concept for this new booster involves utilizing components from the space shuttle's solid rocket boosters.",
+      "categories": [
+        "Space Exploration",
+        "Aerospace Industry",
+        "Defense",
+        "Technology Development"
+      ],
+      "keywords": [
+        "NASA",
+        "Department of Defense",
+        "Heavy Launch Vehicle",
+        "Unmanned",
+        "Space Shuttle",
+        "Booster",
+        "Solid Rocket Boosters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-ariane-8-launch-delayed-until-january",
+      "documentId": "eph83-12",
+      "title": "Ariane 8 Launch Delayed Until January",
+      "summary": "The launch of the Ariane booster, carrying the Intelsat 5 F 8 communication satellite, has been postponed until January. This one-month delay is to allow for the evaluation of the previous successful launch in October, which orbited Intelsat 5 F 7.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Satellite Launch"
+      ],
+      "keywords": [
+        "Ariane booster",
+        "Launch delay",
+        "Intelsat 5 F 8",
+        "Intelsat 5 F 7",
+        "Satellite",
+        "Space launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-landsat-d-prime-to-be-launched-in-february",
+      "documentId": "eph83-12",
+      "title": "Landsat D Prime to be Launched in February",
+      "summary": "The Landsat D Prime satellite is scheduled for launch in February 1984. It is set to replace the soon-to-fail Landsat 4 spacecraft and has been modified to prevent the issues that plagued its predecessor. This launch aims to ensure the continuity of the Landsat program.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Launch Announcement",
+        "Satellite Technology"
+      ],
+      "keywords": [
+        "Landsat D Prime",
+        "Landsat 4",
+        "Satellite",
+        "Launch",
+        "February 1984",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-shuttle-transport-vehicle-contract-awarded",
+      "documentId": "eph83-12",
+      "title": "Shuttle Transport Vehicle Contract Awarded",
+      "summary": "A contract has been awarded for a Shuttle Transport Vehicle at Vandenburg. This vehicle will transport the space shuttle 17 miles in a horizontal position after landing, to be mated with the stack on the launch pad.",
+      "categories": [
+        "News",
+        "Technical",
+        "Space Operations"
+      ],
+      "keywords": [
+        "Shuttle Transport Vehicle",
+        "Vandenburg",
+        "Contract Awarded",
+        "Space Shuttle",
+        "Launch Pad",
+        "Transportation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-nasa-celebrates-25th-birthday",
+      "documentId": "eph83-12",
+      "title": "NASA Celebrates 25th Birthday",
+      "summary": "NASA celebrated its 25th birthday on October 19th at the National Air and Space Museum. President Reagan spoke at the event, challenging NASA to develop more visionary long-term space program goals.",
+      "categories": [
+        "News",
+        "Events",
+        "Space Programs"
+      ],
+      "keywords": [
+        "NASA",
+        "25th Birthday",
+        "President Reagan",
+        "National Air and Space Museum",
+        "Space Programs"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph83-12-shuttle-spas-to-compete-with-landsat",
+      "documentId": "eph83-12",
+      "title": "Shuttle SPAS to Compete with Landsat",
+      "summary": "Following the successful flight of SPAS on Shuttle Mission 7, a new US/European consortium called Sparx Corporation has formed. This group plans to launch and retrieve a fleet of SPAS pallet satellites from the Space Shuttle, aiming to compete in the commercial remote-sensing market against established systems like US Landsat and French Spot.",
+      "categories": [
+        "News",
+        "Space Industry",
+        "Remote Sensing",
+        "Technology"
+      ],
+      "keywords": [
+        "SPAS",
+        "Shuttle Mission 7",
+        "Sparx Corporation",
+        "Commercial remote-sensing",
+        "Landsat",
+        "Spot",
+        "Satellites",
+        "Space Shuttle",
+        "Consortium"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-membership",
+      "documentId": "eph83-12",
+      "title": "MEMBERSHIP",
+      "summary": "This document provides instructions for members to renew their membership by sending a renewal form and remittance to Bob Fingerhut, the Treasurer, at the specified address. Members wishing to renew their Sky & Telescope subscription should also include their white notice card.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Instructions"
+      ],
+      "keywords": [
+        "Membership renewal",
+        "Remittance",
+        "Treasurer",
+        "Sky & Telescope",
+        "SJAA",
+        "Payment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-12-sjaa-membership-application-renewal",
+      "documentId": "eph83-12",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA), detailing different membership tiers and their associated costs. It also provides comprehensive contact information for the association's officers and board of directors, along with publication details for their monthly bulletin, \"EPHEMERIS.\"",
+      "categories": [
+        "Membership",
+        "Organization",
+        "Application/Renewal",
+        "Contact Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Membership Application",
+        "Membership Renewal",
+        "Dues",
+        "Officers",
+        "Board of Directors",
+        "EPHEMERIS",
+        "Astronomy Club",
+        "Contact Information"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph83-12-sma-phelps",
+      "documentId": "eph83-12",
+      "title": "SMA PHELPS",
+      "summary": "This document fragment provides identifying information for \"SMA PHELPS\" located at 3509 Calico Ave, San Jose, CA. It also includes U.S. bulk rate postage details, suggesting it is part of an administrative record or a mailing label, with the subsequent pages being blank or unreadable.",
+      "categories": [
+        "Administrative",
+        "Business Communication",
+        "Document Fragment"
+      ],
+      "keywords": [
+        "SMA PHELPS",
+        "San Jose",
+        "California",
+        "Mailing",
+        "Bulk Rate",
+        "Postage",
+        "Address"
+      ],
+      "pageStart": 16,
+      "pageEnd": 17
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8312/Eph83_12.pdf",
+      "txtPath": "8312/Eph83_12.md"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "articles": [
+    {
+      "id": "eph80-05-observations",
+      "documentId": "eph80-05",
+      "title": "Observations",
+      "summary": "Members of the San Jose Astronomical Association (SJAA) experienced an earthquake while astrophotographing at Fremont Peak, leading to humorous observations and minor disruptions. The article also announces new rules for accessing Fremont Peak for astrophotography, details the upcoming annual officers' installation and picnic event, and provides information on membership renewals and nominations for the board of directors. The bulletin editor also reflects on their first year and encourages members to submit articles, particularly about a recent eclipse trip to Africa.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Events",
+        "Club Administration",
+        "Rules & Guidelines"
+      ],
+      "keywords": [
+        "Earthquake",
+        "Astrophotography",
+        "Fremont Peak",
+        "SJAA",
+        "Officers' Installation",
+        "Club Picnic",
+        "Membership Renewal",
+        "Board Elections",
+        "Eclipse Trip",
+        "Astronomy Club Activities",
+        "Observing Site Access"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-05-the-1980-messier-marathon",
+      "documentId": "eph80-05",
+      "title": "The 1980 Messier Marathon",
+      "summary": "The article details the 1980 Messier Marathon, where participants successfully observed numerous Messier objects, with some missing only M30, despite challenging weather conditions on Loma Prieta and other locations. It also presents a significant astronomical update, confirming that Jupiter's moon Ganymede is larger than Mercury based on data from Voyager 1 and 2, providing comparative diameter estimates for various celestial bodies. Additionally, the document announces an upcoming lecture by the Bay Area Chapter of the L-5 Society on \"Living and Working in Space.\"",
+      "categories": [
+        "Observing Report",
+        "Astronomical News",
+        "Planetary Science",
+        "Event Announcement"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "1980",
+        "Messier objects",
+        "Loma Prieta",
+        "Ganymede",
+        "Mercury",
+        "Voyager 1",
+        "Voyager 2",
+        "Jupiter's moons",
+        "Solar System",
+        "Astronomy",
+        "Observing",
+        "Don Machholz",
+        "Space Exploration",
+        "Titan"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-05-in-search-of-a-logo",
+      "documentId": "eph80-05",
+      "title": "IN SEARCH OF A LOGO",
+      "summary": "The San Jose Astronomical Association (SJAA) is launching a logo contest, open to all club members, to design a new trademark for the organization. Submissions are due at the July 19th club picnic, where general members will vote based on the design's applicability to SJAA/astronomy and its simplicity for reproduction. The winning designer will receive a free one-year SJAA membership and see their logo featured on club media.",
+      "categories": [
+        "News",
+        "Club Announcement",
+        "Contest",
+        "Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "logo contest",
+        "astronomy club",
+        "club design",
+        "membership",
+        "picnic",
+        "club activities",
+        "symbol"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-05-comet-commets",
+      "documentId": "eph80-05",
+      "title": "COMET COMMETS",
+      "summary": "The article reports on the recovery of the first two comets of the year, both expected to remain faint. Periodic Comet Forbes was recovered by H-E. Schuster at magnitude 20, while Comet Bowell was discovered by Edward L.G. Bowell at magnitude 16.5, near Jupiter.",
+      "categories": [
+        "news",
+        "observing reports",
+        "comet discoveries"
+      ],
+      "keywords": [
+        "comets",
+        "Periodic Comet Forbes",
+        "Comet Bowell",
+        "discovery",
+        "recovery",
+        "magnitude",
+        "European Southern Observatory",
+        "Lowell Observatory",
+        "Edward L.G. Bowell",
+        "H-E. Schuster"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-05-comets-in-their-eyes",
+      "documentId": "eph80-05",
+      "title": "COMETS IN THEIR EYES:",
+      "summary": "The article \"Comets in Their Eyes\" profiles several notable comet hunters, highlighting their significant contributions to comet discovery. It features the prolific Jean Louis Pons, who found over 30 comets in the early 19th century, alongside contemporary Japanese amateur astronomers T. Seki, K. Ikeya, and Y. Sato, detailing their individual discovery counts and preferred observing instruments. A brief community request for printing resources is also included.",
+      "categories": [
+        "Astronomy",
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Historical Astronomy",
+        "Astronomer Profiles"
+      ],
+      "keywords": [
+        "Comet hunters",
+        "Jean Louis Pons",
+        "T. Seki",
+        "K. Ikeya",
+        "Y. Sato",
+        "Comet discovery",
+        "Amateur astronomers",
+        "Observational instruments"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-05-baffling-the-celestron-90",
+      "documentId": "eph80-05",
+      "title": "BAFFLING THE CELESTRON 90",
+      "summary": "This article addresses the issue of severe stray light pollution experienced by Celestron 90 (C-90) telescope owners, particularly during photography, which significantly degrades the field of view. The author identifies the root cause as a grossly undersized central primary mirror baffle and provides detailed instructions for dismantling the C-90 and fabricating a new, longer baffle (2.25 to 2.50 inches) to eliminate the problem. Several DIY methods, from machining aluminum to using PVC pipe or even black construction paper, are suggested for fellow C-90 enthusiasts.",
+      "categories": [
+        "Technical",
+        "Equipment Modification",
+        "DIY",
+        "Telescope Maintenance"
+      ],
+      "keywords": [
+        "Celestron 90",
+        "C-90",
+        "Stray light",
+        "Baffling",
+        "Telescope modification",
+        "Optical performance",
+        "Primary mirror baffle",
+        "Astrophotography"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-05-remember-the-object-is-to-prevent-outside-light-from-going-directly-from-the-outside-to-the-film-or-eyepiece-without-going-through-the-optical-system-the-gain-in-contrast-is-so-great-particularly-for-daytime-use-that-the-small-amount-of-time-required-to-modify-the-baffle-is-well-worth-the-effort-don-t-forget-to-paint-your-new-baffle-flat-black-before-installing-it",
+      "documentId": "eph80-05",
+      "title": "Remember: The object is to prevent outside light from going directly from the outside to the film or eyepiece without going through the optical system. The gain in contrast is so great (particularly for daytime use) that the small amount of time required to modify the baffle is well worth the effort. Don't forget to paint your new baffle flat black before installing it.",
+      "summary": "This article emphasizes the critical role of modifying a telescope's light baffle to prevent stray light from reaching the film or eyepiece, significantly enhancing contrast, particularly during daytime observations. It details the dimensions of an original Celestron C90 primary mirror light baffle and includes a diagram illustrating how stray light is managed within the optical system. Additionally, the document contains classified advertisements for used Celestron C-90 and C-8 telescopes.",
+      "categories": [
+        "Technical",
+        "DIY/Modifications",
+        "Optics",
+        "Telescopes",
+        "Classifieds/For Sale"
+      ],
+      "keywords": [
+        "Light baffle",
+        "Stray light",
+        "Contrast improvement",
+        "Celestron C90",
+        "Optical system",
+        "Telescope modification",
+        "Primary mirror",
+        "Secondary mirror",
+        "Eyepiece",
+        "Flat black paint"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-05-astrophotography",
+      "documentId": "eph80-05",
+      "title": "ASTROPHOTOGRAPHY",
+      "summary": "This article by Bob Fingerhut details piggyback astrophotography, a technique where a camera is mounted on a telescope for guiding. It covers essential equipment such as secure mounting, motor drives, and cable releases, along with guidance on camera lens focal lengths, field of view calculations, and recommended film types and exposure times. The author also suggests various celestial targets and mentions using image blinking for detecting moving objects or variable stars.",
+      "categories": [
+        "Astrophotography",
+        "Technical Guide",
+        "Observing Techniques",
+        "Equipment Setup"
+      ],
+      "keywords": [
+        "Piggyback photography",
+        "Telescope guiding",
+        "Astrophotography equipment",
+        "Camera mounting",
+        "Focal length",
+        "Field of view",
+        "Exposure times",
+        "Film types",
+        "Motor drive",
+        "Declination control",
+        "Celestial objects",
+        "Image blinking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-05-tales-of-the-great-red-spot",
+      "documentId": "eph80-05",
+      "title": "Tales of the Great Red Spot",
+      "summary": "This article provides an update on observing Jupiter's Great Red Spot (GRS), noting that recent conditions, including improved weather and higher elevation, have made it easier to view. It encourages observers to take advantage of these conditions with appropriate magnification. A detailed table of GRS meridian transit times for May and early June is included to assist with observation planning.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy Guide",
+        "Celestial Events",
+        "Planetary Observation"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "GRS",
+        "Meridian Transits",
+        "Observing",
+        "Amateur Astronomy",
+        "Telescope",
+        "Seeing"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-05-sjaa-profiles",
+      "documentId": "eph80-05",
+      "title": "SJAA PROFILES",
+      "summary": "This article profiles Denni Medlock, a long-time amateur astronomer whose involvement in the community dates back to 1973. She has a rich history of club participation, including serving as Secretary for the Eastbay Astronomical Society and founding president of the Astronomical Association of Northern California. Currently, Denni is an active SJAA member, where she compiles their monthly bulletin, pursues her interest in planetary nebulae, and is working on a 14\" telescope mirror.",
+      "categories": [
+        "Member Profile",
+        "Amateur Astronomy",
+        "Club History",
+        "Telescope Making",
+        "Volunteer Work"
+      ],
+      "keywords": [
+        "Denni Medlock",
+        "SJAA",
+        "Eastbay Astronomical Society",
+        "Chabot Telescope Makers",
+        "Chabot Observatory",
+        "Astronomical Association of Northern California",
+        "Telescope building",
+        "Planetary nebulae",
+        "Amateur astronomy",
+        "Club bulletin",
+        "Frank Dibbell"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph80-05-sjaa-profiles-by-frank-dibbell",
+      "documentId": "eph80-05",
+      "title": "SJAA PROFILES by Frank Dibbell",
+      "summary": "SJAA board member Frank Dibbell is undertaking an initiative to understand the diverse astronomical interests of the club's membership. To efficiently gather this information and ensure the club meets members' expectations, he is requesting members complete a short survey to build a comprehensive club profile.",
+      "categories": [
+        "Club News",
+        "Member Survey",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "SJAA",
+        "Frank Dibbell",
+        "Club Profile",
+        "Member Interests",
+        "Survey",
+        "Board Member",
+        "Membership",
+        "Astronomical Interests"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-05-sjaa-survey",
+      "documentId": "eph80-05",
+      "title": "SJAA SURVEY",
+      "summary": "This document is a survey for SJAA members, designed to gather information on their telescope ownership, primary astronomical interests, and willingness to participate in or teach various workshops and observing teams. It queries interest in topics such as telescope making, astrophotography, night sky learning, variable star work, and occultations. The survey also solicits contact information for members interested in these programs, aiding the club in future program planning and member engagement.",
+      "categories": [
+        "Survey",
+        "Member engagement",
+        "Program planning",
+        "Astronomy club administration",
+        "Questionnaire"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope ownership",
+        "Astronomical interests",
+        "Workshops",
+        "Astrophotography",
+        "Telescope making",
+        "Night sky learning",
+        "Occultations",
+        "Variable stars",
+        "Deep sky observing",
+        "Lunar and planetary observing",
+        "Member feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8005/Eph80_05.pdf",
+      "txtPath": "8005/Eph80_05.md"
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "articles": [
+    {
+      "id": "eph84-08-from-the-editors-desk",
+      "documentId": "eph84-08",
+      "title": "FROM THE EDITORS DESK",
+      "summary": "The editor expresses gratitude for feedback and article submissions, noting the significant cost of producing the Ephemeris. A major focus is an upcoming special star party at Marriott's Great America on August 4th for solar, lunar, and planetary observing, building on a successful public outreach event held there on July 7th. The article also briefly mentions promising results from film processing experiments and issues a final reminder for membership renewals.",
+      "categories": [
+        "Editorial",
+        "Events",
+        "Observing Reports",
+        "Public Outreach",
+        "Club Business",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Star Party",
+        "Great America",
+        "SJAA",
+        "Telescopes",
+        "Observing",
+        "Membership Renewal",
+        "Ephemeris",
+        "Film Processing",
+        "Public Engagement",
+        "Frank Dibble"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-events-calendar",
+      "documentId": "eph84-08",
+      "title": "EVENTS CALENDAR",
+      "summary": "This document outlines an events calendar for August and early September, featuring several star parties at various locations like Marriott's Great America, Fremont Peak, and Grant Ranch. It also schedules an SJAA Board of Directors meeting and an Equipment and Slide Night at the Los Gatos Red Cross building, encouraging members to attend, observe, and showcase their astronomical gear and photos. The events cater to both beginners and experienced amateur astronomers, with some locations being considered for future observatory sites.",
+      "categories": [
+        "Events Calendar",
+        "Observing Events",
+        "Meetings",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Star Parties",
+        "SJAA",
+        "Board Meeting",
+        "Equipment Night",
+        "Astrophotography",
+        "Amateur Astronomy",
+        "Fremont Peak",
+        "Grant Ranch",
+        "Los Gatos Red Cross",
+        "August Events",
+        "September Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-astromart",
+      "documentId": "eph84-08",
+      "title": "ASTROMART",
+      "summary": "This Astromart listing offers a used Celestron C8 telescope package for sale, complete with enhanced coatings, a tripod/wedge, a dual-axis drive corrector, an off-axis guider, and a cold camera. The asking price is $800 or best offer, and contact information is provided for interested buyers.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomy Equipment",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Celestron C8",
+        "telescope",
+        "astronomy equipment",
+        "used",
+        "drive corrector",
+        "guider",
+        "cold camera",
+        "tripod",
+        "wedge"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-08-next-two-shuttle-missions-combined",
+      "documentId": "eph84-08",
+      "title": "NEXT TWO SHUTTLE MISSIONS COMBINED",
+      "summary": "The Space Shuttle Discovery's inaugural launch is now set for August 24, with its first two missions combined to accelerate the program. The revised manifest includes a Leasat communications satellite, a drug manufacturing experiment, and two other communications satellites, while postponing other payloads like an Earth-mapping camera and the Spartan observatory. The article also details the technical issues that led to previous launch delays, such as a liquid contaminant in a computer and a main engine fuel valve failure.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Mission Planning",
+        "Technical Issues",
+        "Launch Updates"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Launch Schedule",
+        "Mission Manifest",
+        "Technical Glitches",
+        "Leasat",
+        "Payloads",
+        "Space Program",
+        "APU"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-noaa-8-tumbles-out-of-control",
+      "documentId": "eph84-08",
+      "title": "NOAA-8 TUMBLES OUT OF CONTROL",
+      "summary": "The NOAA-8 weather satellite, launched in March 1983, has been tumbling uncontrollably since June 30 due to onboard clock interactions causing its stabilizing gyroscopes to desynchronize. This has led to a loss of weather environment monitoring functions and altitude control. The crippled satellite also carries a Sarsat search and rescue payload.",
+      "categories": [
+        "Satellite Failure",
+        "Spacecraft Anomaly",
+        "News",
+        "Technical Issue"
+      ],
+      "keywords": [
+        "NOAA-8",
+        "Weather Satellite",
+        "Satellite Failure",
+        "Tumbling",
+        "Out of Control",
+        "Gyroscopes",
+        "Clock Interactions",
+        "Sarsat",
+        "Search and Rescue",
+        "Altitude Control"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-space-product-goes-to-market",
+      "documentId": "eph84-08",
+      "title": "SPACE PRODUCT GOES TO MARKET",
+      "summary": "NASA has developed uniform 10-micrometer polystyrene latex spheres through space shuttle flights. These spheres will be utilized by the National Bureau of Standards for calibrating microscopes and particle counters, aiding in determining object sizes. The Bureau plans to sell these specialized aerospace material spheres in 5-milliliter packets for $300 to $400.",
+      "categories": [
+        "News",
+        "Space Technology",
+        "Commercialization",
+        "Scientific Tools",
+        "Product Announcement"
+      ],
+      "keywords": [
+        "NASA",
+        "space shuttle",
+        "latex spheres",
+        "polystyrene",
+        "micrometer",
+        "National Bureau of Standards",
+        "calibration",
+        "microscopes",
+        "particle counters",
+        "aerospace material",
+        "space product"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-giotto-sent-to-france-for-testing",
+      "documentId": "eph84-08",
+      "title": "GIOTTO SENT TO FRANCE FOR TESTING",
+      "summary": "The Giotto spacecraft, designed to intercept Halley's comet, has completed initial electromagnetic and optical compatibility tests in England and was subsequently shipped to Toulouse, France. It will undergo extensive testing there, including solar simulation, thermal vacuum, vibration, and acoustic assessments, before moving to Holland for final adjustments and its scheduled July 1985 launch from Guiana Space Center.",
+      "categories": [
+        "Space Mission Updates",
+        "Aerospace News",
+        "Technical Development"
+      ],
+      "keywords": [
+        "Giotto spacecraft",
+        "Halley's comet",
+        "spacecraft testing",
+        "solar simulation",
+        "thermal vacuum",
+        "vibration tests",
+        "acoustic tests",
+        "space launch",
+        "Toulouse France",
+        "Guiana Space Center"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-deep-sky-notes",
+      "documentId": "eph84-08",
+      "title": "DEEP SKY NOTES",
+      "summary": "The author recounts an August deep-sky observing session focusing on the constellation Delphinus, detailing his visual observations of 11 objects, including planetary nebulae (NGC 6891, NGC 6905) and globular clusters (NGC 6934, NGC 7006), using various telescopes. He notes discrepancies in object listings between different astronomical catalogs and provides a table of fainter objects not found in Burnham's Celestial Handbook. The article also includes a brief mention of a previous query regarding IC 1257.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Astronomy",
+        "Amateur Astronomy",
+        "Constellation Study"
+      ],
+      "keywords": [
+        "Delphinus",
+        "Deep Sky Objects",
+        "NGC 6891",
+        "NGC 6905",
+        "NGC 6934",
+        "NGC 7006",
+        "Planetary Nebulae",
+        "Globular Clusters",
+        "Amateur Observation",
+        "Telescopes",
+        "Astronomical Catalogs",
+        "Burnham Celestial Handbook",
+        "RNGC",
+        "UGC",
+        "Milky Way"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-the-upcoming-perseid-meteor-shower",
+      "documentId": "eph84-08",
+      "title": "THE UPCOMING PERSEID METEOR SHOWER",
+      "summary": "The article discusses the upcoming Perseid meteor shower, set to peak on the morning of August 12. Due to a full moon, observers are advised to watch the morning prior to August 12 for better visibility. It also highlights other concurrent meteor showers, such as the Capricornids and Delta Aquarids, encouraging general meteor observation from early August until August 16.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy news"
+      ],
+      "keywords": [
+        "Perseid meteor shower",
+        "meteor showers",
+        "Capricornids",
+        "Delta Aquarids",
+        "moonlight",
+        "astronomy observation",
+        "August 12"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-08-the-san-jose-astronomical-association",
+      "documentId": "eph84-08",
+      "title": "THE SAN JOSE ASTRONOMICAL ASSOCIATION",
+      "summary": "The San Jose Astronomical Association (SJAA) is an organization welcoming individuals with diverse astronomical interests, including deep-sky observing, astrophotography, and telescope making. Members can connect with others who share their passion for astronomy, such as eclipses and comets, to share knowledge and experiences.",
+      "categories": [
+        "Organization Profile",
+        "Amateur Astronomy",
+        "Membership Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Amateur Astronomy",
+        "Deep-sky observing",
+        "Astrophotography",
+        "Telescope making",
+        "Eclipses",
+        "Comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-activities",
+      "documentId": "eph84-08",
+      "title": "ACTIVITIES",
+      "summary": "The SJAA sponsors a variety of activities, including weekly Saturday night events and monthly General Meetings featuring astronomical programs at the University of Santa Clara. They also host outdoor Star Parties for group observing at various locations and informal Indoor \"Star Parties\" at the Los Gatos Red Cross building for sharing and equipment work.",
+      "categories": [
+        "Events",
+        "Organization Activities",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "SJAA",
+        "activities",
+        "General Meetings",
+        "Star Parties",
+        "group observing",
+        "Indoor Star Parties",
+        "astronomy programs",
+        "Santa Clara",
+        "Los Gatos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-membership-benefits",
+      "documentId": "eph84-08",
+      "title": "MEMBERSHIP BENEFITS",
+      "summary": "The San Jose Astronomical Association (SJAA) outlines the benefits of membership, which include a subscription to Sky and Telescope magazine, access to its newsletter \"The SJAA EPHEMERIS,\" use of club telescopes, and a library of astronomical resources. The non-profit, founded in 1954, promotes astronomy and amateur research, offering various membership tiers to its participants.",
+      "categories": [
+        "Membership Information",
+        "Club Information",
+        "Benefits"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership benefits",
+        "Astronomy club",
+        "Sky and Telescope",
+        "Telescopes",
+        "Amateur astronomy",
+        "SJAA EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-san-jose-astronomical-association-membership-application",
+      "documentId": "eph84-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It collects applicant's name, address, and telephone, and offers options for adult membership, junior membership, or a bulletin-only subscription. Instructions are provided for submitting the completed form to the SJAA Secretary.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Application Form",
+        "Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "adult membership",
+        "junior membership",
+        "bulletin subscription",
+        "contact information",
+        "form"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-questionnaire-optional",
+      "documentId": "eph84-08",
+      "title": "Questionnaire (optional)",
+      "summary": "This document presents an optional questionnaire designed to gauge an individual's astronomical interests, inquire about telescope ownership and its type, and identify specific areas of astronomy where they feel qualified to provide assistance. It serves as a tool for profiling participants' backgrounds and expertise within the astronomical community.",
+      "categories": [
+        "Survey",
+        "Questionnaire",
+        "Community Profiling",
+        "Interest Assessment"
+      ],
+      "keywords": [
+        "Astronomical interests",
+        "Telescope ownership",
+        "Astronomy expertise",
+        "Deep-sky observation",
+        "Astro-photography",
+        "Telescope making",
+        "Member profiling",
+        "Interest survey"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-08-general-meetings",
+      "documentId": "eph84-08",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides detailed driving directions to the University of Santa Clara, Alumni Science Hall, room 102, for general meetings. It outlines routes from both northbound and southbound Hwy 17, as well as from The Alameda, and specifies the building and room's location within the campus.",
+      "categories": [
+        "meetings",
+        "location information",
+        "directions",
+        "events"
+      ],
+      "keywords": [
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "room 102",
+        "Hwy 17",
+        "Bascom/Washington Ave",
+        "Laurelton",
+        "The Alameda",
+        "Franklin",
+        "parking",
+        "directions",
+        "general meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-indoor-star-parties",
+      "documentId": "eph84-08",
+      "title": "INDOOR STAR PARTIES:",
+      "summary": "This document provides the location and detailed driving directions to the Los Gatos Red Cross Building, which is the venue for 'INDOOR STAR PARTIES'. It instructs participants on how to reach the building from Hwy 17 South, emphasizing specific turns and landmarks.",
+      "categories": [
+        "Events",
+        "Venue Information",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "Directions",
+        "Venue",
+        "Saratoga",
+        "Hwy 17",
+        "Hwy 9"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-grant-ranch-county-park",
+      "documentId": "eph84-08",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "The San Jose Astronomical Association (SJAA) is introducing a new observing site at Grant Ranch County Park, situated on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. The article provides detailed driving directions, noting its location just past the Quimby Road intersection. Crucially, it informs members about the park's front gate being locked after sunset with an SJAA combination lock (sequence 4565) and instructs them to relock it.",
+      "categories": [
+        "Observing Site Information",
+        "Logistics",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Observing Site",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "Directions",
+        "Combination Lock"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-henry-coe-state-park",
+      "documentId": "eph84-08",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed driving directions to Henry Coe State Park, starting from Hwy 101 South and the East Dunne exit, guiding visitors past Anderson Reservoir to the park entrance and Visitor's Center. It also outlines crucial instructions for attendees of a star party or club combination event, covering gate security, parking protocols after dark, and the use of parking lights only.",
+      "categories": [
+        "Directions",
+        "Star Party",
+        "Observing Guide",
+        "Venue Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Driving",
+        "Star Party",
+        "Observing Site",
+        "Parking",
+        "Gate Access",
+        "Visitor's Center",
+        "Gilroy",
+        "Hwy 101"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-fremont-peak-state-park",
+      "documentId": "eph84-08",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, originating from Highway 101 south towards Salinas. It specifies the route via Highway 156 east to a yellow flashing light, then further along several roads leading into the park. It also notes that the San Jose Astronomical Association (SJAA) sets up in the Coulter Camp overflow area and reminds visitors to use parking lights only after dark.",
+      "categories": [
+        "observing guide",
+        "event information",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "driving directions",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Coulter Camp",
+        "observing site",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-officers",
+      "documentId": "eph84-08",
+      "title": "OFFICERS:",
+      "summary": "This document lists the officers of an organization, detailing their positions, names, addresses, and phone numbers. It includes key roles such as President, Vice-President, Secretary, and Treasurer. The information provided appears to be a directory for official contacts.",
+      "categories": [
+        "administrative",
+        "organization directory",
+        "contact information"
+      ],
+      "keywords": [
+        "officers",
+        "contact details",
+        "directory",
+        "positions",
+        "names",
+        "addresses",
+        "phone numbers",
+        "club officials"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-board-of-directors",
+      "documentId": "eph84-08",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document lists the members of a Board of Directors, including Paul Mancuso, Steve Greenberg, Tom Ahl, Gene Cisneros, Joe Sunseri, and Chris Pratt, along with their respective phone numbers. It also identifies John Gleason as the Ephemeris Editor, providing his full mailing address in Newark, CA.",
+      "categories": [
+        "Directory",
+        "Contact Information",
+        "Organization Structure",
+        "Administration"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Ephemeris Editor",
+        "Contact Information",
+        "Personnel",
+        "Organization"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-08-a-b-gregory-award",
+      "documentId": "eph84-08",
+      "title": "A.B. GREGORY AWARD",
+      "summary": "The Dr. A.B. Gregory Award was presented to Jim Van Nuland, recognizing his significant contributions to the SJAA over the past year. Jim, a long-time member and club secretary, is celebrated for organizing SJAA Occultation star parties, promoting the apeodizing screen, and regularly contributing articles to the SJAA Ephemeris from his Calico Observatory.",
+      "categories": [
+        "Awards",
+        "Club News",
+        "Member Recognition"
+      ],
+      "keywords": [
+        "A.B. Gregory Award",
+        "Jim Van Nuland",
+        "SJAA",
+        "Club Secretary",
+        "Occultation star parties",
+        "Apeodizing screen",
+        "Calico Observatory",
+        "SJAA Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-calico-observatory",
+      "documentId": "eph84-08",
+      "title": "CALICO OBSERVATORY",
+      "summary": "This document from CALICO OBSERVATORY provides ephemerides for observing Jupiter's Great Red Spot (GRS) as it crosses the meridian during August, September, and early October, specified in PDT. It emphasizes the critical role of seeing conditions for successful observation and encourages readers to submit their results, detailing telescope size, magnification, and seeing conditions.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Ephemeris",
+        "Community Report Request"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Ephemerides",
+        "Observation",
+        "Seeing conditions",
+        "Telescope",
+        "PDT",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-comet-comments",
+      "documentId": "eph84-08",
+      "title": "COMET COMMENTS",
+      "summary": "This article, \"COMET COMMENTS\" by Don Machholz, provides an update on comet activity in July 1984, highlighting the recovery of Periodic Comet Wolf-Harrington (1984g) and Periodic Comet Faye (1984h), and the amateur discovery of Comet Austin (1984i). It includes observational data and predictions for these comets, as well as Halley's Comet. The piece also retrospectively analyzes amateur comet discoveries from 1975-1983, categorizing them by orbital characteristics.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Technical",
+        "Amateur Astronomy",
+        "Cometary Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Comet recovery",
+        "Periodic comets",
+        "Comet Wolf-Harrington (1984g)",
+        "Comet Faye (1984h)",
+        "Comet Austin (1984i)",
+        "Halley's Comet",
+        "Amateur astronomers",
+        "Orbital mechanics",
+        "Magnitude",
+        "Astronomy observations"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-08-commercial-ads-are-priced-according-to-size-and-may-be-placed-by-contacting-gene-cisneros-at-408-923-6800",
+      "documentId": "eph84-08",
+      "title": "Commercial ads are priced according to size and may be placed by contacting: Gene Cisneros at (408) 923-6800.",
+      "summary": "This text provides information on placing commercial advertisements, stating that pricing is determined by ad size. Interested parties are directed to contact Gene Cisneros at (408) 923-6800 for placement inquiries.",
+      "categories": [
+        "Advertising",
+        "Contact Information",
+        "Pricing"
+      ],
+      "keywords": [
+        "Commercial ads",
+        "Pricing",
+        "Ad size",
+        "Contact",
+        "Gene Cisneros",
+        "Phone number",
+        "Advertisement placement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-atm-coatings",
+      "documentId": "eph84-08",
+      "title": "ATM coatings",
+      "summary": "This document contains two distinct advertisements. The first, for \"ATM coatings,\" offers aluminum coatings with silicon monoxide for telescope mirrors, providing a price list by size and services for secondary mirrors and coating removal. The second advertisement is for LUMICON, promoting their extensive selection of in-stock telescopes and accessories as a world center for astrophotography.",
+      "categories": [
+        "Advertisement",
+        "Astronomy Equipment",
+        "Telescope Services",
+        "Optical Coatings"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Telescope mirrors",
+        "Aluminum coatings",
+        "Silicon monoxide",
+        "Mirror recoating",
+        "LUMICON",
+        "Telescopes",
+        "Astronomy accessories",
+        "Astrophotography",
+        "Optical services"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-periodic-comet-fixe-1984h",
+      "documentId": "eph84-08",
+      "title": "Periodic Comet Fixe (1984h)",
+      "summary": "The article provides an observational ephemeris for Periodic Comet Fixe (1984h), detailing its celestial coordinates and estimated magnitude from late July through mid-September. Described as a faint object climbing away from the Sun in the morning sky, it is expected to be brighter than magnitude 13. Observers are encouraged to locate this comet as practice for upcoming observations of Halley's Comet.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Astronomy Data",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Periodic Comet Fixe",
+        "1984h",
+        "comet observation",
+        "ephemeris",
+        "celestial coordinates",
+        "magnitude",
+        "Halley's Comet",
+        "morning sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-hyperbolic-comets",
+      "documentId": "eph84-08",
+      "title": "Hyperbolic Comets",
+      "summary": "This document presents a table of several hyperbolic comets, detailing their orbital parameters. For each listed comet, it provides its name, orbital inclination, direction (retrograde or direct), eccentricity, and perihelion distance in Astronomical Units.",
+      "categories": [
+        "Cometary Science",
+        "Technical",
+        "Data/Table",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Hyperbolic Comets",
+        "Comets",
+        "Orbital Parameters",
+        "Eccentricity",
+        "Inclination",
+        "Perihelion Distance",
+        "Bradfield",
+        "Kobayashi-Berger-Milon",
+        "Machholz",
+        "Meier",
+        "Sato"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-08-periodic-comets",
+      "documentId": "eph84-08",
+      "title": "Periodic Comets",
+      "summary": "This document presents a table detailing several periodic comets, listing their orbital characteristics such as period, inclination, direction, eccentricity, and perihelion distance. It serves as a reference for specific cometary data. The accompanying bulk mail information suggests it originates from a time-sensitive news publication, possibly an ephemeris from an organization like SJAA.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Orbital Mechanics",
+        "Data/Reference",
+        "Newsletter/Publication"
+      ],
+      "keywords": [
+        "Periodic Comets",
+        "Comets",
+        "Orbital Period",
+        "Inclination",
+        "Eccentricity",
+        "Perihelion Distance",
+        "Astronomy Data",
+        "Ephemeris",
+        "Haneda-Campos",
+        "Denning-Fujikawa",
+        "Boethin",
+        "Bradfield",
+        "Meier",
+        "Suzuki-Sai.-Mori"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8408/Eph84_08.pdf",
+      "txtPath": "8408/Eph84_08.md"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "articles": [
+    {
+      "id": "eph82-05-ephemeris",
+      "documentId": "eph82-05",
+      "title": "Ephemeris",
+      "summary": "This document, an 'Ephemeris,' details a comprehensive schedule of events for May and June organized by the San Jose Astronomical Association (SJAA), including National Astronomy Day public viewing, monthly board and general meetings, several star parties at various locations, and indoor star parties. Key discussions for board meetings include bulletin evolution, speaker selection, board elections, and establishing a building fund for a permanent observing site. The schedule also highlights the Riverside Telescope Makers' Conference and a special telescope collimating class.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Public Outreach",
+        "Meetings",
+        "Observing Reports",
+        "Technical Workshop",
+        "Membership Information"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "National Astronomy Day",
+        "Star Party",
+        "Board Meeting",
+        "General Meeting",
+        "Public Viewing",
+        "Riverside Telescope Makers' Conference",
+        "Telescope Collimation",
+        "Mirror Grinding",
+        "Fremont Peak",
+        "Mt. Umunhum",
+        "Henry Coe State Park",
+        "De Anza College",
+        "Denni Frerichs",
+        "Mark Gingerich",
+        "Communications Satellite",
+        "Building Fund",
+        "Club Elections"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-05-observations",
+      "documentId": "eph82-05",
+      "title": "Observations",
+      "summary": "The article details recent and upcoming activities of the San Jose Astronomical Association (SJAA), highlighting a successful second annual astronomical auction that generated over $1000 for the club and thanking numerous volunteers. It announces upcoming public outreach events like Astronomy Day and the Peninsula School Learning Fair, seeking volunteers for solar observing. Additionally, the author reflects on his personal journey in astronomy, from theoretical astrophysics to solar observation and telescope building, sharing insights on the profound beauty of the universe.",
+      "categories": [
+        "Club News",
+        "Event Reports",
+        "Event Announcements",
+        "Volunteer Opportunities",
+        "Personal Commentary",
+        "Amateur Astronomy",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomical auction",
+        "fundraising",
+        "Astronomy Day",
+        "public outreach",
+        "solar observing",
+        "volunteer calls",
+        "telescope building",
+        "amateur astronomy experience",
+        "club events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-05-president-s-report",
+      "documentId": "eph82-05",
+      "title": "President's Report",
+      "summary": "The President's Report by Denni Frerichs reflects on the author's transition into an 'armchair astronomer' despite initial resistance to the label. Frerichs acknowledges a significant drop in telescope use but redefines personal astronomy, emphasizing enjoyment of the night sky with unaided eyes and incorporating modern elements like satellites. The report concludes with a hopeful wish for future generations to find similar personal pleasure in stargazing.",
+      "categories": [
+        "President's Report",
+        "Amateur Astronomy",
+        "Personal Reflection",
+        "Observing Habits"
+      ],
+      "keywords": [
+        "Armchair astronomer",
+        "Observing",
+        "Telescope",
+        "Unaided eye astronomy",
+        "Night sky",
+        "Astronomy practice",
+        "Personal enjoyment",
+        "SJAA",
+        "Satellites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-red-spot-ephemeris",
+      "documentId": "eph82-05",
+      "title": "Red Spot Ephemeris",
+      "summary": "This article provides the May and early June ephemeris for Jupiter's Great Red Spot (GRS), detailing transit times when it is directly facing Earth and optimally visible. It includes practical observing tips, such as when to look before and after the transit, and specifies conditions for optimal viewing like planet and sun elevation. The author also notes a recent observation describing the GRS as bright yellow and smaller than seen in Voyager photos.",
+      "categories": [
+        "observing guide",
+        "celestial events",
+        "ephemeris",
+        "astronomical observations",
+        "planetary astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "ephemeris",
+        "transit times",
+        "observing",
+        "planetary observation",
+        "astronomy",
+        "May",
+        "June"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-05-the-celestial-tourist-speaks",
+      "documentId": "eph82-05",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "This article discusses astronomical observations suitable for May, focusing on specific galaxies in the Virgo Cluster region and tips for observing Mars, despite a less favorable opposition. The author also provides a strong argument for the beneficial and often underutilized application of higher magnifications in amateur astronomy, challenging common myths about their effectiveness, especially with larger apertures.",
+      "categories": [
+        "Observing Report",
+        "Technical Advice",
+        "Deep-Sky Astronomy",
+        "Planetary Observing",
+        "Equipment & Techniques"
+      ],
+      "keywords": [
+        "galaxy observing",
+        "Virgo Cluster",
+        "Mars",
+        "telescopes",
+        "eyepieces",
+        "magnification",
+        "amateur astronomy",
+        "NGC galaxies",
+        "Celestron 14",
+        "Schmidt-Cassegrain",
+        "Dobsonian"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-05-comet-comments",
+      "documentId": "eph82-05",
+      "title": "Comet Comments",
+      "summary": "This article, \"Comet Comments\" by Don Machholz, informs observers about several faint comets currently visible, including Comet Bowell, Periodic Comet Grigg-Skjellerup, and Periodic Comet Du Toit-Hartley. It also reports on the recovery of Periodic Comet Tempel 2 (1982d) and provides details on subscribing to the \"Minor Planet Circulars/Minor Planets and Comets\" for extensive data. Additionally, it features a historical note on the naked-eye discovery and visibility of the Great Comet Mrkos (1957).",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Reports",
+        "Astronomical Resources",
+        "Historical Astronomy",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Bowell",
+        "Periodic Comet Grigg-Skjellerup",
+        "Periodic Comet Du Toit-Hartley",
+        "Periodic Comet Tempel 2 (1982d)",
+        "Comet Mrkos (1957)",
+        "Minor Planet Circulars",
+        "Smithsonian Astrophysical Observatory",
+        "Observing",
+        "Ephemerides",
+        "Palomar"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-comet-bowell-1980b",
+      "documentId": "eph82-05",
+      "title": "Comet Bowell (1980b)",
+      "summary": "This document provides an ephemeris for Comet Bowell (1980b) from May 1 to June 10, 1980, including its Right Ascension, Declination, and visual magnitude. The comet's magnitude is estimated at 10.9, and its apparent size is expected to be small, approximately 1 to 2 arc minutes. It is noted to be near Messier objects M20 and M28.",
+      "categories": [
+        "observing guide",
+        "comets",
+        "astronomy data",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Bowell",
+        "1980b",
+        "ephemeris",
+        "magnitude",
+        "right ascension",
+        "declination",
+        "M20",
+        "M28",
+        "celestial coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-periodic-comet-grigg-skjellerup-1982a",
+      "documentId": "eph82-05",
+      "title": "Periodic Comet Grigg-Skjellerup (1982a)",
+      "summary": "This document provides an ephemeris for Periodic Comet Grigg-Skjellerup (1982a) for dates spanning May and June, listing its right ascension, declination, and two magnitude estimates. It notes the comet's rapid motion due to its proximity to Earth and attributes the magnitude projections to John Bortle.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Grigg-Skjellerup",
+        "1982a",
+        "Periodic Comet",
+        "Ephemeris",
+        "Magnitude estimates",
+        "Celestial coordinates",
+        "Observing data",
+        "John Bortle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-periodic-comet-du-toit-hartley-1982c",
+      "documentId": "eph82-05",
+      "title": "Periodic Comet Du Toit-Hartley (1982c)",
+      "summary": "This document provides an ephemeris for Periodic Comet Du Toit-Hartley (1982c), listing its Right Ascension and Declination for various dates from May 1st to June 10th. It also estimates the comet's magnitude to be between 11.5 and 13.0, noting its current trajectory away from both Earth and the Sun.",
+      "categories": [
+        "Comets",
+        "Ephemeris",
+        "Observational Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Du Toit-Hartley",
+        "1982c",
+        "Ephemeris",
+        "Magnitude",
+        "Observing",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-ads",
+      "documentId": "eph82-05",
+      "title": "Ads",
+      "summary": "This document features classified advertisements for various astronomical equipment, including a 12 1/2\" f/6 Cave reflector, a 6\" f/4 RFT reflector, and a 6\" Newtonian reflector, complete with mounts, drives, and accessories. Additionally, Tirion Atlases are offered at a discount through the SJAA, with contact information provided for all sales.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Sales/Offers",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "reflector telescope",
+        "Cave reflector",
+        "RFT reflector",
+        "Newtonian reflector",
+        "Edmund equatorial mount",
+        "Star Liner Mount",
+        "motor drive",
+        "setting circles",
+        "eyepieces",
+        "Tirion Atlases",
+        "SJAA",
+        "for sale",
+        "astronomy gear"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-05-space-program-update",
+      "documentId": "eph82-05",
+      "title": "Space Program Update",
+      "summary": "This article provides a comprehensive 'Space Program Update', detailing the preparation of the Space Shuttle Columbia for its STS-4 mission and insights from STS-3 experiments, including observations of a spacecraft-generated plasma sheath and re-entry heating. It also outlines upcoming missions like STS-5 with a planned spacewalk, recent satellite launches, the re-entry of HEAO-2, and discussions on budgetary shifts impacting the Solar Max repair mission and the development of a new Air Force upper-stage.",
+      "categories": [
+        "Space Program News",
+        "Space Shuttle",
+        "Space Experiments",
+        "Satellite Launches",
+        "Space Policy",
+        "Aerospace Technology"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "STS-4",
+        "STS-3 experiments",
+        "plasma sheath",
+        "re-entry heating",
+        "spacewalk",
+        "satellite launches",
+        "HEAO-2",
+        "Solar Max rescue",
+        "upper-stage development",
+        "NASA",
+        "Kennedy Space Center"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-05-cosmic-humor",
+      "documentId": "eph82-05",
+      "title": "Cosmic Humor",
+      "summary": "This article, titled \"Cosmic Humor,\" is a satirical piece from the April 1982 issue of Sky & Telescope magazine. It humorously presents a \"French solution\" to astronomy budget cuts by featuring the \"world's largest Astroscan\" on its cover. The content likely serves as an April Fool's joke, combining astronomical themes with lighthearted commentary on funding challenges.",
+      "categories": [
+        "Humor",
+        "Satire",
+        "Astronomy Magazine",
+        "Historical Publication",
+        "News"
+      ],
+      "keywords": [
+        "Cosmic Humor",
+        "April Fool's",
+        "Sky & Telescope",
+        "Astronomy budget cuts",
+        "Astroscan",
+        "1982",
+        "Satire"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-05-from-pg-2",
+      "documentId": "eph82-05",
+      "title": "From pg. 2",
+      "summary": "This article announces the upcoming Riverside Telescope Makers' Conference and issues a plea for club members to contribute written content to the bulletin. The author critically discusses recent space program issues, including unexpected temperature readings on STS-1, the controversial decision to scuttle the Solar Max Satellite, and the Air Force's plans for a costly new launch vehicle. The piece concludes with a strong call for taxpayers to contact their Congressional representatives to advocate for proper NASA funding, the rescue of Solar Max, and the continuation of projects like Pioneer Venus.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Space Program Policy",
+        "Astronomy",
+        "Advocacy"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers' Conference",
+        "Space Shuttle",
+        "STS-1",
+        "Solar Max Satellite",
+        "NASA",
+        "Air Force",
+        "Pioneer Venus",
+        "Science Funding",
+        "Taxpayer Advocacy",
+        "Aerospace"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-05-sjaa-board-members",
+      "documentId": "eph82-05",
+      "title": "SJAA Board Members",
+      "summary": "This document lists the board members of SJAA, providing their names, positions (such as President, V. Pres., Treasurer, and Secretary), and corresponding phone numbers. It serves as a directory for the organization's leadership team and their contact information.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Leadership",
+        "Directory"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Members",
+        "Leadership",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Contact Information",
+        "Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8205/Eph82_05.pdf",
+      "txtPath": "8205/Eph82_05.md"
+    }
+  ]
+}

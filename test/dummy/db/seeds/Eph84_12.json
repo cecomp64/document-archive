@@ -1,0 +1,816 @@
+{
+  "articles": [
+    {
+      "id": "eph84-12-december-1984",
+      "documentId": "eph84-12",
+      "title": "DECEMBER 1984",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) December 1984 and January 1985 events, including a general meeting featuring a presentation on the Global Positioning Satellite System, indoor star parties, and astronomical observation field expeditions. It also details the formation of the Fremont Peak Observatory Association (FPOA), an initiative to establish a permanent observing facility with large aperture research telescopes for public programs and member use, with a 30-inch telescope planned for early 1986.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Site Development",
+        "Astronomical Projects",
+        "Technical Presentation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Fremont Peak Observatory Association",
+        "FPOA",
+        "Global Positioning Satellite System",
+        "Indoor Star Party",
+        "Field Expedition",
+        "Grant Ranch Park",
+        "Observing Location",
+        "30-inch Telescope",
+        "Halley's Comet",
+        "Board Meetings",
+        "Program Chairman"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-12-by-bill-dellinges",
+      "documentId": "eph84-12",
+      "title": "BY: BILL DELLINGES",
+      "summary": "The article describes the Monterey Institute for Research in Astronomy (MIRA), founded thirteen years prior by graduate students to establish a privately funded observatory. The author, Bill Dellinges, recounts a memorable observing session at MIRA's facility on Chews Ridge, featuring a 36-inch Cassegrain telescope and hosted by Dr. William Kaufmann. During the session, they observed numerous deep-sky objects, with particularly vivid descriptions of M42 and the elusive central star of M57.",
+      "categories": [
+        "Observing Report",
+        "Observatory Profile",
+        "Amateur Astronomy",
+        "Astronomy Facilities",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "MIRA",
+        "Monterey Institute for Research in Astronomy",
+        "Chews Ridge",
+        "36-inch telescope",
+        "Cassegrain telescope",
+        "Bill Dellinges",
+        "Dr. William Kaufmann",
+        "Observing session",
+        "Deep-sky objects",
+        "NGC 7662",
+        "M13",
+        "M42",
+        "The Trapezium",
+        "M57",
+        "Ring Nebula",
+        "Stephan's Quintet",
+        "Averted vision"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-editors-note",
+      "documentId": "eph84-12",
+      "title": "EDITORS NOTE:",
+      "summary": "This editor's note thanks Bill Dellinges for his observations, highlighting his use of a large telescope. The editor then playfully hints at knowing someone who is currently building an even larger 36-inch telescope.",
+      "categories": [
+        "Editorial",
+        "Astronomy",
+        "Telescopes",
+        "Community Note"
+      ],
+      "keywords": [
+        "Bill Dellinges",
+        "telescope",
+        "observations",
+        "36-inch telescope",
+        "editor's note"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-by-steve-gottlieb",
+      "documentId": "eph84-12",
+      "title": "BY: STEVE GOTTLIEB",
+      "summary": "This article discusses the challenges of deep-sky observing in light-polluted areas like the San Francisco Bay region. The author highlights the significant benefits of using a narrow-band nebula filter, specifically the Lumicon Ultra High Contrast (UHC) filter, to enhance the visibility of planetary and emission nebulae. Comparative observations of six celestial objects with and without the UHC filter demonstrate its effectiveness in increasing contrast and revealing details previously unseen.",
+      "categories": [
+        "Observing Reports",
+        "Equipment Review",
+        "Light Pollution Mitigation",
+        "Visual Astronomy"
+      ],
+      "keywords": [
+        "Light pollution",
+        "Nebula filters",
+        "UHC filter",
+        "Deep-sky observing",
+        "Planetary nebulae",
+        "Emission nebulae",
+        "Supernova remnants",
+        "Contrast enhancement",
+        "Telescope accessories",
+        "Steve Gottlieb"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-12-by-don-machholz",
+      "documentId": "eph84-12",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "Professional astronomers have discovered two new comets, with one currently visible through telescopes. While Comet Austin has significantly faded, two periodic comets are brightening in the morning sky. This month also marks the final installment of the 'Past Discovery' series, which will be updated and replaced by a new series in the future.",
+      "categories": [
+        "Comet Observing Report",
+        "Astronomy News",
+        "Publication Update"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Comet Austin",
+        "Periodic Comets",
+        "Observing",
+        "Don Machholz",
+        "Past Discovery series"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-comet-shoemaker-1984r",
+      "documentId": "eph84-12",
+      "title": "COMET SHOEMAKER (1984r):",
+      "summary": "Comet Shoemaker (1984r) was discovered on October 28 by Carolyn and Eugene Shoemaker near the Pleiades using the 18\" Schmidt instrument at Mt. Palomar, observed at magnitude 18. This comet is noteworthy for its unique orbit, never approaching closer than 5.5 astronomical units from the Sun and always remaining outside Jupiter's orbit, as it slowly moves further away and fades.",
+      "categories": [
+        "Cometary Discovery",
+        "Observational Astronomy",
+        "Solar System"
+      ],
+      "keywords": [
+        "Comet Shoemaker (1984r)",
+        "Carolyn Shoemaker",
+        "Eugene Shoemaker",
+        "Mt. Palomar",
+        "Schmidt telescope",
+        "Pleiades",
+        "Astronomical Units (AU)",
+        "Jupiter's orbit",
+        "Comet characteristics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-comet-shoemaker-1984s",
+      "documentId": "eph84-12",
+      "title": "COMET SHOEMAKER (1984s):",
+      "summary": "Comet Shoemaker (1984s) was recently discovered at magnitude 12 near NGC 772 in Aries and is currently visible, approaching the Sun. The article warns against confusing it with other Shoemaker comets and notes that 1984f will be visible next March. Additionally, observation details for Halley's Comet on December 15th are provided, including its coordinates, distances from the Sun and Earth, magnitude, and elongation.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Shoemaker (1984s)",
+        "Halley's Comet",
+        "Comet Observation",
+        "Magnitude",
+        "NGC 772",
+        "Aries",
+        "Celestial Coordinates",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-ephemerides",
+      "documentId": "eph84-12",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents ephemerides for two periodic comets, Arend-Rigaux (1984k) and Schaumasse (1984m), covering dates from late November 1984 to early January 1985. It provides daily astronomical data including Right Ascension, Declination, Elongation, and Magnitude for each comet. Additionally, it offers brief observational notes to guide stargazers on their visibility, expected brightness, and movement across the morning sky.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guide",
+        "Comets",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Arend-Rigaux",
+        "Comet Schaumasse",
+        "1984k",
+        "1984m",
+        "Observing",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Magnitude",
+        "Hydra",
+        "Morning Sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-comet-shoemaker-1984s",
+      "documentId": "eph84-12",
+      "title": "Comet Shoemaker (1984s)",
+      "summary": "This document provides an ephemeris for Comet Shoemaker (1984s) detailing its predicted celestial coordinates, position angle, and magnitude from late November to early January. The comet is noted to be well-placed for observation, remaining above the horizon nearly all night, and will be approximately 0.57 AU from Earth in mid-December. The predicted magnitudes are based on limited initial observations and thus may have some variability.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "comets",
+        "ephemeris",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Comet Shoemaker",
+        "1984s",
+        "ephemeris",
+        "magnitude",
+        "astronomical observations",
+        "comet prediction",
+        "celestial coordinates",
+        "visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-past-discoveries",
+      "documentId": "eph84-12",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article analyzes 28 amateur comet discoveries made between 1975 and 1983, examining patterns in their celestial locations. It reveals that certain parts of the sky, specifically Right Ascensions 06h-12h and 18h-24h, and regions South of the ecliptic, were favored for discoveries. Observers in the Northern Hemisphere made more finds, and while most constellations had single discoveries, Pegasus, Orion, Draco, Ursa Major, and Scorpius each had two.",
+      "categories": [
+        "Astronomical Analysis",
+        "Observational Trends",
+        "Comet Discovery",
+        "Historical Data"
+      ],
+      "keywords": [
+        "comets",
+        "amateur discoveries",
+        "Right Ascension",
+        "Declination",
+        "ecliptic",
+        "constellations",
+        "celestial sphere",
+        "Scorpius",
+        "Pegasus",
+        "Orion",
+        "Draco",
+        "Ursa Major",
+        "astronomy",
+        "data analysis"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-12-by-dave-ambrose",
+      "documentId": "eph84-12",
+      "title": "BY DAVE AMBROSE",
+      "summary": "This document outlines a proposal for developing an observing site at Grant Ranch for the San Jose Astronomical Association (SJAA), aiming to provide facilities for close-in star parties, a permanently mounted telescope, public education programs, and increased visibility for the association. The plan is divided into two phases: Phase I focuses on establishing basic infrastructure and initial public access, while Phase II involves constructing a permanent roll-off roof observatory and implementing educational projects like a scale model of the solar system.",
+      "categories": [
+        "Proposal",
+        "Site Development",
+        "Public Outreach",
+        "Astronomy Facilities",
+        "Project Planning"
+      ],
+      "keywords": [
+        "Grant Ranch",
+        "SJAA",
+        "observing site",
+        "star parties",
+        "public education",
+        "observatory development",
+        "permanent telescope",
+        "solar system model",
+        "community outreach",
+        "project phases"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-by-jay-reynolds-freeman",
+      "documentId": "eph84-12",
+      "title": "BY JAY REYNOLDS FREEMAN",
+      "summary": "This article details an amateur astronomer's successful and challenging observations of Stefan's Quintet using progressively smaller telescopes, down to a 5-inch instrument. The author emphasizes that precise positioning, averted vision, and knowing the exact location were crucial for these challenging deep-sky views, demonstrating that smaller equipment can achieve more than commonly assumed. The observations were confirmed by others, leading to an appreciation of the potential of amateur astronomical equipment.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Telescope Techniques",
+        "Deep Sky Objects"
+      ],
+      "keywords": [
+        "Stefan's Quintet",
+        "Deep-sky observing",
+        "Amateur astronomy",
+        "Telescope observations",
+        "Averted vision",
+        "NGC 7331",
+        "Small telescopes",
+        "Observing techniques",
+        "Equipment potential"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-12-by-laws-revisions",
+      "documentId": "eph84-12",
+      "title": "By-Laws Revisions",
+      "summary": "This article details proposed revisions to the By-Laws of SJMA, which will be discussed at the December meeting and voted upon in January. Key changes include granting voting rights to Honorary Members, moving the Board of Directors elections to February to improve attendance, eliminating minimum attendance requirements for elections, and introducing proxy voting methods for both general members and Board members. These updates aim to enhance member participation, clarify procedures, and ensure proper organizational governance.",
+      "categories": [
+        "Organizational Updates",
+        "Governance",
+        "Bylaws",
+        "Proposals",
+        "Internal Communication"
+      ],
+      "keywords": [
+        "By-Laws",
+        "Revisions",
+        "SJMA",
+        "Voting Rights",
+        "Honorary Members",
+        "Board of Directors",
+        "Elections",
+        "Proxy Vote",
+        "Membership Meetings",
+        "Attendance Requirements"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-12-general-meetings",
+      "documentId": "eph84-12",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides detailed directions for attending \"GENERAL MEETINGS\" at the University of Santa Clara, specifically in Alumni Science Hall, Room 102. It includes driving instructions from both northbound and southbound Hwy 17 exits, outlining specific street turns and building identification. Meetings are scheduled to begin at 8 PM.",
+      "categories": [
+        "Meetings",
+        "Logistics",
+        "Venue Information",
+        "Directions"
+      ],
+      "keywords": [
+        "General Meetings",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Meeting Location",
+        "Directions",
+        "Hwy 17",
+        "Santa Clara",
+        "Meeting Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-indoor-star-parties",
+      "documentId": "eph84-12",
+      "title": "INDOOR STAR PARTIES:",
+      "summary": "The document announces an 'INDOOR STAR PARTIES' event to be held at the Los Gatos Red Cross Building. It provides specific directions for reaching the venue from Hwy 17 South, advising attendees to turn right at Rose Ave., and notes that the event opens at 8 PM.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "Hwy 17",
+        "Directions",
+        "Event Details",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-grant-ranch-county-park",
+      "documentId": "eph84-12",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "The article announces Grant Ranch County Park as a new observing site for the SJAA, conveniently located on Mt. Hamilton Road between San Jose and Lick Observatory. It provides detailed directions from the Bay Area and essential access information, including the combination lock sequence for the park gate after sunset.",
+      "categories": [
+        "Observing Site Announcement",
+        "Directions",
+        "Logistics",
+        "Community Event"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "Observing site",
+        "Directions",
+        "Combination lock",
+        "Bay Area",
+        "Alum Rock Road"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-fremont-peak-state-park",
+      "documentId": "eph84-12",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, specifically guiding visitors to the San Jose Astronomical Association (SJAA) setup area at Coulter Camp overflow. It includes navigational cues from Hwy 101, mentions the total distance, and advises on parking light usage after dark. A map diagram is also referenced for further guidance.",
+      "categories": [
+        "directions",
+        "observing sites",
+        "astronomy club information",
+        "event logistics"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "directions",
+        "SJAA",
+        "Coulter Camp",
+        "observing site",
+        "driving instructions",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-astro-ads",
+      "documentId": "eph84-12",
+      "title": "ASTRO ADS",
+      "summary": "This document is a classifieds section listing various used astronomical equipment for sale. Items include telescopes, mirrors, lenses, mounts, camera equipment, and accessories from multiple sellers, each with contact information and pricing details. It serves as a marketplace for astronomy enthusiasts.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Marketplace",
+        "Used Gear"
+      ],
+      "keywords": [
+        "Celestron",
+        "refractor",
+        "mirror cell",
+        "telescope",
+        "equatorial mount",
+        "motor drive",
+        "aerial lenses",
+        "finders",
+        "reflector parts",
+        "eyepieces",
+        "telephoto lens",
+        "Nikon camera",
+        "Trekker Scope",
+        "Celestron C-8",
+        "astronomy equipment",
+        "for sale",
+        "accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-officers",
+      "documentId": "eph84-12",
+      "title": "OFFICERS:",
+      "summary": "This document lists the current officers of an organization, detailing their names, titles (President, Vice-President, Secretary, and Treasurer), full addresses, and phone numbers. It serves as a directory for key personnel. The listed officers are Dave Ambrose, Dennis Medlock, James Van Nuland, and Robert Fingerhut.",
+      "categories": [
+        "Organization Information",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Contact Details",
+        "Organization Personnel",
+        "Directory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-board-of-directors",
+      "documentId": "eph84-12",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document fragment lists the names and contact information for the Board of Directors, including Paul Mancuso, Steve Greenberg, Tom Ahl, Gene Cisneros, Joe Sunseri, and Chris Pratt. It also identifies John Gleason as the Ephemeris Editor, providing his address.",
+      "categories": [
+        "Organizational Information",
+        "Contact Information",
+        "Internal Document",
+        "Directory"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Ephemeris Editor",
+        "contact list",
+        "organization",
+        "directory"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-12-the-san-jose-astronomical-association",
+      "documentId": "eph84-12",
+      "title": "THE SAN JOSE ASTRONOMICAL ASSOCIATION",
+      "summary": "The San Jose Astronomical Association (SJAA) welcomes individuals with a wide range of astronomical interests, including deep-sky observing, astrophotography, telescope making, eclipses, and computerized astronomy. Members are encouraged to share their knowledge and passion within the community.",
+      "categories": [
+        "Astronomy Club Information",
+        "Community",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "deep-sky observing",
+        "astrophotography",
+        "telescope making",
+        "eclipses",
+        "computerized astronomy",
+        "astronomy interests"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-activities",
+      "documentId": "eph84-12",
+      "title": "ACTIVITIES",
+      "summary": "The SJAA sponsors weekly Saturday night activities, excluding certain holidays. These include monthly General Meetings featuring astronomical programs at the University of Santa Clara. Additionally, they hold group observing sessions called Star Parties at various outdoor locations, and informal Indoor \"Star Parties\" at the Los Gatos Red Cross building for equipment work, idea exchange, and slide shows.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Observing",
+        "Meetings"
+      ],
+      "keywords": [
+        "SJAA",
+        "activities",
+        "General Meetings",
+        "Star Parties",
+        "astronomy programs",
+        "observing sessions",
+        "University of Santa Clara",
+        "Los Gatos Red Cross building",
+        "equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-membership-benefits",
+      "documentId": "eph84-12",
+      "title": "MEMBERSHIP BENEFITS",
+      "summary": "The San Jose Astronomical Association (SJAA) offers various membership benefits, though participation in activities is open to all. Members receive a 12-month subscription to Sky and Telescope magazine, the monthly SJAA Ephemeris newsletter, and access to club telescopes and a library of astronomy resources. Founded in 1954, SJAA is a non-profit dedicated to promoting public interest in astronomy and amateur research.",
+      "categories": [
+        "Membership",
+        "Organizational Information",
+        "Benefits",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Benefits",
+        "Sky and Telescope",
+        "SJAA Ephemeris",
+        "Club Telescopes",
+        "Astronomy Library",
+        "Amateur Astronomy",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-san-jose-astronomical-association-membership-application",
+      "documentId": "eph84-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers and their associated costs, requests contact details from applicants, and includes an optional questionnaire to gauge astronomical interests, telescope ownership, and areas where members might assist others.",
+      "categories": [
+        "Membership Application",
+        "Forms",
+        "Astronomical Associations",
+        "Community"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "application",
+        "astronomy",
+        "membership fees",
+        "questionnaire",
+        "astronomical interests",
+        "telescope",
+        "Milpitas"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-12-discovery-retrieves-two-satellites",
+      "documentId": "eph84-12",
+      "title": "DISCOVERY RETRIEVES TWO SATELLITES",
+      "summary": "The Space Shuttle Discovery successfully retrieved two communication satellites on November 12th and 14th that had previously experienced booster malfunctions. During the same mission, the shuttle also launched two additional communication satellites into orbit.",
+      "categories": [
+        "News",
+        "Space Operations",
+        "Satellite Recovery",
+        "Satellite Launch"
+      ],
+      "keywords": [
+        "Discovery",
+        "Space Shuttle",
+        "Satellite Retrieval",
+        "Communication Satellites",
+        "Satellite Launch",
+        "Booster Malfunction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-next-shuttle-flight-delayed",
+      "documentId": "eph84-12",
+      "title": "NEXT SHUTTLE FLIGHT DELAYED",
+      "summary": "The next Space Shuttle launch, originally set for December 8th, has been postponed to December 18th due to issues with \"Screed\" material under the orbiter's tiles, which requires the removal and replacement of approximately 200 tiles. This delay has also pushed subsequent missions, 61-C to January 22nd and 51-E to February, with 51-C carrying a classified satellite and featuring new pilot Charles F. Bolden.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Mission Delays",
+        "Technical Issues"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Launch delay",
+        "Orbiter tiles",
+        "Screed",
+        "Mission 61-C",
+        "Mission 51-E",
+        "Classified satellite",
+        "Geosynchronous orbit",
+        "Inertial Upper Stage",
+        "Charles F. Bolden",
+        "Astronauts"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-goes-10-weather-satellite-reactivated",
+      "documentId": "eph84-12",
+      "title": "GOES-10 WEATHER SATELLITE REACTIVATED",
+      "summary": "NOAA has successfully reactivated the GOES-10 weather satellite after a maneuver freed a stuck bearing in its imaging system. The satellite's continued operation is contingent on the proper functioning of an encoder lamp, which, despite a history of low output, is currently operating correctly.",
+      "categories": [
+        "News",
+        "Satellite Operations",
+        "Technical",
+        "Weather Forecasting"
+      ],
+      "keywords": [
+        "GOES-10",
+        "Weather satellite",
+        "NOAA",
+        "Reactivation",
+        "Stuck bearing",
+        "Imaging system",
+        "Encoder lamp",
+        "Satellite repair"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-rescue-satellites-to-operate-through-at-least-1990",
+      "documentId": "eph84-12",
+      "title": "RESCUE SATELLITES TO OPERATE THROUGH AT LEAST 1990",
+      "summary": "The Sarsat/Cospas satellite-aided search and rescue system, involving international participants including the U.S. and Soviet Union, has been extended to operate through at least 1990. Both nations will maintain two satellites equipped with Sarsat/Cospas repeaters. Distress beacons will continue to utilize frequencies of 121.5 MHz and 406 MHz.",
+      "categories": [
+        "news",
+        "program update",
+        "satellite technology",
+        "international cooperation"
+      ],
+      "keywords": [
+        "Sarsat/Cospas",
+        "search and rescue",
+        "satellite program",
+        "program extension",
+        "U.S.",
+        "Soviet Union",
+        "distress beacons",
+        "121.5 MHz",
+        "406 MHz",
+        "space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-soviets-target-two-venus-landers",
+      "documentId": "eph84-12",
+      "title": "SOVIETS TARGET TWO VENUS LANDERS",
+      "summary": "The Soviet Union plans to launch two Vega spacecraft in December, designed to explore Venus and Halley's Comet. In 1985, the missions will deploy lander probes on Venus, releasing atmospheric balloons at high altitudes, before the main spacecraft continue towards a 1986 encounter with Halley's Comet.",
+      "categories": [
+        "news",
+        "space mission",
+        "astronomy",
+        "planetary exploration"
+      ],
+      "keywords": [
+        "Soviets",
+        "Vega spacecraft",
+        "Venus",
+        "Halley's Comet",
+        "landers",
+        "atmospheric balloons",
+        "space exploration",
+        "launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-tdrs-launched-to-resume-service",
+      "documentId": "eph84-12",
+      "title": "TDRS LAUNCHED TO RESUME SERVICE",
+      "summary": "The second Tracking and Data Relay Satellite (TDRS-B) has been launched to resume its data storage and delivery services for NASA. This launch follows the believed resolution of problems with the Inertial Upper Stage (IUS), which previously caused TDRS-A to be placed into an incorrect orbit.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Satellites",
+        "Technology"
+      ],
+      "keywords": [
+        "TDRS-B",
+        "Tracking and Data Relay Satellite",
+        "NASA",
+        "Inertial Upper Stage",
+        "IUS",
+        "Satellite launch",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-space-telescope-tube-assembly-delivered-to-lockheed",
+      "documentId": "eph84-12",
+      "title": "SPACE TELESCOPE TUBE ASSEMBLY DELIVERED TO LOCKHEED",
+      "summary": "The Space Telescope's optical tube assembly was delivered to Lockheed for integration with the spacecraft. The assembly arrived at Moffett Field on November 4th and was transported to Lockheed a few days later.",
+      "categories": [
+        "News",
+        "Space Mission Update",
+        "Aerospace Industry"
+      ],
+      "keywords": [
+        "Space Telescope",
+        "optical tube assembly",
+        "Lockheed",
+        "Moffett Field",
+        "integration",
+        "spacecraft delivery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-12-noaa-f-to-study-the-atmosphere",
+      "documentId": "eph84-12",
+      "title": "NOAA-F TO STUDY THE ATMOSPHERE",
+      "summary": "The NOAA-F satellite was slated for a December 1985 launch from Vandenberg, tasked with investigating the impact of pollutants on Earth's atmosphere. Beyond environmental study, it was also designed to supply weather imagery and act as a crucial relay beacon for a multinational search and rescue system involving the U.S., Soviet Union, France, and Canada.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Environmental Science",
+        "Meteorology",
+        "International Cooperation"
+      ],
+      "keywords": [
+        "NOAA-F satellite",
+        "Atmospheric study",
+        "Pollutants",
+        "Weather photography",
+        "Search and rescue system",
+        "Satellite launch",
+        "Vandenberg",
+        "Atlas booster"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8412/Eph84_12.pdf",
+      "txtPath": "8412/Eph84_12.md"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "articles": [
+    {
+      "id": "eph83-04-ephemeris",
+      "documentId": "eph83-04",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS,\" presents an astronomical chart for April, likely related to the SJAA organization. The chart displays celestial coordinates, time markers, and the path of Polaris across centuries, from 1700 to 2200, serving as a long-term reference. It details the positions of stars and celestial poles over time, likely aiding in astronomical observation or planning.",
+      "categories": [
+        "Ephemeris",
+        "Astronomical Chart",
+        "Observing Aids",
+        "Reference Material",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Star chart",
+        "Astronomical diagram",
+        "Celestial coordinates",
+        "Right Ascension",
+        "Polaris",
+        "Astronomy",
+        "SJAA",
+        "Time markers",
+        "Long-term reference"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-04-calendar",
+      "documentId": "eph83-04",
+      "title": "CALENDAR",
+      "summary": "This document is a calendar of astronomical and club-related events scheduled for April and May. It details various star-parties, board and general membership meetings, an Astronomy Day, and an auction. Noteworthy events include an occultation of Jupiter, a talk on astrophotography, and the Riverside Telescope Makers Convention.",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Observing",
+        "Club Activities",
+        "Meetings",
+        "Workshops/Conventions"
+      ],
+      "keywords": [
+        "Calendar",
+        "Star-party",
+        "Occultation",
+        "Jupiter",
+        "Board Meeting",
+        "Astronomy Day",
+        "Auction",
+        "General Meeting",
+        "Astrophotography",
+        "Telescope Makers Convention",
+        "Fremont Peak State Park",
+        "Henry Coe Park",
+        "Los Gatos",
+        "Santa Clara"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-would-you-like-more-public-events",
+      "documentId": "eph83-04",
+      "title": "WOULD YOU LIKE MORE PUBLIC EVENTS?",
+      "summary": "This document, titled 'WOULD YOU LIKE MORE PUBLIC EVENTS?', primarily serves as the masthead and contact information for EPHEMERIS, the monthly publication of the San Jose Astronomical Association (SJAA). It outlines submission guidelines for contributions, welcomes astronomical photos, and lists the association's key officers and board of directors with their contact details.",
+      "categories": [
+        "Publication Information",
+        "Astronomical Association",
+        "Community Engagement",
+        "Organizational Structure"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "Public events",
+        "Astronomical contributions",
+        "Contact information",
+        "Board of Directors",
+        "Newsletter"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-04-by-d-medlock",
+      "documentId": "eph83-04",
+      "title": "BY D. MEDLOCK",
+      "summary": "The San Jose Astronomical Association (SJAA) is preparing for two major events: National Astronomy Day on April 23rd, where volunteers are sought to engage the public with telescopes, and their annual auction on April 30th, requiring assistance with registration, item handling, and refreshments. The article also notes the availability of the club's 12\" Dobson telescope for member borrowing after May 7th and announces a cartoon caption contest. These activities highlight the club's active community engagement and member resources.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Volunteering",
+        "Astronomy Outreach"
+      ],
+      "keywords": [
+        "National Astronomy Day",
+        "SJAA",
+        "Astronomy Outreach",
+        "Volunteer",
+        "Annual Auction",
+        "Club Telescopes",
+        "Telescope Borrowing",
+        "Caption Contest",
+        "Public Engagement"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-04-jupiter-occultation",
+      "documentId": "eph83-04",
+      "title": "JUPITER OCCULTATION",
+      "summary": "The article details an occultation of Jupiter by the waning gibbous moon set to occur on the morning of April 2. Observers south of the California-Oregon-Nevada border will witness a total occultation, with immersion at 4:43 am and emersion at 5:29 am. It also briefly mentions an unobservable daylight occultation of Mars on July 9 and a more favorable twilight occultation of Saturn on December 29.",
+      "categories": [
+        "observing guide",
+        "astronomical events",
+        "planetary science"
+      ],
+      "keywords": [
+        "Jupiter",
+        "occultation",
+        "Moon",
+        "April 2",
+        "immersion",
+        "emersion",
+        "Galilean satellites",
+        "Mars",
+        "Saturn",
+        "waning gibbous moon"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-04-comet-comments",
+      "documentId": "eph83-04",
+      "title": "COMET COMMENTS",
+      "summary": "This 'Comet Comments' article reports on recent comet activity, including a newly discovered faint comet and another brightening comet expected to reach magnitude 9.5 in July, with included positions. It also details Periodic Comet Bowell-Skiff (1983c), discovered on a photograph by Edward Bowell and Brian Skiff, describing its current fading status and orbital characteristics. Additionally, it mentions a historical note on the first comet discovered by a Canadian observer.",
+      "categories": [
+        "observing reports",
+        "astronomy news",
+        "cometology",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "comet",
+        "discovery",
+        "magnitude",
+        "Periodic Comet Bowell-Skiff",
+        "1983c",
+        "Edward Bowell",
+        "Brian Skiff",
+        "Lowell Observatory",
+        "orbital period",
+        "ecliptical plane",
+        "Canadian astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-periodic-comet-kopff-1982k",
+      "documentId": "eph83-04",
+      "title": "Periodic Comet Kopff (1982k)",
+      "summary": "This article presents an ephemeris for Periodic Comet Kopff (1982k) covering March through May 1983, including its right ascension, declination, and estimated magnitude. It notes the comet is slowly approaching both Earth and the Sun, while appearing almost stationary in the constellation Libra. The data provided is sourced from IAU Circular 3779.",
+      "categories": [
+        "Comets",
+        "Ephemerides",
+        "Observational Data",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Kopff",
+        "1982k",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Libra",
+        "IAU Circular 3779",
+        "Periodic Comet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-past-discoveries",
+      "documentId": "eph83-04",
+      "title": "PAST DISCOVERIES",
+      "summary": "Comet Meier (1978r) was discovered by Rolf Meier of Ottawa, Canada, on April 26, 1978, using a 16-inch reflector after 50 hours of searching over three years. Initially at magnitude 10.4 in the constellation Lynx, it was located approximately 3.0 AU from both the Sun and Earth. The comet slowly brightened and became a significant celestial object before gradually fading over a year after its discovery.",
+      "categories": [
+        "Comet Discovery",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Historical Astronomy",
+        "Past Discoveries"
+      ],
+      "keywords": [
+        "Comet Meier",
+        "Rolf Meier",
+        "Comet discovery",
+        "1978r",
+        "Magnitude",
+        "Reflector telescope",
+        "Lynx constellation",
+        "Astronomical Unit",
+        "Comet hunting"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-04-by-jim-van-nuland",
+      "documentId": "eph83-04",
+      "title": "BY JIM VAN NULAND",
+      "summary": "This article reports on recent observations of a celestial 'Spot,' likely the Great Red Spot, noting that poor weather hindered observations on the west coast. Gerry Rattley in Arizona successfully observed it on March 9, describing its appearance and reporting an earlier-than-predicted transit time, advising observers to start early. The document concludes with a detailed table of predicted Great Red Spot meridian transit times for April and May.",
+      "categories": [
+        "Observing Reports",
+        "Observing Guides",
+        "Astronomical Events",
+        "Planetary Observations"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Observation",
+        "Timing",
+        "Meridian Transit",
+        "Amateur Astronomy",
+        "Weather Impact",
+        "Planetary Features"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-announcements",
+      "documentId": "eph83-04",
+      "title": "ANNOUNCEMENTS",
+      "summary": "This announcement details significant changes to membership options and renewal pricing for the 83/84 period. New options include a standard membership with Sky and Telescope for $21.00, a junior membership (under 12) including Sky and Telescope for $15.00, and a membership-only option for $8.00.",
+      "categories": [
+        "Announcements",
+        "Membership",
+        "Administrative Updates"
+      ],
+      "keywords": [
+        "Membership Renewal",
+        "Pricing Changes",
+        "Sky and Telescope",
+        "Junior Membership",
+        "1983-1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-sjaa-membership-application-renewal",
+      "documentId": "eph83-04",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership with the SJAA organization. It requests personal contact information and an area of interest from applicants, offering various membership options, including a standard membership with or without a Sky & Telescope subscription, and a junior membership, each with specified annual fees.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Administrative",
+        "Club/Organization"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Fees",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Form"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-04-by-don-machholz",
+      "documentId": "eph83-04",
+      "title": "BY DON MACHHOLZ",
+      "summary": "Don Machholz compares a 6-inch refractor with a 10-inch reflector telescope, evaluating their performance across various observing conditions. The 6-inch refractor provided sharper images and better contrast, especially at high magnifications and for brighter objects. Conversely, the 10-inch reflector excelled at observing fainter deep-sky objects due to its superior light-gathering capability, a difference attributed to objective diameter, focal ratio, light loss, and secondary mirror obstruction.",
+      "categories": [
+        "observing report",
+        "telescope comparison",
+        "amateur astronomy",
+        "astronomical equipment",
+        "technical"
+      ],
+      "keywords": [
+        "telescope comparison",
+        "refractor",
+        "reflector",
+        "6-inch refractor",
+        "10-inch reflector",
+        "Don Machholz",
+        "high magnification",
+        "low magnification",
+        "comet hunting",
+        "image sharpness",
+        "contrast",
+        "faint objects",
+        "deep-sky objects",
+        "focal ratio",
+        "light pollution"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-04-by-bob-fingerhut",
+      "documentId": "eph83-04",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The Ventura County Astronomical Society and Orange County Astronomers co-sponsored a one-day astrophotographic seminar on March 5th, attended by four S.gda members including the author. Presentations covered diverse topics such as tri-color photography, film development, new films, solar eclipse and comet photography, filters, and light pollution, with Reverend Ronald Royer giving a notable color tour of the Milky Way. The event proved inspiring, leaving attendees with numerous new ideas for astrophotography.",
+      "categories": [
+        "Event Report",
+        "Astrophotography",
+        "Seminar"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Seminar",
+        "Ventura County Astronomical Society",
+        "Orange County Astronomers",
+        "Tri-color photography",
+        "Film development",
+        "Solar eclipse photography",
+        "Comet photography",
+        "Light pollution",
+        "Milky Way"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-adds",
+      "documentId": "eph83-04",
+      "title": "ADDS",
+      "summary": "This document features two classified advertisements. Vince Huggins is selling a CAVE 6\" F/4 RFT telescope, described as being in very good, like-new condition, for the best offer over $125. Additionally, Lou Lassabatere is seeking good, used equipment for a weather station, specifically mentioning barometers and cupwheels.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Wanted"
+      ],
+      "keywords": [
+        "Telescope",
+        "CAVE telescope",
+        "RFT",
+        "Weather station",
+        "Barometer",
+        "Cupwheel",
+        "Used equipment",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-astronomical-society-of-the-pacific",
+      "documentId": "eph83-04",
+      "title": "ASTRONOMICAL SOCIETY OF THE PACIFIC",
+      "summary": "The Astronomical Society of the Pacific (ASP) and Western Amateur Astronomers (WAA) are co-sponsoring a week-long astronomical meeting in Hawaii from June 19-25, 1983, featuring a symposium on spectroscopy, amateur papers, a teachers' workshop, observatory tours, and non-technical lectures. Additionally, the document promotes upcoming KGO-FM radio programs in April 1983, covering an astronomy Q&A with Andrew Fraknoi and a discussion on extraterrestrial impact and dinosaur extinction with Helen Michel.",
+      "categories": [
+        "Events",
+        "Conferences",
+        "Radio Broadcasts",
+        "Astronomy Education",
+        "Outreach"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "Western Amateur Astronomers",
+        "WAA",
+        "Hawaii meeting",
+        "Astronomy conference",
+        "Spectroscopy",
+        "History of astronomy",
+        "Amateur astronomy",
+        "Teacher workshop",
+        "Mauna Kea Observatories",
+        "Volcanoes National Park",
+        "KGO-FM",
+        "Radio program",
+        "Dinosaur extinction",
+        "Extraterrestrial impact",
+        "Andrew Fraknoi",
+        "Helen Michel",
+        "1983"
+      ],
+      "pageStart": 9,
+      "pageEnd": 1290
+    },
+    {
+      "id": "eph83-04-meeting-location",
+      "documentId": "eph83-04",
+      "title": "MEETING LOCATION:",
+      "summary": "This document outlines four different meal and lodging plans for attendees of a meeting or conference, primarily focusing on camping options with varying meal inclusions and prices. It also provides information on an alternative lodging option at the Weldon Resort Motel and mentions key dates for attendance and a deadline.",
+      "categories": [
+        "event planning",
+        "logistics",
+        "meeting information",
+        "pricing"
+      ],
+      "keywords": [
+        "meeting",
+        "lodging",
+        "meals",
+        "camping",
+        "Weldon Resort Motel",
+        "plans",
+        "pricing",
+        "deadline",
+        "event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-how-to-reach-us",
+      "documentId": "eph83-04",
+      "title": "HOW TO REACH US:",
+      "summary": "This document provides initial instructions for reaching a location, noting that driving directions will be on the next page. It mentions the availability of telescopes and lodging, advises visitors to watch out for snakes, and suggests bringing binoculars for an event. The text also briefly touches upon meal options and formal rules.",
+      "categories": [
+        "Visitor Information",
+        "Observing Tips",
+        "Safety Guidelines",
+        "Event Planning"
+      ],
+      "keywords": [
+        "Directions",
+        "Telescopes",
+        "Lodging",
+        "Snakes",
+        "Binoculars",
+        "Meals",
+        "Rules",
+        "Visit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-arrival-times",
+      "documentId": "eph83-04",
+      "title": "ARRIVAL TIMES:",
+      "summary": "The conference grounds are scheduled to open at 1:00 pm on Saturday, June 20. Attendees are advised against early arrival to ensure they are properly registered before gaining access, and to avoid issues with the registration process.",
+      "categories": [
+        "Events",
+        "Logistics",
+        "Announcement"
+      ],
+      "keywords": [
+        "Conference",
+        "Arrival times",
+        "Registration",
+        "Event logistics",
+        "Schedule",
+        "June 20"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-picnic",
+      "documentId": "eph83-04",
+      "title": "PICNIC:",
+      "summary": "This document, titled \"PICNIC,\" is a highly fragmented and disorganized collection of contact information for various lodging options (motels, inns, lodges, campgrounds) located in Big Bear Lake and Big Bear City, California. It vaguely mentions reserving accommodations and a meal plan, but provides no coherent details about the nature or purpose of the \"PICNIC\" event itself.",
+      "categories": [
+        "Event Logistics",
+        "Accommodation",
+        "Local Information",
+        "Contact List"
+      ],
+      "keywords": [
+        "PICNIC",
+        "Big Bear Lake",
+        "Big Bear City",
+        "Lodging",
+        "Motel",
+        "Camp Ground",
+        "Reservation",
+        "Meal Plan",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-04-reply-blanks",
+      "documentId": "eph83-04",
+      "title": "REPLY BLANKS:",
+      "summary": "This document, titled 'REPLY BLANKS,' is a poorly structured communication that outlines deadlines for meetings and, more clearly, issues a 'SPECIAL' request for abstracts or papers. Submissions should detail research, experiments, or telescope applications, including title, description, and estimated equipment, with presentations limited to 30 minutes. The overall context suggests an event or call for proposals related to scientific research and telescope operations.",
+      "categories": [
+        "Call for Abstracts",
+        "Astronomy/Telescope Use",
+        "Event Communication",
+        "Research Proposal"
+      ],
+      "keywords": [
+        "abstracts",
+        "papers",
+        "telescope",
+        "research",
+        "experiments",
+        "proposal",
+        "deadline",
+        "meeting",
+        "presentation"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-04-hotchkilling-no",
+      "documentId": "eph83-04",
+      "title": "HOTCHKILLING NO ___",
+      "summary": "This document serves as a registration form and information guide for an event hosted by the Riverside Telescope Makers Conference, an annual gathering for astronomy enthusiasts. It outlines various registration options, including costs for meals, lodging, and camping, along with detailed directions to the conference site in the Riverside/Big Bear area. The conference will feature souvenir exhibits related to telescopes and photography and is planned to proceed regardless of weather conditions.",
+      "categories": [
+        "Event Registration",
+        "Astronomical Conference",
+        "Logistics & Directions"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers Conference",
+        "Astronomy",
+        "Telescopes",
+        "Star Registration",
+        "Camping",
+        "Exhibits",
+        "Riverside",
+        "Big Bear City",
+        "Conference Logistics"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-04-local-astronomy-sites",
+      "documentId": "eph83-04",
+      "title": "LOCAL ASTRONOMY SITES",
+      "summary": "This document features a hand-drawn map detailing local astronomy sites primarily in the San Francisco Bay Area and surrounding regions of California. It highlights key locations such as Lick Observatory and Fremont Peak State Park, along with various towns, roads, and geographical features, serving as a navigational guide for stargazers.",
+      "categories": [
+        "Observing Sites",
+        "Regional Guide",
+        "Maps/Directions"
+      ],
+      "keywords": [
+        "San Francisco Bay Area",
+        "Astronomy sites",
+        "Lick Observatory",
+        "Fremont Peak State Park",
+        "Observing locations",
+        "California",
+        "Stargazing"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-04-time-value-dated",
+      "documentId": "eph83-04",
+      "title": "TIME VALUE — DATED",
+      "summary": "This document presents boilerplate mailing information, including the address for \"SILVA - PREMIERS\" located at 3509 Calico Ave, San Jose, CA 95124, and details regarding U.S. postage paid. It appears to be a header or footer for a mailed item, rather than an article with substantive content.",
+      "categories": [
+        "Mailing Information",
+        "Business Details",
+        "Administrative"
+      ],
+      "keywords": [
+        "SILVA - PREMIERS",
+        "San Jose",
+        "California",
+        "Postage Paid",
+        "Mailing Address",
+        "Permit Number"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8304/Eph83_04.pdf",
+      "txtPath": "8304/Eph83_04.md"
+    }
+  ]
+}

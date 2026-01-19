@@ -1,0 +1,540 @@
+{
+  "articles": [
+    {
+      "id": "eph87-09-september-1987",
+      "documentId": "eph87-09",
+      "title": "SEPTEMBER 1987",
+      "summary": "This document outlines the schedule of events for September and early October 1987 for the San Jose Astronomical Association (SJAA). It includes general meetings, board meetings, introductory astronomy classes, and multiple field expeditions for astronomical observation. A highlight is an upcoming talk by Bob Wagoner on the Supernova SN1987A.",
+      "categories": [
+        "events",
+        "meetings",
+        "observing reports",
+        "education",
+        "news"
+      ],
+      "keywords": [
+        "September 1987",
+        "October 1987",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Slide and Equipment Night",
+        "Bob Wagoner",
+        "Supernova",
+        "SN1987A",
+        "Large Magellanic Cloud",
+        "General Meeting",
+        "Board Meeting",
+        "Introductory Astronomy Class",
+        "Field Expedition",
+        "Astronomical Observation",
+        "Fremont Peak Observatory",
+        "Fremont Peak State Park",
+        "Grant Ranch County Park",
+        "AANC Conference",
+        "Laurence Hall of Science",
+        "Berkeley",
+        "Los Gatos Red Cross Building",
+        "West Valley College Planetarium"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-field-of-view",
+      "documentId": "eph87-09",
+      "title": "FIELD OF VIEW",
+      "summary": "The article announces two upcoming astronomical events: the AANC Annual Conference on September 19-20 in Berkeley, featuring talks on astronomy, equipment, and astrophotography, and a \"Slide and Equipment Night\" on September 5th with equipment demonstrations, slides from the Riverside Telescope Makers Conference, and member astrophotography. Both events are presented as important gatherings for the astronomy community.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Astronomy Club Activities",
+        "Conference"
+      ],
+      "keywords": [
+        "AANC Conference",
+        "Astronomical Association of Northern California",
+        "Laurence Hall of Science",
+        "Berkeley",
+        "Astronomy",
+        "Equipment",
+        "Astrophotography",
+        "Slide and Equipment Night",
+        "Riverside Telescope Makers Conference",
+        "Telescopes",
+        "Club meetings"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph87-09-supernova",
+      "documentId": "eph87-09",
+      "title": "SUPERNOVA!",
+      "summary": "Lockheed scientist Bob Wagoner will be the guest speaker at the October 3rd General Meeting. He will present the latest information on the recent supernova in the Large Magellanic Cloud, an event that has garnered significant attention from the astronomical community.",
+      "categories": [
+        "Meeting Announcement",
+        "Astronomy Event",
+        "Speaker Series"
+      ],
+      "keywords": [
+        "Supernova",
+        "Large Magellanic Cloud",
+        "Bob Wagoner",
+        "General Meeting",
+        "Astronomy",
+        "Celestial Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-fishing-for-starlight",
+      "documentId": "eph87-09",
+      "title": "FISHING FOR STARLIGHT",
+      "summary": "The author thanks over 70 members for attending their August 1st astrophotography presentation, noting positive feedback and incorporating suggestions. Due to high interest, the slide program might be rerun during a dedicated slide and equipment night. The music accompanying the slides, \"Return of the Comet\" by David Lange, was also popular and is available from Hearts of Space.",
+      "categories": [
+        "Event Recap",
+        "Astrophotography",
+        "Member Engagement",
+        "Future Events"
+      ],
+      "keywords": [
+        "astrophotography",
+        "presentation",
+        "August 1st",
+        "slide program",
+        "equipment night",
+        "Return of the Comet",
+        "David Lange",
+        "Hearts of Space",
+        "members"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-astro-class-to-meet-at-observatory",
+      "documentId": "eph87-09",
+      "title": "ASTRO CLASS TO MEET AT OBSERVATORY",
+      "summary": "Jack Ziders' introductory astronomy class will hold a special observational session at Fremont Peak Observatory this month, instead of their usual Red Cross location. Students are instructed to meet at the observatory at 8:30 PM on September 12 for an evening focused on observational astronomy.",
+      "categories": [
+        "Events",
+        "Education",
+        "Observing"
+      ],
+      "keywords": [
+        "Astronomy Class",
+        "Fremont Peak Observatory",
+        "Jack Ziders",
+        "Observational Astronomy",
+        "September 12"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-astro-ads",
+      "documentId": "eph87-09",
+      "title": "ASTRO ADS",
+      "summary": "The 'ASTRO ADS' document features several classified advertisements for astronomical equipment. Listings include a 5-inch f/14 refractor telescope with a Super Polaris mount for sale, a Meade focuser, and a Televue eyepiece. Additionally, a reward is offered for information leading to the recovery of a stolen 18.75 f/5.6 astronomical mirror.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "For Sale",
+        "Reward"
+      ],
+      "keywords": [
+        "refractor telescope",
+        "astronomical mirror",
+        "focuser",
+        "eyepiece",
+        "stolen equipment",
+        "reward",
+        "Super Polaris mount",
+        "Dual Axis drive corrector",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-waltzing-with-ernie",
+      "documentId": "eph87-09",
+      "title": "WALTZING WITH ERNIE",
+      "summary": "The author recounts an astrophotography workshop trip to Ayers Rock, Australia, organized by Sky and Telescope magazine. The expedition focused on capturing the exceptionally dark Southern Hemisphere skies and notably included a rare naked-eye view of Supernova SN1987A in the Large Magellanic Cloud, alongside Comet Wilson and brilliant meteors. Despite a rigorous schedule and some weather, the trip was considered a significant success, yielding excellent photographic results and a deep appreciation for the astronomical wonders observed.",
+      "categories": [
+        "Observing Report",
+        "Astrophotography",
+        "Travelogue",
+        "Workshop",
+        "Supernova"
+      ],
+      "keywords": [
+        "Ayers Rock",
+        "Australia",
+        "Astrophotography",
+        "Supernova SN1987A",
+        "Dark Skies",
+        "Southern Hemisphere",
+        "Comet Wilson",
+        "Sky and Telescope",
+        "Henbury Meteorite Craters",
+        "Travel"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph87-09-by-bob-fingerhut",
+      "documentId": "eph87-09",
+      "title": "BY: BOB FINGERHUT",
+      "summary": "Soviet cosmonauts successfully installed a third solar array on the Mir space station, enhancing power for the Kvant module, while one cosmonaut returned to Earth for health evaluation. Concurrently, the Soviets launched a massive Earth survey platform. In the U.S., Sally Ride's report advocated for a Moon base as a precursor to Mars exploration and a robust space infrastructure, amidst concerns about NASA's diminishing access to the White House regarding its programs and the disparity with Soviet advancements.",
+      "categories": [
+        "Space Exploration",
+        "Space Policy",
+        "International Space Relations",
+        "Space Technology",
+        "Government Affairs"
+      ],
+      "keywords": [
+        "Mir space station",
+        "Solar array",
+        "Kvant astrophysics module",
+        "Cosmonauts",
+        "Soviet space program",
+        "Earth survey platform",
+        "Sally Ride report",
+        "NASA",
+        "Moon base",
+        "Mars capability",
+        "Space infrastructure",
+        "White House",
+        "William R. Graham",
+        "Department of Defense",
+        "Heavy lift launch vehicle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-by-don-machholz",
+      "documentId": "eph87-09",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "This article reports on the recent recovery of two periodic comets: Russell 2 (1987q) and Reinmuth 1 (1987r). Periodic Comet Russell 2 was recovered on July 1 at magnitude 20 near its closest approach to the sun, while Periodic Comet Reinmuth 1 was recovered on July 22 at magnitude 20 using the Spacewatch telescope, with an expected brightening to magnitude 15 next May.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Science",
+        "Astronomical Observations",
+        "News"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Comets",
+        "Periodic Comet Russell 2",
+        "1987q",
+        "Perth Observatory",
+        "Magnitude 20",
+        "Periodic Comet Reinmuth 1",
+        "1987r",
+        "Spacewatch telescope",
+        "Kitt Peak",
+        "Comet recovery",
+        "Magnitude 15"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph87-09-ephemerides",
+      "documentId": "eph87-09",
+      "title": "EPHEMERIDES",
+      "summary": "This document presents the header for a table of ephemerides, outlining columns such as date, right ascension (1950) and declination, elongation, and magnitude. It is designed to provide specific astronomical data for observing celestial objects. The structure suggests it's a guide or reference for locating astronomical phenomena.",
+      "categories": [
+        "Ephemerides",
+        "Astronomical Data",
+        "Observing Aids",
+        "Reference"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Astronomical data",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-periodic-comet-klemola-1987i",
+      "documentId": "eph87-09",
+      "title": "Periodic Comet Klemola (1987i)",
+      "summary": "The article provides an observing guide for Periodic Comet Klemola (1987i) during its favorable appearance from late August to early October. While closest to the Sun in late July, the comet will be closest to Earth (0.87 AU) in mid-September, presenting an optimal viewing opportunity. It is expected to be around magnitude 11.6 to 12.2, with a note that it might appear one magnitude fainter, and has an orbital period of 10.9 years.",
+      "categories": [
+        "Observing Guide",
+        "Cometology",
+        "Astronomy News",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Klemola (1987i)",
+        "Periodic Comet",
+        "Orbital Period",
+        "Magnitude",
+        "Closest Approach",
+        "Right Ascension",
+        "Declination",
+        "Observing",
+        "Comet Apparition"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-periodic-comet-borrelly-1987p",
+      "documentId": "eph87-09",
+      "title": "Periodic Comet Borrelly (1987p)",
+      "summary": "This document provides an observing guide for Periodic Comet Borrelly (1987p), detailing its rising times, coordinates, and predicted magnitude from late August through early October. It notes that the comet is expected to be visible until the end of the year, often surpassing initial brightness predictions near perihelion, and advises observers to watch its development against a background of faint galaxies.",
+      "categories": [
+        "observing guide",
+        "comet observation",
+        "astronomy",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Borrelly",
+        "1987p",
+        "observing",
+        "magnitude",
+        "perihelion",
+        "celestial coordinates",
+        "galaxies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-periodic-comet-encke",
+      "documentId": "eph87-09",
+      "title": "Periodic Comet Encke",
+      "summary": "The article discusses the periodic Comet Encke, noting its current difficulty to observe due to its low position in the evening sky and rapid dimming. Observers have only a few weeks to view it during this apparition, despite its 3.3-year orbit. The provided data lists its positions and magnitudes for late August and September.",
+      "categories": [
+        "observing report",
+        "astronomy news",
+        "celestial object update"
+      ],
+      "keywords": [
+        "Comet Encke",
+        "periodic comet",
+        "comet observation",
+        "celestial mechanics",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-seeking-comets",
+      "documentId": "eph87-09",
+      "title": "SEEKING COMETS",
+      "summary": "The article \"SEEKING COMETS\" explains the six fundamental orbital elements used to define a comet's path, which are typically calculated shortly after discovery and refined with more observations. It details each element, including Time of Perihelion, Ascending Node, Inclination, Argument of Perihelion, Perihelion Distance, and Eccentricity, describing how they determine the comet's position, the plane and orientation of its orbit, and its shape and size. The text also introduces related terms like Epoch, Daily Motion, and Aphelion distance, providing a technical guide to understanding comet orbits.",
+      "categories": [
+        "Technical",
+        "Educational",
+        "Astronomy",
+        "Comets",
+        "Orbital Mechanics"
+      ],
+      "keywords": [
+        "Comet orbital elements",
+        "Time of Perihelion",
+        "Ascending Node",
+        "Inclination",
+        "Argument of the Perihelion",
+        "Perihelion Distance",
+        "Eccentricity",
+        "Comet orbit",
+        "Perihelion",
+        "Aphelion",
+        "Epoch",
+        "Daily Motion",
+        "Orbital period",
+        "Elliptical orbit",
+        "Parabolic orbit",
+        "Hyperbolic orbit"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph87-09-an-overview-of-observing-sites-by-don-machholz-and-rich-page",
+      "documentId": "eph87-09",
+      "title": "AN OVERVIEW OF OBSERVING SITES BY DON MACHHOLZ AND RICH PAGE",
+      "summary": "## AN OVERVIEW OF OBSERVING SITES BY DON MACHHOLZ AND RICH PAGE\n\nBear Creek Rd. winds southward from Hwy 17 near Lexington Reservoir, and over Summit Rd., ending in the town of Boulder Creek. It is al...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph87-09-general-meetings",
+      "documentId": "eph87-09",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Los Gatos Red Cross building in Los Gatos, California. These meetings feature invited speakers on diverse astronomical topics, including equipment and slide presentations, and host \"Indoor Star Parties\" for members to share interests like astrophotography and telescope making. Detailed directions and start times are provided for attendees.",
+      "categories": [
+        "meetings",
+        "events",
+        "club information",
+        "astronomy",
+        "community"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos Red Cross",
+        "astronomical topics",
+        "Indoor Star Parties",
+        "astrophotography",
+        "deep sky observation",
+        "telescope making",
+        "Los Gatos California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-indoor-star-parties",
+      "documentId": "eph87-09",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Indoor Star Parties are monthly informal gatherings for amateur astronomers to socialize, share their interest in astronomy, and connect with fellow enthusiasts. These events feature members bringing telescopes, slideshows of astrophotography and past star parties, an introductory astronomy workshop, and award ceremonies.",
+      "categories": [
+        "Events",
+        "Community",
+        "Amateur Astronomy",
+        "Workshops"
+      ],
+      "keywords": [
+        "Star Party",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Astronomy Workshop",
+        "Community Gathering",
+        "Awards"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-field-expeditions",
+      "documentId": "eph87-09",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA organizes \"Star Parties\" for astronomical observation on Saturdays closest to the New Moon. These field expeditions occur at various designated locations, some near San Jose and others as far as Yosemite National Park. Participants should consult the EPHEMERIS for directions to these events.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomical observation",
+        "Field Expeditions",
+        "New Moon",
+        "SJAA",
+        "Yosemite National Park",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-fremont-peak-state-park",
+      "documentId": "eph87-09",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly favored location for Bay Area amateur astronomers, offering prime conditions for deep sky observing and astrophotography during New Moon weekends. The park hosts the Fremont Peak Observatory's 30-inch public telescope and regularly attracts a large number of telescopes, especially in summer. The article also provides detailed directions to the park and lists contact information for the San Jose Astronomical Association (SJAA), publisher of 'EPHEMERIS'.",
+      "categories": [
+        "Observing Location Guide",
+        "Amateur Astronomy",
+        "Club Information",
+        "Public Outreach",
+        "Event Details"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "New Moon",
+        "San Jose Astronomical Association",
+        "Public Observatory",
+        "Telescope",
+        "Bay Area"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph87-09-san-jose-astronomical-association-membership-application",
+      "documentId": "eph87-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership types like 'Membership Only', 'Membership/S&T', and 'Junior (Under 18)' with their corresponding dues. It requests personal contact information from applicants and provides instructions for submission, either in person at an SJAA meeting or by mail to the treasurer.",
+      "categories": [
+        "Membership Application",
+        "Local Astronomy Club",
+        "Administrative",
+        "Forms",
+        "Organization Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Astronomy Club",
+        "Dues",
+        "Renewal",
+        "Science & Technology magazine",
+        "Milpitas",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-09-questionnaire-optional",
+      "documentId": "eph87-09",
+      "title": "Questionnaire (optional)",
+      "summary": "This document contains an optional questionnaire designed to gather information on individuals' astronomical interests, telescope ownership, and areas of expertise where they might assist others. It also includes postal details for \"SJAA EPHEMERIS,\" a non-profit organization's news material based in San Jose, CA.",
+      "categories": [
+        "Survey",
+        "Community Engagement",
+        "Organizational Information",
+        "Publication"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope ownership",
+        "SJAA EPHEMERIS",
+        "questionnaire",
+        "non-profit organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph87-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8709/Eph87_09.pdf",
+      "txtPath": "8709/Eph87_09.md"
+    }
+  ]
+}

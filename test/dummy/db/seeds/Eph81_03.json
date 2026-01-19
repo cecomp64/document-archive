@@ -1,0 +1,299 @@
+{
+  "articles": [
+    {
+      "id": "eph81-03-observations",
+      "documentId": "eph81-03",
+      "title": "Observations",
+      "summary": "This article from the San Jose Astronomical Association (SJAA) outlines upcoming activities, including the annual Messier Marathon, a guest speaker on rocketry hosted by the San Mateo Astronomical Society, and an astronomical auction to fund building maintenance. It also details ongoing club initiatives like the telescope makers' workshop and public outreach events. Crucially, the SJAA board communicates its decision to suspend dues payment to the Astronomical Association of Northern California (AANC) for 1981, citing the AANC's financial surplus.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Outreach",
+        "Club Governance",
+        "Fundraising",
+        "Workshops",
+        "Observing Reports",
+        "Inter-club Relations"
+      ],
+      "keywords": [
+        "SJAA",
+        "Messier Marathon",
+        "Don Machholz",
+        "Robert Truax",
+        "Rocketry",
+        "AANC",
+        "Club Dues",
+        "Astronomical Auction",
+        "Astronomy Day",
+        "Telescope Making",
+        "Star Party",
+        "Public Education"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-03-messier-marathon-reminder",
+      "documentId": "eph81-03",
+      "title": "Messier Marathon Reminder",
+      "summary": "The article serves as a reminder for the upcoming Messier Marathon, scheduled for the evenings of March 6 and 7, during which 109 Messier objects, along with comets, Jupiter, Saturn, and other deep-sky objects, will be visible. The author plans to observe from Loma Prieta Mountain, with alternative dates of April 3 and 4 suggested if the March dates are clouded out.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy",
+        "deep-sky observing"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier objects",
+        "deep-sky objects",
+        "comets",
+        "Jupiter",
+        "Saturn",
+        "Loma Prieta Mountain",
+        "observing",
+        "astronomy event",
+        "star gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-03-comet-comments",
+      "documentId": "eph81-03",
+      "title": "Comet Comments",
+      "summary": "This article provides a springtime update on comet visibility, noting no new comets, two fading, and three still visible. It includes detailed positional data, magnitude estimates, and descriptions for Comet Meier (1980g), Comet Panther (1980u), and Comet Borrelly. Additionally, it features a historical account of Comet West (1975n; 1976 VI), recalling its spectacular appearance in 1976 with daytime visibility, long tails, and a nucleus that split into four parts.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical News",
+        "Comets",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Meier",
+        "Comet Panther",
+        "Comet Borrelly",
+        "Comet West",
+        "Observational data",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Nucleus splitting",
+        "Tails",
+        "Astronomy updates",
+        "Springtime"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph81-03-an-untitled-dissertation-by-jay-freeman",
+      "documentId": "eph81-03",
+      "title": "An Untitled Dissertation by Jay Freeman",
+      "summary": "This article recounts an astronomer's recent observations, including a successful sighting of the heavily obscured Maffei 1 galaxy in Cassiopeia using a Celestron 14, following a clouded-out star party. The author also describes observing the Christmas Tree Cluster (NGC 2264) and multiple galactic clusters in Puppis. Additionally, the piece suggests unique challenges for Messier Marathon participants.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Club News",
+        "Challenges"
+      ],
+      "keywords": [
+        "Star party",
+        "Maffei 1",
+        "Maffei 2",
+        "Galaxy",
+        "Obscured galaxy",
+        "Cassiopeia",
+        "Fremont Peak",
+        "NGC 2264",
+        "Christmas Tree Cluster",
+        "Galactic clusters",
+        "Puppis",
+        "Messier Marathon",
+        "Deep-sky observing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-03-shuttle-countdown",
+      "documentId": "eph81-03",
+      "title": "Shuttle Countdown",
+      "summary": "This article provides an update on the Space Shuttle Columbia's pre-launch test milestones, detailing completed and remaining tasks after its arrival at Pad 39A on December 29th. A propellant autoload and detanking test caused damage to the external tank insulation, necessitating repairs and delaying the launch. Despite this, the flight readiness firing on February 20th was successful, with all engines performing as expected, though the mission is now targeted for April 7th.",
+      "categories": [
+        "Space Exploration",
+        "Launch Preparations",
+        "Space Shuttle Program",
+        "Technical Update",
+        "News"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Launch Countdown",
+        "Test Milestones",
+        "Pad 39A",
+        "External Tank",
+        "Insulation Damage",
+        "Launch Delay",
+        "Flight Readiness Firing",
+        "Main Propulsion System",
+        "STS-1"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-03-reagan-decimates-civilian-space-program",
+      "documentId": "eph81-03",
+      "title": "REAGAN DECIMATES CIVILIAN SPACE PROGRAM",
+      "summary": "President Reagan's proposed budget cuts aim to significantly reduce the civilian space program in 1981 and 1982, impacting various missions and projects. These cuts include the cancellation of the Venus radar mission, gamma-ray observatory, and National Oceanic Satellite System, as well as delays for space shuttle production and defunding of key research facilities and instruments. The article strongly urges readers to contact the President, senators, representatives, and relevant subcommittee chairmen to oppose these drastic measures.",
+      "categories": [
+        "news",
+        "government policy",
+        "budget cuts",
+        "space program",
+        "call to action"
+      ],
+      "keywords": [
+        "Reagan",
+        "NASA",
+        "budget cuts",
+        "civilian space program",
+        "Venus orbiting, imaging radar mission",
+        "gamma ray observatory",
+        "National Oceanic Satellite System",
+        "space shuttle",
+        "Landsat D-class spacecraft",
+        "thematic mapper",
+        "Ames Research Center",
+        "numerical aerodynamic simulator",
+        "Congressional contact information",
+        "science funding"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-03-star-riddles",
+      "documentId": "eph81-03",
+      "title": "STAR RIDDLES",
+      "summary": "The article \"STAR RIDDLES\" by Dave & Mary Ambrose presents a quiz challenging readers to identify five stars based on their historical, mythological, and navigational descriptions. The questions delve into various legends and historical roles of prominent stars, with the answers scheduled for release in the following month's publication.",
+      "categories": [
+        "Quiz",
+        "Astronomy",
+        "Mythology",
+        "History of Astronomy",
+        "Puzzle"
+      ],
+      "keywords": [
+        "Star riddles",
+        "Stars",
+        "Astronomy quiz",
+        "Legends",
+        "Mythology",
+        "Celestial navigation",
+        "Dragon's Tail",
+        "Heart of the Lion",
+        "Pole Star",
+        "Pleiades",
+        "Lodestar"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-03-riverside-telescope-makers-conference",
+      "documentId": "eph81-03",
+      "title": "RIVERSIDE TELESCOPE MAKERS CONFERENCE",
+      "summary": "The 13th Annual Riverside Telescope Makers Conference is scheduled for May 22-25, Memorial Day weekend, at Camp Oakes near Big Bear City. The event offers various lodging and meal plans, a registration fee of $2, and features activities such as speakers, a swap meet, a children's program, door prizes, and merit awards for telescope displays. Attendees are advised to make reservations by May 10, 1981, and note the arrival time restrictions.",
+      "categories": [
+        "Event Announcement",
+        "Conference",
+        "Amateur Astronomy",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers Conference",
+        "Camp Oakes",
+        "Big Bear City",
+        "Memorial Day weekend",
+        "telescope making",
+        "astronomy conference",
+        "speakers",
+        "swap meet",
+        "merit awards",
+        "lodging",
+        "registration"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-03-big-bear-city",
+      "documentId": "eph81-03",
+      "title": "BIG BEAR CITY",
+      "summary": "This document provides geographical information for Big Bear City, likely serving as a navigational aid or a simplified map guide. It lists several key roads and locations such as Highway 38, Camp Oakes, and various lanes and roads within the area. The content suggests routes and points of interest, indicating its purpose is to offer orientation for travelers or residents.",
+      "categories": [
+        "Maps & Navigation",
+        "Local Information",
+        "Travel & Tourism",
+        "Geography"
+      ],
+      "keywords": [
+        "Big Bear City",
+        "Map",
+        "Roads",
+        "Navigation",
+        "Highway 38",
+        "Clark Lane",
+        "State Lane",
+        "Green Canyon Road",
+        "Lake Williams Estates Rd",
+        "Camp Oakes",
+        "Onyx Summit",
+        "Redlands",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-03-rtmc-registration-form",
+      "documentId": "eph81-03",
+      "title": "RTMC REGISTRATION FORM",
+      "summary": "This document is a registration form for the Riverside Telescope Makers Conference (RTMC). It provides fields for attendees to submit their personal information, select various options such as registration fees, meal plans, camping, and conference proceedings, and calculate the total amount due. The form also includes instructions for making checks payable and the remittance address for payment.",
+      "categories": [
+        "Events",
+        "Registration",
+        "Conference",
+        "Form"
+      ],
+      "keywords": [
+        "RTMC",
+        "Riverside Telescope Makers Conference",
+        "Registration",
+        "Conference",
+        "Telescope Makers",
+        "Fees",
+        "Meals",
+        "Lodging",
+        "Camping",
+        "Proceedings",
+        "Payment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8103/Eph81_03.pdf",
+      "txtPath": "8103/Eph81_03.md"
+    }
+  ]
+}

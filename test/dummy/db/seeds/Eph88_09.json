@@ -1,0 +1,590 @@
+{
+  "articles": [
+    {
+      "id": "eph88-09-september-3rd",
+      "documentId": "eph88-09",
+      "title": "SEPTEMBER 3RD",
+      "summary": "This document outlines a comprehensive schedule of astronomical events and club activities for September and early October, starting with a swap meet and equipment night. Key events include special astronomy classes, field expeditions, multiple \"Mars Watch\" public observing sessions, and star parties at various parks. The schedule also notes an SJAA board meeting and a report on a recent eclipse.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Public Outreach",
+        "Observing Reports",
+        "Educational Activities"
+      ],
+      "keywords": [
+        "September events",
+        "October events",
+        "Astronomy club activities",
+        "Swap meet",
+        "Equipment night",
+        "Comet Machholz",
+        "Mars Watch",
+        "Star parties",
+        "Eclipse report",
+        "Fremont Peak State Park",
+        "Henry Coe State Park",
+        "Bramham Lane City Park",
+        "Grant Ranch County Park",
+        "SJAA",
+        "Astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-field-of-view",
+      "documentId": "eph88-09",
+      "title": "FIELD OF VIEW",
+      "summary": "SJAA's Don Machholz discovered his fourth comet, Comet Machholz (1988i), on August 6th, observing it at magnitude 8.5 in the constellation Orion using homemade 5-inch binoculars. An editor later observed the inbound comet on August 12th at 8th magnitude, appearing 3-4 arc minutes in size. The comet is anticipated to be visible again in the evening sky in late September.",
+      "categories": [
+        "news",
+        "observing reports",
+        "comet discovery"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Comet Machholz (1988i)",
+        "comet discovery",
+        "observing",
+        "amateur astronomy",
+        "Orion",
+        "magnitude 8.5"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph88-09-september-3rd-swap-meet-and-equipment-night",
+      "documentId": "eph88-09",
+      "title": "SEPTEMBER 3RD SWAP MEET AND EQUIPMENT NIGHT",
+      "summary": "An upcoming \"Swap Meet and Equipment Night\" is scheduled for September 2nd, followed by a \"Slide & Equipment Night\" on September 3rd. Attendees are encouraged to bring items for swapping, as well as telescopes, equipment, and recent astrophotography to share with the group during the show-and-tell session.",
+      "categories": [
+        "Events",
+        "Community",
+        "Equipment Sharing",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Swap Meet",
+        "Equipment Night",
+        "Slide Show",
+        "Telescopes",
+        "Astrophotography",
+        "Community Event",
+        "September 2nd",
+        "September 3rd"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-mars-watch-88",
+      "documentId": "eph88-09",
+      "title": "MARS WATCH - '88",
+      "summary": "The San Jose Astronomical Association (SJAA) is organizing \"Mars Watch - '88\", a series of public star parties at Branham Lane park. Attendees will have the opportunity to view Mars, which will be near opposition and closer to Earth than it has been in years, along with Saturn and other celestial objects. The article encourages public participation in these significant astronomical events.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Mars",
+        "Saturn",
+        "Star party",
+        "Opposition",
+        "Public event",
+        "SJAA",
+        "Astronomy",
+        "1988"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-astronomy-class-field-expedition",
+      "documentId": "eph88-09",
+      "title": "ASTRONOMY CLASS FIELD EXPEDITION.",
+      "summary": "A special Friday evening astronomy class field expedition is scheduled for September 9th, featuring a program led by Jack Zeiders. Students will have exclusive access to the FPOA 30-inch reflector, with the formal program commencing around 8:30 PM.",
+      "categories": [
+        "Events",
+        "Education",
+        "Announcement"
+      ],
+      "keywords": [
+        "Astronomy Class",
+        "Field Expedition",
+        "September 9th",
+        "Jack Zeiders",
+        "FPOA 30-inch reflector",
+        "Observing Event",
+        "Telescope Access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-project-2000",
+      "documentId": "eph88-09",
+      "title": "PROJECT 2000",
+      "summary": "The article discusses \"Project 2000,\" an ambitious proposal for the San Jose Astronomical Association (SJAA) to support Kevin Medlock in acquiring a 70-inch telescope mirror blank from Australia for $34,000 and developing a new observatory over approximately 10 years. The SJAA Board has tentatively pledged $1000 and support, and is now soliciting member opinions, financial pledges, and commitment of time and resources to determine the club's full involvement in this significant endeavor.",
+      "categories": [
+        "Club News",
+        "Project Proposal",
+        "Fundraising",
+        "Observatory Development"
+      ],
+      "keywords": [
+        "Project 2000",
+        "70-inch mirror",
+        "telescope project",
+        "SJAA",
+        "Kevin Medlock",
+        "fundraising",
+        "observatory",
+        "member involvement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-an-overview-of-observing-sites-by-dion-machholz-and-rick-page",
+      "documentId": "eph88-09",
+      "title": "AN OVERVIEW OF OBSERVING SITES By: DION MACHHOLZ AND RICK PAGE",
+      "summary": "This article describes a specific astronomical observing site located off San Felipe Road, east of San Jose, California. It provides detailed directions to the site, which is at 1065 feet elevation, and outlines its characteristics including low light pollution from the west due to hills, clear visibility of the Milky Way, and suitable conditions for various observations. Permission has been granted by the property owner, making it a viable dark sky location for local astronomers.",
+      "categories": [
+        "Observing Sites",
+        "Observing Guides",
+        "Site Review",
+        "Local Astronomy",
+        "Light Pollution"
+      ],
+      "keywords": [
+        "San Jose",
+        "San Felipe Rd",
+        "observing site",
+        "dark sky",
+        "light pollution",
+        "astronomical observation",
+        "Milky Way",
+        "Grant Ranch Park",
+        "directions",
+        "California"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph88-09-september-starry-nights-by-richard-stanton",
+      "documentId": "eph88-09",
+      "title": "SEPTEMBER STARRY NIGHTS BY: RICHARD STANTON",
+      "summary": "This article outlines September's astronomical events, including the South Piscids meteor shower and an annular solar eclipse on September 11th. It details the autumnal equinox on September 22nd, explaining its astronomical significance and cultural phenomena, such as the serpent shadow at Chichen Itza. Additionally, it highlights a lunar occultation of 19 and 20 Taurus in the Pleiades on September 1st and touches upon Mayan eclipse folklore.",
+      "categories": [
+        "Astronomical Events",
+        "Observing Guide",
+        "Cultural Astronomy",
+        "Education"
+      ],
+      "keywords": [
+        "September",
+        "Meteors",
+        "South Piscids",
+        "Solar Eclipse",
+        "Annular Eclipse",
+        "Eclipse Folklore",
+        "Maya",
+        "Equinox",
+        "Autumnal Equinox",
+        "Chichen Itza",
+        "Occultations",
+        "Pleiades",
+        "Taurus",
+        "Stargazing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph88-09-comet-comments",
+      "documentId": "eph88-09",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides updates on several comets, noting that Periodic Comet Temple 2 remains visible. It details the discovery of two new comets, SMM 1 and SMM 2, found in satellite data from last October and believed to be Kreutz Sungrazers, undetectable from Earth. Additionally, the author, John Machholz, announces his own discovery of Comet Machholz (1988j) in August, observed using homemade binoculars.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "Comet Temple 2",
+        "SMM 1",
+        "SMM 2",
+        "Kreutz Sungrazer Group",
+        "Comet Machholz (1988j)",
+        "John Machholz",
+        "Perihelion",
+        "Magnitude",
+        "Satellite data",
+        "Binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-periodic-comet-tempel-2-1987g",
+      "documentId": "eph88-09",
+      "title": "Periodic Comet Tempel 2 (1987g)",
+      "summary": "This document provides an ephemeris for Periodic Comet Tempel 2 (1987g) from August 22 to October 6, 1987, including its right ascension, declination, elongation, and estimated magnitude. It notes the comet will reach its closest approach to the Sun on September 16 at 128 million miles and to Earth at 89 million miles, with both distances increasing afterward, and will set before midnight by the end of October.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "comet observation",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Tempel 2",
+        "1987g",
+        "ephemeris",
+        "right ascension",
+        "declination",
+        "magnitude",
+        "perihelion",
+        "celestial mechanics",
+        "comet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-comet-machholz-1988j",
+      "documentId": "eph88-09",
+      "title": "Comet Machholz (1988j)",
+      "summary": "This document provides an ephemeris for Comet Machholz (1988j), detailing its coordinates, elongation, and estimated magnitude from August to October. It notes the comet's closest approach to the sun on September 17th at 0.15 AU, and advises Northern Hemisphere observers that it will be lost in morning twilight by September 6th before reappearing in the evening sky in late September.",
+      "categories": [
+        "comets",
+        "ephemeris",
+        "observing reports",
+        "astronomical data"
+      ],
+      "keywords": [
+        "Comet Machholz",
+        "1988j",
+        "ephemeris",
+        "magnitude",
+        "orbital data",
+        "IAU Circular",
+        "Northern Hemisphere observers",
+        "twilight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-seeking-comets",
+      "documentId": "eph88-09",
+      "title": "SEEKING COMETS",
+      "summary": "This article analyzes trends in comet discovery, noting a historical increase due to improved hunting techniques. It statistically breaks down new comet finds by amateurs, professionals, and satellites over five-year intervals, highlighting that amateurs have contributed significantly (approximately 40%). The piece also discusses the specific contributions of various satellite missions and emphasizes the ongoing vital role of amateur astronomers in cometary astronomy.",
+      "categories": [
+        "Comet Discovery",
+        "Astronomical Statistics",
+        "Amateur Astronomy",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Amateur Astronomers",
+        "Satellite Discoveries",
+        "Astronomical Trends",
+        "Data Analysis",
+        "Kreutz Sungrazers",
+        "IRAS",
+        "Solwind",
+        "SMM"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph88-09-astro-ads",
+      "documentId": "eph88-09",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled 'ASTRO ADS', is a collection of classified advertisements primarily focused on buying and selling astronomical equipment. It features listings for various telescopes (Meade Z080, Celestron SP-C6, C-90), eyepieces, binoculars, and a large collection of Sky & Telescope magazines. Additionally, there is an employment opportunity for an optical systems engineer at Finial Technology.",
+      "categories": [
+        "For Sale",
+        "Wanted",
+        "Employment Opportunity",
+        "Astronomy Equipment",
+        "Collectibles"
+      ],
+      "keywords": [
+        "Meade Z080",
+        "Celestron SP-C6",
+        "Celestron C14 tripod",
+        "C-90 spotting scope",
+        "Sky & Telescope collection",
+        "Eyepieces",
+        "Binoculars",
+        "Astrophotography",
+        "Optical systems engineer",
+        "Laser Turntable",
+        "Telescopes",
+        "Astronomy ads"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph88-09-successful-test-of-shuttle-engines",
+      "documentId": "eph88-09",
+      "title": "SUCCESSFUL TEST OF SHUTTLE ENGINES",
+      "summary": "The Space Shuttle Discovery successfully completed a 20-second flight readiness firing of its engines on August 10th, marking a significant step towards restoring the shuttle to flight status. A launch is now likely in late September or October, contingent on a final test of redesigned solid propellant motors in late August and the repair of a leaky fuel line in an orbital maneuvering engine pod.",
+      "categories": [
+        "Space Exploration",
+        "News",
+        "Launch Preparations",
+        "Aerospace Engineering"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Engine test",
+        "Flight readiness firing",
+        "Launch",
+        "Solid propellant motors",
+        "Fuel line repair",
+        "Space shuttle program",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-fate-of-the-space-station-freedom",
+      "documentId": "eph88-09",
+      "title": "FATE OF THE SPACE STATION \"FREEDOM\"",
+      "summary": "The Space Station \"Freedom\" received $100 million in FY '88 funding, less than requested but an increase from the previous year, with a cap until May 1989 for presidential review. While George Bush strongly supports the program, Michael Dukakis favors a technologically advanced space laboratory, potentially without permanent human presence. The station has been named \"Freedom,\" and a multinational signing ceremony with international partners is scheduled for late September.",
+      "categories": [
+        "News",
+        "Funding",
+        "Politics",
+        "Space Exploration",
+        "International Relations"
+      ],
+      "keywords": [
+        "Space Station Freedom",
+        "NASA",
+        "Funding",
+        "FY '88",
+        "Congressional Appropriations",
+        "Presidential Election",
+        "George Bush",
+        "Michael Dukakis",
+        "International Partners"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-first-titan-4-readied-for-launch",
+      "documentId": "eph88-09",
+      "title": "FIRST TITAN 4 READIED FOR LAUNCH",
+      "summary": "The inaugural Titan 4 unmanned launch vehicle is prepared on Pad 41 at Cape Canaveral. This new rocket offers slightly more payload capacity than the Space Shuttle, with its first launch slated for October.",
+      "categories": [
+        "Launch Vehicles",
+        "Spaceflight",
+        "News",
+        "Space Program"
+      ],
+      "keywords": [
+        "Titan 4",
+        "Launch Vehicle",
+        "Cape Canaveral",
+        "Pad 41",
+        "Payload Capacity",
+        "Space Shuttle",
+        "October Launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-soviets-target-mars-for-exploration",
+      "documentId": "eph88-09",
+      "title": "SOVIETS TARGET MARS FOR EXPLORATION",
+      "summary": "The Soviets launched two probes towards Mars on July 7 and 12, each carrying a Phobos lander and a Mars orbiter. They have ambitious future plans for Mars exploration, including a heavyweight rover mission in 1994, a sample return mission between 2000-2005, and a manned mission slated for 2005-2010.",
+      "categories": [
+        "news",
+        "space exploration",
+        "future missions",
+        "astronomy"
+      ],
+      "keywords": [
+        "Soviets",
+        "Mars",
+        "probes",
+        "Phobos lander",
+        "Mars orbiter",
+        "Mars rover",
+        "sample return mission",
+        "manned Mars mission",
+        "space exploration"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph88-09-by-mark-hattox",
+      "documentId": "eph88-09",
+      "title": "BY: MARK HATTOX",
+      "summary": "Mark Hattox details his challenging journey to New Idria, a remote ghost town site first explored by Gerry Rattley, in pursuit of the darkest possible observing location. Despite navigating rough, unpaved roads and an asbestos warning, the site delivered spectacularly dark skies, offering unprecedented, high-contrast views of the Milky Way and numerous deep-sky objects. He concludes it is the darkest observing site he has found, despite its extreme remoteness and inherent hazards.",
+      "categories": [
+        "Observing Report",
+        "Site Review",
+        "Amateur Astronomy",
+        "Travelogue"
+      ],
+      "keywords": [
+        "New Idria",
+        "Dark Sky Observing",
+        "Light Pollution",
+        "Deep-sky Objects",
+        "Milky Way",
+        "Amateur Astronomy",
+        "Observing Site",
+        "Asbestos",
+        "Dobsonian",
+        "Gerry Rattley"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph88-09-by-jack-zeiders",
+      "documentId": "eph88-09",
+      "title": "BY: JACK ZEIDERS",
+      "summary": "Amateur astronomer Kevin Medlock is spearheading an ambitious project to acquire a 70-inch low-expansion Pyrex mirror blank from Australia, following a previous successful 30-inch telescope build for the Fremont Peak Observatory Association. A group of \"crazies\" has already pledged $1,000 each to raise funds for the blank, and a meeting is scheduled for September 3rd to organize the extensive effort required for optics, mechanics, electronics, and overall project management. This article announces the project and invites interested parties to participate in building what would be a truly massive amateur telescope.",
+      "categories": [
+        "Project Announcement",
+        "Amateur Astronomy",
+        "Telescope Building",
+        "Community Effort",
+        "Meeting Announcement"
+      ],
+      "keywords": [
+        "Kevin Medlock",
+        "70-inch mirror blank",
+        "Pyrex",
+        "Telescope project",
+        "Amateur astronomers",
+        "Fremont Peak Observatory Association",
+        "Aperture lust",
+        "Fundraising",
+        "Optical design",
+        "Mechanical design",
+        "Project management",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-officers",
+      "documentId": "eph88-09",
+      "title": "OFFICERS",
+      "summary": "The document lists the officers of an organization, detailing their respective positions such as President, Vice-President, Secretary, Treasurer, and Editor. Each officer's name and contact phone number are provided, serving as a directory for key personnel.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Editor",
+        "Contact Information",
+        "Leadership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-09-board-of-directors",
+      "documentId": "eph88-09",
+      "title": "BOARD OF DIRECTORS",
+      "summary": "This document lists the Board of Directors with their names and corresponding phone numbers. Additionally, it provides a brief discussion of New Idria as an observing site, highlighting challenges like rough roads, lack of telephones, and asbestos concerns, but ultimately recommending it for prepared observers.",
+      "categories": [
+        "Board of Directors",
+        "Club Information",
+        "Observing Sites",
+        "Practical Advice"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Contact information",
+        "New Idria",
+        "Observing site",
+        "Asbestos",
+        "Site conditions",
+        "Club governance"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph88-09-c-o-2",
+      "documentId": "eph88-09",
+      "title": "C 図 O-2",
+      "summary": "The document, titled \"C 図 O-2,\" comprises a series of numerical values and alphanumeric codes, often accompanied by parenthetical identifiers or potential error ranges. This content appears to be raw technical data or specifications, likely referencing a diagram or technical drawing, but it contains no descriptive or explanatory text.",
+      "categories": [
+        "Technical",
+        "Specifications",
+        "Data Sheet"
+      ],
+      "keywords": [
+        "numerical data",
+        "technical data",
+        "measurements",
+        "specifications",
+        "codes",
+        "diagram data"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph88-09-san-jose-astronomical-association-membership-application",
+      "documentId": "eph88-09",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types and their associated fees (Membership Only, Membership/SAT, Junior), provides fields for applicant contact information, and instructs on how to submit the form and payment.",
+      "categories": [
+        "Application",
+        "Membership",
+        "Administrative",
+        "Association Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Junior Membership",
+        "Contact Information",
+        "Milpitas",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph88-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8809/Eph88_09.pdf",
+      "txtPath": "8809/Eph88_09.md"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "articles": [
+    {
+      "id": "eph81-02-feb-81",
+      "documentId": "eph81-02",
+      "title": "FEB '81",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) events for February and March 1981, including multiple close-in and outdoor star parties at locations like Sanborn Canyon and Fremont Peak. It details general meetings with speakers such as Don Machholz discussing the upcoming Messier Marathon, along with board meetings and ongoing telescope makers' workshops. The schedule also announces the annual SJAA Messier Marathon at Loma Prieta Peak.",
+      "categories": [
+        "Events",
+        "Astronomy Club Activities",
+        "Star Parties",
+        "Meetings",
+        "Educational Astronomy",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "Messier Marathon",
+        "Don Machholz",
+        "Astronomy Events",
+        "Club Meetings",
+        "Telescope Making",
+        "Sanborn Canyon",
+        "Fremont Peak",
+        "Loma Prieta Peak",
+        "DeAnza College",
+        "February 1981",
+        "March 1981"
+      ],
+      "pageStart": 2,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-02-observations",
+      "documentId": "eph81-02",
+      "title": "Observations",
+      "summary": "This bulletin provides updates on obtaining Space Shuttle landing passes at Edwards Air Force Base and significant club news for the SJAA, including the election of Shea Pratt as the new treasurer and the development of a new members packet. It also announces the Western Amateur Astronomers' G. Bruce Blair Gold Medal Award recipient, upcoming events like AstroB1 and the Riverside Telescope Makers Conference, and lists new SJAA members. A C-5 telescope is also listed for sale.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Announcements",
+        "Membership",
+        "For Sale",
+        "Observing Resources"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Edwards Air Force Base",
+        "SJAA",
+        "Treasurer",
+        "New Members Packet",
+        "Western Amateur Astronomers",
+        "G. Bruce Blair Gold Medal Award",
+        "AstroB1",
+        "Riverside Telescope Makers Conference",
+        "Asteroids",
+        "Telescope Sales"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-sjaa-ephemeris",
+      "documentId": "eph81-02",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The \"SJAA Ephemeris\" is a monthly publication of the San Jose Astronomical Association. This document provides contact details for the editor and club officers, the club's physical address, and information regarding membership fees and bulletin subscriptions for both members and non-members.",
+      "categories": [
+        "Club Information",
+        "Newsletter",
+        "Administrative",
+        "Membership"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Club Officers",
+        "Membership",
+        "Subscription",
+        "Contact Information",
+        "Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-atm-notes",
+      "documentId": "eph81-02",
+      "title": "ATM NOTES",
+      "summary": "The San Jose Astronomical Association (SJAA) officially launched its formal telescope-making program with an introductory class on January 10th, attracting 27 attendees, many keen to build their own telescopes. The program emphasizes self-paced, one-on-one instruction, particularly for mirror grinding, and is actively seeking more volunteer instructors. This \"ATM NOTES\" column will serve as a regular update on the program's progress.",
+      "categories": [
+        "program update",
+        "education",
+        "amateur telescope making",
+        "club activities",
+        "volunteer opportunities"
+      ],
+      "keywords": [
+        "Amateur Telescope Making",
+        "telescope making program",
+        "SJAA",
+        "mirror grinding",
+        "reflector telescopes",
+        "volunteer instructors",
+        "astronomy club",
+        "astronomy education",
+        "star party",
+        "focal length"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph81-02-the-1981-messier-marathon",
+      "documentId": "eph81-02",
+      "title": "The 1981 Messier Marathon",
+      "summary": "The article announces the 1981 Messier Marathon, an astronomical observing event scheduled for early March and April, inviting participants to observe up to 109 Messier objects from dusk till dawn. It details optimal observing weekends (March 7-8 and April 4-5) at Loma Prieta and provides practical guidance, including expected observable objects, observing times, equipment recommendations, directions to the site, and information on the AANC Messier Club. Participants are encouraged to attend, with or without staying the entire night, and to dress warmly.",
+      "categories": [
+        "Astronomical Event",
+        "Observing Guide",
+        "Community Announcement",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "1981 Messier Marathon",
+        "Messier objects",
+        "Loma Prieta",
+        "observing session",
+        "deep-sky astronomy",
+        "AANC Messier Club",
+        "observing guide",
+        "star gazing",
+        "Don Machholz"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-02-comet-comments",
+      "documentId": "eph81-02",
+      "title": "Comet Comments",
+      "summary": "Early 1981 sees a continuation of high comet activity, with five comets currently visible at magnitude 12 or brighter, including recently discovered Comet Lovas, Comet Bradfield, and Comet Panther. The past year was exceptional for comet discoveries and recoveries, with amateur astronomers making a notable number of contributions. The article provides details on the visibility and characteristics of several individual comets.",
+      "categories": [
+        "Observing Report",
+        "News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Comet recovery",
+        "Amateur astronomy",
+        "Comet Lovas (1980s)",
+        "Comet Bradfield (1980t)",
+        "Comet Panther (1980u)",
+        "P/Comet Longmore (1981a)",
+        "Magnitude",
+        "Orbit",
+        "1981"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-p-comet-stephen-oterma",
+      "documentId": "eph81-02",
+      "title": "P/Comet Stephen-Oterma",
+      "summary": "This document provides observational data for P/Comet Stephen-Oterma, detailing its trajectory through the constellation Auriga, its decreasing magnitude from 10.3 to 12.5 as it recedes from Earth and the Sun, and its all-night visibility. It includes specific right ascension, declination, and magnitude estimates for various dates in January and February.",
+      "categories": [
+        "Observing Guide",
+        "Comet Tracking",
+        "Celestial Object Data"
+      ],
+      "keywords": [
+        "P/Comet Stephen-Oterma",
+        "Comet",
+        "Auriga",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Observation Data",
+        "Astrophysics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-comet-meier-1980q",
+      "documentId": "eph81-02",
+      "title": "Comet Meier(1980q)",
+      "summary": "This document provides observational data for Comet Meier (1980q) from late January to early March, noting its appearance as a very diffuse object in the morning sky within the constellation Hercules. It includes astrometric positions and magnitude estimates, along with a comment about the observer's perceived accuracy of the magnitude values.",
+      "categories": [
+        "observing reports",
+        "comets",
+        "astronomy observations"
+      ],
+      "keywords": [
+        "Comet Meier",
+        "1980q",
+        "comet observations",
+        "magnitude estimates",
+        "Hercules",
+        "diffuse object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-periodic-comet-borrelly",
+      "documentId": "eph81-02",
+      "title": "Periodic Comet Borrelly",
+      "summary": "This document provides an ephemeris for Periodic Comet Borrelly, detailing its celestial coordinates and estimated magnitudes from late January to early March. It notes the comet's approach to the Sun, which will cause it to move into the twilight zone and become less observable in the evening sky by March. The magnitude estimates provided are compared to another observer's findings.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Borrelly",
+        "Periodic Comet",
+        "Ephemeris",
+        "Magnitude estimates",
+        "Celestial coordinates",
+        "Observing data",
+        "Evening sky",
+        "Twilight zone"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph81-02-comet-bradfield-19080",
+      "documentId": "eph81-02",
+      "title": "Comet Bradfield (19080₂)",
+      "summary": "This document presents observational data for Comet Bradfield (19080₂), listing its position (right ascension and declination) and visual magnitude over several dates in late January and February. The data shows the comet's brightness decreasing and its position changing over time.",
+      "categories": [
+        "Observational Data",
+        "Cometology",
+        "Astronomical Records"
+      ],
+      "keywords": [
+        "Comet Bradfield",
+        "19080₂",
+        "comet",
+        "observational data",
+        "astronomy",
+        "magnitude",
+        "right ascension",
+        "declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-comet-panther-1980u",
+      "documentId": "eph81-02",
+      "title": "Comet Panther (1980u)",
+      "summary": "Comet Panther (1980u) is currently observable low in the west after sunset, with provided positions and magnitudes for early January. After February 15, it moves to the morning sky, becoming more challenging to observe, though it is showing a faint tail as it traverses from Lyra to Cygnus. Observers are encouraged to try soon for a sighting, and more position data is available upon request.",
+      "categories": [
+        "observing guide",
+        "celestial objects",
+        "comets"
+      ],
+      "keywords": [
+        "Comet Panther",
+        "1980u",
+        "comet observation",
+        "celestial coordinates",
+        "magnitude",
+        "comet tail",
+        "Lyra",
+        "Cygnus",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-great-comets",
+      "documentId": "eph81-02",
+      "title": "Great Comets:",
+      "summary": "The article details the history of Comet Enke, noting its repeated independent discoveries before German astronomer J. Enke determined it was a single comet with a short 3.3-year elliptical orbit. It highlights the significant mathematical efforts involved in its orbital determination, particularly Enke's use of Gauss's techniques. The document also explains a unique orbital anomaly where the comet completes its orbit slightly early due to solar evaporation and 'jetting' from its nucleus, while noting its remarkable resilience despite frequent close approaches to the Sun.",
+      "categories": [
+        "astronomy",
+        "comets",
+        "history of science",
+        "observational astronomy",
+        "orbital mechanics"
+      ],
+      "keywords": [
+        "Comet Enke",
+        "J. Enke",
+        "orbital period",
+        "elliptical orbit",
+        "comet discovery",
+        "orbital anomaly",
+        "jetting",
+        "K. Gauss",
+        "Pierre Mechain",
+        "Caroline Herschel",
+        "Louis Pons"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-02-shuttle-countdown",
+      "documentId": "eph81-02",
+      "title": "SHUTTLE COUNTDOWN",
+      "summary": "The article details the pre-launch test milestones for the space shuttle Columbia after its arrival at Pad 39A on December 29th. It outlines a schedule of critical tests, including umbilical plugs-out, ground power-out, auxiliary power unit servicing, and propellant autoload/detanking tests, leading up to a scheduled launch on March 17th. The propellant autoload/detanking and flight readiness firing are highlighted as key tests.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Launch Countdown",
+        "Technical Status"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Launch Countdown",
+        "Test Milestones",
+        "Pad 39A",
+        "Flight Readiness Firing",
+        "Propellant Autoload",
+        "Spaceflight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-02-conversations-from-a-board-meeting",
+      "documentId": "eph81-02",
+      "title": "Conversations from a board meeting",
+      "summary": "This document captures a series of humorous and informal conversations from a board meeting, featuring several individuals like Phil Hermsmeyer, Jay Freeman, Gerry Rattley, and Chris Pratt. The snippets include lighthearted banter and a brief mention of an upcoming \"AANC star party in June,\" suggesting an organization with an interest in astronomy or related events. The overall tone is anecdotal and conversational rather than a formal meeting report.",
+      "categories": [
+        "Meetings",
+        "Humor",
+        "Community Events",
+        "Organizational Dialogue"
+      ],
+      "keywords": [
+        "Board meeting",
+        "Quotes",
+        "Humor",
+        "AANC",
+        "Star party",
+        "Informal discussion"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-02-january-star-party-rained-out",
+      "documentId": "eph81-02",
+      "title": "JANUARY STAR PARTY RAINED OUT",
+      "summary": "A scheduled star party on January 3, 1981, was canceled due to rain, though the author enjoyed good observing conditions on January 1 and 4, successfully viewing Leo I and hunting galaxies. The article also features a review of the new AAVSO Variable Star Atlas, praising its faint star limit and ease of use despite its bulk. Finally, a practical tip for winter observers, recommending lightweight insulated boots, is provided.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Product Review",
+        "Tips & Tricks"
+      ],
+      "keywords": [
+        "Star party",
+        "Observing",
+        "Weather",
+        "Astronomy equipment",
+        "Star charts",
+        "Deep-sky observing",
+        "Variable star atlas",
+        "Winter observing gear",
+        "Fremont Peak",
+        "Galaxies",
+        "Leo I",
+        "AAVSO"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-02-a-report-on-the-january-4-comet-party",
+      "documentId": "eph81-02",
+      "title": "A REPORT ON THE JANUARY 4 COMET PARTY",
+      "summary": "After a planned star party was cancelled due to bad weather, Frank Dibbell and Gerry Rattley organized an impromptu Comet Party on Sunday, January 4, at Loma Prieta. Despite poor seeing conditions and a cold, windy night, observers successfully viewed several comets, including Panther, Stephan-Oterma, and a surprisingly bright Boreily, along with other deep-sky objects. The event proved the feasibility and enjoyment of winter Sunday night star parties.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Comet Observation"
+      ],
+      "keywords": [
+        "Comet Party",
+        "Loma Prieta",
+        "Star Party",
+        "Comet Bradfield",
+        "Comet Panther",
+        "Comet Stephan-Oterma",
+        "Comet Boreily",
+        "Zodiacal Light",
+        "NGC-253",
+        "M33",
+        "M31",
+        "Crab Nebula",
+        "Frank Dibbell",
+        "Gerry Rattley",
+        "Jim Van Nuland",
+        "Bill Cooke"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-02-the-ultimate-cloud-out",
+      "documentId": "eph81-02",
+      "title": "The Ultimate Cloud Out!",
+      "summary": "The article recounts the famously unfortunate expedition of 18th-century French astronomer Le Gentil, who embarked on a decade-long journey to observe the rare Transits of Venus in 1761 and 1769. Despite extensive preparations and travel across the globe, he missed the first transit due to being on a pitching ship and the second due to an untimely cloud obscuring the sun, ultimately failing to contribute to the crucial measurement of the Earth-Sun distance.",
+      "categories": [
+        "History of Astronomy",
+        "Astronomical Events",
+        "Biography",
+        "Scientific Expeditions"
+      ],
+      "keywords": [
+        "Le Gentil",
+        "Transit of Venus",
+        "1761 transit",
+        "1769 transit",
+        "astronomical distances",
+        "Earth-Sun distance",
+        "Pondicherry",
+        "Guillaume-Joseph-Hyacinthe-Jean-Baptiste le Gentil de la Galaisiere",
+        "clouded out",
+        "history"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8102/Eph81_02.pdf",
+      "txtPath": "8102/Eph81_02.md"
+    }
+  ]
+}

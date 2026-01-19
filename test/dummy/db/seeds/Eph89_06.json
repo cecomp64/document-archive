@@ -1,0 +1,715 @@
+{
+  "articles": [
+    {
+      "id": "eph89-06-june-1989",
+      "documentId": "eph89-06",
+      "title": "JUNE 1989",
+      "summary": "This document outlines a packed schedule of astronomical events for June and July 1989, primarily organized by the SJAA. Key activities include multiple star parties at various locations, general meetings featuring a talk on the 'History of Astronomy,' introductory observational astronomy classes, and the 100th Anniversary Meeting of the Astronomical Society of the Pacific. The schedule provides specific dates, times, locations, and relevant observational details like moon phases and twilight times.",
+      "categories": [
+        "Events",
+        "Meeting Announcements",
+        "Observing Conditions",
+        "Educational",
+        "Club News"
+      ],
+      "keywords": [
+        "Star party",
+        "General meeting",
+        "Board meeting",
+        "Astronomical Society of the Pacific",
+        "History of Astronomy",
+        "Observational astronomy class",
+        "Grant Ranch County Park",
+        "Fremont Peak State Park",
+        "Yosemite Star Party",
+        "SJAA",
+        "June 1989",
+        "July 1989",
+        "Sunset",
+        "Astronomical twilight",
+        "Moon phase"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-field-of-view",
+      "documentId": "eph89-06",
+      "title": "FIELD OF VIEW",
+      "summary": "This article serves as a reminder for members to renew their membership, especially those who receive Sky & Telescope, with a $26 fee payable to SJAA and sent to Jack Peterson. It explains that recent delays in receiving the Ephemeris bulletin were due to renewal data input, but promises improved timeliness moving forward. Members are warned that the July issue will be their last if they do not renew.",
+      "categories": [
+        "Membership",
+        "Administrative Update",
+        "Announcement"
+      ],
+      "keywords": [
+        "Membership Renewal",
+        "SJAA",
+        "Sky & Telescope",
+        "Membership Dues",
+        "Ephemeris",
+        "Bulletin Delivery",
+        "Jack Peterson"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph89-06-annual-auction-and-swap-meet",
+      "documentId": "eph89-06",
+      "title": "ANNUAL AUCTION AND SWAP MEET",
+      "summary": "The 9th Annual SJAA/Bay Area Astronomical Auction and Swap Meet was a significant success, attracting over 200 bargain hunters. Attendees browsed a wide array of astronomical items, including telescopes, books, lenses, and electronics, with over a hundred people participating in the auction. The event featured many complete telescopes and specialized telescope-making items, with special thanks extended to the auctioneers and volunteers.",
+      "categories": [
+        "Event Report",
+        "Club Activity",
+        "News",
+        "Auction",
+        "Swap Meet"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "Swap Meet",
+        "Telescopes",
+        "Astronomy Equipment",
+        "SJAA",
+        "Flea Market",
+        "Bay Area Astronomy",
+        "Refractor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-yosemite-star-party-reservations",
+      "documentId": "eph89-06",
+      "title": "YOSEMITE STAR PARTY RESERVATIONS",
+      "summary": "Reservations for the June 30 - July 1 Yosemite Star Party open on May 13 at 10:00 am, with a strict limit of 30 participants and some priority given to those who missed last year. Attendees are expected to set up for the public on Saturday evening, while Friday is optional, and the event promises 5 1/2 hours of darkness each night with no moon. Participants unable to attend are urged to contact Tom Ahl immediately for waitlist management.",
+      "categories": [
+        "events",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "reservations",
+        "stargazing",
+        "astronomy event",
+        "public viewing",
+        "Tom Ahl",
+        "June 30",
+        "July 1",
+        "May 13"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph89-06-dr-a-b-gregory-award",
+      "documentId": "eph89-06",
+      "title": "DR. A.B. GREGORY AWARD",
+      "summary": "Nominations are currently open for the A. B. Gregory Award, which recognizes individuals who make outstanding contributions of time and effort to help others learn astronomy. The award honors a legacy of mentorship and will be presented at the annual July picnic. Nominations should be sent to Brian Zehring or Tom Ahl.",
+      "categories": [
+        "Awards",
+        "Announcements",
+        "Nominations"
+      ],
+      "keywords": [
+        "A. B. Gregory Award",
+        "Nominations",
+        "Amateur Astronomy",
+        "SJAA",
+        "Mentorship",
+        "Astronomy Education",
+        "Annual Picnic"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-grant-ranch-saved-from-airport",
+      "documentId": "eph89-06",
+      "title": "GRANT RANCH SAVED FROM AIRPORT",
+      "summary": "Local efforts, including members of the SJAA, successfully persuaded the County Board of Supervisors to reject a proposal for a glider port within Grant Ranch County Park. The proposed glider port was opposed due to concerns about noise from tow planes and significant light pollution from security lighting, which would have negatively impacted the park's astronomical observing sites.",
+      "categories": [
+        "Community Action",
+        "Light Pollution",
+        "Observing Sites",
+        "Park Preservation",
+        "News"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "Glider Port",
+        "SJAA",
+        "Light Pollution",
+        "Noise Pollution",
+        "Astronomical Observing Sites",
+        "County Board of Supervisors",
+        "Community Advocacy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-course-history-of-lick-observatory",
+      "documentId": "eph89-06",
+      "title": "COURSE: HISTORY OF LICK OBSERVATORY",
+      "summary": "De Anza College's California History Center is offering a course titled \"James Lick and his Observatory\" in June, comprising three evening sessions and a field trip to Mt. Hamilton. The course covers James Lick's life, the observatory's construction, and its century of scientific contributions. Registration details and variable fees are available through the De Anza Admissions Office.",
+      "categories": [
+        "Course Announcement",
+        "Education",
+        "History",
+        "Events"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "James Lick",
+        "De Anza College",
+        "California History Center",
+        "Astronomy History",
+        "Course",
+        "Education",
+        "Mt. Hamilton"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-astro-ads",
+      "documentId": "eph89-06",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" features free classified advertisements for non-commercial astronomical products and services. It provides instructions for submitting ads, including a monthly deadline and a three-month run period. The majority of the content consists of multiple \"For Sale\" listings for various used astronomical equipment, such as Celestron C8 telescopes, a 6-inch refractor, eyepieces, drive systems, and related books.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment",
+        "Observing Equipment",
+        "Astrophotography Equipment",
+        "Community Service"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "astronomical equipment",
+        "telescopes",
+        "Celestron C8",
+        "refractor",
+        "eyepieces",
+        "astrophotography",
+        "drive corrector",
+        "mounts",
+        "spectroscope",
+        "used equipment",
+        "astronomy books"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph89-06-for-sale",
+      "documentId": "eph89-06",
+      "title": "FOR SALE:",
+      "summary": "This document presents a collection of classified advertisements from March 1989 for various astronomical items. Listings include telescopes such as a Celestron Super C8 and an 8-inch apochromatic refractor, along with accessories like a Sky Sensor computer control and LPR filter. Additionally, there are requests for a used Astroscan telescope and offers for sale of back issues of astronomy magazines like Sky and Telescope.",
+      "categories": [
+        "classifieds",
+        "for sale",
+        "wanted ads",
+        "astronomy equipment",
+        "publications",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Celestron Super C8",
+        "apochromatic refractor",
+        "Sky Sensor",
+        "LPR filter",
+        "Astroscan",
+        "Sky and Telescope",
+        "Mercury magazine",
+        "Scientific American",
+        "telescopes",
+        "astronomy accessories",
+        "used equipment",
+        "astronomy magazines",
+        "Byers drive",
+        "German equatorial mount"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-comet-comments-by-don-machholz",
+      "documentId": "eph89-06",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "This update by Don Machholz notes a current lack of newly discovered or recovered comets. Northern Hemisphere observers will have no comets to view until July when Periodic Comet Brorsen-Metcalf is expected to appear.",
+      "categories": [
+        "observing report",
+        "astronomy news",
+        "comet forecast"
+      ],
+      "keywords": [
+        "comets",
+        "Don Machholz",
+        "Northern Hemisphere",
+        "observing",
+        "Periodic Comet Brorsen-Metcalf"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-seeking-comets",
+      "documentId": "eph89-06",
+      "title": "SEEKING COMETS",
+      "summary": "This article analyzes the discovery magnitudes of visually found comets between 1975 and 1988, finding average magnitudes of 8.8 for morning discoveries and 9.7 for evening discoveries. It then details five crucial factors that make comets appear significantly fainter than their total integrated magnitude, thereby affecting their visibility and discovery by amateur astronomers. These factors include surface brightness, catalog magnitude discrepancies, difficulty detecting unexpected objects, diffuse morphology, and atmospheric conditions, ultimately suggesting a practical discovery limit of about magnitude 10.0 for unsuspected comets with a six-inch telescope under average conditions.",
+      "categories": [
+        "Comet Hunting",
+        "Observing Techniques",
+        "Amateur Astronomy",
+        "Astronomical Data Analysis",
+        "Optical Telescopes"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Visual Magnitude",
+        "Integrated Magnitude",
+        "Surface Brightness",
+        "Telescope Limiting Magnitude",
+        "Amateur Astronomy",
+        "Observing Conditions",
+        "Light Grasp",
+        "Diffuse Objects"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph89-06-by-bob-fingerhut",
+      "documentId": "eph89-06",
+      "title": "BY: BOB FINGERHUT",
+      "summary": "The article details recent space activities, including the successful launch of the U.S. Magellan spacecraft to Venus and the continuation of the Space Shuttle program with upcoming missions like Galileo to Jupiter. Concurrently, the Soviet space program faced significant setbacks, such as the loss of a Phobos satellite, electrical issues on the Mir space station, and delays for their manned shuttle Buran, impacting future Mars exploration plans. Both nations are progressing in space, though with differing levels of success and challenges.",
+      "categories": [
+        "Space Exploration",
+        "Space Missions",
+        "Aerospace News",
+        "Planetary Science",
+        "International Space Programs"
+      ],
+      "keywords": [
+        "Magellan",
+        "Venus",
+        "Space Shuttle Atlantis",
+        "NASA",
+        "Galileo",
+        "Jupiter",
+        "Hubble Space Telescope",
+        "Soviet space program",
+        "Mir space station",
+        "Buran space shuttle",
+        "Mars missions",
+        "Phobos satellite",
+        "LDEF"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph89-06-nasa-requesting-commercial-launch-service-proposals",
+      "documentId": "eph89-06",
+      "title": "NASA REQUESTING COMMERCIAL LAUNCH SERVICE PROPOSALS",
+      "summary": "NASA is soliciting proposals for commercial launch services for three spacecraft: Wind, Geotail, and Polar. These missions are integral to the International Solar Terrestrial Physics project, which aims to deploy a total of 15 spacecraft in both polar and equatorial orbits.",
+      "categories": [
+        "news",
+        "space missions",
+        "procurement",
+        "aerospace industry"
+      ],
+      "keywords": [
+        "NASA",
+        "commercial launch services",
+        "proposals",
+        "Wind spacecraft",
+        "Geotail spacecraft",
+        "Polar spacecraft",
+        "International Solar Terrestrial Physics project",
+        "spacecraft",
+        "polar orbit",
+        "equatorial inclination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-june-starry-nights-by-richard-stanton",
+      "documentId": "eph89-06",
+      "title": "JUNE STARRY NIGHTS BY: RICHARD STANTON",
+      "summary": "This article discusses meteor observations for June, noting the absence of major showers but highlighting the minor Tau Herculids and the potential for observing other events like the Draconids, previously thought extinct. It encourages readers to observe meteors nightly, trace them to their radiants, and share their findings, emphasizing meteor watching as a deep connection with the night sky.",
+      "categories": [
+        "observing guide",
+        "astronomy",
+        "meteor showers"
+      ],
+      "keywords": [
+        "meteors",
+        "June",
+        "Tau Herculids",
+        "Draconids",
+        "meteor showers",
+        "stargazing",
+        "observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-meteor-shower-summary",
+      "documentId": "eph89-06",
+      "title": "METEOR SHOWER SUMMARY",
+      "summary": "This document provides a summary of June meteor showers, including their types and dates. It also discusses a recent near-Earth asteroid approach (1989F), presents observational data for several minor planets, and details a 'Deep Sky Challenge' to observe Neptune in close proximity to Saturn. Additionally, it features a unique section on Inca traditions surrounding the Summer Solstice.",
+      "categories": [
+        "Astronomical Events",
+        "Observational Astronomy",
+        "Solar System News",
+        "Cultural Astronomy"
+      ],
+      "keywords": [
+        "Meteor Showers",
+        "Summer Solstice",
+        "Asteroid 1989F",
+        "Minor Planets",
+        "Planetary Conjunction",
+        "Neptune",
+        "Saturn",
+        "Inca Traditions",
+        "Observing Targets"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph89-06-dr-carl-sagan",
+      "documentId": "eph89-06",
+      "title": "DR. CARL SAGAN",
+      "summary": "Dr. Carl Sagan is slated to give a public lecture on June 25, 1989, at the University of California at Berkeley, as part of the 100th Anniversary Meeting of the Astronomical Society of the Pacific. This three-day centennial celebration, running from June 23-25, invites the public to popular lectures and seminars on modern astronomy and its history.",
+      "categories": [
+        "Events",
+        "Conferences",
+        "Announcements",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "Carl Sagan",
+        "Astronomical Society of the Pacific",
+        "Centennial",
+        "Astronomy Conference",
+        "Public Lecture",
+        "Berkeley",
+        "1989"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-the-popular-lecture-program",
+      "documentId": "eph89-06",
+      "title": "THE POPULAR LECTURE PROGRAM:",
+      "summary": "The A.S.P. History Committee is organizing a multi-day lecture program in late June. The program includes a special day of talks on the history of astronomy, covering topics like radio, infrared, high-energy astronomy, and the discovery of Pluto. Additionally, a weekend program will feature nontechnical lectures and seminars by prominent astronomers on new developments in astronomy and space science, including exoplanets, the Space Telescope, light pollution, the Voyager flyby of Neptune, black holes, the Keck Observatory, and projects for amateur astronomers.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Public Lectures",
+        "History of Science",
+        "Space Science",
+        "Amateur Astronomy",
+        "Science Education"
+      ],
+      "keywords": [
+        "A.S.P. History Committee",
+        "History of Astronomy",
+        "Radio Astronomy",
+        "Infrared Astronomy",
+        "High Energy Astronomy",
+        "Discovery of Pluto",
+        "Exoplanets",
+        "Space Telescope",
+        "Light Pollution",
+        "Voyager Flyby",
+        "Neptune",
+        "Spacelab 2",
+        "Black Holes",
+        "Early Universe",
+        "Keck Observatory",
+        "Meteorites",
+        "Teacher Seminar",
+        "Amateur Astronomy Projects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-the-lecture-by-dr-sagan",
+      "documentId": "eph89-06",
+      "title": "THE LECTURE BY DR. SAGAN",
+      "summary": "Dr. Carl Sagan will deliver a major public lecture on Sunday evening, June 25, at Zellerbach Auditorium on the Berkeley campus. A separate admission fee for this event will benefit the educational programs of the Astronomical Society of the Pacific. Benefactor tickets are also available, offering reserved seating and acknowledgment, with a portion being a tax-deductible donation.",
+      "categories": [
+        "Events",
+        "News",
+        "Fundraising",
+        "Education"
+      ],
+      "keywords": [
+        "Carl Sagan",
+        "Lecture",
+        "Public event",
+        "Astronomical Society of the Pacific",
+        "Berkeley campus",
+        "Fundraiser",
+        "Educational programs"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph89-06-the-exhibits",
+      "documentId": "eph89-06",
+      "title": "THE EXHIBITS",
+      "summary": "The article announces a major astronomical meeting featuring an exhibit of instruments, books, software, and resources. It also highlights concurrent technical symposia, tours of astronomical facilities, and a Centennial Banquet, with accommodations and travel discounts arranged for attendees. Companies interested in exhibiting should contact Maria Kellett.",
+      "categories": [
+        "event announcement",
+        "astronomical meeting",
+        "exhibits",
+        "conference details"
+      ],
+      "keywords": [
+        "astronomical meeting",
+        "exhibits",
+        "instruments",
+        "software",
+        "observing aids",
+        "technical symposia",
+        "facility tours",
+        "Centennial Banquet",
+        "registration",
+        "accommodations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-registration-form",
+      "documentId": "eph89-06",
+      "title": "REGISTRATION FORM",
+      "summary": "This document is a blank registration form designed to collect personal contact information. It requests details such as name, affiliation for a badge, full address including zip code, and both day and evening telephone numbers. The form is purely for administrative data collection, likely for an event or membership.",
+      "categories": [
+        "Forms",
+        "Administrative",
+        "Event Registration",
+        "Personal Information Collection"
+      ],
+      "keywords": [
+        "Registration",
+        "Form",
+        "Personal information",
+        "Contact details",
+        "Name",
+        "Affiliation",
+        "Address",
+        "Telephone",
+        "Badge"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-popular-lectures-program-june-24-25",
+      "documentId": "eph89-06",
+      "title": "Popular Lectures program, June 24 - 25",
+      "summary": "## Popular Lectures program, June 24 - 25\n(Does not include Sagan Lecture)\n\n- ◆ A.S.P. or Planetary Society member $50 $________ NM\n- ◆ Nonmember $55 $________ NN\n\n**(Letter codes for office use only)...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-history-session-june-23",
+      "documentId": "eph89-06",
+      "title": "History Session, June 23",
+      "summary": "The article announces an upcoming \"History Session\" scheduled for June 23. Attendance is free for Popular Lectures program registrants, who are requested to indicate their plan to attend by checking a designated box.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Program Information"
+      ],
+      "keywords": [
+        "History Session",
+        "June 23",
+        "Popular Lectures program",
+        "registration",
+        "free attendance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-carl-sagan-lecture-sunday-evening-june-25",
+      "documentId": "eph89-06",
+      "title": "Carl Sagan lecture, Sunday evening, June 25:",
+      "summary": "This document is an order form for tickets to a Carl Sagan lecture scheduled for Sunday evening, June 25th. Attendees can purchase regular tickets for $10 or benefactor tickets with reserved seats for $100, with a portion of the benefactor ticket price considered a tax-deductible donation. It also mentions a late fee after May 30, 1989, and provides instructions for payment to A.S.P. in San Francisco.",
+      "categories": [
+        "event announcement",
+        "ticket sales",
+        "fundraising",
+        "lecture"
+      ],
+      "keywords": [
+        "Carl Sagan",
+        "lecture",
+        "tickets",
+        "benefactor",
+        "donation",
+        "A.S.P.",
+        "June 25",
+        "1989"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph89-06-general-meetings",
+      "documentId": "eph89-06",
+      "title": "GENERAL MEETINGS",
+      "summary": "The San Jose Astronomical Association (SJAA) holds monthly General Meetings at the Red Cross building in Los Gatos, California. These meetings feature guest speakers on various astronomical topics and also serve as \"Indoor Star Parties\" where members can share interests like astrophotography, deep sky observation, and telescope making. Detailed directions, along with the timing (1st Saturday of each month, 8 PM start), are provided for these events.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Astronomy Clubs",
+        "Directions / Venue Info"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos California",
+        "Guest Speakers",
+        "Astronomical Topics",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep Sky Observation",
+        "Telescope Making",
+        "Red Cross Building",
+        "Monthly Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-indoor-star-parties",
+      "documentId": "eph89-06",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Indoor Star Parties are informal Saturday evening gatherings for amateur astronomers, providing a venue for socializing, discussing astronomy, and sharing equipment. These events often feature outdoor telescope viewing, indoor astrophotography slideshows, board meetings, and monthly introductory astronomy workshops.",
+      "categories": [
+        "Events",
+        "Community",
+        "Astronomy",
+        "Social Gathering",
+        "Education"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur astronomers",
+        "Astronomy gatherings",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "SJAA",
+        "Social events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-field-expeditions",
+      "documentId": "eph89-06",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA organizes \"Star Parties\" for astronomical observation on Saturdays closest to the New Moon. These observing events take place at various designated locations, some near San Jose and others as far as Yosemite National Park. Attendees should consult the EPHEMERIS for specific star party locations and details.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Community Outreach",
+        "Astronomy Clubs"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomical Observation",
+        "SJAA",
+        "New Moon",
+        "Yosemite National Park",
+        "Observing Sessions",
+        "Field Expeditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-06-fremont-peak-state-park",
+      "documentId": "eph89-06",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly popular observing location for Bay Area amateur astronomers, situated near San Juan Bautista and offering dark skies for deep sky observing and astrophotography during New Moon weekends. The article provides detailed directions to this site, which frequently hosts 50-100 telescopes during summer months. Additionally, it lists the officers and board members of the San Jose Astronomical Association, which publishes the EPHEMERIS newsletter.",
+      "categories": [
+        "observing locations",
+        "astronomy clubs",
+        "guides",
+        "community news",
+        "astrophotography"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "amateur astronomers",
+        "deep sky observing",
+        "astrophotography",
+        "San Jose Astronomical Association",
+        "New Moon weekends",
+        "Bay Area",
+        "observing guide",
+        "San Jose",
+        "club directory"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph89-06-san-jose-astronomical-association-membership-application",
+      "documentId": "eph89-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types including standard, standard with Sky & Telescope magazine, and junior memberships, along with their respective fees. The form provides instructions for payment, submission details, and contact information for the association's treasurer.",
+      "categories": [
+        "Membership Application",
+        "Organizational",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "application",
+        "dues",
+        "Sky & Telescope",
+        "junior membership",
+        "contact information",
+        "treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph89-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8906/Eph89_06.pdf",
+      "txtPath": "8906/Eph89_06.md"
+    }
+  ]
+}

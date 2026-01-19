@@ -1,0 +1,514 @@
+{
+  "articles": [
+    {
+      "id": "eph86-11-november-1986",
+      "documentId": "eph86-11",
+      "title": "NOVEMBER 1986",
+      "summary": "This document outlines the astronomical events and meetings scheduled for November and early December 1986. Key activities include field expeditions to Henry Coe State Park, indoor star parties, board meetings, and general meetings, with a notable presentation on 'A Down Under Look at Halley's Comet' by Ernie Piini on November 22nd. Most indoor events are held at the Los Gatos Red Cross Building.",
+      "categories": [
+        "Events",
+        "Meeting Schedule",
+        "Astronomy Club Activities",
+        "Observing Opportunities"
+      ],
+      "keywords": [
+        "November 1986",
+        "Halley's Comet",
+        "Field Expedition",
+        "Star Party",
+        "Board Meeting",
+        "General Meeting",
+        "Introductory Astronomy Class",
+        "Henry Coe State Park",
+        "Los Gatos Red Cross Building",
+        "West Valley Planetarium",
+        "Ernie Piini"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-field-of-view",
+      "documentId": "eph86-11",
+      "title": "FIELD OF VIEW",
+      "summary": "This article announces two upcoming events for members: a general meeting on November 22nd featuring Ernie Piini's travelogue about observing Halley's Comet in Australia, and an Introductory Astronomy Class on November 15th, which will utilize the West Valley College Planetarium. Class attendees are instructed to meet at the Los Gatos Red Cross before caravaning to the planetarium.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Meetings",
+        "Education",
+        "Classes"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Ernie Piini",
+        "Halley's Comet",
+        "Australia",
+        "Travelogue",
+        "Astronomy Class",
+        "West Valley Planetarium",
+        "November 22nd",
+        "November 15th",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-astro-ads",
+      "documentId": "eph86-11",
+      "title": "ASTRO ADS",
+      "summary": "The document is a classified advertisement from an individual, Paul Mancuso, who is looking to purchase a specific type of telescope. He is seeking a Standard Questar model featuring special coatings, ideally with a Cervit mirror, but will also consider a standard Pyrex mirror model if it possesses the special coatings.",
+      "categories": [
+        "Classifieds",
+        "Wanted Ad",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "Questar",
+        "Telescope",
+        "Special Coatings",
+        "Cervit Mirror",
+        "Pyrex Mirror",
+        "Wanted"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph86-11-by-jay-reynolds-freeman",
+      "documentId": "eph86-11",
+      "title": "BY: JAY REYNOLDS FREEMAN",
+      "summary": "The article highlights the crucial importance of a dark field of view for effective deep-sky observing, attributing common telescope performance issues to inadequate baffling against stray light. It proposes a simple daytime test to identify light leaks and glare within various telescope designs, including Newtonians, refractors, and catadioptrics. The author provides detailed analyses of common problem areas and offers practical solutions such as applying superior black coatings, installing internal baffles, modifying focuser tubes, and extending tube elements to significantly enhance contrast and visibility of faint celestial objects.",
+      "categories": [
+        "Technical",
+        "Equipment",
+        "Observing Guides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Telescope baffling",
+        "Stray light",
+        "Deep-sky observing",
+        "Optical contrast",
+        "Newtonian telescopes",
+        "Schmidt-Cassegrain telescopes",
+        "Refractor telescopes",
+        "Focuser modification",
+        "Blackening",
+        "Equipment improvement"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph86-11-jupiter-s-great-red-spot",
+      "documentId": "eph86-11",
+      "title": "JUPITER'S GREAT RED SPOT",
+      "summary": "This article from late 1986 discusses the challenging visibility of Jupiter's Great Red Spot (GRS), noting its wandering motion and exceptionally pale color, often visible only as an indentation during moments of best seeing. It provides a table of predicted meridian transit times for the GRS from November to December 1986, encouraging persistent observation. The author highlights Jupiter as a prime planetary target due to its size and the activity beyond just the GRS.",
+      "categories": [
+        "observing reports",
+        "observational guide",
+        "planetary astronomy",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "observation",
+        "visibility",
+        "meridian transit",
+        "planetary observation",
+        "1986"
+      ],
+      "pageStart": 4,
+      "pageEnd": 74
+    },
+    {
+      "id": "eph86-11-by-don-machholz",
+      "documentId": "eph86-11",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "Don Machholz, who previously wrote about observing Venus's shadow, now reports successfully seeing a shadow cast by Jupiter. He tested this under excellent dark sky conditions at Loma Prieta, using a simple method of holding his hand over white paper. Machholz encourages other observers to try this challenging feat, providing helpful tips, and asks for reports of their experiences.",
+      "categories": [
+        "observing report",
+        "observational astronomy",
+        "amateur astronomy",
+        "how-to guide",
+        "challenge"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Venus",
+        "shadow",
+        "observation",
+        "dark skies",
+        "limiting magnitude",
+        "Loma Prieta",
+        "averted vision",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-by-don-machholz",
+      "documentId": "eph86-11",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "This article provides updates on several comets, announcing the recovery of the faint Periodic Comet Grigg-Skjellerup at magnitude 22. It also includes an ephemeris and observational notes for Comet Wilson, detailing its slow brightening and small size through early December. Additionally, the article looks ahead to future apparitions of Halley's Comet, specifically discussing its projected return in 2061.",
+      "categories": [
+        "comet observations",
+        "astronomy news",
+        "ephemeris data",
+        "celestial mechanics",
+        "future predictions"
+      ],
+      "keywords": [
+        "Comet Grigg-Skjellerup",
+        "Comet Wilson",
+        "Halley's Comet",
+        "comet recovery",
+        "magnitude estimates",
+        "orbital period",
+        "observing reports",
+        "ephemeris",
+        "1986m",
+        "1986l",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph86-11-space-program-update-by-bob-fingerhut",
+      "documentId": "eph86-11",
+      "title": "SPACE PROGRAM UPDATE BY: BOB FINGERHUT",
+      "summary": "This article provides an update on the upcoming return of Halley's Comet in 2060-2061, detailing its predicted brightness, trajectory, and visibility from Earth. It highlights that the 2061 visit will favor the Northern Hemisphere, offering visibility as a naked-eye object and displaying a long tail, unlike its 1985/86 appearance. The comet will be observable with large telescopes in 2060, becoming visible to the naked eye by June 2061, with its closest approach to Earth in late July 2061.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Celestial Events",
+        "Future Predictions"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "2060",
+        "2061",
+        "Comet observation",
+        "Magnitude",
+        "Naked eye visibility",
+        "Northern Hemisphere",
+        "Closest approach",
+        "Telescope",
+        "Binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-periodic-comet-halley-1982i",
+      "documentId": "eph86-11",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This document provides ephemeris data for Periodic Comet Halley (1982i) for the period between late October and early December 1982. It lists celestial coordinates (RA, Dec), magnitude estimates, elongation, and distances from Earth and the Sun, alongside comet rise times and morning astronomical twilight times for various latitudes. The article also includes instructions for adjusting coordinates for the year 2000.",
+      "categories": [
+        "Ephemeris",
+        "Observational Data",
+        "Cometary Astronomy",
+        "Astronomy Guide"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Comet Rise Time",
+        "Astronomical Twilight",
+        "Celestial Coordinates",
+        "Observing Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-replacement-shuttle-orbiter-authorized",
+      "documentId": "eph86-11",
+      "title": "REPLACEMENT SHUTTLE ORBITER AUTHORIZED",
+      "summary": "President Reagan has authorized the construction of a replacement Space Shuttle Orbiter for the lost Challenger, expected to be delivered in late 1991 or 1992. This is part of a broader \"Space Launch Recovery Strategy\" that also aims to phase out shuttle launching of communication satellites and ensure critical satellites are compatible with both shuttle and expendable boosters.",
+      "categories": [
+        "News",
+        "Government Policy",
+        "Space Program",
+        "Aerospace Industry"
+      ],
+      "keywords": [
+        "President Reagan",
+        "Space Shuttle",
+        "Challenger",
+        "Space Launch Recovery Strategy",
+        "Communication Satellites",
+        "Expendable Boosters",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-space-shuttle-solid-rocket-booster-redesign",
+      "documentId": "eph86-11",
+      "title": "SPACE SHUTTLE SOLID ROCKET BOOSTER REDESIGN",
+      "summary": "NASA and Morton Thiokol have developed a new design for the Space Shuttle Solid Rocket Booster joint. This modified joint will incorporate three more resilient O-ring seals, a heating device to prevent freezing, and a capture latch to minimize joint rotation and movement. Extensive testing of the redesigned joint is planned.",
+      "categories": [
+        "Technical",
+        "News",
+        "Aerospace Engineering"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Solid Rocket Booster",
+        "SRB",
+        "Joint Redesign",
+        "O-ring",
+        "NASA",
+        "Morton Thiokol",
+        "Aerospace Safety",
+        "Space Technology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-shuttle-centaur-replacement-for-planetary-spacecraft",
+      "documentId": "eph86-11",
+      "title": "SHUTTLE/CENTAUR REPLACEMENT FOR PLANETARY SPACECRAFT",
+      "summary": "NASA has recommended replacing the Shuttle/Centaur with the Shuttle/Inertial Upper Stage (IUS) for launching the Galileo, Ulysses, and Magellan planetary spacecraft. The article details the revised launch windows and trajectories for each mission: Galileo in Nov. 1989 to Jupiter, Ulysses in late 1989 or 1990 to the solar polar region, and Magellan in April 1989 to Venus.",
+      "categories": [
+        "news",
+        "space missions",
+        "spacecraft launch",
+        "space program planning"
+      ],
+      "keywords": [
+        "NASA",
+        "Shuttle/IUS",
+        "Galileo",
+        "Ulysses",
+        "Magellan",
+        "planetary spacecraft",
+        "launch",
+        "trajectory",
+        "Jupiter",
+        "Venus",
+        "solar polar region",
+        "gravity assist"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph86-11-commercialized-titan-signs-first-customer",
+      "documentId": "eph86-11",
+      "title": "COMMERCIALIZED TITAN SIGNS FIRST CUSTOMER",
+      "summary": "Federal Express has become the first customer for Martin Marietta's commercialized Titan III rocket, signing an agreement for the launch of its Expresstar communications satellite in 1989. This marks a significant step in the commercial space launch market.",
+      "categories": [
+        "Commercial Space",
+        "Space Launch",
+        "Satellite Communications",
+        "Aerospace Industry"
+      ],
+      "keywords": [
+        "Federal Express",
+        "Martin Marietta",
+        "Titan III",
+        "Expresstar",
+        "Satellite launch",
+        "Commercial launch services",
+        "1989"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-spacelab-flights-cut-back",
+      "documentId": "eph86-11",
+      "title": "SPACELAB FLIGHTS CUT BACK",
+      "summary": "NASA plans to cancel 15-18 Spacelab shuttle flights over the next five years, including numerous microgravity and life science missions. This significant reduction in planned flights is a direct consequence of the Challenger accident.",
+      "categories": [
+        "news",
+        "space program",
+        "policy change"
+      ],
+      "keywords": [
+        "NASA",
+        "Spacelab",
+        "shuttle flights",
+        "cancellations",
+        "Challenger accident",
+        "microgravity",
+        "life science missions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-space-station-being-redesigned",
+      "documentId": "eph86-11",
+      "title": "SPACE STATION BEING REDESIGNED",
+      "summary": "The initial operational configuration for the space station is being scaled back to a significantly smaller facility. This redesign aims to simplify construction, reduce the need for extensive shuttle launches, and lessen reliance on extravehicular assembly. The new design could potentially still evolve into the larger dual-keel configuration in the future.",
+      "categories": [
+        "News",
+        "Space Development",
+        "Program Update",
+        "Engineering"
+      ],
+      "keywords": [
+        "space station",
+        "redesign",
+        "scaled back",
+        "shuttle launch capacity",
+        "extravehicular assembly",
+        "dual-keel design"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-soviet-mir-completes-first-mission",
+      "documentId": "eph86-11",
+      "title": "SOVIET MIR COMPLETES FIRST MISSION",
+      "summary": "The first manned mission to the Soviet Mir space station concluded on July 16, with its two cosmonauts returning to Earth after 125 days in space. This successful completion means the Soviets now operate two space stations in orbit.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Missions"
+      ],
+      "keywords": [
+        "Soviet Mir",
+        "space station",
+        "manned mission",
+        "cosmonauts",
+        "space flight",
+        "Soviet space program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-first-transfer-orbit-upper-stage-tos-rolled-out",
+      "documentId": "eph86-11",
+      "title": "FIRST TRANSFER ORBIT UPPER STAGE (TOS) ROLLED OUT",
+      "summary": "Orbital Sciences Corp. rolled out its first commercially funded Transfer Orbit Upper Stage (TOS) in August. This stage is being built and tested for the launch of NASA's Mars Observer spacecraft, which will be deployed from the space shuttle.",
+      "categories": [
+        "News",
+        "Space Industry",
+        "Aerospace Technology",
+        "Space Missions"
+      ],
+      "keywords": [
+        "Transfer Orbit Upper Stage (TOS)",
+        "Orbital Sciences Corp.",
+        "NASA Mars Observer",
+        "Space Shuttle",
+        "Spacecraft launch",
+        "Aerospace"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-11-computer-controlled-telescope-cct-an-evaluation-by-john-gleason",
+      "documentId": "eph86-11",
+      "title": "COMPUTER CONTROLLED TELESCOPE (CCT) AN EVALUATION BY: JOHN GLEASON",
+      "summary": "This article evaluates the Computer Controlled Telescope (CCT) system, highlighting its revolutionary capability to automatically locate and point telescopes at celestial objects. Invented by Mike Simmons and introduced in 1986, the CCT aims to save amateur astronomers significant observing time by eliminating manual searching. The system comprises power devices, a computer/display unit, stepper motors, and a mini-computer loaded with over 8,000 astronomical objects.",
+      "categories": [
+        "Product Evaluation",
+        "Observational Astronomy",
+        "New Technology",
+        "Amateur Astronomy",
+        "Telescope Accessories"
+      ],
+      "keywords": [
+        "Computer Controlled Telescope (CCT)",
+        "Computer Control System (CCS)",
+        "Mike Simmons",
+        "John Gleason",
+        "Automated telescope",
+        "Observational astronomy",
+        "Telescope accessory",
+        "Amateur astronomy",
+        "Astronomical objects catalog",
+        "Riverside Telescope Makers Conference"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph86-11-revised-new-general-catalog-objects-and-alignment-stars",
+      "documentId": "eph86-11",
+      "title": "Revised New General Catalog Objects and Alignment Stars",
+      "summary": "This article provides an in-depth review of a Computerized Control System (CCS) for telescopes, detailing its features, operational functions, and performance. The system offers extensive object catalogs, precise Go-To capabilities, and automated scanning, significantly enhancing observing efficiency and making deep-sky astronomy more accessible. Despite minor design flaws such as a noisy power system and small display characters, the reviewer highly recommends the CCS for serious amateur astronomers due to its phenomenal pointing accuracy and transformative impact on observational experiences.",
+      "categories": [
+        "Product Review",
+        "Telescope Technology",
+        "Astronomical Equipment",
+        "Observing Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Computerized Control System",
+        "Telescope",
+        "Go-To system",
+        "NGC objects",
+        "Messier objects",
+        "Polar alignment",
+        "Astrophotography",
+        "Pointing accuracy",
+        "Object catalog",
+        "Deep sky objects",
+        "Comet hunting",
+        "Supernova hunting",
+        "Star parties",
+        "Celestron"
+      ],
+      "pageStart": 8,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph86-11-san-jose-astronomical-association-membership-application",
+      "documentId": "eph86-11",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types (Membership Only, Membership/S&T, Junior) with their respective fees, provides submission instructions and contact details for the treasurer, and includes an optional questionnaire about the applicant's astronomical interests and equipment.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organization Administration",
+        "News",
+        "Community"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership fees",
+        "Astronomy club",
+        "Astrophotography",
+        "Deep-sky observation",
+        "Telescope",
+        "Contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph86-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8611/Eph86_11.pdf",
+      "txtPath": "8611/Eph86_11.md"
+    }
+  ]
+}

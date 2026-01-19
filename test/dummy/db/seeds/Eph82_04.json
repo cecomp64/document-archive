@@ -1,0 +1,652 @@
+{
+  "articles": [
+    {
+      "id": "eph82-04-ephemeris",
+      "documentId": "eph82-04",
+      "title": "Ephemeris",
+      "summary": "This document serves as an 'Ephemeris' for the San Jose Astronomical Association (SJAA), detailing their events for April and May. It lists various activities such as board meetings, indoor and outdoor star parties, an astronomical auction, and participation in National Astronomy Day and the Riverside Telescope Makers' Conference. Additionally, the bulletin provides organizational information, including membership rates, contact details for the SJAA and its leadership, and the bulletin submission deadline.",
+      "categories": [
+        "Events Calendar",
+        "Club News",
+        "Observing Reports",
+        "Technical Astronomy",
+        "Community Outreach",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Astronomy Events",
+        "Star Parties",
+        "Astronomical Auction",
+        "National Astronomy Day",
+        "Riverside Telescope Makers' Conference",
+        "Observing Sites",
+        "Club News",
+        "Membership",
+        "San Jose Astronomical Association",
+        "Telescope Making"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-04-observations",
+      "documentId": "eph82-04",
+      "title": "Observations",
+      "summary": "This article outlines several upcoming events and announcements for the San Jose Astronomical Association (SJAA), including their second annual astronomical auction, various Astronomy Day activities requiring volunteer participation across multiple sites, and a solar observing event at the Peninsula School Learning Fair. It also details new SJAA merchandise like t-shirts and name tags, introduces associate membership opportunities for the American Society of Aerospace Pilots (ASAP) related to space shuttle piloting, and provides updates on the availability of club telescopes.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Community Outreach",
+        "Volunteer Opportunities",
+        "Membership",
+        "Merchandise"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomical Auction",
+        "Astronomy Day",
+        "Solar Observing",
+        "Telescopes",
+        "Volunteer",
+        "ASAP",
+        "Space Shuttle",
+        "Membership",
+        "Club Merchandise",
+        "Bay Area Astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-04-sjaa-astronomical-auction",
+      "documentId": "eph82-04",
+      "title": "SJAA Astronomical Auction",
+      "summary": "The SJAA (San Jose Astronomical Association) is hosting its annual Astronomical Auction on April 17th, 1982. Attendees can expect a fun event with opportunities to purchase a wide variety of astronomical equipment, including telescopes, books, eyepieces, camera equipment, and parts.",
+      "categories": [
+        "event",
+        "announcement",
+        "auction"
+      ],
+      "keywords": [
+        "SJAA",
+        "astronomical auction",
+        "telescopes",
+        "eyepieces",
+        "camera equipment",
+        "astronomy gear",
+        "San Jose Astronomical Association",
+        "bargains"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-terms-your-choice-of-one",
+      "documentId": "eph82-04",
+      "title": "TERMS (Your choice of one)",
+      "summary": "This document outlines the terms for an auction, offering sellers two options: either a 10% commission to the San Jose Astronomical Association (SJAA) or a full donation to the non-profit organization, with a mandatory minimum bid for items. It encourages pre-registration of items at upcoming star parties, provides the auction's location and schedule, and includes a call for volunteers to assist with the event.",
+      "categories": [
+        "Events",
+        "Fundraising",
+        "Guidelines",
+        "Call for Volunteers"
+      ],
+      "keywords": [
+        "Auction",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Fundraising",
+        "Donation",
+        "Minimum bid",
+        "Pre-registration",
+        "Volunteers",
+        "Los Gatos",
+        "Star Party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-letters-to-the-editors",
+      "documentId": "eph82-04",
+      "title": "Letters to the Editors",
+      "summary": "Steve Edberg, president of the Jet Propulsion Laboratory astronomy club, wrote to the Western Amateur Astronomers (WAA) president, John Sanford, offering a critique and detailed suggestions for improving the WAA. Edberg advocated for more affordable, shorter, and topically-focused meetings, along with diverse activities like group sky-looking and workshops, moving away from expensive conventions. The article also includes brief letters offering positive feedback on the SJAA Bulletin and an incomplete note about issues with eyepieces in sunspot counting for the AAVSO Solar Division.",
+      "categories": [
+        "Amateur Astronomy Organizations",
+        "Organizational Critique",
+        "Meeting and Event Planning",
+        "Community Feedback",
+        "Observing Reports/Activities"
+      ],
+      "keywords": [
+        "Western Amateur Astronomers (WAA)",
+        "Amateur astronomy",
+        "Organizational improvement",
+        "Conventions",
+        "Meetings",
+        "Observing activities",
+        "Telescope workshops",
+        "Astronomical Society of the Pacific (ASP)",
+        "Jet Propulsion Laboratory (JPL)",
+        "Sunspot counting",
+        "SJAA Bulletin",
+        "AAVSO Solar Division"
+      ],
+      "pageStart": 4,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-04-the-celestial-tourist-speaks",
+      "documentId": "eph82-04",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "This article, \"The Celestial Tourist Speaks\" by Jay Reynolds Freeman, offers practical advice on effectively using telescope finders, particularly straight-through models. It details a \"both-eyes-open\" technique that allows observers to quickly align their telescope by fusing their direct vision with the finder's magnified view to superimpose crosshairs on a desired celestial object. The author also provides guidance on choosing appropriate finder aperture, magnification, and crosshair types, emphasizing ease of use over precise physical alignment.",
+      "categories": [
+        "observing techniques",
+        "equipment review",
+        "astronomy tips",
+        "how-to guide"
+      ],
+      "keywords": [
+        "telescope finders",
+        "straight-through finders",
+        "observational astronomy",
+        "star charts",
+        "M57",
+        "Ring Nebula",
+        "Lyra",
+        "finder scope",
+        "crosshairs",
+        "aperture",
+        "magnification",
+        "telescope alignment"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-04-comet-comments",
+      "documentId": "eph82-04",
+      "title": "Comet Comments",
+      "summary": "This article provides updates on various comets, including Comet Bowell and the re-identification of Comet Hartleys (1982b; 1982c) as Periodic Comet Du Toit-Hartley, noting their split and changing brightness. It also offers a resource for comet news through John Bortle's Comet Circulars. Additionally, the piece recounts the historical \"Great Comet\" Arend-Roland (1957III), highlighting its unique \"anti-tail\" feature.",
+      "categories": [
+        "Comet News",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Historical Comets",
+        "Astronomical Resources"
+      ],
+      "keywords": [
+        "Comet Bowell",
+        "Comet Hartley",
+        "Periodic Comet Du Toit",
+        "Comet Arend-Roland",
+        "anti-tail",
+        "comet split",
+        "Don Machholz",
+        "John Bortle",
+        "Comet Circulars",
+        "Sky & Telescope",
+        "observing comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-comet-bowell-1982b",
+      "documentId": "eph82-04",
+      "title": "Comet Bowell (1982b)",
+      "summary": "The document provides an ephemeris for Comet Bowell (1982b), listing its Right Ascension, Declination, and estimated magnitude for specific dates from April to May. This data is intended to guide observers in locating and tracking the comet.",
+      "categories": [
+        "Observational Data",
+        "Comets",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Bowell (1982b)",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astrometry",
+        "Observing guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-roster",
+      "documentId": "eph82-04",
+      "title": "Roster",
+      "summary": "This document serves as an announcement for updates and changes to the SJAA Roster. It instructs members to make specific additions and modifications to the roster that was previously published in the January Bulletin.",
+      "categories": [
+        "Club Administration",
+        "Announcements",
+        "Updates"
+      ],
+      "keywords": [
+        "Roster",
+        "SJAA",
+        "Bulletin",
+        "Changes",
+        "Additions",
+        "Update"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-new-members",
+      "documentId": "eph82-04",
+      "title": "New members",
+      "summary": "This document lists new members, providing their names, addresses, and phone numbers. The new members include William Aceves, II, Teresa & Ted Channell, John McClelland, and Bill Cooke, primarily residing in the San Francisco Bay Area.",
+      "categories": [
+        "Membership",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "New Members",
+        "Membership Roster",
+        "William Aceves II",
+        "Teresa Channell",
+        "Ted Channell",
+        "John McClelland",
+        "Bill Cooke",
+        "San Jose",
+        "Fremont",
+        "Santa Clara",
+        "Sunnyvale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-additions-and-changes-current-members",
+      "documentId": "eph82-04",
+      "title": "Additions and changes--Current members",
+      "summary": "This document lists additions and changes to the contact information for current members. It provides names, phone numbers, and addresses for several individuals, serving as an updated directory.",
+      "categories": [
+        "Membership",
+        "Directory",
+        "Contact Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "members",
+        "contact list",
+        "directory",
+        "phone numbers",
+        "addresses",
+        "additions",
+        "changes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-ads",
+      "documentId": "eph82-04",
+      "title": "Ads",
+      "summary": "This document features several classified advertisements for astronomical equipment. Listings include a vintage 1974 Celestron 8 Schmidt-Cassegrain telescope with extensive accessories, a 6-inch Newtonian reflector, and discounted Tirion Atlases. Each advertisement provides details about the item for sale and contact information for the respective seller.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Equipment",
+        "For Sale"
+      ],
+      "keywords": [
+        "Celestron 8",
+        "Schmidt-Cassegrain telescope",
+        "Newtonian reflector",
+        "Tirion Atlases",
+        "telescope",
+        "eyepieces",
+        "equatorial mount",
+        "solar filter",
+        "drive corrector",
+        "astronomy equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-04-space-program-update",
+      "documentId": "eph82-04",
+      "title": "Space Program Update",
+      "summary": "This update covers various space program activities, including the successful landing of Soviet Venera 13 and 14 probes on Venus, which sent back color pictures and soil analysis revealing basalt rock. It also reports the launch of the Intelsat-V communications satellite and the selection of crews for upcoming Space Shuttle missions (STS-4, -5, -6). The article concludes with a discussion of increasing Department of Defense shuttle use and the political debate surrounding the development of the Centaur upper stage.",
+      "categories": [
+        "Space News",
+        "Planetary Exploration",
+        "Human Spaceflight",
+        "Satellite Launches",
+        "Space Policy",
+        "Space Technology"
+      ],
+      "keywords": [
+        "Venera 13",
+        "Venera 14",
+        "Venus",
+        "Soviet space program",
+        "Intelsat-V",
+        "Atlas-Centaur",
+        "Space Shuttle",
+        "NASA",
+        "STS-4",
+        "STS-5",
+        "STS-6",
+        "Department of Defense",
+        "Centaur upper stage",
+        "Air Force",
+        "Congressional oversight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-star-party-report",
+      "documentId": "eph82-04",
+      "title": "Star Party Report",
+      "summary": "This article reports on a successful star party held at Henry Coe State Park on February 20-21, led by Jim van Nuland. Despite initial threatening skies, participants enjoyed spectacular views of the Milky Way, various deep-sky objects like the Orion Nebula and M51, and especially a \"glorious\" Saturn observed at high magnification under excellent seeing conditions. The report also includes humorous anecdotes and a chaotic vote for future star party locations.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Astronomy Club News",
+        "Star Party Planning"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Star Party",
+        "Saturn",
+        "M51",
+        "Orion Nebula",
+        "Milky Way",
+        "Telescope Observations",
+        "Jim van Nuland",
+        "Bill Cooke",
+        "Fremont Peak",
+        "Mt. Umunhum",
+        "Deep Sky Objects",
+        "Planetary Observation",
+        "Seeing Conditions"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-04-rattley-rattles",
+      "documentId": "eph82-04",
+      "title": "Rattley Rattles",
+      "summary": "Gerry Rattley describes the Idria Site, a new dark-sky observing location scouted south of Hollister in the Clear Creek Recreation Area, praising its exceptional darkness and clear views for deep-sky objects. He details its benefits, such as visibility of spiral arms and Stephan's Quintet, alongside disadvantages like a rough access road and lack of facilities. Rattley concludes by inviting interested individuals to join a caravan to the site on April 24th, with an accompanying map for directions.",
+      "categories": [
+        "Observing Reports",
+        "Dark Sky Sites",
+        "Astronomy Events",
+        "Poetry",
+        "Planetary Science",
+        "Travel & Directions"
+      ],
+      "keywords": [
+        "Gerry Rattley",
+        "Idria Site",
+        "Dark Sky Observing",
+        "Deep-sky objects",
+        "Clear Creek Recreation Area",
+        "Site Review",
+        "Astronomy Events",
+        "Uranus",
+        "Neptune",
+        "Diamond Rain",
+        "Ruth Hoppin",
+        "SJAA",
+        "M81",
+        "Stephan's Quintet"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-04-schemings-for-atm-s",
+      "documentId": "eph82-04",
+      "title": "SCHEMINGS FOR ATM'S",
+      "summary": "This article, 'SCHEMINGS FOR ATM'S' by Ken Wilson, humorously reveals purportedly secret and simple new telescope mounting designs from Edmund Scientific. It suggests these designs are so easy for Amateur Telescope Makers (ATMs) to build themselves that Edmund fears they will opt out of buying more expensive conventional mounts. The piece presents itself as an exclusive scoop for the DIY astronomy community.",
+      "categories": [
+        "Amateur Telescope Making",
+        "DIY Astronomy",
+        "Equipment Design",
+        "Humor",
+        "News"
+      ],
+      "keywords": [
+        "ATM",
+        "Telescope Mounting",
+        "Edmund Scientific",
+        "Telescope Design",
+        "DIY Telescope",
+        "Amateur Astronomy",
+        "Homemade Mounts"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-the-fork-mount",
+      "documentId": "eph82-04",
+      "title": "THE FORK MOUNT",
+      "summary": "This short, humorous piece playfully discusses the 'fork mount,' not as an astronomical device, but by literally referring to kitchen cutlery. It satirically suggests repurposing a spoon as an 'NFT mirror' and a knife for Foucault tests, offering an unconventional take on DIY optics.",
+      "categories": [
+        "Humor",
+        "Satire",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Fork mount",
+        "NFT mirror",
+        "Foucault tests",
+        "Optics",
+        "DIY",
+        "Humor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-the-yoke-mount",
+      "documentId": "eph82-04",
+      "title": "THE YOKE MOUNT",
+      "summary": "This very short article, titled 'THE YOKE MOUNT', is a humorous piece that plays on the words 'yoke' and 'yolk'. It offers a pun-based suggestion about convincing someone else to purchase an 'egg' to avoid the 'yolk' (burden) being on the observer, rather than discussing a technical astronomical mount.",
+      "categories": [
+        "Humor",
+        "Wordplay",
+        "Satire"
+      ],
+      "keywords": [
+        "Yoke Mount",
+        "Yolk",
+        "Pun",
+        "Humor",
+        "Wordplay"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-the-pipe-mount",
+      "documentId": "eph82-04",
+      "title": "THE PIPE MOUNT",
+      "summary": "This humorous piece from the July 1975 \"WASP\" publication, titled \"THE PIPE MOUNT,\" playfully describes a \"mount\" that reportedly offers an unforgettable experience. It uses astronomical terminology like \"convection currents\" to suggest that certain varieties, such as \"Prince Albert,\" influence observing conditions and lead to \"far-out sights,\" strongly implying a double entendre related to smoking pipes rather than literal telescope mounts.",
+      "categories": [
+        "Humor",
+        "Historical Article",
+        "Astronomy Society Publication",
+        "Observing Report (Satirical)"
+      ],
+      "keywords": [
+        "Pipe Mount",
+        "Humor",
+        "Satire",
+        "Warren Astronomical Society",
+        "WASP",
+        "Prince Albert",
+        "Convection Currents",
+        "1975",
+        "San Francisco Sidewalk Astronomers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-the-horseshoe-mount",
+      "documentId": "eph82-04",
+      "title": "THE HORSESHOE MOUNT",
+      "summary": "This document serves as a reminder for the annual Riverside Telescope Makers' Conference, scheduled for May 29th-31st near Big Bear Lake. Attendees are encouraged to register by consulting the March Bulletin or contacting SJAA board members, with recreational activities like swimming and canoeing available at the conference grounds. A brief, humorous, and seemingly unrelated passage titled \"The Horseshoe Mount\" precedes the main conference announcement.",
+      "categories": [
+        "Events",
+        "Conference Announcement",
+        "News"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers' Conference",
+        "Big Bear Lake",
+        "SJAA",
+        "Annual Event",
+        "Conference",
+        "Registration",
+        "Astronomy"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-04-red-spot-ephemeris",
+      "documentId": "eph82-04",
+      "title": "RED SPOT EPHEMERIS",
+      "summary": "This article provides an ephemeris for observing Jupiter's Great Red Spot (GRS) from April into May, indicating its transit times across the meridian in PST. It notes that the GRS is currently faded and advises observers to use high power, good seeing conditions, and techniques like an apodizing screen to discern it, describing its appearance as a 'dent' in the South Temperate Belt.",
+      "categories": [
+        "observing reports",
+        "astronomy data",
+        "planetary astronomy",
+        "observing guides"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "ephemeris",
+        "observing",
+        "planetary observation",
+        "seeing conditions",
+        "apodizing screen",
+        "transit times",
+        "PST"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-04-from-pg-2",
+      "documentId": "eph82-04",
+      "title": "From pg.2",
+      "summary": "This article addresses the confusion surrounding the publication's title, which has historically been referred to as both the \"Bulletin\" and the \"Ephemeris.\" Due to the title being absent for several months, the editors are now organizing a renaming contest and inviting readers to submit new name suggestions for the astronomy newsletter.",
+      "categories": [
+        "Organizational Update",
+        "Announcement",
+        "Editorial",
+        "Contest"
+      ],
+      "keywords": [
+        "Bulletin",
+        "Ephemeris",
+        "Renaming contest",
+        "Newsletter",
+        "Publication",
+        "San Jose Astronomical Association",
+        "Editors"
+      ],
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-04-from-pg-3",
+      "documentId": "eph82-04",
+      "title": "From pg. 3",
+      "summary": "The author describes a solar projection setup plagued by heat damage to eyepiece coatings and dust on the field lens, which create haze and mimic sunspots. They propose a new eyepiece design, possibly a Huygenian-type ocular, featuring no coatings, a field lens outside the focal plane, quick disassembly for cleaning, and potential ventilation. The article presents this as a challenge for designers to create an ocular with specific focal length and field of view requirements.",
+      "categories": [
+        "Technical",
+        "Equipment Design",
+        "Observing Challenges",
+        "Solar Astronomy"
+      ],
+      "keywords": [
+        "telescope projection",
+        "solar observing",
+        "eyepiece design",
+        "ocular",
+        "Huygenian",
+        "coatings",
+        "field lens",
+        "heat damage",
+        "optical design",
+        "Walter Scott Houston"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-04-sjaa-board-members",
+      "documentId": "eph82-04",
+      "title": "SJAA Board Members",
+      "summary": "The document lists the current board members of SJAA, providing their names, official titles such as President, Vice President, Treasurer, and Secretary, and individual contact phone numbers. It details the leadership structure and contact information for the organization's administration.",
+      "categories": [
+        "Organizational Information",
+        "Administration",
+        "Contact List",
+        "Directory"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Members",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Contact Information",
+        "Leadership",
+        "Organization"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph82-04-time-value-dated-news-material",
+      "documentId": "eph82-04",
+      "title": "TIME VALUE - DATED NEWS MATERIAL",
+      "summary": "This document appears to be the masthead or a section header from a bulletin published by the San Jose Astronomical Association (SIAA). It prominently displays the organization's address, postal information, and is labeled as 'TIME VALUE - DATED NEWS MATERIAL,' indicating it's a time-sensitive publication from an astronomy club.",
+      "categories": [
+        "Club Publication",
+        "Astronomy Organization Information",
+        "News Bulletin"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SIAA Bulletin",
+        "Astronomy Club",
+        "Dated news material",
+        "San Jose, CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8204/Eph82_04.pdf",
+      "txtPath": "8204/Eph82_04.md"
+    }
+  ]
+}

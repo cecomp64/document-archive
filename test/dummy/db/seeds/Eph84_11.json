@@ -1,0 +1,374 @@
+{
+  "articles": [
+    {
+      "id": "eph84-11-events-calendar",
+      "documentId": "eph84-11",
+      "title": "EVENTS CALENDAR",
+      "summary": "This document is an events calendar outlining upcoming activities for November and early December. It includes indoor star parties, general meetings with notable speakers such as Nick Vaivodica from the Voyager and Galileo projects, a board meeting, and an observing event at Fremont Peak. These events take place at various locations including Los Gatos and the University of Santa Clara.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Events",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Events Calendar",
+        "November Events",
+        "December Events",
+        "Star Party",
+        "General Meeting",
+        "Board Meeting",
+        "Fremont Peak",
+        "Los Gatos",
+        "University of Santa Clara",
+        "Nick Vaivodica",
+        "Voyager",
+        "Galileo",
+        "Ball Aerospace",
+        "Astronomy",
+        "Lecture"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-comet-comments",
+      "documentId": "eph84-11",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's \"Comet Comments\" reports on the recent discovery of three new comets and the recovery of two previously known ones within the past month. The article details five specific comets—Periodic Comet Schaumasse (1984m), Periodic Comet Kowal-Mrkos (1984n), Comet Meier (1984o), Periodic Comet Tsuchinshan (1984p), and Comet Shoemaker (1984q)—providing their discovery/recovery details, magnitudes, and visibility prospects. Notably, Periodic Comet Schaumasse is mentioned as potentially visible to amateur astronomers.",
+      "categories": [
+        "News",
+        "Observing Reports",
+        "Astronomy",
+        "Comet Discoveries"
+      ],
+      "keywords": [
+        "Comet",
+        "Discovery",
+        "Recovery",
+        "Periodic Comet",
+        "Schaumasse (1984m)",
+        "Kowal-Mrkos (1984n)",
+        "Meier (1984o)",
+        "Tsuchinshan (1984p)",
+        "Shoemaker (1984q)",
+        "Don Machholz",
+        "Palomar",
+        "Amateur observation",
+        "Magnitude"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-11-ephemerides",
+      "documentId": "eph84-11",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for three comets—Comet Austin (1984i), Periodic Comet Schaumasse (1984m), and Periodic Comet Arend-Rigaux (1984k)—detailing their celestial coordinates (R.A., Dec.), elongation, and visual magnitude from late October to early December 1984. It includes brief observational notes, indicating Comet Austin is fading but visible all night, Comet Schaumasse is brightening in the morning sky, and Comet Arend-Rigaux will be brightest in early December.",
+      "categories": [
+        "observing reports",
+        "technical data",
+        "astronomy",
+        "ephemerides"
+      ],
+      "keywords": [
+        "Comet Austin (1984i)",
+        "Periodic Comet Schaumasse (1984m)",
+        "Periodic Comet Arend-Rigaux (1984k)",
+        "comets",
+        "ephemerides",
+        "observing",
+        "celestial coordinates",
+        "magnitude",
+        "astronomy",
+        "night sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-11-deep-sky-notes",
+      "documentId": "eph84-11",
+      "title": "DEEP SKY NOTES",
+      "summary": "Steve Gottlieb compares the visual performance of 8-inch and 13-inch telescopes for observing deep-sky objects like globular clusters and galaxies. He notes that while an 8-inch can resolve many globulars and reveal hundreds of galaxies as faint blurs, a 13-inch aperture significantly enhances detail, resolving globular cores and revealing intricate spiral arm structures in numerous galaxies. The article concludes that larger apertures provide more stunning views and are essential for detailed galaxy structure, while also including a brief update on Halley's Comet.",
+      "categories": [
+        "Observing Reports",
+        "Telescope Comparison",
+        "Deep-Sky Astronomy",
+        "Visual Astronomy",
+        "Equipment Review",
+        "Amateur Astronomy Tips"
+      ],
+      "keywords": [
+        "Deep Sky Objects",
+        "Globular Clusters",
+        "Galaxies",
+        "Telescope Aperture",
+        "8-inch Telescope",
+        "13-inch Telescope",
+        "Celestron 8",
+        "Odyssey I",
+        "Visual Observation",
+        "Halley's Comet",
+        "Astronomy Tips",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 41,
+      "pageEnd": 47
+    },
+    {
+      "id": "eph84-11-daylight-observations-of-double-stars-by-dr-a-b-gregory",
+      "documentId": "eph84-11",
+      "title": "DAYLIGHT OBSERVATIONS OF DOUBLE STARS BY: DR. A. B. GREGORY",
+      "summary": "Dr. A. B. Gregory contends that observing and splitting double stars can be surprisingly easier and yield sharper views during daylight hours, specifically between sunset and sunrise. He attributes this to the absence of glare, diffraction rings, and reduced contrast compared to nighttime observations. Examples like Castor and Epsilon Bootis (Izar) demonstrate that even challenging doubles can be resolved more readily, often at lower magnifications, once the star is successfully located.",
+      "categories": [
+        "Observing Reports",
+        "Technical",
+        "Tips/Techniques"
+      ],
+      "keywords": [
+        "Daylight observations",
+        "Double stars",
+        "Binary stars",
+        "Splitting doubles",
+        "Castor",
+        "Epsilon Bootis",
+        "Izar",
+        "Magnification",
+        "Glare",
+        "Diffraction",
+        "Observational astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-low-magnitude-splitting",
+      "documentId": "eph84-11",
+      "title": "LOW MAGNITUDE SPLITTING",
+      "summary": "This article describes an amateur astronomer's successful observations of low-magnitude double stars during daylight hours, including challenging splits such as a magnitude 13 companion of Procyon. The author utilized a 5-inch aperture telescope with specific filters and highlighted the advanced observing skills required for finding and accurately splitting these systems. The piece encourages other amateur astronomers to experiment with similar observations to test their own limits and proficiency.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Observing Techniques",
+        "Double Stars",
+        "Astronomical Challenges"
+      ],
+      "keywords": [
+        "Daylight splitting",
+        "Low magnitude stars",
+        "Double stars",
+        "Binary systems",
+        "Amateur astronomy",
+        "Observing techniques",
+        "Telescope",
+        "Orionis",
+        "Procyon",
+        "Polaroid filter"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-11-know-your-sidereal-time",
+      "documentId": "eph84-11",
+      "title": "KNOW YOUR SIDEREAL TIME",
+      "summary": "This article underscores the essential role of sidereal time for amateur astronomers to accurately locate celestial objects visible from their specific location. It provides instructions on adjusting published sidereal time charts based on local mean time and one's geographical position relative to the time zone meridian. The piece also briefly mentions the creation of custom sidereal watches and points out a specific sidereal time anomaly for the year 1972.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Timekeeping",
+        "Educational"
+      ],
+      "keywords": [
+        "Sidereal time",
+        "Local mean time",
+        "Right ascension",
+        "Declination",
+        "Star charts",
+        "Time zone meridian",
+        "Amateur astronomy",
+        "Celestial navigation",
+        "Sidereal watch",
+        "1972 anomaly"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-pointing-your-celestron",
+      "documentId": "eph84-11",
+      "title": "POINTING YOUR CELESTRON",
+      "summary": "The article describes a method for accurately pointing a Celestron telescope using sidereal time and a custom-added right ascension pointer, particularly for locating celestial objects during daylight hours. It details how to set up and use the sidereal time pointer and calculates hour angle. Practical tips for daytime observation include stopping down the aperture with a diaphragm, using long focal length eyepieces, and pre-focusing the telescope.",
+      "categories": [
+        "Technical Guide",
+        "Observing Techniques",
+        "Equipment Setup",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Celestron",
+        "sidereal time",
+        "right ascension",
+        "hour angle",
+        "daytime observation",
+        "aperture",
+        "diaphragm",
+        "eyepiece",
+        "focusing",
+        "finderscope",
+        "telescope alignment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-editors-note",
+      "documentId": "eph84-11",
+      "title": "EDITORS NOTE:",
+      "summary": "This editor's note refers to an article by Dr. Gregory on daylight observations, originally published in the October 1972 issue of Celestron Techniques. The editor expresses interest in hearing from members who have attempted similar observations.",
+      "categories": [
+        "Editor's Note",
+        "Astronomy History",
+        "Observing",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Editor's Note",
+        "Dr. Gregory",
+        "Celestron Techniques",
+        "Daylight observations",
+        "Historical article",
+        "Amateur Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-a-photographic-map-of-the-heavens-by-don-machholz",
+      "documentId": "eph84-11",
+      "title": "A PHOTOGRAPHIC MAP OF THE HEAVENS BY: DON MACHHOLZ",
+      "summary": "Don Machholz undertook a multi-month project to create a photographic map of the night sky, dividing the observable heavens into 78 sections. Using a 35mm SLR camera and simple equipment, he captured color slides showing stars down to eighth magnitude. The endeavor, though not intended for specific use, proved to be a valuable learning experience in astrophotography and sky mapping.",
+      "categories": [
+        "Amateur Astronomy Projects",
+        "Astrophotography Techniques",
+        "Observing Reports",
+        "DIY Astronomy",
+        "Celestial Mapping"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Photographic sky map",
+        "Astrophotography",
+        "Night sky photography",
+        "35mm SLR camera",
+        "Celestial mapping",
+        "Amateur astronomy project",
+        "Star magnitude",
+        "Color slides",
+        "Equatorial mount",
+        "Tripod",
+        "Kodachrome",
+        "Tri-X"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-11-by-robert-fingerhut",
+      "documentId": "eph84-11",
+      "title": "BY ROBERT FINGERHUT",
+      "summary": "The article details two space shuttle missions: Challenger's successful Mission 41-G, which included the first female spacewalk, deployment of the ERBS satellite, and use of SIR-B radar for geological studies and water detection. It also previews the upcoming Discovery Mission 51-A, outlining its crew and objectives, which primarily involve the recovery of the Palapa B-2 and Westar 6 communication satellites, alongside various scientific experiments.",
+      "categories": [
+        "Space Exploration",
+        "Astronomy News",
+        "Scientific Missions",
+        "Space Technology"
+      ],
+      "keywords": [
+        "Shuttle Challenger",
+        "Mission 41-G",
+        "Kennedy Space Center",
+        "ERBS satellite",
+        "SIR-B radar",
+        "extra vehicular activity",
+        "Shuttle Discovery",
+        "Mission 51-A",
+        "satellite recovery",
+        "Palapa B-2",
+        "Westar 6",
+        "geologic mapping",
+        "space walk"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-atm-coatings",
+      "documentId": "eph84-11",
+      "title": "ATM coatings",
+      "summary": "The document advertises a service for aluminum and silicon monoxide coatings for telescope mirrors, listing prices for various mirror sizes and services like old coating removal. Additionally, it presents several news updates from the astronomy and space sector, including cosmonauts ending a record stay on Salyut 7, a potential Galileo flyby of asteroid Amphitrite, completion of the Space Telescope's optical assembly, EOSAT's selection to operate LANDSAT spacecraft, and the completion of a 30-inch Medlock amateur telescope mirror.",
+      "categories": [
+        "Commercial Service",
+        "Space News",
+        "Astronomy News",
+        "Amateur Astronomy",
+        "Telescope Technology"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Telescope mirrors",
+        "Aluminum coatings",
+        "Silicon monoxide",
+        "Salyut 7",
+        "Cosmonauts",
+        "Galileo mission",
+        "Asteroid flyby",
+        "Amphitrite",
+        "Space Telescope",
+        "Hubble Space Telescope",
+        "LANDSAT",
+        "EOSAT",
+        "Medlock mirror",
+        "Telescope making"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-11-astro-mart",
+      "documentId": "eph84-11",
+      "title": "ASTRO MART",
+      "summary": "This 'Astro Mart' section features classified listings for astronomy equipment, including parts for a 6\" reflector and a 300mm f/5.6 Celestron telescope, both available for sale with contact details provided. Additionally, it announces that the club's 14\" Dobson telescope is available for members to use by contacting David York.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sale",
+        "Club Resources",
+        "Astronomy Gear"
+      ],
+      "keywords": [
+        "telescopes",
+        "mirrors",
+        "mounts",
+        "eyepieces",
+        "Celestron",
+        "reflector",
+        "Dobson telescope",
+        "astronomy equipment",
+        "for sale",
+        "club telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8411/Eph84_11.pdf",
+      "txtPath": "8411/Eph84_11.md"
+    }
+  ]
+}

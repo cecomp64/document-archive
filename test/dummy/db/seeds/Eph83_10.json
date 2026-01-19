@@ -1,0 +1,514 @@
+{
+  "articles": [
+    {
+      "id": "eph83-10-ephemeris",
+      "documentId": "eph83-10",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS,\" is a page from an astronomical publication dated October 1983. It features a black and white photograph depicting a celestial event, likely a solar eclipse or a similar coronal phenomenon. The title suggests the full publication would contain astronomical data or predicted positions of celestial objects for that month.",
+      "categories": [
+        "Astronomy",
+        "Historical",
+        "Observing Reports",
+        "Publications",
+        "Solar Events"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "October 1983",
+        "Solar eclipse",
+        "Celestial photography",
+        "Corona",
+        "Historical astronomy",
+        "Observational astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-10-upcoming-events",
+      "documentId": "eph83-10",
+      "title": "UPCOMING EVENTS",
+      "summary": "This document outlines two upcoming general meetings. The October 15th meeting will feature three SJAA members – Ernie Piini, Jack Peterson, and Bob Fingernut – presenting a slide show on their experience observing the recent solar eclipse in Java. The November 12th meeting will host NASA's Jeff Stargle, who will discuss the detection of extra-solar planets and its connection to infrared observing methods and the Infrared Shuttle Telescope.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Lectures",
+        "Astronomy",
+        "Meetings"
+      ],
+      "keywords": [
+        "Upcoming Events",
+        "General Meeting",
+        "October 15",
+        "November 12",
+        "Ernie Piini",
+        "Jack Peterson",
+        "Bob Fingernut",
+        "Eclipse",
+        "Java",
+        "Solar Eclipse",
+        "Fred Witteborn",
+        "NASA",
+        "Infrared Shuttle Telescope",
+        "Jeff Stargle",
+        "Extra-Solar Planets",
+        "Exoplanets",
+        "Infrared Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-general-news-notes",
+      "documentId": "eph83-10",
+      "title": "GENERAL NEWS NOTES",
+      "summary": "The article announces \"The Universe Unfolding,\" a one-day lecture series presented by the Astronomical Society of the Pacific (ASP) on October 30 at Stanford University, covering diverse astronomy topics from new worlds to extraterrestrial intelligence. It also promotes \"Exploring the Universe,\" a weekly astronomy radio talk show on KGO FM104 hosted by Andrew Fraknoi, which includes public event announcements and call-in questions. Additionally, there's a brief mention of a new member, Anne Lucile Cincotta, born to John and Jane Miller Cincotta.",
+      "categories": [
+        "News",
+        "Events",
+        "Public Outreach",
+        "Astronomy Education",
+        "Society News"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "Lecture Series",
+        "Stanford University",
+        "Astronomy",
+        "Radio Show",
+        "Andrew Fraknoi",
+        "The Universe Unfolding",
+        "Exploring the Universe",
+        "Star Parties",
+        "New Member"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-10-an-indonesian-gerhana-matahari-total",
+      "documentId": "eph83-10",
+      "title": "AN INDONESIAN \"GERHANA MATAHARI TOTAL\"",
+      "summary": "This article recounts an expedition to Indonesia for the total solar eclipse on June 11, 1983. It describes the cultural significance of \"Gerhana Matahari Total\" in Indonesia, including mythical beliefs and government efforts to prevent panic, alongside the scientific excitement of astronomers observing the long, five-minute event. The author details their personal experience as part of a 62-person expedition at Gadjah Mada University in Yogyakarta, highlighting optimal weather conditions despite high humidity, the dramatic visual phenomena like the diamond ring and corona, and the unique backdrop of an active Mount Merapi.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Travel",
+        "Cultural Aspects",
+        "Expedition"
+      ],
+      "keywords": [
+        "Total Solar Eclipse",
+        "Indonesia",
+        "June 1983",
+        "Gerhana Matahari Total",
+        "Kala Rau",
+        "Yogyakarta",
+        "Gadjah Mada University",
+        "Mount Merapi",
+        "Diamond Ring Effect",
+        "Solar Corona",
+        "Eclipse Chasing",
+        "Amateur Astronomers, Inc."
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-10-by-jim-eiseldt",
+      "documentId": "eph83-10",
+      "title": "BY JIM EISELDT",
+      "summary": "The article details an evaluation of J.D. Grant Park as a potential close-in star party site for the SJAA, following a board meeting. Author Jim Eiseldt and Paul Mancuso visited the park, finding it conveniently located (40 minutes from San Jose) and park officials highly cooperative regarding club usage. While experiencing some sky glow from San Jose, observing conditions were generally favorable for deep sky objects, making it a strong candidate for a regular club observing location.",
+      "categories": [
+        "Site Evaluation",
+        "Observing Report",
+        "Club Activities",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "J.D. Grant Park",
+        "Star Party Sites",
+        "Observing Site Evaluation",
+        "Sky Glow",
+        "Fremont Peak",
+        "Mt. Hamilton Road",
+        "Deep Sky Objects"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-10-bill-unruh-s-site",
+      "documentId": "eph83-10",
+      "title": "BILL UNRUH'S SITE",
+      "summary": "The article describes Don Machholz's visit to Bill Unruh's property in the Little Uvis Valley, which serves as a convenient dark-sky observing site, approximately 25 minutes from San Jose. Machholz praises the site's dark skies and low light pollution, despite some light from San Jose in the NNW and a hill blocking the southern horizon. Bill Unruh, a Lick Observatory Historian, plans to build an observatory for his refractor on the property and welcomes club members to observe, requesting a call beforehand for access.",
+      "categories": [
+        "observing reports",
+        "observing sites",
+        "personal account"
+      ],
+      "keywords": [
+        "Bill Unruh",
+        "Don Machholz",
+        "dark-sky site",
+        "observing site",
+        "Little Uvis Valley",
+        "Lick Observatory Historian",
+        "astronomy",
+        "observatory plans",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-the-year-the-perseids-fell-flat-on-its-face",
+      "documentId": "eph83-10",
+      "title": "THE YEAR THE PERSEIDS FELL FLAT ON ITS FACE",
+      "summary": "The article expresses frustration over the disappointing Perseid meteor shower in 1983, which delivered far fewer meteors than the expected 100 per hour, despite clear skies and no moon. Observers in the Santa Cruz mountains were particularly let down by the low counts. The author also notes a poor outlook for the 1984 Perseids due to a full moon on August 11th.",
+      "categories": [
+        "observing report",
+        "astronomical event",
+        "personal account",
+        "meteor shower"
+      ],
+      "keywords": [
+        "Perseids",
+        "meteor shower",
+        "1983",
+        "1984",
+        "disappointment",
+        "observing conditions",
+        "moon",
+        "Santa Cruz mountains"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-10-oct-1",
+      "documentId": "eph83-10",
+      "title": "Oct. 1",
+      "summary": "This document outlines several astronomical and club-related events for October. It includes star parties at Fremont Peak and Henry Coe State Parks, an SJAA General Meeting at the University of Santa Clara featuring a \"Eclipse to Java\" presentation, and two indoor star parties at the Los Gatos Red Cross Building, one of which also includes a board meeting.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Club Meeting",
+        "Presentation",
+        "Board Meeting"
+      ],
+      "keywords": [
+        "Star Party",
+        "Fremont Peak State Park",
+        "Coulter Camp",
+        "Henry Coe State Park",
+        "SJAA",
+        "General Meeting",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Eclipse to Java",
+        "Ernie Piini",
+        "Bob Fingerhut",
+        "Jack Peterson",
+        "Los Gatos Red Cross Building",
+        "Board Meeting",
+        "October"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-nov-5",
+      "documentId": "eph83-10",
+      "title": "Nov. 5",
+      "summary": "The document details a series of November events for the San Jose Astronomical Association, including a star party at the new J.D. Grant Ranch site, a general meeting featuring a NASA lecture on exoplanet detection, and a grazing occultation expedition. Additional activities include an indoor star party combined with a board meeting, with no events scheduled for Thanksgiving weekend.",
+      "categories": [
+        "events",
+        "astronomy club activities",
+        "observing events",
+        "lectures",
+        "meetings",
+        "public outreach",
+        "expeditions"
+      ],
+      "keywords": [
+        "Star Party",
+        "J.D. Grant Ranch",
+        "Lick Observatory",
+        "San Jose Astronomical Association",
+        "General Meeting",
+        "Extra-Solar Planets",
+        "Exoplanets",
+        "NASA",
+        "Grazing Occultation",
+        "Indoor Star Party",
+        "Board Meeting",
+        "Astronomy Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-dec-1",
+      "documentId": "eph83-10",
+      "title": "Dec. 1",
+      "summary": "The article announces an upcoming star party on December 1st, with the location still to be determined. It also provides an informative explanation of grazing occultations, describing them as events where the Moon's limb briefly obscures a star, which are observed by the SJAA club to gather valuable scientific data on the Moon's precise location and surface characteristics.",
+      "categories": [
+        "Events",
+        "Education",
+        "Observing Guides",
+        "Astronomy Club Activities"
+      ],
+      "keywords": [
+        "Star party",
+        "Grazing occultation",
+        "Moon",
+        "Stars",
+        "Astronomy observation",
+        "SJAA",
+        "Lunar features",
+        "Celestial events"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-10-by-bob-fingerhut",
+      "documentId": "eph83-10",
+      "title": "BY BOB FINGERHUT",
+      "summary": "This article reports on several space-related news items, including the NOAA-8 satellite's first rescue assist, the successful STS-8 Space Shuttle mission, and updates on other shuttle flights and satellite deployments like Insat-1B and Oscar 10. It also covers Soviet space station activities, a new shuttle processing contract, Canadian astronaut applications, and the controversial proposal to sell US Earth Remote Sensing Satellites to the private sector.",
+      "categories": [
+        "Space Missions",
+        "Satellite Technology",
+        "Space Program News",
+        "Aerospace Industry",
+        "Government Policy"
+      ],
+      "keywords": [
+        "NOAA-8",
+        "SARSAT",
+        "Space Shuttle",
+        "STS-8",
+        "Insat-1B",
+        "Columbia",
+        "Discovery",
+        "Atlantis",
+        "Salyut 7",
+        "Oscar 10",
+        "Canadian Astronauts",
+        "Earth Remote Sensing",
+        "Landsat"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-10-satcom-11r-launched-successfully",
+      "documentId": "eph83-10",
+      "title": "SATCOM 11R Launched Successfully",
+      "summary": "The RCA SATCOM 11R was successfully launched on Sept. 8 from Cape Canaveral using a Delta launch vehicle. This satellite is intended to replace the SATCOM 11 (launched in 1976) and will be placed in a geosynchronous orbit at 66 degrees west longitude.",
+      "categories": [
+        "news",
+        "space launch",
+        "satellite technology"
+      ],
+      "keywords": [
+        "SATCOM 11R",
+        "RCA",
+        "satellite launch",
+        "Cape Canaveral",
+        "Delta launch vehicle",
+        "geosynchronous orbit",
+        "space communication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-the-disappearance-of-two-bright-comets",
+      "documentId": "eph83-10",
+      "title": "The \"Disappearance\" of Two \"Bright\" Comets",
+      "summary": "Don Machholz discusses the public's disappointment with two supposedly \"bright\" comets, IRAS-Araki-Alcock and Sugano-Saigusa-Fujikawa, which seemed to disappear despite close approaches to Earth. He attributes this to public misconceptions about comet appearance (e.g., expecting a tail), the need for dark skies, and the \"Delta Effect,\" where a close comet's light is spread over a larger, fainter area. The article highlights lessons for astronomers on improving communication and managing public expectations regarding comet visibility.",
+      "categories": [
+        "Observing Reports",
+        "Public Outreach",
+        "Astronomy Education",
+        "Cometary Science"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet IRAS-Araki-Alcock",
+        "Comet Sugano-Saigusa-Fujikawa",
+        "Comet visibility",
+        "Public perception",
+        "Delta Effect",
+        "Astronomical observation",
+        "Dark skies",
+        "Media hype",
+        "Amateur astronomy"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-10-by-don-machholz",
+      "documentId": "eph83-10",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article by Don Machholz reports on recent comet activity, noting the recovery of two periodic comets: Wolf (1980n) and Crommelin (1983n). While Comet Wolf is not expected to brighten significantly, Comet Crommelin, recovered brighter than predicted, is anticipated to be visible in binoculars in early 1984. The author also mentions currently visible comets Kopff and Cernis, and promises a review of past discoveries.",
+      "categories": [
+        "observing reports",
+        "cometology",
+        "astronomy news",
+        "celestial mechanics"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Periodic Comet Wolf",
+        "Periodic Comet Crommelin",
+        "Comet Kopff",
+        "Comet Cernis",
+        "comet recovery",
+        "comet observation",
+        "magnitude",
+        "Palomar Observatory",
+        "Hamburg Observatory",
+        "1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-past-discoveries",
+      "documentId": "eph83-10",
+      "title": "PAST DISCOVERIES",
+      "summary": "The article details the discoveries of three comets in October 1978: Comet Seargent (1978m), Periodic Comet Denning-Fujikawa (1978n), and Comet Bradfield (1978o). It describes the circumstances of each discovery, including dates, locations, equipment used, and the comets' characteristics. The analysis also explores why these comets were not observed earlier, often due to their proximity to the sun or faintness prior to their discovery windows.",
+      "categories": [
+        "Comet Discovery",
+        "Observational Astronomy",
+        "Historical Discoveries",
+        "Astronomical Reports"
+      ],
+      "keywords": [
+        "Comet Seargent",
+        "Comet Denning-Fujikawa",
+        "Comet Bradfield",
+        "1978",
+        "comet discovery",
+        "astronomical observation",
+        "magnitude",
+        "celestial mechanics",
+        "binocular astronomy",
+        "refractor telescope"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-10-periodic-comet-kopff-1982k",
+      "documentId": "eph83-10",
+      "title": "Periodic Comet Kopff (1982k)",
+      "summary": "The article provides an ephemeris for Periodic Comet Kopff (1982k) from late September to early November, listing its Right Ascension, Declination, and estimated magnitude. It notes that the comet is fading as it moves away from Earth and the Sun, appearing against the Milky Way, and might be slightly brighter than estimated values derived from IUA Circular 3779.",
+      "categories": [
+        "observing guide",
+        "astronomical data",
+        "comets"
+      ],
+      "keywords": [
+        "Comet Kopff",
+        "1982k",
+        "periodic comet",
+        "ephemeris",
+        "magnitude",
+        "right ascension",
+        "declination",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-comet-cernis-1983l",
+      "documentId": "eph83-10",
+      "title": "Comet Cernis (1983L)",
+      "summary": "The article presents an ephemeris for Comet Cernis (1983L) from late September to early November 1983, detailing its celestial coordinates, estimated magnitude, distance from Earth, and apparent size. Separately, it includes an administrative notice outlining instructions for membership renewal, specifying where to send forms and remittances to the SJAA treasurer.",
+      "categories": [
+        "Astronomy",
+        "Comet Observation",
+        "Ephemeris",
+        "Club Administration",
+        "News"
+      ],
+      "keywords": [
+        "Comet Cernis (1983L)",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Astronomical Observation",
+        "Comet News Service",
+        "Membership Renewal",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-10-sjaa-membership-application-renewal",
+      "documentId": "eph83-10",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership in the San Jose Astronomical Association (SJAA), detailing various membership tiers including options with or without the 'S&T' publication and a junior membership. It also provides comprehensive contact information for the association's officers and board of directors, along with details about its monthly publication, EPHEMERIS.",
+      "categories": [
+        "membership application",
+        "organizational information",
+        "contact directory",
+        "administrative"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "membership",
+        "renewal",
+        "application",
+        "officers",
+        "board of directors",
+        "Ephemeris",
+        "astronomy club"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-10-time-value-dated",
+      "documentId": "eph83-10",
+      "title": "TIME VALUE - DATED",
+      "summary": "This document is a dated piece of mail from SMA Ephemeris, located in San Jose, CA, postmarked June 1, 1993. The \"TIME VALUE - DATED\" marking indicates that its contents are time-sensitive and requires prompt attention.",
+      "categories": [
+        "Mail",
+        "Administrative",
+        "Historical Document",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mail",
+        "Postage",
+        "Time-sensitive",
+        "Dated",
+        "SMA Ephemeris",
+        "San Jose",
+        "1993"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8310/Eph83_10.pdf",
+      "txtPath": "8310/Eph83_10.md"
+    }
+  ]
+}

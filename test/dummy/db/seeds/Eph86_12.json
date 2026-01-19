@@ -1,0 +1,550 @@
+{
+  "articles": [
+    {
+      "id": "eph86-12-december-1986",
+      "documentId": "eph86-12",
+      "title": "DECEMBER 1986",
+      "summary": "This document outlines the schedule of events for December 1986 and early January 1987, primarily for an astronomy club. Key activities include a board meeting, general meetings featuring a presentation by Norm Sperling on telescope maker Henry Fitz, a field expedition to Fremont Peak State Park, and the start of an indoor astronomy class. Most indoor events are scheduled at the Los Gatos Red Cross Building.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Reports",
+        "News",
+        "Education"
+      ],
+      "keywords": [
+        "December 1986",
+        "January 1987",
+        "Norm Sperling",
+        "Henry Fitz",
+        "Telescope Maker",
+        "Board Meeting",
+        "General Meeting",
+        "Indoor Star Party",
+        "Field Expedition",
+        "Fremont Peak State Park",
+        "Astronomy Class",
+        "Los Gatos Red Cross Building"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-field-of-view-by-john-gleason",
+      "documentId": "eph86-12",
+      "title": "FIELD OF VIEW BY: JOHN GLEASON",
+      "summary": "This article announces the December 13th general meeting featuring a talk by Norm Sperling on early American telescope making, specifically Henry Fitz. Starting January 1987, general meetings will be moved to the first Saturday of each month to avoid prime observing weekends. The SJAA is also seeking volunteers and telescopes for a school-yard star party on January 7th at Castlemont Elementary School and provides technical updates regarding a CCT evaluation, correcting power consumption figures and anticipating a quieter fan for the production model.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Volunteer Opportunities",
+        "Technical Update",
+        "Astronomy History",
+        "Community Outreach"
+      ],
+      "keywords": [
+        "John Gleason",
+        "Norm Sperling",
+        "Henry Fitz",
+        "Alvin Clark",
+        "Telescope making",
+        "General Meeting",
+        "Observing weekends",
+        "Volunteers",
+        "SJAA",
+        "Star party",
+        "Castlemont Elementary School",
+        "CCT evaluation",
+        "Power consumption",
+        "Muffin fan",
+        "Celestron",
+        "ASTRONOMY magazine",
+        "December 13th",
+        "January 1987",
+        "January 7th"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph86-12-by-denni-medlock",
+      "documentId": "eph86-12",
+      "title": "BY: DENNI MEDLOCK",
+      "summary": "The article announces the dedication of the Fremont Peak Observatory on August 30, 1986, heralding a new era for amateur astronomy in Northern California by making a large 30-inch telescope accessible to the public. Operated by the Fremont Peak Observatory Association (FPOA) and supported by volunteers, the observatory offers spectacular views of celestial objects, with free public viewing scheduled to begin in April 1987. Located near San Juan Bautista, it invites visitors to experience unique astronomical observations and a pro-astronomy atmosphere.",
+      "categories": [
+        "Observatory Dedication",
+        "Public Outreach",
+        "Amateur Astronomy",
+        "Observing Report",
+        "Organization News"
+      ],
+      "keywords": [
+        "Fremont Peak Observatory",
+        "FPOA",
+        "30-inch telescope",
+        "Newtonian-Cassegrain",
+        "Public viewing",
+        "Dark sky site",
+        "Northern California",
+        "San Juan Bautista",
+        "San Jose Astronomical Association",
+        "August 1986"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-jupiter-s-great-red-spot",
+      "documentId": "eph86-12",
+      "title": "JUPITER'S GREAT RED SPOT",
+      "summary": "This article discusses the ongoing visibility and observation of Jupiter's Great Red Spot, noting its recent re-discovery and the continued predictions for its appearance. The author provides tips for observing Jupiter, including recommended magnification and notes on the Spot's color variations and surrounding atmospheric irregularities. Observers are encouraged to study Jupiter's details, particularly while waiting for other celestial objects to rise.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Observation Tips"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Observation",
+        "Telescope",
+        "Magnification",
+        "Seeing Conditions",
+        "South Equatorial Belt",
+        "Atmospheric Features",
+        "Sky & Telescope"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph86-12-great-red-spot-on-meridian-pst",
+      "documentId": "eph86-12",
+      "title": "Great Red Spot on Meridian PST",
+      "summary": "This article provides a detailed schedule of dates and times in Pacific Standard Time (PST) when Jupiter's Great Red Spot (GRS) will be on the meridian, optimally positioned for Earth-based observations. It advises observers to expect good visibility an hour before and after the listed times. The table covers observation opportunities across several weeks.",
+      "categories": [
+        "Observing Guides",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "GRS",
+        "observation schedule",
+        "meridian transit",
+        "PST",
+        "astronomy",
+        "planetary viewing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-the-celestial-tourist-speaks-by-jay-reynolds-freeman",
+      "documentId": "eph86-12",
+      "title": "THE CELESTIAL TOURIST SPEAKS BY: JAY REYNOLDS FREEMAN",
+      "summary": "Jay Reynolds Freeman conducted a field test comparing two 10x70 binoculars: a standard model and an advanced version featuring multicoated optics and BAK-4 prisms. During an observing session at Fremont Peak, he found the fancier binoculars offered a noticeable advantage, especially for extended objects like M31, the Veil Nebula, and M42, by providing more light transmission, better field illumination, and reduced glare. The test demonstrated the significant benefits of improved optical coatings and glass for astronomical observations.",
+      "categories": [
+        "Equipment Review",
+        "Observing Report",
+        "Product Comparison",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Binoculars",
+        "10x70",
+        "Field Test",
+        "Optical Coatings",
+        "BAK-4 Glass",
+        "Light Transmission",
+        "Fremont Peak",
+        "Pleiades",
+        "M31",
+        "Veil Nebula",
+        "M42",
+        "Sirius",
+        "Observing",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph86-12-how-much-are-the-enhanced-optics-worth",
+      "documentId": "eph86-12",
+      "title": "How much are the enhanced optics worth?",
+      "summary": "This article evaluates the value of enhanced optics in binoculars, suggesting a potential twenty percent price boost for increased light transmission, with additional value for specialists observing faint objects. It compares the user comfort and portability of 11x80, 10x70, and 9x65 binoculars, highlighting the significant impact of size and weight on usability. The author also advises caution when comparing 'same' models from different sellers due to the wide range of optical options available from suppliers.",
+      "categories": [
+        "product review",
+        "optics analysis",
+        "buying guide",
+        "equipment comparison"
+      ],
+      "keywords": [
+        "binoculars",
+        "enhanced optics",
+        "light transmission",
+        "price-performance",
+        "user comfort",
+        "portability",
+        "10x70",
+        "9x65",
+        "11x80",
+        "BAK-4 prisms",
+        "multicoated optics",
+        "Orion",
+        "Celestron"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-comet-comments-by-don-machholz",
+      "documentId": "eph86-12",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "A new faint comet, Comet Sorrells (1986n), was recently discovered photographically by amateur astronomer William Sorrells in the Santa Cruz Mountains, marking the first amateur photographic comet find in over a decade. This comet is in a retrograde orbit, will be closest to the sun next March, and is expected to remain between magnitude 10.5 and 11.5 until mid-July of next year. The article also briefly mentions Comet Wilson and Halley's Comet are currently visible.",
+      "categories": [
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Observing Report",
+        "News"
+      ],
+      "keywords": [
+        "Comet Sorrells",
+        "1986n",
+        "William Sorrells",
+        "Comet Wilson",
+        "Halley's Comet",
+        "Comet Discovery",
+        "Amateur Astronomer",
+        "Photographic Find",
+        "Retrograde Orbit",
+        "Magnitude",
+        "Santa Cruz Mountains",
+        "Peninsula Astronomical Society",
+        "Foothill College Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-ephemerides",
+      "documentId": "eph86-12",
+      "title": "EPHEMERIDES",
+      "summary": "This article provides ephemerides for Comet Wilson (1986L) from late November to late December, detailing its celestial coordinates, elongation, and projected magnitude as it slowly brightens while approaching the sun. It notes that the comet, still over 200 million miles away, remains small but some observers have reported a tail, with future visibility extending until March and then resuming in mid-May.",
+      "categories": [
+        "Ephemerides",
+        "Comet Observations",
+        "Astronomical Data",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Comet Wilson (1986L)",
+        "Ephemerides",
+        "Comet",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Observing",
+        "Tail",
+        "Brightness"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph86-12-comet-sorrells-1986n",
+      "documentId": "eph86-12",
+      "title": "Comet Sorrells (1986n)",
+      "summary": "This document provides an ephemeris for Comet Sorrells (1986n) from November 21 through January 5, including its celestial coordinates, elevation, and estimated magnitude. It describes the comet as small, about one arcminute in size, and offers guidance on its changing position relative to prominent constellations like the Pleiades, Aries, and Pegasus, noting it would be visible all night during December.",
+      "categories": [
+        "observing guide",
+        "comets",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Sorrells (1986n)",
+        "comet",
+        "observing",
+        "ephemeris",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "Pleiades",
+        "Aries",
+        "Pegasus",
+        "night sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-what-goes-around-comes-around-halley-s-comet",
+      "documentId": "eph86-12",
+      "title": "WHAT GOES AROUND COMES AROUND -- HALLEY'S COMET",
+      "summary": "This article details predictions for future apparitions of Halley's Comet, highlighting the exceptional close approach in 2134 which will be the closest since 837 AD, though it will require dark skies or telescopes for optimal viewing. It also provides contemporary (at the time of writing) observational data for the comet, including its current visibility, positions, magnitudes, and distances.",
+      "categories": [
+        "Cometology",
+        "Observing Reports",
+        "Astronomical Predictions",
+        "Amateur Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comet observation",
+        "2061 apparition",
+        "2134 apparition",
+        "Magnitude",
+        "Earth-orbiting telescopes",
+        "Southern Hemisphere",
+        "Comet positions",
+        "Elongation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-periodic-comet-halley-1982i",
+      "documentId": "eph86-12",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This document provides an ephemeris for Periodic Comet Halley (1982i) from November 21 to January 5, detailing its astronomical coordinates (RA, Dec), elongation, magnitude, and distances from Earth and the Sun. It marks the conclusion of a series on Halley's Comet, with future installments focusing on comet hunting.",
+      "categories": [
+        "Astronomical Data",
+        "Comet Update",
+        "Observing Guide",
+        "Publication Announcement"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Orbital Data",
+        "Comet Hunting"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph86-12-astro-ads",
+      "documentId": "eph86-12",
+      "title": "ASTRO ADS",
+      "summary": "This document presents a collection of classified advertisements for astronomical equipment. It includes listings for items for sale, such as an Odyssey One telescope tube assembly, various eyepieces (Plossl, Kellner), and an RA drive corrector. Additionally, there is a request for a specific Questar telescope model with special coatings.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Buy/Sell/Trade",
+        "Advertisements"
+      ],
+      "keywords": [
+        "Odyssey One",
+        "Questar",
+        "Telescope",
+        "Eyepiece",
+        "Plossl",
+        "Kellner",
+        "RA drive corrector",
+        "Celestron",
+        "University Optics",
+        "Optics",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-intro-astronomy-class-ends",
+      "documentId": "eph86-12",
+      "title": "INTRO ASTRONOMY CLASS ENDS",
+      "summary": "The SJAA Introductory Astronomy class concluded its session on November 15 at the West Valley College planetarium. A new class is scheduled to commence in February 1987. Jack Zeiders is preparing an enhanced curriculum for the upcoming class, incorporating guest speakers and increased planetarium utilization.",
+      "categories": [
+        "education",
+        "class announcement",
+        "news",
+        "astronomy club activities"
+      ],
+      "keywords": [
+        "Introductory Astronomy class",
+        "SJAA",
+        "West Valley College planetarium",
+        "February 1987",
+        "Jack Zeiders",
+        "guest speakers",
+        "curriculum update"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph86-12-general-meetings",
+      "documentId": "eph86-12",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA (San Jose Astronomical Association) hosts monthly General Meetings and 'Indoor Star Parties' at the Los Gatos Red Cross building in Los Gatos, California. These gatherings, held on the 4th Saturday of each month at 8 PM, provide a friendly atmosphere for members to share various astronomical interests such as astrophotography, deep sky observation, and telescope making. The article provides detailed directions to the meeting location.",
+      "categories": [
+        "Events",
+        "Meeting Information",
+        "Community",
+        "Observing Activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Indoor Star Parties",
+        "Los Gatos Red Cross building",
+        "Los Gatos California",
+        "astronomy club",
+        "monthly meetings",
+        "astrophotography",
+        "deep sky observation",
+        "telescope making",
+        "meeting schedule",
+        "meeting location"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-indoor-star-parties",
+      "documentId": "eph86-12",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "The article describes \"Indoor Star Parties\" as informal monthly gatherings for amateur astronomers to socialize and share their common interest. These events typically feature members bringing telescopes, astrophotography slideshows, club board meetings, and an introductory astronomy workshop, all held at the Los Gatos Red Cross Building.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Social Gathering",
+        "Education",
+        "Observing Reports (implied, though indoor)"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Astronomy Events",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "SJAA",
+        "Los Gatos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-henry-coe-state-park",
+      "documentId": "eph86-12",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed directions to Henry Coe State Park, including specific instructions for accessing a locked gate using the club combination 4585. It emphasizes the importance of re-locking the gate and advises visitors arriving after dark to park outside and hike in to find an observing site before setting up equipment. The location beyond the gate is noted as the SJAA's equipment setup area.",
+      "categories": [
+        "directions",
+        "observing site access",
+        "club information",
+        "venue information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Hwy 101",
+        "East Dunne exit",
+        "Anderson Reservoir",
+        "gate combination",
+        "4585",
+        "SJAA",
+        "observing site",
+        "parking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-fremont-peak-state-park",
+      "documentId": "eph86-12",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a popular stargazing location standing 3000 ft above sea level, frequently used by the San Jose Astronomical Association (SJAA) for astronomical activity during clear new moon weekends in Coulter Canyon. The article provides detailed driving directions to the park and highlights it as the site of the FPOA's public observatory, often hosting 20 to 40 telescopes. Additionally, it lists the officers and board members of the San Jose Astronomical Association and publication details for their monthly newsletter, EPHEMERIS.",
+      "categories": [
+        "Location Guide",
+        "Observing Sites",
+        "Astronomy Club Information",
+        "Directions",
+        "Events"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "FPOA",
+        "Coulter Canyon",
+        "Stargazing",
+        "Public Observatory",
+        "New Moon Weekend",
+        "EPHEMERIS",
+        "California",
+        "Observing Location"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph86-12-san-jose-astronomical-association-membership-application",
+      "documentId": "eph86-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details various membership tiers, including options for individual, individual with Sky & Telescope magazine, and junior memberships, along with their associated costs. The form requests applicant contact information and provides instructions for submission either at an SJAA meeting or by mail to the association's treasurer.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Forms",
+        "Organization Administration",
+        "Astronomical Association"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Dues",
+        "Junior Membership",
+        "Sky & Telescope",
+        "New Membership",
+        "Membership Renewal"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-12-questionnaire-optional",
+      "documentId": "eph86-12",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire aimed at gathering information on an individual's astronomical interests, telescope ownership, and areas of expertise. It also includes postal information for \"SJAA EPHEMERIS\" in San Jose, CA, identifying it as non-profit news material.",
+      "categories": [
+        "Survey",
+        "Astronomy",
+        "Membership Engagement",
+        "Organizational Communication"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "questionnaire",
+        "telescope ownership",
+        "astronomy expertise",
+        "SJAA",
+        "non-profit",
+        "news material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph86-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8612/Eph86_12.pdf",
+      "txtPath": "8612/Eph86_12.md"
+    }
+  ]
+}

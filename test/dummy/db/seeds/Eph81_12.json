@@ -1,0 +1,466 @@
+{
+  "articles": [
+    {
+      "id": "eph81-12-december-1981",
+      "documentId": "eph81-12",
+      "title": "December 1981",
+      "summary": "This document, the December 1981 bulletin for the San Jose Astronomical Association (SJAA), details a series of events for December 1981 and January 1982. Activities include general meetings featuring speakers on topics like the Kuiper Astrophysical Observatory and a USSR tour including a solar eclipse, various indoor and outdoor star parties, a Space Telescope tour, and board meetings. It also provides membership rates and contact information for the association's president and bulletin editors.",
+      "categories": [
+        "events",
+        "club activities",
+        "observing opportunities",
+        "news",
+        "technical demonstrations",
+        "membership information",
+        "organization details"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Space Telescope Tour",
+        "Lockheed",
+        "General Meeting",
+        "De Anza College",
+        "Kuiper Astrophysical Observatory",
+        "KAO",
+        "Indoor Star Party",
+        "Los Gatos Red Cross",
+        "cold-camera astrophotography",
+        "Columbia launch",
+        "Board Meeting",
+        "Fremont Peak State Park",
+        "star party",
+        "Ernie Piini",
+        "USSR tour",
+        "total solar eclipse",
+        "Sanborn Canyon County Park",
+        "Henry Coe State Park",
+        "Sky & Telescope",
+        "membership"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph81-12-greetings",
+      "documentId": "eph81-12",
+      "title": "GREETINGS!",
+      "summary": "## GREETINGS!\n\nDenni Frerichs, being no fool, has found TWO people to replace the one of her as Bulletin editor. (She may know something we don't.) We are, in reverse alphabetical order, Patty Witter ...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph81-12-final-report",
+      "documentId": "eph81-12",
+      "title": "FINAL REPORT",
+      "summary": "This final report details the results of an Oct. 19 grazing occultation observed at Los Banos, California. Nine observers successfully recorded 45 timings, which were plotted to reveal the lunar profile during the event. The observed profile showed significant deviations from the predicted path, with the moon passing approximately 0.3 miles north of its expected position and displaying unpredicted features like secondary peaks and deep valleys.",
+      "categories": [
+        "Observing Report",
+        "Occultation Analysis",
+        "Astronomical Observation",
+        "Results Report"
+      ],
+      "keywords": [
+        "grazing occultation",
+        "lunar profile",
+        "Los Banos",
+        "star occultation",
+        "observer timings",
+        "astronomical report",
+        "moon position",
+        "prediction discrepancy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-preliminary-report-november-15",
+      "documentId": "eph81-12",
+      "title": "PRELIMINARY REPORT -- NOVEMBER 15",
+      "summary": "Despite an official cancellation due to rain forecasts, a small group of observers proceeded with the November 15 graze expedition at Greenfield. Against all odds, they encountered partly clear skies and successfully obtained several timings before low clouds closed in. Preliminary analysis indicates a northward shift of approximately half a mile for the graze event.",
+      "categories": [
+        "observing report",
+        "events",
+        "preliminary findings"
+      ],
+      "keywords": [
+        "November 15",
+        "graze",
+        "Greenfield",
+        "observing expedition",
+        "weather forecasts",
+        "timings",
+        "northward shift",
+        "lunar graze"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-12-being-safe-from-the-lunatics-while-observing",
+      "documentId": "eph81-12",
+      "title": "BEING SAFE FROM THE LUNATICS WHILE OBSERVING",
+      "summary": "This article addresses personal safety concerns for amateur astronomers observing in remote areas, drawing on the author's experiences in the Santa Cruz Mountains. It emphasizes the importance of polite interactions with strangers, choosing moderately trafficked observing sites, and presenting a confident demeanor. Key advice includes initiating friendly conversation, knowing emergency contacts, and informing someone of your observing plans.",
+      "categories": [
+        "Observing Tips",
+        "Personal Safety",
+        "Amateur Astronomy",
+        "Field Etiquette"
+      ],
+      "keywords": [
+        "Personal safety",
+        "Observing",
+        "Amateur astronomy",
+        "Santa Cruz Mountains",
+        "Remote locations",
+        "Stranger interaction",
+        "Security",
+        "Crime prevention",
+        "Observing etiquette"
+      ],
+      "pageStart": 5,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-12-comet-comments",
+      "documentId": "eph81-12",
+      "title": "COMET COMMENTS",
+      "summary": "This article, updated in November 1981, details recent comet activities, including an unconfirmed sighting by Peter Stattmayer near M 33 and a confirmed sun-grazing comet observed by the P78-1 satellite in 1979, the first instance of a comet striking the sun. It also recounts the historical Great Comet of 1882, a member of the Kreutz Sungrazing Family, highlighting its close solar pass and photographic significance. The delay in reporting the 1979 event was due to the satellite's classified mission.",
+      "categories": [
+        "Cometology",
+        "Observing Reports",
+        "Astronomical Discoveries",
+        "Space Missions",
+        "Historical Astronomy",
+        "News Update"
+      ],
+      "keywords": [
+        "Comet",
+        "Stattmayer comet",
+        "Sun-grazing comet",
+        "P78-1 satellite",
+        "Kreutz Sungrazing Family",
+        "Great Comet of 1882",
+        "M 33",
+        "Smithsonian Astrophysical Observatory",
+        "Declassification",
+        "Comet collision",
+        "Solar observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 78
+    },
+    {
+      "id": "eph81-12-hot-gases-surrounding-saturn-detected-by-voyager",
+      "documentId": "eph81-12",
+      "title": "Hot gases surrounding Saturn detected by Voyager:",
+      "summary": "Voyager 2 data has revealed a region of incredibly hot plasma surrounding Saturn, with temperatures ranging from 600 million to 1 billion degrees Fahrenheit. These gases are the hottest ever observed in the solar system, maintaining a density of approximately 30 particles per cubic foot.",
+      "categories": [
+        "discovery",
+        "planetary science",
+        "spacecraft data",
+        "astronomy news"
+      ],
+      "keywords": [
+        "Saturn",
+        "Voyager 2",
+        "plasma",
+        "hot gases",
+        "solar system",
+        "temperature",
+        "discovery",
+        "space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-deputy-director-named-for-space-telescope",
+      "documentId": "eph81-12",
+      "title": "Deputy Director named for Space Telescope:",
+      "summary": "Dr. John M. Teem, an astronomer previously at Kitt Peak National Observatory, has been appointed Deputy Director of the Space Telescope Science Institute in Baltimore. He had been an astronomer at Kitt Peak since 1970.",
+      "categories": [
+        "Personnel News",
+        "Appointments",
+        "Space Science",
+        "Astronomy Organizations"
+      ],
+      "keywords": [
+        "John M. Teem",
+        "Deputy Director",
+        "Space Telescope Science Institute",
+        "Kitt Peak National Observatory",
+        "Appointment",
+        "Baltimore"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-nasa-resignation",
+      "documentId": "eph81-12",
+      "title": "NASA resignation:",
+      "summary": "Dr. Anthony J. Calio, NASA's Associate Administrator for the Office of Space and Terrestrial Applications, is expected to resign soon. He will transition to the National Oceanic and Atmospheric Administration (NOAA) as its Deputy Administrator. Calio previously served as Acting Deputy NASA Administrator earlier this year.",
+      "categories": [
+        "News",
+        "Personnel Change",
+        "Government Agency"
+      ],
+      "keywords": [
+        "Anthony J. Calio",
+        "NASA",
+        "National Oceanic and Atmospheric Administration",
+        "NOAA",
+        "Resignation",
+        "Deputy Administrator",
+        "Office of Space and Terrestrial Applications",
+        "Alan M. Lovelace"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-esa-concern",
+      "documentId": "eph81-12",
+      "title": "ESA concern:",
+      "summary": "The European Space Agency (ESA) is worried about potential budget cuts forcing NASA to close its Deep Space Network (DSN), which ESA had planned to use for its International Solar Polar Mission (ISPM) and as a backup for the Giotto mission. This closure would further strain relations between NASA and ESA, already tense due to NASA's earlier decision to cancel its own ISPM spacecraft.",
+      "categories": [
+        "Space Policy",
+        "International Relations",
+        "Space Missions",
+        "Budget News",
+        "Agency Relations"
+      ],
+      "keywords": [
+        "ESA",
+        "NASA",
+        "Deep Space Network",
+        "DSN",
+        "Budget Cuts",
+        "International Solar Polar Mission",
+        "ISPM",
+        "Giotto Mission",
+        "Halley's Comet",
+        "Spacecraft Tracking",
+        "International Cooperation",
+        "Space Politics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-indian-spacecraft-to-be-launched-by-u-s-s-r",
+      "documentId": "eph81-12",
+      "title": "Indian spacecraft to be launched by U.S.S.R.:",
+      "summary": "India's Bhaskar 2, an earth resources satellite developed by the Indian Space Research Organization, has been shipped to the Soviet Union for an upcoming launch. The imaging spacecraft, designed for a one-year operational lifetime, was scheduled to be launched by the Soviet Union in the third week of November.",
+      "categories": [
+        "Space News",
+        "Satellite Launch",
+        "International Cooperation",
+        "Earth Observation"
+      ],
+      "keywords": [
+        "India",
+        "U.S.S.R.",
+        "Soviet Union",
+        "ISRO",
+        "Bhaskar 2",
+        "Earth resources satellite",
+        "Satellite launch",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-soviet-space-station",
+      "documentId": "eph81-12",
+      "title": "Soviet space station:",
+      "summary": "The Salyut 6 space station, currently docked with Cosmos 1267, continues to provide crucial engineering data on module addition and operational capability as it enters its fifth year in orbit. The Soviet Union is reconsidering its initial plan not to reuse Salyut 6 for manned flights, with a potential use for the 1982 Soviet-French mission, though Salyut 7 remains an alternative.",
+      "categories": [
+        "Spacecraft Operations",
+        "Space Stations",
+        "Space Program News",
+        "Future Missions"
+      ],
+      "keywords": [
+        "Salyut 6",
+        "Cosmos 1267",
+        "Soviet Union",
+        "Space Station",
+        "Module Docking",
+        "Manned Flights",
+        "Soviet-French Mission",
+        "Salyut 7",
+        "Orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-space-based-ion-thrust-unit-scheduled-for-testing",
+      "documentId": "eph81-12",
+      "title": "Space-based ion thrust unit scheduled for testing:",
+      "summary": "A Mercury Ion Thruster, built by Hughes Space and Communications for NASA and known as the Ion Auxiliary Propulsion System (IAPS), is scheduled for launch in May 1983. It will fly on the Air Force Space Test Program's P80-1 spacecraft to test its capabilities as a station-keeping device, generating 1.12 millipounds of thrust from an 8-centimeter beam.",
+      "categories": [
+        "Space Technology",
+        "Space Missions",
+        "News"
+      ],
+      "keywords": [
+        "Mercury Ion Thruster",
+        "Ion Auxiliary Propulsion System (IAPS)",
+        "Hughes Space and Communications",
+        "NASA",
+        "Space Test Program",
+        "P80-1 spacecraft",
+        "Teal Ruby sensor",
+        "Station-keeping",
+        "Space propulsion",
+        "1983 launch"
+      ],
+      "pageStart": 7,
+      "pageEnd": 80
+    },
+    {
+      "id": "eph81-12-the-celestial-tourist-speaks",
+      "documentId": "eph81-12",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "The 'Celestial Tourist' provides a one-year review of a modified Celestron 14 telescope, detailing user-made improvements for vibration reduction and dew prevention. The author recounts a significant issue with the original optics, specifically astigmatism, which was successfully resolved by Celestron's excellent warranty service with new, high-quality optics. The article concludes with recent observing reports focusing on galaxy clusters and a planetary nebula in the Fornax constellation.",
+      "categories": [
+        "Observing Reports",
+        "Equipment Review",
+        "Telescope Modification",
+        "Deep-Sky Astronomy",
+        "Technical (Optics)",
+        "Customer Service"
+      ],
+      "keywords": [
+        "Celestron 14",
+        "telescope modifications",
+        "astigmatism",
+        "optics",
+        "warranty service",
+        "observing report",
+        "Fornax cluster",
+        "galaxies",
+        "planetary nebula",
+        "NGC 1395",
+        "NGC 1407",
+        "NGC 1360",
+        "deep-sky objects",
+        "Schmidt-Cassegrainian",
+        "collimation",
+        "dewcap"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-12-celestial-tourist",
+      "documentId": "eph81-12",
+      "title": "Celestial Tourist",
+      "summary": "This article, a continuation of \"Celestial Tourist,\" offers observing recommendations for deep-sky objects. It highlights a Messier-quality planetary nebula visible with 11x80 binoculars and discusses several spectacular double stars in Orion, including the challenging Rigel. The author notes that an eight-inch Dobson telescope is effective for observing these objects.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Stargazing",
+        "Equipment Reviews"
+      ],
+      "keywords": [
+        "Planetary Nebula",
+        "Double Stars",
+        "Orion",
+        "Rigel",
+        "Trapezium",
+        "Binoculars",
+        "Dobson telescope",
+        "Deep-Sky Objects",
+        "Mullaney-McCall list",
+        "Messier objects"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-12-letters-to-the-editors",
+      "documentId": "eph81-12",
+      "title": "LETTERS TO THE EDITORS",
+      "summary": "The 'Letters to the Editors' section includes Jay Freeman correcting a past typographical error and noting new light trailer frames at Sears suitable for transporting Dobsonian telescopes. Dick Barrett contributes to a financial debate, suggesting that long-term investment gains might be offset by inflation, potentially favoring an immediate telescope purchase. The section also features a cartoon about observing sites and a thank-you note for a talk on the Space Telescope.",
+      "categories": [
+        "Community Feedback",
+        "Equipment & Gear",
+        "Astronomy Commentary"
+      ],
+      "keywords": [
+        "Dobsonian telescopes",
+        "telescope transport",
+        "trailers",
+        "financial analysis",
+        "inflation",
+        "Space Telescope",
+        "observing sites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-12-observing-safety",
+      "documentId": "eph81-12",
+      "title": "Observing Safety",
+      "summary": "## Observing Safety\n(continued from page 4)\n\nthat schedule. Arrange to call them as soon as you return. If you change plans inform them, so that they won't be needlessly worried. Arrange an emergency ...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-12-editor-s-note",
+      "documentId": "eph81-12",
+      "title": "Editor's note.",
+      "summary": "## Editor's note.\n\nAs a licensed amateur radio operator (N6BIS), active on the 2-meter band, I know the frequencies and locations of a number of \"repeaters\" in the Santa Cruz Mountains. These devices ...",
+      "categories": [
+        "uncategorized"
+      ],
+      "keywords": [],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-12-impressions-of-the-sts-2-launch",
+      "documentId": "eph81-12",
+      "title": "IMPRESSIONS OF THE STS-2 LAUNCH",
+      "summary": "The author provides a vivid first-person account of witnessing the STS-2 Space Shuttle Columbia launch, detailing his evolving perceptions of the rocket's immense scale and the anticipation surrounding the delayed event. He describes the powerful visual and auditory spectacle of the liftoff from 3.4 miles away, from a silent ascent to a body-vibrating shockwave. The experience left him with a profound sense of awe and historical significance, comparing it to future milestones in space exploration.",
+      "categories": [
+        "Observing Report",
+        "Spaceflight Event",
+        "Personal Account"
+      ],
+      "keywords": [
+        "STS-2 Launch",
+        "Space Shuttle Columbia",
+        "Rocket Launch",
+        "Personal Experience",
+        "Space Exploration",
+        "Photography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8112/Eph81_12.pdf",
+      "txtPath": "8112/Eph81_12.md"
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "articles": [
+    {
+      "id": "eph83-03-ephemeris",
+      "documentId": "eph83-03",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled 'EPHEMERIS' and dated March 1983, appears to be a publication from 'SJAA', likely an astronomical organization. It features an astronomical photograph of a globular cluster, indicating content relevant to celestial observation or club activities for the month.",
+      "categories": [
+        "Observing guide",
+        "Astronomical club publication",
+        "Historical document",
+        "News"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "March 1983",
+        "SJAA",
+        "Globular cluster",
+        "Astronomical photography",
+        "Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-03-calendar",
+      "documentId": "eph83-03",
+      "title": "CALENDAR",
+      "summary": "This document outlines a calendar of astronomical events and meetings for the San Jose Astronomical Association (SJAA) during March and April, including star parties, a multi-night Messier Marathon, general meetings, and an Astronomy Day celebration. It also provides contact information for the association's officers, board members, and the monthly publication, EPHEMERIS.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Astronomy Club Activities",
+        "Meetings",
+        "Community Events",
+        "Organizational Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Calendar",
+        "Star Party",
+        "Messier Marathon",
+        "Board of Directors meeting",
+        "General Meeting",
+        "Astronomy Day",
+        "Auction",
+        "Henry Coe State Park",
+        "Loma Prieta",
+        "Fremont Peak State Park",
+        "EPHEMERIS",
+        "New Moon",
+        "Lick Historian",
+        "Indoor Star-party"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-03-by-don-machholz",
+      "documentId": "eph83-03",
+      "title": "BY DON MACHHOLZ",
+      "summary": "The article announces the 1983 Messier Marathon, scheduled for March 11-13 and March 18-20, with the earlier date preferred due to lunar conditions. This annual star party focuses on observing Messier objects, although other general observing and photography are also encouraged. Participants are invited to observe from Loma Prieta Mtn. in the Santa Cruz Mountains, with detailed directions provided, and advised to dress warmly.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Announcements",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "1983",
+        "Messier objects",
+        "Loma Prieta Mtn.",
+        "Santa Cruz Mountains",
+        "Observing",
+        "Star party",
+        "Astronomical League",
+        "Herschel objects"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph83-03-by-d-medlock",
+      "documentId": "eph83-03",
+      "title": "BY D. MEDLOCK",
+      "summary": "The South Bay amateur astronomical community is invited to a general meeting on March 19th at 8:00 PM in Alumnai Science Hall, Room 102, University of Santa Clara. William Unruh, a historian from Lick Observatory, will give a slide presentation on the observatory's colorful history and its significance in astronomical research. Attendees are encouraged to bring family and friends for an enjoyable evening.",
+      "categories": [
+        "events",
+        "meeting announcement",
+        "local astronomy"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "William Unruh",
+        "amateur astronomy",
+        "general meeting",
+        "South Bay",
+        "University of Santa Clara",
+        "astronomical research",
+        "history"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-03-by-jim-van-nuland",
+      "documentId": "eph83-03",
+      "title": "BY JIM VAN NULAND",
+      "summary": "Jim Van Nuland successfully recovered Jupiter's Great Red Spot (GRS) on February 3, 1983, 205 days after its last timing prior to conjunction. Though faint and lacking color, the GRS was noted to be larger than in recent years, offering hope for improved visibility. The report also details the Spot's appearance, its location relative to Jupiter's belts, and provides specific observing tips along with a schedule of meridian timings.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Observing Guide",
+        "Historical Observation"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Planetary Observation",
+        "Astronomy",
+        "Observing Tips",
+        "Timings",
+        "1983",
+        "South Equatorial Belt"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-03-omega-centauri-star-party",
+      "documentId": "eph83-03",
+      "title": "OMEGA CENTAURI STAR-PARTY",
+      "summary": "The article announces an Omega Centauri Star-Party organized by the Peninsula Astronomical Society for Saturday, March 12, inviting members from several other astronomical associations. The event will be held at Chews Ridge, a dark-sky site at 5000ft, ideal for observing deep-sky objects like the globular cluster Omega Centauri and the radio galaxy Centaurus A, which are well-placed for viewing on this date. Attendees are encouraged to bring their telescopes, and members will share equipment with those who don't have one, promising fantastic views of difficult objects.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Announcements"
+      ],
+      "keywords": [
+        "Omega Centauri",
+        "Star Party",
+        "Chews Ridge",
+        "Deep-sky observing",
+        "Globular Cluster",
+        "Centaurus A",
+        "Telescopes",
+        "Peninsula Astronomical Society",
+        "Amateur astronomy clubs"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-03-by-bob-fingerhut",
+      "documentId": "eph83-03",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The article provides several brief updates on space and astronomy news, covering the safe reentry of the Cosmos 1402 satellite and a delay in the sixth Space Shuttle launch due to a hydrogen leak. Key developments include San Jose aiding Lick Observatory by mandating low-pressure sodium lights, the successful launch of the IRAS satellite, and plans for the STS-7 landing and Japanese astronaut selection.",
+      "categories": [
+        "Space News",
+        "Astronomy",
+        "Manned Spaceflight",
+        "Satellite Technology",
+        "Light Pollution"
+      ],
+      "keywords": [
+        "Cosmos 1402",
+        "Space Shuttle",
+        "Lick Observatory",
+        "light pollution",
+        "IRAS satellite",
+        "satellite launch",
+        "manned spaceflight",
+        "San Jose",
+        "Japanese astronauts",
+        "hydrogen leak"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-03-by-don-machholz",
+      "documentId": "eph83-03",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article reports on the recovery of Periodic Comet Pons-Winnecke (1983b) by B. Everhart, marking his first comet recovery, while also debunking 'Comet 1983a' as non-existent due to inconsistent observations. It also briefly notes Comet Churyumov-Gerasimenko fading and mentions upcoming discussions on comets discovered by William Bradfield.",
+      "categories": [
+        "Comet Discoveries",
+        "Comet Recoveries",
+        "Observational Reports",
+        "Astronomical News",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comet Pons-Winnecke",
+        "1983b",
+        "Comet 1983a",
+        "Comet Churyumov-Gerasimenko",
+        "Don Machholz",
+        "B. Everhart",
+        "Jean-Louis Pons",
+        "Friedrich August Theodor Winnecke",
+        "William Bradfield",
+        "Periodic Comet",
+        "Comet Recovery",
+        "Amateur Astronomer",
+        "Magnitude",
+        "Orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-03-past-discoveries",
+      "documentId": "eph83-03",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article details the discovery circumstances of two comets by William Bradfield: Comet Bradfield (1975d) and Comet Bradfield (1976d). It describes when and where each comet was found, its magnitude, and its position relative to the sun and moon. The text also discusses the comets' pre-discovery visibility, highlighting how the 1975d comet could have been seen earlier, especially from the Southern Hemisphere, and the 1976d comet's limited visibility from the Northern Hemisphere, compounded by the presence of Comet West.",
+      "categories": [
+        "astronomical discoveries",
+        "comets",
+        "observing reports",
+        "historical astronomy",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Comet Bradfield 1975d",
+        "Comet Bradfield 1976d",
+        "William Bradfield",
+        "comet discovery",
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "magnitude",
+        "new moon",
+        "Comet West"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-03-by-frank-dibbell",
+      "documentId": "eph83-03",
+      "title": "BY FRANK DIBBELL",
+      "summary": "This article revives the 'club member on the street' interview series, featuring Tom Ahl, a club member since 1981. Tom shares his lifelong astronomical journey, from early sci-fi interests and a challenging attempt to build a telescope, to his renewed passion in the Navy and eventual purchase of a 13.1\" Dobsonian that led him to join the club. He discusses learning the night sky with his scope, future aspirations in astrophotography, and his desire for the club to increase public involvement.",
+      "categories": [
+        "Club Activities",
+        "Member Profile",
+        "Interviews",
+        "Amateur Astronomy History",
+        "Telescope Experiences"
+      ],
+      "keywords": [
+        "Tom Ahl",
+        "SJAA",
+        "Club Member Interview",
+        "Astronomy Interest",
+        "Edmund Optics",
+        "3-inch refractor",
+        "U.S. Navy",
+        "13.1-inch Odyssey",
+        "Dobsonian",
+        "Star Party",
+        "Mt. Umunhum",
+        "Astrophotography",
+        "Public Outreach"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-03-by-bruce-de-graaf",
+      "documentId": "eph83-03",
+      "title": "BY BRUCE DE GRAAF",
+      "summary": "Bruce De Graaf introduces a new column for beginner astronomers, aiming to guide readers in independently setting up and enjoying the night sky with a telescope. The inaugural column focuses on achieving polar alignment for motor-driven telescope mounts, a crucial step for accurate star tracking, and provides a simple, unique method for locating Polaris and aligning the R.A. axis.",
+      "categories": [
+        "Beginner's Guide",
+        "Telescope Setup",
+        "Instructional",
+        "Observing Tips",
+        "Astronomy Column"
+      ],
+      "keywords": [
+        "Polar alignment",
+        "Telescope",
+        "Beginner astronomy",
+        "Motor-driven mount",
+        "Polaris",
+        "Right Ascension axis",
+        "Star tracking",
+        "SJAA",
+        "Bruce De Graaf",
+        "Bob Fimerhut"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-03-telescope-alignment-instructions",
+      "documentId": "eph83-03",
+      "title": "Telescope Alignment Instructions",
+      "summary": "This article details the 'Fingerhut technique,' a precise method for polar aligning a telescope, acknowledging that Polaris is not perfectly coincident with the celestial North Pole. It provides step-by-step instructions for adjusting declination, right ascension, and using a provided table to determine the time of Polaris's eastern elongation for accurate alignment. The goal is to ensure images remain in view at high magnifications by properly aligning the telescope mount.",
+      "categories": [
+        "Technical",
+        "Instructions",
+        "Observing Techniques",
+        "Equipment Setup"
+      ],
+      "keywords": [
+        "Telescope alignment",
+        "Polaris",
+        "Celestial North Pole",
+        "Fingerhut technique",
+        "Right ascension",
+        "Declination",
+        "Eastern elongation",
+        "Equatorial mount",
+        "Astrophotography setup"
+      ],
+      "pageStart": 7,
+      "pageEnd": 22
+    },
+    {
+      "id": "eph83-03-by-don-machholz",
+      "documentId": "eph83-03",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article by Don Machholz provides guidance on determining suitable dark observing times for astronomical activities by graphing twilight times for 37 degrees North Latitude. It defines 'dark enough' as when the sun is 15 degrees below the horizon, useful for planning events like star parties, observing the Perseids, and Astronomy Day.",
+      "categories": [
+        "Observing Guides",
+        "Astronomical Concepts",
+        "Planning"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Twilight",
+        "Astronomical Twilight",
+        "Observing",
+        "Starparty",
+        "Perseids",
+        "Astronomy Day",
+        "Latitude"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-03-the-shirts-between-standard-time-and-daylight-savings-time-is-shown-this-increases-the-spread-to-four-hours-for-evening-twilight-roughly-6pm-to-10pm-while-it-decreases-the-morning-twilight-times-to-a-narrow-range-of-two-hours-roughly-4am-to-6am",
+      "documentId": "eph83-03",
+      "title": "The shirts between Standard Time and Daylight Savings Time is shown, this increases the spread to four hours for evening twilight (roughly 6PM to 10PM) while it decreases the morning twilight times to a narrow range of two hours (roughly 4AM to 6AM).",
+      "summary": "The article highlights the impact of the shift between Standard Time and Daylight Saving Time on twilight durations. It indicates that evening twilight expands to a four-hour window (roughly 6 PM to 10 PM), while morning twilight condenses to a two-hour window (roughly 4 AM to 6 AM). These shifts are illustrated with charts for 37°N Latitude.",
+      "categories": [
+        "Timekeeping",
+        "Seasonal Changes",
+        "Daylight Hours",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Standard Time",
+        "Daylight Saving Time",
+        "twilight",
+        "evening twilight",
+        "morning twilight",
+        "time shift",
+        "seasonal effects",
+        "37°N Latitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-03-by-larry-webster",
+      "documentId": "eph83-03",
+      "title": "BY LARRY WEBSTER",
+      "summary": "Larry Webster introduces himself as an experienced amateur astronomer and telescope maker, offering his expertise to the SJAA club to foster a central point for information exchange and problem-solving related to telescope making and usage. He then presents a detailed technical guide on how to diagnose and address telescope pointing errors caused by a lack of perpendicularity between the Right Ascension (RA) and Declination (DEC) axes in a German equatorial mount, describing a sensitive test method.",
+      "categories": [
+        "Technical Guide",
+        "Telescope Mechanics",
+        "Amateur Astronomy Club",
+        "Problem Solving",
+        "Telescope Mounts"
+      ],
+      "keywords": [
+        "Telescope alignment",
+        "RA axis",
+        "DEC axis",
+        "German equatorial mount",
+        "Pointing error",
+        "Amateur telescope making",
+        "Telescope problems",
+        "SJAA",
+        "Observatory design",
+        "DIY astronomy"
+      ],
+      "pageStart": 1,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-03-step-2",
+      "documentId": "eph83-03",
+      "title": "Step 2",
+      "summary": "This document, titled \"Step 2,\" describes a method for measuring and correcting the alignment error between a telescope's Right Ascension (RA) and Declination (DEC) axes. It involves using a lined piece of paper to track the movement of two points (A and B) as the RA shaft rotates, then applying a provided formula to calculate the alignment error. The author notes achieving high precision (less than 2 arc minutes) and invites contributions for subsequent installments of the article.",
+      "categories": [
+        "Technical",
+        "How-to",
+        "Telescope Maintenance",
+        "Astronomical Instrumentation"
+      ],
+      "keywords": [
+        "Telescope alignment",
+        "RA shaft",
+        "DEC shaft",
+        "Alignment error",
+        "Measurement",
+        "Technical procedure",
+        "Equatorial mount",
+        "Precision measurement"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-03-by-jeff-horne",
+      "documentId": "eph83-03",
+      "title": "BY JEFF HORNE",
+      "summary": "This article by Jeff Horne presents a humorous and satirical list of characteristics that \"Real Astronomers\" supposedly do not possess or engage in. It playfully pokes fun at various aspects of the amateur astronomy hobby, including equipment choices, observing habits, social etiquette, and common misconceptions, all from an informal and observational perspective.",
+      "categories": [
+        "Humor",
+        "Amateur Astronomy",
+        "Opinion/Commentary",
+        "Hobbyist Culture"
+      ],
+      "keywords": [
+        "Astronomy humor",
+        "Amateur astronomy",
+        "Astronomy stereotypes",
+        "Observing habits",
+        "Astronomy equipment",
+        "Jeff Horne",
+        "Satire"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph83-03-real-astronomers-don-t-own-kellners",
+      "documentId": "eph83-03",
+      "title": "Real Astronomers don't own Kellners.",
+      "summary": "This article humorously critiques common behaviors and attitudes within the amateur astronomy community through a satirical list of things \"Real Astronomers don't\" do, concluding that true astronomers don't concern themselves with such labels. Separately, it provides an official announcement regarding updated membership renewal rates for the San Jose Astronomical Association (SJAA), including options with Sky & Telescope magazine subscriptions.",
+      "categories": [
+        "Humor",
+        "Amateur Astronomy Culture",
+        "Club Announcement",
+        "Membership Information"
+      ],
+      "keywords": [
+        "Amateur astronomy",
+        "Star parties",
+        "Astronomy etiquette",
+        "Humor",
+        "Satire",
+        "SJAA",
+        "Membership renewal",
+        "Sky & Telescope",
+        "Dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-03-sjaa-membership-application-renewal",
+      "documentId": "eph83-03",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document contains a membership application and renewal form for the SJAA, detailing options for full, junior, or bulletin subscriber memberships along with associated fees. Additionally, it announces the upcoming \"3RD ANNUAL BAY-AREA ASTRONOMICAL AUCTION.\"",
+      "categories": [
+        "Club Administration",
+        "Membership",
+        "Events",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership",
+        "renewal",
+        "application",
+        "astronomical association",
+        "Bay-Area",
+        "auction",
+        "event",
+        "fees"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph83-03-saturday-april-30th-1983",
+      "documentId": "eph83-03",
+      "title": "SATURDAY, APRIL 30TH 1983",
+      "summary": "The San Jose Astronomical Association announced an astronomical equipment auction scheduled for April 30, 1983, at the Los Gatos Red Cross Building. This \"bigger and better\" event promised a wide variety of new and used astronomical items, including telescopes, eyepieces, and camera equipment, all to be auctioned at bargain prices.",
+      "categories": [
+        "Events",
+        "Auction",
+        "Astronomy Club Activity",
+        "Announcement"
+      ],
+      "keywords": [
+        "Auction",
+        "Astronomical Equipment",
+        "San Jose Astronomical Association",
+        "Telescopes",
+        "Eyepieces",
+        "Mirrors",
+        "Camera Equipment",
+        "Astronomy",
+        "Los Gatos",
+        "1983"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph83-03-any-one-may-bid-any-one-may-sell",
+      "documentId": "eph83-03",
+      "title": "ANY ONE MAY BID --- ANY ONE MAY SELL",
+      "summary": "This document outlines the procedures for an upcoming auction, providing detailed instructions for both bidders and sellers. Sellers are advised to register items, set minimum bids, and consider preregistration by March 10th for inclusion in a published list, with a 10% SJAA fee supporting amateur astronomical activities. Bidders must register for a number and complete payments by the auction's end, and directions to the event location are also included.",
+      "categories": [
+        "event",
+        "auction",
+        "instructions",
+        "astronomy community",
+        "fundraising"
+      ],
+      "keywords": [
+        "auction",
+        "bidding",
+        "selling",
+        "registration",
+        "astronomical equipment",
+        "amateur astronomy",
+        "event logistics",
+        "telescopes",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-03-item-preregistration-form",
+      "documentId": "eph83-03",
+      "title": "ITEM PREREGISTRATION FORM",
+      "summary": "This document is an item preregistration form for an auction, providing fields for item details, minimum bids, and contact information. Participants are instructed to send the completed form to the SJAA Auction address or call the provided phone numbers in Oakland or San Jose.",
+      "categories": [
+        "Auction",
+        "Forms",
+        "Event Planning",
+        "Community"
+      ],
+      "keywords": [
+        "Auction",
+        "Preregistration",
+        "Form",
+        "Item",
+        "Minimum Bid",
+        "SJAA",
+        "Oakland",
+        "San Jose"
+      ],
+      "pageStart": 16,
+      "pageEnd": 16
+    },
+    {
+      "id": "eph83-03-sec-c-95-124",
+      "documentId": "eph83-03",
+      "title": "SEC. C 95/124",
+      "summary": "This document fragment contains only a header identifier, 'SEC. C 95/124', and the word 'Recco'. The provided content is extremely sparse, indicating that the original image was mostly blank and offers no substantial information for analysis.",
+      "categories": [
+        "Document identifier",
+        "Fragment",
+        "Administrative"
+      ],
+      "keywords": [
+        "SEC. C 95/124",
+        "Recco",
+        "document fragment",
+        "blank content",
+        "header"
+      ],
+      "pageStart": 17,
+      "pageEnd": 17
+    },
+    {
+      "id": "eph83-03-items-already-pre-registered",
+      "documentId": "eph83-03",
+      "title": "ITEMS ALREADY PRE-REGISTERED",
+      "summary": "This document lists items already pre-registered for the 3rd Annual Bay-Area Astronomical Auction, including a variety of telescopes, lenses, astronomical equipment, books, meteorites, and posters, each with a minimum bid. It also provides directions to the auction location and emphasizes that this is only a partial list of items available.",
+      "categories": [
+        "Auction",
+        "Astronomy Equipment",
+        "Sales Event",
+        "Observing Accessories",
+        "Collectibles",
+        "Books"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "Telescopes",
+        "Newtonian",
+        "Cassegrain",
+        "Eyepieces",
+        "Lenses",
+        "Mounts",
+        "Focuser",
+        "Cold Camera",
+        "Meteorite",
+        "AstroMurals",
+        "Books",
+        "Hubble",
+        "H.A. Rey",
+        "Optical Craftsman",
+        "Meade",
+        "Celestron",
+        "Coulter",
+        "Edmunds Scientific",
+        "Bay-Area"
+      ],
+      "pageStart": 18,
+      "pageEnd": 18
+    },
+    {
+      "id": "eph83-03-saturday-april-30th-1983",
+      "documentId": "eph83-03",
+      "title": "SATURDAY, APRIL 30th, 1983",
+      "summary": "The San Jose Astronomical Association is hosting its annual astronomical auction on Saturday, April 30th, 1983, at the Los Gatos Red Cross Building. Starting with registration at 5:30 PM, the event promises a wide array of new and used astronomical equipment, including books, mirrors, eyepieces, telescopes, and camera gear, all offered at bargain prices. Attendees are encouraged to sell their items and check their want lists for one of the Bay Area's most enjoyable amateur astronomy events.",
+      "categories": [
+        "event",
+        "announcement",
+        "auction",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "auction",
+        "San Jose Astronomical Association",
+        "astronomical equipment",
+        "telescopes",
+        "eyepieces",
+        "mirrors",
+        "amateur astronomy",
+        "Los Gatos",
+        "Bay Area"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8303/Eph83_03.pdf",
+      "txtPath": "8303/Eph83_03.md"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "articles": [
+    {
+      "id": "eph84-04-ephemeris",
+      "documentId": "eph84-04",
+      "title": "EPHEMERIS",
+      "summary": "This document is an \"EPHEMERIS\" from the San Jose Astronomical Association (SJAA), dated April 1994. It is identified as time-sensitive news material, indicating it likely contains current astronomical information or club updates for that specific month and was distributed via bulk mail.",
+      "categories": [
+        "News",
+        "Astronomical Club Bulletin",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "April 1994",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "News Material",
+        "Astronomy",
+        "Club Bulletin"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-04-events-calendar",
+      "documentId": "eph84-04",
+      "title": "Events Calendar",
+      "summary": "This document is an events calendar detailing astronomical activities scheduled from April through June. It lists various indoor and outdoor star parties, general and board meetings, an annual astronomical auction, and a special Astronomy Day event. Key highlights include a guest speaker discussing Space Shuttle operations and board member elections.",
+      "categories": [
+        "Events Calendar",
+        "Observing Events",
+        "Meetings",
+        "Auction",
+        "Education"
+      ],
+      "keywords": [
+        "star party",
+        "astronomical auction",
+        "general meeting",
+        "board meeting",
+        "Los Gatos",
+        "Henry Coe State Park",
+        "Fremont Peak",
+        "Grant's Ranch",
+        "Astronomy Day",
+        "Space Shuttle",
+        "Kennedy Space Center",
+        "Vandenberg Space Center"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-join-our-mexican-annular-eclipse-expedition",
+      "documentId": "eph84-04",
+      "title": "JOIN OUR MEXICAN ANNULAR ECLIPSE EXPEDITION",
+      "summary": "An expedition is announced for May 29th to June 2nd to observe the longest annular eclipse in North America near Manzanillo, Mexico, on May 30th. The trip includes opportunities for dark night sky observations, seminars on solar phenomena and celestial mechanics (with optional U.C. Santa Cruz credit), and resort activities. Priced at $389 per person, the package covers airfare from LA and accommodation, with limited spaces available.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Travel",
+        "Education",
+        "Observing"
+      ],
+      "keywords": [
+        "Annular Eclipse",
+        "Mexico Expedition",
+        "Solar Observation",
+        "Astronomy Travel",
+        "Celestial Mechanics",
+        "Dark Sky Observing",
+        "Educational Seminars",
+        "Manzanillo",
+        "U.C. Santa Cruz"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-04-los-gatos",
+      "documentId": "eph84-04",
+      "title": "LOS GATOS",
+      "summary": "This document lists various geographical locations, highways, and street names, primarily focused on the Los Gatos-Saratoga area. It appears to function as a local directory or map key, indicating specific points of interest and major thoroughfares within the region.",
+      "categories": [
+        "Local Information",
+        "Geography",
+        "Mapping",
+        "Directory"
+      ],
+      "keywords": [
+        "Los Gatos",
+        "Saratoga",
+        "Hwy 9",
+        "Hwy 17",
+        "Red Cross Bldg",
+        "Vasona Park",
+        "Blossom Hill Rd",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-membership",
+      "documentId": "eph84-04",
+      "title": "MEMBERSHIP",
+      "summary": "This document outlines the membership application and renewal process for the SJAA, detailing different membership tiers (standard and junior) with associated costs, and an option to include a subscription to \"SAT\". It provides instructions for submitting the application and remittance, including a mailing address and contact phone number for renewals.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Application/Renewal",
+        "Pricing"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership",
+        "application",
+        "renewal",
+        "fees",
+        "junior",
+        "SAT",
+        "contact information",
+        "Los Gatos"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-04-dear-bulletin-subscribers",
+      "documentId": "eph84-04",
+      "title": "DEAR BULLETIN SUBSCRIBERS:",
+      "summary": "Tom Ahl introduces himself as the new, self-proclaimed inexperienced editor of the bulletin, humorously detailing his takeover and asking for subscriber patience. He actively solicits reader submissions for content, particularly for a 'Helpful Hints & Shortcuts' column covering hardware or observational tips. As both editor and an SJAA board member, Ahl also welcomes any comments, suggestions, or questions regarding the club and its activities.",
+      "categories": [
+        "Editor's Note",
+        "Club Announcement",
+        "Call for Submissions",
+        "Member Communication"
+      ],
+      "keywords": [
+        "Tom Ahl",
+        "Bulletin Editor",
+        "New Editor",
+        "Submissions",
+        "Helpful Hints",
+        "Observational Tips",
+        "Hardware Tips",
+        "SJAA",
+        "Club Feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-until-further-notice-entry-entry-deadline-will-be-the-15th-of-each-month",
+      "documentId": "eph84-04",
+      "title": "UNTIL FURTHER NOTICE ENTRY, ENTRY DEADLINE WILL BE THE 15th OF EACH MONTH",
+      "summary": "This article announces a new entry deadline of the 15th of each month. It also reports on a recent general meeting where astrophotographer John Gleason discussed cold cameras versus hypersensitized film, and includes apologies for a late bulletin. Additionally, it provides details on prorated membership dues for new members and how to order astronomy materials through Bob Fingerhut.",
+      "categories": [
+        "Meeting Report",
+        "Club News",
+        "Administrative Announcements",
+        "Astrophotography",
+        "Membership Information"
+      ],
+      "keywords": [
+        "Entry Deadline",
+        "General Meeting",
+        "John Gleason",
+        "Astrophotography",
+        "Cold Cameras",
+        "Hypersensitized Film",
+        "Bulletin",
+        "Membership Dues",
+        "Prorated Dues",
+        "Sky & Telescope",
+        "Bob Fingerhut",
+        "Sky Publishing Co."
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-04-deep-sky-notes-april",
+      "documentId": "eph84-04",
+      "title": "DEEP SKY NOTES--APRIL",
+      "summary": "This article provides deep-sky observing notes for April, focusing on the constellation Leo as a rich hunting ground for galaxies for observers of all experience levels. It details specific targets like the often-missed NGC 2903, the famous Leo Triplet (M65, M66, NGC 3628), and the challenging NGC 3842 galaxy cluster. The author offers personal observing experiences, tips for various telescope sizes, and encourages other observers to confirm and share their findings.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Deep Sky Objects",
+        "Monthly Sky Notes"
+      ],
+      "keywords": [
+        "Deep Sky",
+        "Leo",
+        "Galaxies",
+        "Observing Tips",
+        "NGC 2903",
+        "Messier Objects",
+        "Leo Triplet",
+        "M65",
+        "M66",
+        "NGC 3628",
+        "NGC 3842",
+        "Telescopes",
+        "Burnhams Celestial Handbook",
+        "Steve Gottlieb"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-for-sale",
+      "documentId": "eph84-04",
+      "title": "FOR SALE",
+      "summary": "This document serves as a classified advertisement for used astronomical equipment. It lists a C-8 telescope with coated optics, various eyepieces, filters, and a double-axis drive corrector for $1200. Additionally, a 750mm f6 Celestron telescope with a custom tripod mount is offered for $500, with contact information for the respective sellers.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "C-8 telescope",
+        "Celestron telescope",
+        "telescope accessories",
+        "eyepieces",
+        "filters",
+        "solar mirror",
+        "drive corrector",
+        "tripod mount",
+        "used equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-04-don-machholz",
+      "documentId": "eph84-04",
+      "title": "DON MACHHOLZ",
+      "summary": "This article provides current updates on several comets, noting Comet Crommelin's fading and Comet Encke's invisibility, alongside Comet Hartley-IRAS becoming circumpolar after a significant outburst. It announces the recovery of Periodic Comet Neujmin 1 (1984C) at magnitude 18, which is expected to brighten to magnitude 12 by late summer. Additionally, specific observational data, including coordinates and magnitude, are provided for Halley's Comet on April 15, 1984.",
+      "categories": [
+        "Comet Observations",
+        "Astronomical News",
+        "Observing Reports",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet recovery",
+        "Magnitude",
+        "Halley's Comet",
+        "Periodic Comet Neujmin 1",
+        "Comet Hartley-IRAS",
+        "Comet Crommelin",
+        "Comet Encke",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-ephemerides",
+      "documentId": "eph84-04",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for two periodic comets: Comet Crommelin (1983n) and Comet Hartley-IRAS (1983v). Comet Crommelin is decreasing in brightness and moving away from Earth and the Sun, offering the last viewing opportunity for about 27 years. Comet Hartley-IRAS, following a recent outburst, is moving rapidly near the North Star and Little Dipper, and observers are advised to check its brightness regularly.",
+      "categories": [
+        "Ephemerides",
+        "Observing Guide",
+        "Comets",
+        "Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Crommelin (1983n)",
+        "Comet Hartley-IRAS (1983v)",
+        "Periodic Comets",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Observing",
+        "Outburst",
+        "North Star",
+        "Little Dipper"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-past-discoveries",
+      "documentId": "eph84-04",
+      "title": "PAST DISCOVERIES",
+      "summary": "An analysis of amateur comet discoveries between 1975 and 1983 reveals differences between morning and evening finds. Morning comets (17 total) were brighter with an average magnitude of 8.40 and an average elongation of 58.0 degrees. Evening comets (11 total) were fainter, averaging magnitude 10.07, and discovered at greater elongations, averaging 65.3 degrees.",
+      "categories": [
+        "observing reports",
+        "research",
+        "historical analysis",
+        "astronomical statistics"
+      ],
+      "keywords": [
+        "comets",
+        "amateur astronomers",
+        "discoveries",
+        "magnitude",
+        "elongation",
+        "morning sky",
+        "evening sky",
+        "astronomy statistics"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-04-past-discoveries-cont-d",
+      "documentId": "eph84-04",
+      "title": "Past Discoveries (cont'd)",
+      "summary": "This document provides a statistical analysis of 28 comets discovered by amateur astronomers between 1975 and 1983. It breaks down the discoveries by elongation range, categorizing them as morning or evening comets, and details the number of comets, their average magnitude, standard deviation, and magnitude range for each category. The data highlights observational statistics related to amateur comet hunting during that period.",
+      "categories": [
+        "Statistical Analysis",
+        "Historical Data",
+        "Astronomy Research",
+        "Comet Discoveries"
+      ],
+      "keywords": [
+        "comets",
+        "amateur astronomers",
+        "discoveries",
+        "magnitudes",
+        "elongations",
+        "observational data",
+        "morning comets",
+        "evening comets",
+        "statistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-three-days-forty-five-minutes-and-five-seconds",
+      "documentId": "eph84-04",
+      "title": "THREE DAYS, FORTY-FIVE MINUTES AND FIVE SECONDS",
+      "summary": "A seasoned comet hunter shares three practical lessons learned over the years, tied to specific timeframes. These include observing challenges such as high mountain peaks remaining cloudy for three days after heavy rain, the unlikelihood of clouds clearing within forty-five minutes if they don't, and the rapid onset of hand pain (five seconds) when removing gloves in cold, windy conditions.",
+      "categories": [
+        "observing tips",
+        "amateur astronomy",
+        "weather",
+        "personal experience",
+        "comet hunting"
+      ],
+      "keywords": [
+        "comet hunting",
+        "observing",
+        "weather conditions",
+        "clouds",
+        "fog",
+        "temperature",
+        "wind",
+        "Mt. Loma Prieta",
+        "Don Machholz",
+        "astronomy tips"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-04-by-bob-fingerhut",
+      "documentId": "eph84-04",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The article reports on recent space activities including the successful launches of Landsat 5 and Intelsat 5 F8, along with the progression of Europe's Ariane launch vehicle development and future space plans like a new heavy-lift Ariane and potential space station collaborations. Additionally, it details the upcoming Space Shuttle Challenger mission and NASA's proposed rendezvous mission to Comet Kopff in 1990.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Satellite Launches",
+        "Space Programs",
+        "Launch Vehicles",
+        "Future Missions"
+      ],
+      "keywords": [
+        "Landsat 5",
+        "Intelsat 5 F8",
+        "Ariane",
+        "Ariane 3",
+        "Ariane 4",
+        "European Space Agency",
+        "Space Shuttle Challenger",
+        "Comet Kopff",
+        "NASA",
+        "Space Station",
+        "Hermes",
+        "Columbus program",
+        "Satellite",
+        "Launch vehicle",
+        "Spacecraft"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph84-04-space-update-cont-d",
+      "documentId": "eph84-04",
+      "title": "SPACE UPDATE(cont'd)",
+      "summary": "JPL is preparing the Galileo Jupiter probe for integration with its orbiter following successful tests, with a launch scheduled for May 1986. Meanwhile, a fire at a solid rocket motor facility will not impact the shuttle program due to existing inventory and a scheduled shutdown. Additionally, 747 shuttle carrier refueling tests were suspended due to discovered tail structure cracks, and the Air Force is seeking to develop a new expendable booster to supplement the space shuttle program.",
+      "categories": [
+        "news",
+        "space exploration",
+        "space program updates",
+        "aerospace technology",
+        "program development"
+      ],
+      "keywords": [
+        "Galileo Jupiter Probe",
+        "JPL",
+        "space shuttle",
+        "solid rocket motor",
+        "Thiokol plant",
+        "747 shuttle carrier",
+        "expendable booster",
+        "Air Force",
+        "Titan Centaur",
+        "Atlas Centaur",
+        "launch schedule",
+        "spacecraft testing"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph84-04-commercial-ads-are-priced-according-to-size-and-may-be-placed-by-contacting-gene-cisneros-at-408-923-6800",
+      "documentId": "eph84-04",
+      "title": "Commercial ads are priced according to size and may be placed by contacting: Gene Cisneros at (408) 923-6800.",
+      "summary": "This document contains information on how to place commercial advertisements, specifying pricing by size and a contact person, Gene Cisneros. It also features a prominent advertisement for LUMICON, an astronomy company, highlighting their selection of telescopes, accessories, and their specialization in astrophotography, along with their contact details in Livermore, CA.",
+      "categories": [
+        "Advertising",
+        "Commercial",
+        "Astronomy Business"
+      ],
+      "keywords": [
+        "commercial ads",
+        "ad placement",
+        "LUMICON",
+        "astronomy equipment",
+        "telescopes",
+        "accessories",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-atm-coatings",
+      "documentId": "eph84-04",
+      "title": "ATM coatings",
+      "summary": "ATM Coatings specializes in providing aluminum coatings with silicon monoxide over-coating for telescope mirrors, offering a price list for various mirror sizes. The service includes free secondary mirror coating when sent with the primary, charges a fee for old coating removal, and requires customers to include return postage and insurance.",
+      "categories": [
+        "Commercial",
+        "Services",
+        "Amateur Telescope Making (ATM)",
+        "Optics"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Aluminum coatings",
+        "Silicon monoxide",
+        "Telescope mirrors",
+        "Mirror recoating",
+        "Optical coatings",
+        "Telescope accessories",
+        "Optical services"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-optron-systems",
+      "documentId": "eph84-04",
+      "title": "OPTRON SYSTEMS",
+      "summary": "OPTRON SYSTEMS is a company that caters to astronomers, offering a wide range of products including brands like Meade, Kalt Corporation, Star Atlases, and Tele-Vue Optics. They operate a showroom located at 704 Charcot Avenue, San Jose, CA 95131, and can be reached at (408)946-4797.",
+      "categories": [
+        "advertisement",
+        "retail",
+        "astronomy equipment",
+        "business listing"
+      ],
+      "keywords": [
+        "OPTRON SYSTEMS",
+        "astronomers",
+        "Meade",
+        "Kalt Corporation",
+        "Star Atlases",
+        "Tele-Vue Optics",
+        "San Jose, CA",
+        "astronomy equipment",
+        "telescopes",
+        "optics"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph84-04-grand-tour",
+      "documentId": "eph84-04",
+      "title": "GRAND TOUR",
+      "summary": "Andrew Fraknoi, Executive Officer of the Astronomical Society of the Pacific and a renowned astronomy educator, is hosting a \"GRAND TOUR of the universe.\" This presentation will feature an extraordinary collection of the latest color photographs from space probes and large telescopes, guiding the audience through the solar system and to the edge of the known universe. Fraknoi will provide lucid explanations of modern astronomy, focusing on humanity's place in the cosmos.",
+      "categories": [
+        "Event",
+        "Public Lecture",
+        "Astronomy Education",
+        "Presentation"
+      ],
+      "keywords": [
+        "Andrew Fraknoi",
+        "Grand Tour",
+        "Universe",
+        "Space exploration",
+        "Astronomy",
+        "Slides",
+        "Photographs",
+        "Space probes",
+        "Telescopes",
+        "Solar system",
+        "Cosmos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-04-sunday-may-6-1984",
+      "documentId": "eph84-04",
+      "title": "Sunday May 6, 1984",
+      "summary": "This document outlines a special dinner event held on Sunday, May 6, 1984, at the Elk's Lodge in Palo Alto, co-hosted by The Children's Health Council and the Astronomical Society of the Pacific. The evening featured a telescope display, a 'Galileo Pasta' buffet dinner, a door prize drawing, a lecture titled 'A Grand Tour of the Universe' by Andrew Fraknoi, and a star party. Attendees were encouraged to register in advance with proceeds benefiting the Children's Health Council.",
+      "categories": [
+        "event announcement",
+        "dinner",
+        "lecture",
+        "observing report",
+        "fundraiser",
+        "non-profit activity"
+      ],
+      "keywords": [
+        "May 6, 1984",
+        "Palo Alto",
+        "Elk's Lodge",
+        "Children's Health Council",
+        "Astronomical Society of the Pacific",
+        "Andrew Fraknoi",
+        "telescope display",
+        "star party",
+        "Galileo Pasta",
+        "fundraising",
+        "lecture",
+        "astronomy event"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph84-04-presented-by-the-san-jose-astronomical-association",
+      "documentId": "eph84-04",
+      "title": "PRESENTED BY THE SAN JOSE ASTRONOMICAL ASSOCIATION",
+      "summary": "The San Jose Astronomical Association is presenting an astronomical equipment auction on April 14, 1984, at the Los Gatos Red Cross building. The event allows attendees to buy and sell a vast array of astronomical items, including telescopes, books, camera equipment, eyepieces, and more. Registration begins at 10 AM, with the auction starting at 2 PM.",
+      "categories": [
+        "Events",
+        "Auction",
+        "Astronomical Associations"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Astronomy Auction",
+        "Astronomical Equipment",
+        "Los Gatos",
+        "Telescopes",
+        "Eyepieces",
+        "Camera Equipment",
+        "Space Art",
+        "April 1984"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph84-04-pre-registration-information",
+      "documentId": "eph84-04",
+      "title": "PRE-REGISTRATION INFORMATION",
+      "summary": "This document outlines the pre-registration process for the upcoming April 14th auction hosted by the SJAA, aiming to prevent registration delays experienced in previous years. Participants are instructed to fill out a form with item details, minimum prices, and SJAA donation percentages, then mail it with a SASE to Jim for pre-assignment of bidder and item numbers. This system ensures efficiency, allowing participants to label items beforehand and reducing backlog on auction day, with directions to the venue also provided.",
+      "categories": [
+        "Event Announcement",
+        "Registration Instructions",
+        "Organizational Activity",
+        "Fundraising"
+      ],
+      "keywords": [
+        "auction",
+        "pre-registration",
+        "SJAA",
+        "April 14",
+        "astronomical items",
+        "telescope making",
+        "bidder number",
+        "item number",
+        "minimum price",
+        "donation",
+        "registration form",
+        "delays",
+        "event directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8404/Eph84_04.pdf",
+      "txtPath": "8404/Eph84_04.md"
+    }
+  ]
+}

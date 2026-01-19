@@ -1,0 +1,443 @@
+{
+  "articles": [
+    {
+      "id": "eph81-09-observations",
+      "documentId": "eph81-09",
+      "title": "Observations",
+      "summary": "This bulletin from \"The Ephemeris\" details upcoming events for the San Jose Astronomical Association, including a general meeting featuring Voyager-Saturn encounter footage and an October grase expedition. It also announces new policies for lending club telescopes, provides updates on recent professional comet discoveries and recoveries, and features a section of astronomy-related classified advertisements and local business news.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing",
+        "Astronomy News",
+        "Equipment",
+        "Classifieds",
+        "Publications"
+      ],
+      "keywords": [
+        "Voyager-Saturn",
+        "Grase Expedition",
+        "Comets",
+        "Telescope Lending",
+        "SJAA",
+        "Space Shuttle",
+        "Astrophotography",
+        "Club Meetings",
+        "Astronomical Equipment",
+        "Classifieds",
+        "Lumicon"
+      ],
+      "pageStart": 3,
+      "pageEnd": 83
+    },
+    {
+      "id": "eph81-09-great-comets",
+      "documentId": "eph81-09",
+      "title": "Great Comets",
+      "summary": "The article discusses Comet Tebbutt (1861II), discovered by John Tebbutt on May 13, 1861, as a 4th magnitude object. It brightened significantly, with Sir John Herschel noting it as the brightest he had seen. Notably, on June 30, Earth passed through the comet's tail, causing a darkened sun and yellow sky, though no ill effects were reported as the coma was millions of miles away.",
+      "categories": [
+        "Comets",
+        "Historical Astronomy",
+        "Observing Reports",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Comet Tebbutt",
+        "1861II",
+        "John Tebbutt",
+        "Sir John Herschel",
+        "comet tail",
+        "astronomy",
+        "celestial event",
+        "discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-some-observations-of-the-perseid-meteor-shower",
+      "documentId": "eph81-09",
+      "title": "Some Observations of the Perseid Meteor Shower",
+      "summary": "Don Machholz, his wife Laura, and Vickie O'Fallon observed the peak of the Perseid meteor shower on August 12 from Loma Prieta, reporting high hourly rates of 70-74 meteors. They differentiated between Perseid and background meteors, noting several bright events around magnitude -2.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "Perseid meteor shower",
+        "meteor observations",
+        "Loma Prieta",
+        "hourly rates",
+        "Don Machholz",
+        "August 12"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-09-the-celestial-tourist-speaks",
+      "documentId": "eph81-09",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "This article recounts a successful star party at Fremont Peak on August 1, 1981, highlighting the numerous telescopes and attendees, alongside an update on a new mercury-vapor light installation at the site, which park staff committed to turning off for observers. The author then details two observational techniques, the \"blinking\" and \"prism\" tricks, for locating faint planetary nebulae, concluding with descriptions of several specific planetary nebulae of interest.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Observational Techniques",
+        "Local News",
+        "Deep-Sky Objects"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Planetary Nebulae",
+        "Blinking Trick",
+        "Prism Trick",
+        "Mercury-vapor light",
+        "Light Pollution",
+        "Telescopes",
+        "NGC 6826",
+        "NGC 7293",
+        "August 1981"
+      ],
+      "pageStart": 5,
+      "pageEnd": 90
+    },
+    {
+      "id": "eph81-09-in-june-i-looked-for-the-planetaries-ngc-6578-and-ngc-6620-in-sagittarius-and-couldn-t-find-either-one-i-was-using-the-excellent-aavso-variable-star-atlas-which-plots-stars-to-magnitude-9-5-so-there-was-no-ambiguity-about-identifying-the-field-i-did-a-little-research-and-found-that-the-aavso-atlas-the-skalnate-pleso-charts-the-skalnate-pleso-catalog-book-and-burnham-s-celestial-handbook-all-agree-exactly-on-the-positions-of-these-two-objects-and-are-all-wrong-i-found-different-positions-in-sulentic-and-tifft-s-revised-new-general-catalog-and-went-back-to-the-telescope-with-them-sure-enough-the-planetaries-were-at-the-rngc-positions-ngc-6578-is-about-half-a-degree-southeast-of-the-erroneous-position-and-ngc-6620-is-about-a-quarter-degree-east-of-the-false-location-that-s-clear-in-the-net-country-when-one-is-sweeping-for-a-small-faint-object-both-these-planetaries-are-thirteenth-to-fourteenth-magnitude-and-around-a-tenth-of-an-arc-minute-in-diameter-the-correct-positions-precessed-to-1950-coordinates-the-rngc-uses-epoch-1975-are",
+      "documentId": "eph81-09",
+      "title": "In June, I looked for the planetaries NGC 6578 and NGC 6620, in Sagittarius, and couldn't find either one. I was using the excellent AAVSO Variable Star Atlas, which plots stars to magnitude 9.5, so there was no ambiguity about identifying the field. I did a little research, and found that the AAVSO Atlas, the Skalnate Pleso (charts), the Skalnate Pleso Catalog (book), and Burnham's Celestial Handbook all agree exactly on the positions of these two objects, and are all wrong! I found different positions in Sulentic and Tifft's Revised New General Catalog and went back to the telescope with them. Sure enough, the planetaries were at the RNGC positions. NGC 6578 is about half a degree southeast of the erroneous position, and NGC 6620 is about a quarter degree east of the false location. That's clear in the net; country when one is sweeping for a small, faint object. (Both these planetaries are thirteenth to fourteenth magnitude and around a tenth of an arc-minute in diameter.) The correct positions, precessed to 1950 coordinates (the RNGC uses epoch 1975), are:",
+      "summary": "An amateur astronomer encountered significant errors in popular astronomical atlases and catalogs regarding the positions of planetary nebulae NGC 6578 and NGC 6620 in Sagittarius. After extensive research, the correct coordinates were found in Sulentic and Tifft's Revised New General Catalog, enabling successful observation. The author also briefly mentions the Egg Nebula and observations of galaxies in the Hercules Cluster.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Catalogs/Atlases",
+        "Deep Sky Objects",
+        "Error Correction",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "NGC 6578",
+        "NGC 6620",
+        "Planetary Nebulae",
+        "Sagittarius",
+        "Astronomical Atlases",
+        "Astronomical Catalogs",
+        "Revised New General Catalog (RNGC)",
+        "Deep Sky Observing",
+        "Observational Astronomy",
+        "Egg Nebula",
+        "Hercules Cluster of Galaxies",
+        "Coordinates",
+        "Sky and Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-who-owns-loma-prieta",
+      "documentId": "eph81-09",
+      "title": "Who Owns Loma Prieta?",
+      "summary": "This article discusses the ongoing issue of obtaining permission to use Loma Prieta for astronomical activities, specifically for events like the Messier Marathon. The author investigated property ownership and contacted C.H.Y. of Sacramento, who, due to insurance liabilities, could not grant written permission despite finding the hobby \"interesting and worthwhile.\" The author believes that as long as users remain on the road, there will be no issues, especially since local residents are supportive.",
+      "categories": [
+        "observing reports",
+        "community access",
+        "property use",
+        "events",
+        "club news"
+      ],
+      "keywords": [
+        "Loma Prieta",
+        "Messier Marathon",
+        "property ownership",
+        "access",
+        "insurance policy",
+        "C.H.Y. of Sacramento",
+        "Don Machholz",
+        "astronomy",
+        "observing site"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-09-shuttle-schedule",
+      "documentId": "eph81-09",
+      "title": "Shuttle Schedule",
+      "summary": "The shuttle orbiter Columbia has been assembled with its fuel tank and boosters for its second flight, with the nine-day Shuttle Interface Test commencing on August 17. NASA is experiencing delays with the rollout to the launch pad, potentially pushing it back four or five days past August 26, which would likely impact the planned September 30 launch date for STS-2.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Mission Updates",
+        "Schedule Updates"
+      ],
+      "keywords": [
+        "Shuttle",
+        "Columbia",
+        "STS-2",
+        "NASA",
+        "Launch Schedule",
+        "Rollout",
+        "Shuttle Interface Test",
+        "Vertical Assembly Building",
+        "Space Shuttle Program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-solar-mesosphere-explorer-to-track-ozone-production",
+      "documentId": "eph81-09",
+      "title": "Solar Mesosphere Explorer to Track Ozone Production",
+      "summary": "The Solar Mesosphere Explorer (SME) is scheduled for launch around September 15th from Vandenberg AFB. This 958-lb spacecraft will carry five instruments to monitor ozone, minor atmospheric instruments, temperature, water vapor, and incoming solar radiation. Its primary mission is to determine the role these factors play in ozone production within the mesosphere and overlapping upper atmosphere.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Atmospheric Science",
+        "Upcoming Launch"
+      ],
+      "keywords": [
+        "Solar Mesosphere Explorer",
+        "Ozone production",
+        "Mesosphere",
+        "Spacecraft launch",
+        "Atmospheric instruments",
+        "Solar radiation",
+        "Vandenberg AFB",
+        "Sun-synchronous orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-reusable-relics",
+      "documentId": "eph81-09",
+      "title": "Reusable Relics",
+      "summary": "NASA is retrieving 35 specialized fans from the backup Skylab space station housed at the Smithsonian Institute's National Air and Space Museum. This initiative aims to save over $500,000 by reusing existing spaceflight hardware for the shuttle and spacelab programs. New units would cost over $22,000 each due to their unique materials and spark-free brushless d.c. motors.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Cost Savings",
+        "Hardware Reuse",
+        "Logistics"
+      ],
+      "keywords": [
+        "NASA",
+        "Smithsonian Institute",
+        "National Air and Space Museum",
+        "Spaceflight hardware",
+        "Shuttle program",
+        "Spacelab program",
+        "Skylab",
+        "Cost savings",
+        "Reusable components",
+        "Fans",
+        "Brushless d.c. motors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-nasa-rca-twin-dynamics-explorer-spacecraft-put-in-abnormal-orbit",
+      "documentId": "eph81-09",
+      "title": "NASA/RCA Twin Dynamics Explorer Spacecraft Put in Abnormal Orbit",
+      "summary": "On August 3, NASA and RCA's twin Dynamics Explorer spacecraft were placed into an abnormal orbit due to a short burn of the Delta 3913 booster's second stage following launch from Vandenberg AFB. Despite this initial anomaly, the Dynamics Explorer science mission is still anticipated to be completed successfully.",
+      "categories": [
+        "news",
+        "space mission",
+        "launch failure",
+        "technical incident"
+      ],
+      "keywords": [
+        "NASA",
+        "RCA",
+        "Dynamics Explorer",
+        "Spacecraft",
+        "Abnormal Orbit",
+        "Delta 3913 booster",
+        "Vandenberg AFB",
+        "Launch",
+        "Orbital insertion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-planned-shuttle-schedule",
+      "documentId": "eph81-09",
+      "title": "Planned Shuttle Schedule",
+      "summary": "NASA has outlined its upcoming Space Shuttle launch schedule, with the third flight set for January 18, 1982. Subsequent launches are planned through May 1983, detailing flights 4 through 8, including dates in May, September, and December 1982, and March and May 1983.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Schedules",
+        "NASA"
+      ],
+      "keywords": [
+        "NASA",
+        "Space Shuttle",
+        "Launch Schedule",
+        "Spaceflight",
+        "1982",
+        "1983"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-determining-naked-eye-magnitude-limit-using-the-great-square-of-pegasus",
+      "documentId": "eph81-09",
+      "title": "DETERMINING NAKED-EYE MAGNITUDE LIMIT USING THE \"GREAT SQUARE OF PEGASUS\"",
+      "summary": "Don Machholz describes a straightforward method to determine one's naked-eye magnitude limit by observing the \"Great Square of Pegasus.\" The technique involves counting the number of stars visible within this prominent asterism and then using a provided table to correlate the observed star count with a corresponding limiting magnitude, thus giving a rough estimate of observational capability.",
+      "categories": [
+        "Observing Guide",
+        "Amateur Astronomy",
+        "Technique",
+        "How-to"
+      ],
+      "keywords": [
+        "Naked-eye magnitude limit",
+        "Great Square of Pegasus",
+        "Stellar magnitude",
+        "Amateur astronomy",
+        "Star counting",
+        "Observing technique",
+        "Pegasus constellation",
+        "Limiting magnitude"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-09-astronomical-weekend",
+      "documentId": "eph81-09",
+      "title": "ASTRONOMICAL WEEKEND",
+      "summary": "Bill Dellinges attended Dr. William Kaufmann's \"Exploring the Universe\" weekend workshop near Lake Tahoe, participating in stargazing sessions at an observatory housing a Celestron-22. Despite some participants being new to astronomy, the event fostered a rich learning environment, offering views of popular celestial objects through various telescopes and binoculars, alongside opportunities for camaraderie and meteor watching. Dellinges highly recommends the workshop for its educational value and the overall enjoyable experience of engaging with the night sky.",
+      "categories": [
+        "Event Review",
+        "Observing Report",
+        "Educational Program"
+      ],
+      "keywords": [
+        "Astronomical Weekend",
+        "William Kaufmann",
+        "Incline Village",
+        "Lake Tahoe",
+        "Celestron-22",
+        "Stargazing",
+        "Astronomy Workshop",
+        "Meteors",
+        "Binoculars",
+        "Sierra Nevada College"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-09-space-telescope-status",
+      "documentId": "eph81-09",
+      "title": "SPACE TELESCOPE STATUS",
+      "summary": "NASA's Space Telescope primary mirror is nearing completion, undergoing its initial coating after two and a half years of precise shaping and polishing. Scheduled for an early 1985 launch, this 94-inch telescope is expected to significantly enhance astronomical observation, allowing views of stars 50 times fainter than currently possible with ground-based instruments.",
+      "categories": [
+        "news",
+        "technical development",
+        "project status",
+        "space exploration"
+      ],
+      "keywords": [
+        "Space Telescope",
+        "NASA",
+        "primary mirror",
+        "optical fabrication",
+        "orbit",
+        "1985 launch",
+        "astronomy",
+        "telescope technology"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-dealing-with-light-pollution",
+      "documentId": "eph81-09",
+      "title": "Dealing With Light Pollution",
+      "summary": "This satirical article offers unconventional and often humorous advice for combating light pollution, ranging from a dark-humored suggestion of using a shotgun on offending lights to more 'persuasive' tactics. It primarily illustrates a dialogue where an amateur astronomer tries to convince a truck stop owner to reduce excessive lighting by appealing to his financial, security, and patriotic concerns, rather than mentioning astronomy. The piece highlights the challenges of dark sky preservation with a strong dose of irony.",
+      "categories": [
+        "Humor",
+        "Light Pollution Advocacy",
+        "Satire",
+        "Dark Sky Preservation Challenges"
+      ],
+      "keywords": [
+        "Light pollution",
+        "dark sky",
+        "mercury vapor lights",
+        "persuasion",
+        "satire",
+        "humor",
+        "energy efficiency",
+        "security",
+        "astronomy challenges",
+        "Denton County Astronomical Society"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-09-private-astronomy",
+      "documentId": "eph81-09",
+      "title": "Private Astronomy",
+      "summary": "The poem \"Private Astronomy\" describes the deeply personal and solitary experience of stargazing, emphasizing a sense of wildness, wonder, and intimate connection with the universe away from others. The author revels in imaginative contemplation of cosmic sounds, the perceived asymmetry of time, and a profound, private joy derived from witnessing the night sky. This cherished communion with the cosmos, a \"fine little ache,\" is kept secret and tucked away as dawn approaches.",
+      "categories": [
+        "Poetry",
+        "Personal Reflection",
+        "Observational Astronomy",
+        "Contemplation"
+      ],
+      "keywords": [
+        "Private Astronomy",
+        "Stargazing",
+        "Night Sky",
+        "Universe",
+        "Imagination",
+        "Solitude",
+        "Wonder",
+        "Time",
+        "Personal Experience",
+        "Poem"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-09-sjaa-ephemeris",
+      "documentId": "eph81-09",
+      "title": "SJAA Ephemeris",
+      "summary": "The \"SJAA Ephemeris\" is a monthly publication of the San Jose Astronomical Association, serving as a bulletin for its members. It provides contact information for the editor and club officers, alongside details regarding membership and bulletin subscription fees.",
+      "categories": [
+        "Club Bulletin",
+        "Organizational Information",
+        "Membership Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA Ephemeris",
+        "Astronomical Club",
+        "Club Officers",
+        "Membership Fees",
+        "Subscription",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8109/Eph81_09.pdf",
+      "txtPath": "8109/Eph81_09.md"
+    }
+  ]
+}

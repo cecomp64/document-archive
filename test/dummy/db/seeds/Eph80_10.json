@@ -1,0 +1,357 @@
+{
+  "articles": [
+    {
+      "id": "eph80-10-oct-nov-80",
+      "documentId": "eph80-10",
+      "title": "OCT NOV '80",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) schedule of events for October and November 1980. It details multiple star parties, indoor star parties, general meetings featuring speakers on astrophotography and 'Mars in 3-D,' and board meetings. Significant astronomical events such as New and Full Moons, the end of Daylight Savings Time, and Voyager 1 reaching Saturn are also noted.",
+      "categories": [
+        "Club Events",
+        "Astronomical Observations",
+        "Meetings",
+        "News",
+        "Calendar"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star party",
+        "General meeting",
+        "Board meeting",
+        "Astrophotography",
+        "Mars in 3-D",
+        "Voyager 1",
+        "Saturn",
+        "Grazing occultation",
+        "New Moon",
+        "Full Moon",
+        "Daylight Savings Time",
+        "October 1980",
+        "November 1980"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph80-10-observations",
+      "documentId": "eph80-10",
+      "title": "Observations",
+      "summary": "The article announces Jack Zelders as the winner of the SJAA logo contest and details an upcoming \"Space Over Time\" seminar by UC Berkeley Extension. It also reports on the successful AANC conference, highlighting key lectures and member awards, and provides an update on NASA's extended Space Transportation Systems program, including plans for manned space platforms. Finally, it addresses SJAA bulletin subscription renewals and notes several new space initiatives.",
+      "categories": [
+        "Club News",
+        "Astronomy Events",
+        "Space Program News",
+        "Member Recognition",
+        "Publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Logo Contest",
+        "Jack Zelders",
+        "UC Berkeley Extension",
+        "Space Over Time",
+        "AANC Conference",
+        "NASA",
+        "Space Transportation Systems",
+        "Space Shuttle",
+        "Manned Space Platform",
+        "Telescope Making",
+        "Master Club",
+        "Membership"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-10-graze-information",
+      "documentId": "eph80-10",
+      "title": "GRAZE INFORMATION",
+      "summary": "This document details an upcoming lunar graze event involving star 11 Leonis ZC1420, scheduled for early morning October 4, 1980, near Patterson, California. It provides comprehensive information including precise observation times, location and directions, contact details for weather and site updates, communication protocols via CB radio, and extensive astronomical data for the event. Observers are encouraged to arrive on Friday for a 'linear star party' preceding the main observation.",
+      "categories": [
+        "Astronomical Event",
+        "Observing Guide",
+        "Field Notes",
+        "Logistics and Planning"
+      ],
+      "keywords": [
+        "Lunar graze",
+        "Stellar occultation",
+        "11 Leonis ZC1420",
+        "Astronomical observation",
+        "October 1980",
+        "Patterson California",
+        "Star party",
+        "Observer instructions",
+        "CB radio"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-10-comet-comments",
+      "documentId": "eph80-10",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on recent comet activity, including the discovery of Comet Russell (1980L) and the recovery of Periodic Comet Harrington (1980m). It also notes that three returning comets are brightening for observation in the coming months, with ephemeris information provided. Both newly detailed comets are currently quite faint.",
+      "categories": [
+        "Astronomy News",
+        "Observing Reports",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Russell (1980L)",
+        "Periodic Comet Harrington (1980m)",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Observation",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-p-comet-stephen-oterma-1980g",
+      "documentId": "eph80-10",
+      "title": "P/Comet Stephen-Oterma (1980g)",
+      "summary": "This document provides an ephemeris for P/Comet Stephen-Oterma (1980g), listing its predicted celestial coordinates and estimated magnitudes. The data covers dates from September 28 to November 7, indicating changes in its right ascension, declination, and a gradual brightening over the period.",
+      "categories": [
+        "Ephemeris Data",
+        "Cometology",
+        "Astronomical Data",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "P/Comet Stephen-Oterma",
+        "1980g",
+        "Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Astronomical observation",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-p-comet-tuttle-1980h",
+      "documentId": "eph80-10",
+      "title": "P/Comet Tuttle (1980h)",
+      "summary": "The article presents an ephemeris for P/Comet Tuttle (1980h), detailing its right ascension, declination, and apparent magnitude over a period from late September to early November 1980. The provided observational data indicates that the comet steadily brightened from magnitude 10.9 to 9.0 during this time, alongside its changing celestial coordinates.",
+      "categories": [
+        "Observational Data",
+        "Comets",
+        "Ephemeris",
+        "Astronomy"
+      ],
+      "keywords": [
+        "P/Comet Tuttle",
+        "1980h",
+        "Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Observing Report",
+        "Celestial Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-p-comet-encke",
+      "documentId": "eph80-10",
+      "title": "P/Comet Encke",
+      "summary": "This article serves as an observing guide for P/Comet Encke, providing its predicted celestial path, magnitude estimates, and prime viewing periods from late September through early December. It highlights the comet's rapid brightening, making it a binocular object as it approaches Earth in late October, and details its movement across various constellations. The author notes uncertainties in magnitude projections but encourages astronomers to plot and observe its trajectory, especially as it passes near M1 and Comet Tuttle.",
+      "categories": [
+        "Observing Guide",
+        "Cometology",
+        "Ephemeris",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "P/Comet Encke",
+        "Comet observation",
+        "Magnitude",
+        "Celestial path",
+        "Right Ascension",
+        "Declination",
+        "Taurus",
+        "Orion",
+        "Ursa Major",
+        "Leo Minor",
+        "Leo",
+        "Auriga",
+        "Lynx",
+        "M1 (Crab Nebula)",
+        "Comet Tuttle",
+        "Binocular object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-comets-in-their-eyes",
+      "documentId": "eph80-10",
+      "title": "Comets In Their Eyes:",
+      "summary": "The article highlights significant contributions to comet and nova discoveries by dedicated observers. George Alcock, a retired school teacher, found four comets and four novae after extensive searching, while the Czechoslovakia Group, based at Skalnate Pleso Observatory, discovered 19 comets, with Anton Mrkos credited for nine of them. These individuals and teams dedicated extensive hours to their successful astronomical searches.",
+      "categories": [
+        "observational astronomy",
+        "comet discovery",
+        "nova discovery",
+        "astronomer profiles",
+        "history of astronomy"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Nova discovery",
+        "George Alcock",
+        "Czechoslovakia Group",
+        "Anton Mrkos",
+        "Amateur astronomers",
+        "Skalnate Pleso Observatory",
+        "Telescope",
+        "Binoculars"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-10-tehachapi-teroubles",
+      "documentId": "eph80-10",
+      "title": "Tehachapi Teroubles",
+      "summary": "The article recounts a challenging trip to the ninth annual Tehachapi Telescope Togetherness Night, fraught with travel difficulties, confusing navigation, and ultimately, severe clouds and wind that largely ruined nighttime star observing. Despite the \"teroubles,\" the attendees managed some excellent solar observations the following morning, viewing sunspots and a diffuse prominence, before enjoying an afternoon at a local airport.",
+      "categories": [
+        "observing report",
+        "event recap",
+        "personal experience",
+        "astronomy",
+        "travelogue"
+      ],
+      "keywords": [
+        "Tehachapi Telescope Togetherness Night",
+        "star party",
+        "observing",
+        "astronomy",
+        "weather conditions",
+        "clouds",
+        "wind",
+        "solar observation",
+        "sunspots",
+        "prominences",
+        "Tehachapi Mountain County Park",
+        "Steve Edburg",
+        "Patty Winter",
+        "Bakersfield"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-the-september-sjaa-star-party",
+      "documentId": "eph80-10",
+      "title": "The September SJAA Star Party",
+      "summary": "The September 6th San Jose Astronomical Association (SJAA) Star Party at Mt. Umunhum was well-attended by club members, including many new faces, despite significant wind. Attendees enjoyed observing nebulae and clusters from the unique site of an old military base, though deep-sky objects were challenging due to conditions and strong winds picking up later in the evening. The author expressed hope for a return visit to the site.",
+      "categories": [
+        "observing report",
+        "club event",
+        "star party",
+        "event review"
+      ],
+      "keywords": [
+        "SJAA",
+        "star party",
+        "Mt. Umunhum",
+        "astronomy club",
+        "observing conditions",
+        "nebulae",
+        "clusters",
+        "wind",
+        "deep-sky objects"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-10-sjaa-profiles-by-frank-dibbell",
+      "documentId": "eph80-10",
+      "title": "SJAA PROFILES by Frank Dibbell",
+      "summary": "This article profiles Tony Bueno, an amateur astronomer whose interest began during the Sputnik era in Cuba with a 5\" refractor and planetary observing. After emigrating to the US, he developed a passion for variable stars, believing amateurs can make significant contributions in this area. Tony has now volunteered as the SJAA's variable star program coordinator, setting up an information package and organizing a team for interested members, including beginners.",
+      "categories": [
+        "Member Profile",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Variable Star Observing"
+      ],
+      "keywords": [
+        "Tony Bueno",
+        "SJAA",
+        "Variable Stars",
+        "Amateur Astronomy",
+        "Planetary Observing",
+        "Sputnik era",
+        "Observatory",
+        "Club Program Coordinator"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-10-notes-on-the-club-6-reflector",
+      "documentId": "eph80-10",
+      "title": "NOTES ON THE CLUB 6\" REFLECTOR",
+      "summary": "The club's 6-inch f9 Newtonian reflector is currently undergoing significant renovation, including a new paint job and a rebuilt 45° pipe mount modified with the \"Dibbell Wedge\" to make it truly equatorial. Once completed, this telescope will be showcased at all club star parties and made available for use by any club member.",
+      "categories": [
+        "Club News",
+        "Equipment Report",
+        "Technical"
+      ],
+      "keywords": [
+        "6-inch reflector",
+        "Newtonian telescope",
+        "telescope renovation",
+        "Dibbell Wedge",
+        "equatorial mount",
+        "club telescope",
+        "star parties"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-10-want-ads",
+      "documentId": "eph80-10",
+      "title": "WANT ADS",
+      "summary": "This 'WANT ADS' section features an advertisement from Marty Hemmerling seeking to purchase a 12\" or larger parabolic mirror for a telescope. Additionally, the Astronomical Society of the Pacific (ASP) is offering a complimentary guide to national amateur astronomy organizations, available upon request with a self-addressed, stamped envelope.",
+      "categories": [
+        "Classifieds",
+        "Amateur Astronomy",
+        "Equipment",
+        "Resources",
+        "Announcements"
+      ],
+      "keywords": [
+        "parabolic mirror",
+        "telescope equipment",
+        "amateur astronomy",
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "astronomy organizations",
+        "guide",
+        "wanted ad"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8010/Eph80_10.pdf",
+      "txtPath": "8010/Eph80_10.md"
+    }
+  ]
+}

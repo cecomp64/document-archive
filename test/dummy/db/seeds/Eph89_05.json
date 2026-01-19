@@ -1,0 +1,670 @@
+{
+  "articles": [
+    {
+      "id": "eph89-05-may-1989",
+      "documentId": "eph89-05",
+      "title": "MAY 1989",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) calendar of events for May and June 1989. It details star parties at locations like Henry Coe State Park and Grant Ranch, general meetings featuring speakers like Bob Fingerhut on New Zealand astrophotography and Norm Sperling on the history of astronomy, and SJAA board meetings. The schedule also includes introductory observational astronomy classes, a public observing session, and notes on National Astronomy Day and the Riverside Telescope-Maker's Conference.",
+      "categories": [
+        "Events Calendar",
+        "Meetings",
+        "Observing Events",
+        "Educational Programs",
+        "Club News"
+      ],
+      "keywords": [
+        "May 1989",
+        "June 1989",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star Party",
+        "Henry Coe State Park",
+        "Grant Ranch County Park",
+        "Fremont Peak Observatory",
+        "Red Cross Building",
+        "Bob Fingerhut",
+        "Astrophotography",
+        "New Zealand",
+        "National Astronomy Day",
+        "Observational Astronomy Class",
+        "Riverside Telescope-Maker's Conference",
+        "Halls Valley Astronomical Group",
+        "Norm Sperling",
+        "History of Astronomy",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-field-of-view",
+      "documentId": "eph89-05",
+      "title": "FIELD OF VIEW",
+      "summary": "This article reports on the success of the 9th Annual SJAA/Bay Area Astronomical Auction and Swap Meet, with a detailed story to follow in the June issue of The Ephemeris. It also provides crucial information regarding reservations for the upcoming Yosemite Star Party, scheduled for June 30 - July 1, with bookings opening on May 13 at 10:00 am and a limit of 30 participants.",
+      "categories": [
+        "Events",
+        "Club Announcements",
+        "Observing Reports",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "Bay Area Astronomical Auction",
+        "Swap Meet",
+        "Yosemite Star Party",
+        "Reservations",
+        "Astronomy Events",
+        "Public Outreach"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph89-05-mt-diablo-invitational",
+      "documentId": "eph89-05",
+      "title": "MT. DIABLO INVITATIONAL",
+      "summary": "The Mt. Diablo Astronomical Society is hosting its first annual Invitational Star Party on Saturday, June 3rd. Attendees must contact Elmer Reeve in advance to register and pay a $5 fee, as gates will be closed and access will be restricted to preset times. This event promises a focused observing experience without casual traffic.",
+      "categories": [
+        "events",
+        "observing reports",
+        "club activity",
+        "star party"
+      ],
+      "keywords": [
+        "Mt. Diablo Astronomical Society",
+        "Invitational Star Party",
+        "June 3",
+        "Elmer Reeve",
+        "Pleasant Hill",
+        "observing event",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-widely-observed-partial-eclipse-of-the-sun",
+      "documentId": "eph89-05",
+      "title": "WIDELY OBSERVED PARTIAL ECLIPSE OF THE SUN",
+      "summary": "The article reports on the widely observed partial solar eclipse on March 7th, noting that many, including both experienced observers and the general public, viewed the early morning event, often from their workplaces. Some observed it through morning fog, which acted as a natural filter, while others like Denise Hutson used proper solar filters and equipment (C90 telescope) to capture detailed sequences.",
+      "categories": [
+        "observing report",
+        "solar event",
+        "astronomy",
+        "public observation"
+      ],
+      "keywords": [
+        "partial eclipse",
+        "solar eclipse",
+        "March 7th",
+        "solar observing",
+        "solar filter",
+        "C90",
+        "Denise Hutson",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-open-house-at-fremont-peak-observatory",
+      "documentId": "eph89-05",
+      "title": "OPEN HOUSE AT FREMONT PEAK OBSERVATORY",
+      "summary": "The Fremont Peak Observatory Association (FPOA) is hosting an open house on Saturday, May 6, for Bay Area amateur astronomers. This event will showcase the observatory's newly coated 30\" telescope mirror and recent enhancements, aiming to improve the observing experience. It also serves as a pre-celebration for Astronomy Day on May 13.",
+      "categories": [
+        "Events",
+        "Observatory News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak Observatory",
+        "Open House",
+        "FPOA",
+        "Amateur Astronomers",
+        "Bay Area",
+        "30 inch telescope",
+        "Astronomy Day",
+        "Observatory enhancements"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-outstanding-april-star-party-at-the-peak",
+      "documentId": "eph89-05",
+      "title": "OUTSTANDING APRIL STAR PARTY AT THE PEAK",
+      "summary": "An \"Outstanding April Star Party\" at Fremont Peak State Park drew nearly 200 amateur astronomers who enjoyed a warm evening. Key highlights included a beautiful lunar conjunction with the Pleiades star cluster and observations of the strikingly red carbon star V Hydrae, which displayed varying colors through different telescopes. The event served to rekindle interest in amateur astronomy and highlighted overlooked celestial objects.",
+      "categories": [
+        "events",
+        "observing reports",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "star party",
+        "Fremont Peak State Park",
+        "lunar conjunction",
+        "Pleiades",
+        "V Hydrae",
+        "carbon star",
+        "observing",
+        "telescopes",
+        "astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-may-starry-nights-by-richard-stanton",
+      "documentId": "eph89-05",
+      "title": "MAY STARRY NIGHTS BY: RICHARD STANTON",
+      "summary": "Richard Stanton's \"MAY STARRY NIGHTS\" article provides a guide to astronomical observations for the month of May, immediately highlighting meteor showers. It specifically details the Phi Bootids, a lesser-known minor shower that reaches its maximum on May 1st and is active from April 16 through May 12.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Celestial Events",
+        "Meteor Showers"
+      ],
+      "keywords": [
+        "May",
+        "Starry Nights",
+        "Richard Stanton",
+        "Meteors",
+        "Phi Bootids",
+        "Meteor Shower",
+        "Astronomy Events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph89-05-lunar-phases",
+      "documentId": "eph89-05",
+      "title": "LUNAR PHASES",
+      "summary": "This document provides a tabular overview of the lunar phases for a specific period, detailing the time of each phase (New Moon, First Quarter, Full Moon, Last Quarter). For each phase, it lists the corresponding date, as well as the moon's rise, transit, and set times. It serves as a concise astronomical calendar for lunar events.",
+      "categories": [
+        "Astronomical Data",
+        "Celestial Events",
+        "Calendar"
+      ],
+      "keywords": [
+        "Lunar Phases",
+        "Moon",
+        "New Moon",
+        "First Quarter",
+        "Full Moon",
+        "Last Quarter",
+        "Rise Time",
+        "Set Time",
+        "Transit Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-nearer-planets",
+      "documentId": "eph89-05",
+      "title": "NEARER PLANETS",
+      "summary": "This document provides astronomical data for the 'Nearer Planets' (Mercury, Venus, Mars, Jupiter, and Saturn) across three dates in May. For each planet, it lists its distance in Astronomical Units (A.U.), apparent magnitude, and three specific times, likely indicating rise, transit, and set or observational windows. The data is presented for the 7th, 17th, and 27th of May.",
+      "categories": [
+        "Astronomy",
+        "Planetary Data",
+        "Observational Guide",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Planets",
+        "Magnitude",
+        "Astronomical Unit",
+        "Observing Times",
+        "May",
+        "Celestial Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-sol",
+      "documentId": "eph89-05",
+      "title": "SOL",
+      "summary": "This document, titled \"SOL,\" presents a structured log or schedule of astronomical observations. It lists specific celestial coordinates (Right Ascension and Declination) for three different objects, each paired with a date in May and three distinct times. This format suggests a plan or record of when certain sky regions were, or are intended to be, observed.",
+      "categories": [
+        "Observational Schedule",
+        "Astronomical Data",
+        "Log"
+      ],
+      "keywords": [
+        "Astronomical coordinates",
+        "Right Ascension",
+        "Declination",
+        "Celestial observation",
+        "Schedule",
+        "Astronomy",
+        "Time",
+        "Date"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-astronomical-twilight",
+      "documentId": "eph89-05",
+      "title": "ASTRONOMICAL TWILIGHT",
+      "summary": "This document provides a brief listing of Julian Dates and corresponding calendar dates with start and end times for astronomical twilight. It details these periods for specific days in May, showing the daily variation in twilight duration.",
+      "categories": [
+        "Almanac",
+        "Observing Data",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Astronomical Twilight",
+        "Julian Date",
+        "twilight times",
+        "observation planning",
+        "dates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-sidereal-time",
+      "documentId": "eph89-05",
+      "title": "SIDEREAL TIME",
+      "summary": "This article outlines a variety of astronomical events and observing opportunities for the month of May, providing details on Sidereal Time and several meteor showers, including the major Eta Aquarids. It also covers a lunar occultation of the star Upsilon Leonis, provides tracking information for bright minor planets like Vesta, Amphitrite, and Hygiea, and offers a \"Deep Sky Challenge\" to locate the elusive, interacting \"Mice\" galaxies in Coma Berenices. The content is tailored for amateur astronomers, including specific dates, times, magnitudes, and coordinates.",
+      "categories": [
+        "astronomical events",
+        "observing guide",
+        "meteor showers",
+        "lunar occultations",
+        "minor planets",
+        "deep sky objects",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Sidereal Time",
+        "meteor showers",
+        "Eta Aquarids",
+        "lunar occultation",
+        "Upsilon Leonis",
+        "minor planets",
+        "asteroids",
+        "Vesta",
+        "Amphitrite",
+        "Hygiea",
+        "Deep Sky Challenge",
+        "Mice Galaxies",
+        "Coma Berenices",
+        "observing tips",
+        "May events"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph89-05-astro-ads",
+      "documentId": "eph89-05",
+      "title": "ASTRO ADS",
+      "summary": "This document is a classifieds section, 'ASTRO ADS,' offering free listings for non-commercial astronomical products and services. It features numerous advertisements for various telescopes (Celestron C8s, Meade, a large apochromatic refractor), accessories like motor drives and mounts, and used astronomy publications. The section also provides contact information for ad submissions and sellers, and briefly mentions an FPOA open house event.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "Publications",
+        "Community Announcements",
+        "Buying and Selling"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Celestron",
+        "Meade",
+        "Apochromatic Refractor",
+        "Astronomical accessories",
+        "Mounts",
+        "Eyepieces",
+        "Astrophotography",
+        "Sky and Telescope",
+        "Mercury magazine",
+        "Scientific American",
+        "Used equipment",
+        "For sale",
+        "Wanted"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-ending-the-shakes-by-john-gleason",
+      "documentId": "eph89-05",
+      "title": "ENDING THE SHAKES BY: JOHN GLEASON",
+      "summary": "John Gleason's article \"ENDING THE SHAKES\" reviews \"Shake-Enders\" foot pads from Epoch Instruments, presented as a crucial accessory to address the persistent problem of instability and lack of rigidity in portable telescope mounts. Despite advancements in high-tech telescope controls, the fundamental issue of a shaky mount remains, making these foot pads a noteworthy solution.",
+      "categories": [
+        "Product Review",
+        "Telescope Accessories",
+        "Astronomy Equipment",
+        "Technical"
+      ],
+      "keywords": [
+        "Shake-Enders",
+        "Epoch Instruments",
+        "Telescope accessory",
+        "Telescope mount",
+        "Stability",
+        "Rigidity",
+        "Portable telescope",
+        "John Gleason"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph89-05-portable-telescopes-and-vibration",
+      "documentId": "eph89-05",
+      "title": "PORTABLE TELESCOPES AND VIBRATION",
+      "summary": "This article discusses the persistent problem of image vibration in portable telescopes, attributing it to unstable mountings and tripods. It introduces a cost-effective solution, \"Shake-Enders,\" a proprietary dampening material designed to absorb vibrations. Through personal experience and demonstrations, the author shows how this $60 product significantly reduces vibration dampening times, making observing and astrophotography more practical for various telescope setups.",
+      "categories": [
+        "Product Review",
+        "Telescope Accessories",
+        "Observing Report",
+        "Astrophotography",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Portable Telescopes",
+        "Image Vibration",
+        "Shake-Enders",
+        "Dampening Material",
+        "Telescope Tripod",
+        "Schmidt Cassegrain",
+        "Equatorial Mount",
+        "Vibration Reduction",
+        "Astrophotography",
+        "Observing Conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-by-don-machholz",
+      "documentId": "eph89-05",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "The article reports the recent discovery of two faint, periodic comets. Currently, there are no bright comets visible for observers in the Northern Hemisphere, indicating a quiet period for comet viewing.",
+      "categories": [
+        "observing reports",
+        "news",
+        "discoveries"
+      ],
+      "keywords": [
+        "comets",
+        "discovery",
+        "periodic comets",
+        "Northern Hemisphere",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph89-05-periodic-comet-parker-hartley-1989i",
+      "documentId": "eph89-05",
+      "title": "Periodic Comet Parker-Hartley (1989i)",
+      "summary": "Comet Parker-Hartley (1989i) was discovered by Quentin Parker and Malcolm Hartley at Siding Spring Observatory on March 2, 1989. Previously identified as a minor planet (1986 TF), its orbit was significantly altered by a close encounter with Jupiter in 1984. This interaction changed its path from a nearly circular 4.4 AU perihelion to an 8.9-year oval orbit with a 3.0 AU perihelion, having passed closest to the sun in August 1987 and now dimming.",
+      "categories": [
+        "Comet Discovery",
+        "Astronomy News",
+        "Orbital Dynamics",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Comet Parker-Hartley",
+        "1989i",
+        "Quentin Parker",
+        "Malcolm Hartley",
+        "Siding Spring Observatory",
+        "Comet discovery",
+        "Minor planet",
+        "1986 TF",
+        "Jupiter encounter",
+        "Orbital mechanics",
+        "Perihelion",
+        "Orbit change"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-periodic-comet-shoemaker-holt-2-1989i",
+      "documentId": "eph89-05",
+      "title": "Periodic Comet Shoemaker-Holt 2 (1989i)",
+      "summary": "Periodic Comet Shoemaker-Holt 2 (1989i) was discovered on March 9 by Carolyn and Eugene Shoemaker, and Henry Holt using the 18\" Schmidt at Mt. Palomar. It has an orbital period of 7.8 years, was magnitude 13 at discovery, and reached perihelion at 2.70 AU last September.",
+      "categories": [
+        "Comet Discovery",
+        "Astronomy News",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Comet Shoemaker-Holt 2",
+        "1989i",
+        "Periodic Comet",
+        "Shoemaker-Holt",
+        "Mt. Palomar",
+        "Orbital Period",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-seeking-comets",
+      "documentId": "eph89-05",
+      "title": "SEEKING COMETS",
+      "summary": "This article analyzes the discovery time of 45 visually found comets between 1975 and 1988 relative to their perihelion. It reveals that evening sky comets are typically discovered much earlier before perihelion (27.8 days) compared to morning sky comets (5.4 days), primarily because evening comets have yet to reach the solar vicinity. A brief examination of orbital direction (direct vs. retrograde) showed minimal difference in discovery timing.",
+      "categories": [
+        "Cometary Science",
+        "Astronomical Observation",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet discovery",
+        "Perihelion",
+        "Morning sky",
+        "Evening sky",
+        "Orbital mechanics",
+        "Astronomical survey"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-observing-from-the-pinnacles-by-edward-l-hillyer",
+      "documentId": "eph89-05",
+      "title": "OBSERVING FROM THE PINNACLES BY EDWARD L. HILLYER",
+      "summary": "Edward L. Hillyer evaluates Pinnacles, specifically the West Pinnacles area near the entrance, as a superior astronomical observing site compared to Fremont Peak. He highlights its darker skies, minimal sky-glow, and lack of summer fog, which allow for excellent views of deep-sky objects and the Milky Way. The article also provides detailed directions to this preferred 1,700 ft. elevation observing spot.",
+      "categories": [
+        "Observing Report",
+        "Site Review",
+        "Practical Information"
+      ],
+      "keywords": [
+        "Pinnacles National Monument",
+        "Observing site",
+        "Fremont Peak",
+        "Sky-glow",
+        "Deep-sky objects",
+        "Milky Way",
+        "Star gazing",
+        "West Pinnacles",
+        "SJAA"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph89-05-thinking-big-the-group-70-telescope-project-by-john-w-briggs",
+      "documentId": "eph89-05",
+      "title": "THINKING BIG: THE GROUP 70 TELESCOPE PROJECT BY: JOHN W. BRIGGS",
+      "summary": "Group 70, an amateur astronomy organization in the San Francisco Bay area, is undertaking the ambitious project of building and operating a 72-inch computer-controlled altazimuth telescope. They successfully raised over $30,000 to acquire a 72-inch Pyrex mirror blank and plan for remote-access observing, making the instrument available for both amateur research and professional collaborations. Driven by the expertise of amateur telescope makers, engineers, and scientists, the project emphasizes community involvement, innovative technology, and a structured, 'pay-as-you-go' approach to ensure its success.",
+      "categories": [
+        "Amateur Astronomy Project",
+        "Telescope Construction",
+        "Fundraising",
+        "Community Collaboration",
+        "Astronomical Instrumentation"
+      ],
+      "keywords": [
+        "Group 70",
+        "72-inch telescope",
+        "Amateur astronomy",
+        "Telescope project",
+        "Remote-access observing",
+        "Altazimuth mounting",
+        "Pyrex mirror blank",
+        "San Francisco Bay Area",
+        "Automatic Telescope Instruction Set (ATIS)",
+        "Fremont Peak telescope",
+        "John W. Briggs"
+      ],
+      "pageStart": 8,
+      "pageEnd": 70
+    },
+    {
+      "id": "eph89-05-general-meetings",
+      "documentId": "eph89-05",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Red Cross building in Los Gatos, California, featuring guest speakers on various astronomical topics and informal \"Indoor Star Parties.\" These meetings cater to a wide range of interests, from astrophotography to telescope making, in a friendly atmosphere. Detailed directions, time (8 PM), and date (1st Saturday of each month) for the meetings are provided.",
+      "categories": [
+        "Events",
+        "Meetings Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos",
+        "Red Cross building",
+        "Guest speakers",
+        "Astronomical topics",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep sky observation",
+        "Telescope making",
+        "Meeting schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-indoor-star-parties",
+      "documentId": "eph89-05",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "The article describes \"Indoor Star Parties,\" informal Saturday evening gatherings for amateur astronomers to socialize, discuss astronomy, and share equipment. These events often feature telescope observations in the parking lot, astrophotography slideshows, club board meetings, and an introductory astronomy workshop. Members are encouraged to bring their telescopes and accessories to share with the group.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Social",
+        "Education"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Astronomy Club",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "Social Gatherings",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-field-expeditions",
+      "documentId": "eph89-05",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA organizes \"Star Parties\" for astronomical observation on Saturdays near the New Moon. These events are held at various locations, ranging from sites close to San Jose to destinations as far as Yosemite National Park. Participants are advised to consult the EPHEMERIS for specific star party locations.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Observing Events",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomical observation",
+        "New Moon",
+        "SJAA",
+        "Yosemite National Park",
+        "EPHEMERIS",
+        "Field Expeditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-05-fremont-peak-state-park",
+      "documentId": "eph89-05",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly popular observing location for Bay Area amateur astronomers, known for serious deep sky observing and astrophotography during New Moon weekends. Located near San Juan Bautista, it attracts 50-100 telescopes during summer months, with the San Jose Astronomical Association (SJAA) often setting up in Coulter Camp. The article also provides contact information for the SJAA's officers and board of directors.",
+      "categories": [
+        "Observing Site Guide",
+        "Amateur Astronomy",
+        "Club Information",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "New Moon",
+        "Bay Area",
+        "Amateur Astronomy",
+        "Coulter Camp",
+        "California"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph89-05-san-jose-astronomical-association-membership-application",
+      "documentId": "eph89-05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership types—Membership Only, Membership/SAT, and Junior (under 18)—along with their respective fees, and provides instructions for submitting the application and payment. Contact information for the treasurer and details for the SJAA Ephemeris are also included.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Astronomical Association",
+        "Club Information",
+        "Non-profit"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Membership fees",
+        "Junior membership",
+        "Renewal",
+        "Payment",
+        "Milpitas, CA",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph89-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8905/Eph89_05.pdf",
+      "txtPath": "8905/Eph89_05.md"
+    }
+  ]
+}

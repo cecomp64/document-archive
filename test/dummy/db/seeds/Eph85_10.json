@@ -1,0 +1,1626 @@
+{
+  "articles": [
+    {
+      "id": "eph85-10-october-1985",
+      "documentId": "eph85-10",
+      "title": "OCTOBER 1985",
+      "summary": "This document outlines an event schedule for October and November 1985, primarily for an astronomical organization. Key events include general meetings featuring presentations on observing from Mauna Kea and a Hubble Space Telescope progress report, along with multiple star parties and astronomical observation field expeditions at various parks. It also notes board meetings for both months.",
+      "categories": [
+        "events",
+        "meetings",
+        "observing reports",
+        "news"
+      ],
+      "keywords": [
+        "October 1985",
+        "November 1985",
+        "Dr. Jack Marling",
+        "Mauna Kea",
+        "Mauna Kea Observatory",
+        "Space Telescope",
+        "Hubble Space Telescope",
+        "General Meeting",
+        "Star Party",
+        "Field Expedition",
+        "Astronomical Observation",
+        "Board Meeting",
+        "Los Gatos Red Cross Building",
+        "Fremont Peak State Park",
+        "Grant Ranch County Park",
+        "Henry Coe State Park",
+        "Lumicon",
+        "Lockheed Engineering"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-calico-observatory",
+      "documentId": "eph85-10",
+      "title": "CALICO OBSERVATORY",
+      "summary": "This article from CALICO OBSERVATORY details recent observations of Jupiter's Great Red Spot (GRS), noting its improved appearance with a reddish copper or metallic rust color, making it easier to locate. Observers discuss optimal magnifications and comment on the Spot's current, pleasing coloration compared to past observations. The column also provides a schedule of GRS meridian transit times and mentions a temporary suspension of observations due to Jupiter's low position later in the year, resuming in mid-1986.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Observation",
+        "Telescope",
+        "Magnification",
+        "Meridian Transit",
+        "Jim Van Nuland",
+        "Paul Berry",
+        "Gerry",
+        "1986"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph85-10-lesat-repaired-on-shuttle-flight-51-i",
+      "documentId": "eph85-10",
+      "title": "LESAT REPAIRED ON SHUTTLE FLIGHT 51-I",
+      "summary": "Space Shuttle Discovery's mission 51-I successfully deployed three communication satellites and repaired the Leasat F3 satellite during spacewalks, bypassing a failed sequencer. Despite early damage to the shuttle's robot arm, which complicated the repair, ground controllers regained control of Leasat F3. The mission also featured improved heat sensors and an early deployment of Aussat-1.",
+      "categories": [
+        "Space Mission",
+        "Satellite Operations",
+        "Space Exploration News",
+        "Technical Repair"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Mission 51-I",
+        "LESAT F3 repair",
+        "Satellite deployment",
+        "Spacewalks",
+        "Robot arm damage",
+        "Communication satellites",
+        "Sequencer bypass"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-spacelab-2-preliminary-results",
+      "documentId": "eph85-10",
+      "title": "SPACELAB 2 PRELIMINARY RESULTS",
+      "summary": "Initial results from Spacelab 2 indicate that fears of heat-induced fogging on film for ultraviolet solar pictures were largely unfounded, yielding thousands of clear images despite minor end-of-roll issues. Separately, a competition involving Coke cans demonstrated better dispensing performance for carbonated soft drinks, though higher carbonation levels resulted in an unpleasant taste, and the unrefrigerated drinks were unappealing overall.",
+      "categories": [
+        "Space Mission Results",
+        "Observing Reports",
+        "Science News"
+      ],
+      "keywords": [
+        "Spacelab 2",
+        "Preliminary Results",
+        "Ultraviolet Photography",
+        "Solar Images",
+        "Film Fogging",
+        "Space Experiment",
+        "Carbonated Drinks",
+        "Coke Cans",
+        "Space Shuttle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-japanese-halley-s-comet-satellite-launched",
+      "documentId": "eph85-10",
+      "title": "JAPANESE HALLEY'S COMET SATELLITE LAUNCHED",
+      "summary": "Japan successfully launched its Halley's Comet satellite, Planet-A, on August 19. Named Suisei, the satellite is scheduled to fly past Halley's Comet on March 8, 1986, at a distance of 130,000 miles.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Japan",
+        "Satellite Launch",
+        "Suisei",
+        "Planet-A",
+        "Space Mission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-japanese-shuttle-being-studied",
+      "documentId": "eph85-10",
+      "title": "JAPANESE SHUTTLE BEING STUDIED",
+      "summary": "Japan is initiating studies for a new space shuttle project, with a feasibility study planned for 1986 followed by a 6-7 year concept study. The envisioned vehicle, weighing 9000 kg, could be either manned or unmanned and would be launched using an H-2 rocket.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Aerospace Development",
+        "Future Projects"
+      ],
+      "keywords": [
+        "Japanese shuttle",
+        "Feasibility study",
+        "Concept study",
+        "H-2 vehicle",
+        "Space vehicle",
+        "Manned spaceflight",
+        "Unmanned spaceflight"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-atlantis-scheduled-for-oct-3-launch",
+      "documentId": "eph85-10",
+      "title": "ATLANTIS SCHEDULED FOR OCT. 3 LAUNCH",
+      "summary": "Atlantis' inaugural mission (51-J) is set for October 3rd, carrying a Department of Defense payload following a successful engine test. Other upcoming shuttle missions include Challenger's German Spacelab A-1 mission on October 30th and Columbia's flight with communication satellites and MSL-2 on December 20th. Shuttle landings at Kennedy Space Center are expected to resume in early 2024 once orbiters are equipped with enhanced nose-gear steering.",
+      "categories": [
+        "news",
+        "space missions",
+        "launch schedules",
+        "space shuttle program"
+      ],
+      "keywords": [
+        "Atlantis",
+        "Challenger",
+        "Columbia",
+        "launch",
+        "mission",
+        "Department of Defense",
+        "Spacelab A-1",
+        "Materials Science Laboratory MSL-2",
+        "Kennedy Space Center",
+        "KSC",
+        "nose-gear steering",
+        "space shuttle"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ground-breaking-for-400-inch-telescope",
+      "documentId": "eph85-10",
+      "title": "GROUND BREAKING FOR 400-INCH TELESCOPE",
+      "summary": "Groundbreaking for the new 400-inch telescope is scheduled for September on Mauna Kea in Hawaii. This cutting-edge telescope will feature 36 individually controlled hexagonal mirror segments.",
+      "categories": [
+        "News",
+        "Events",
+        "Astronomy Project",
+        "Construction Announcement"
+      ],
+      "keywords": [
+        "Groundbreaking",
+        "400-inch telescope",
+        "Mauna Kea",
+        "Hawaii",
+        "Mirror segments",
+        "Hexagonal mirrors",
+        "Telescope construction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ariane-launch-on-sept-12-fails",
+      "documentId": "eph85-10",
+      "title": "ARIANE LAUNCH ON SEPT. 12 FAILS",
+      "summary": "Europe's 15th Ariane mission, intended to launch two communication satellites, failed on September 12. The booster was destructed during its third stage flight due to an engine failure.",
+      "categories": [
+        "News",
+        "Space Launch Failure",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Ariane",
+        "launch failure",
+        "communication satellites",
+        "engine failure",
+        "booster destruction",
+        "space mission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-first-titan-3-booster-failure",
+      "documentId": "eph85-10",
+      "title": "FIRST TITAN 3 BOOSTER FAILURE",
+      "summary": "A Titan 3 booster experienced its first failure in 18 years during the launch of a military reconnaissance satellite from Vandenberg AFB on August 28th. The launch, which aimed to deploy the military satellite, was unsuccessful.",
+      "categories": [
+        "news",
+        "launch failure",
+        "space event",
+        "military operations"
+      ],
+      "keywords": [
+        "Titan 3 booster",
+        "launch failure",
+        "military reconnaissance satellite",
+        "Vandenberg AFB",
+        "space launch",
+        "satellite failure"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-first-vandenberg-shuttle-payload-declassified",
+      "documentId": "eph85-10",
+      "title": "FIRST VANDENBERG SHUTTLE PAYLOAD DECLASSIFIED",
+      "summary": "The first Space Shuttle payload from Vandenberg, scheduled for launch on March 20, 1986, has been declassified. It includes the TEAL RUBY satellite, designed for detecting aircraft from space, and the SDI Cirris infrared telescope, intended for obtaining atmospheric spectral data.",
+      "categories": [
+        "News",
+        "Space Technology",
+        "Defense",
+        "Historical Announcement",
+        "Declassification"
+      ],
+      "keywords": [
+        "Vandenberg",
+        "Space Shuttle",
+        "Payload",
+        "Declassification",
+        "TEAL RUBY",
+        "SDI Cirris",
+        "Satellite",
+        "Infrared Telescope",
+        "Space Defense",
+        "March 1986"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ice-explores-comet-giacobini-zinner",
+      "documentId": "eph85-10",
+      "title": "ICE EXPLORES COMET GIACOBINI-ZINNER",
+      "summary": "The International Cometary Explorer (ICE) spacecraft successfully conducted a flyby of Comet Giacobini-Zinner on September 11. During its encounter, ICE swept through the comet's tail to gather crucial data regarding the particles and fields present within it.",
+      "categories": [
+        "news",
+        "space exploration",
+        "mission report",
+        "astronomy"
+      ],
+      "keywords": [
+        "ICE",
+        "International Cometary Explorer",
+        "Comet Giacobini-Zinner",
+        "cometary flyby",
+        "comet tail",
+        "space mission",
+        "particles and fields data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-field-of-view",
+      "documentId": "eph85-10",
+      "title": "FIELD OF VIEW",
+      "summary": "John Gleason reflects on the memorable \"Summer of '85,\" an observing season that began with early sightings of Halley's Comet and featured unusually clear April skies perfect for extensive galaxy photography. He highlights a successful performance test of Bob Fingerhut's new 16-inch Newtonian reflector at Fremont Peak. The article signals the end of summer and the anticipation of winter observing.",
+      "categories": [
+        "observing report",
+        "amateur astronomy",
+        "historical reflection",
+        "equipment"
+      ],
+      "keywords": [
+        "John Gleason",
+        "Summer of '85",
+        "Fremont Peak",
+        "Halley's Comet",
+        "Pleiades",
+        "galaxy observing",
+        "telescopes",
+        "Bob Fingerhut",
+        "Newtonian reflector",
+        "star parties"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph85-10-celestial-tourist",
+      "documentId": "eph85-10",
+      "title": "CELESTIAL TOURIST",
+      "summary": "The article recaps a busy astronomy season from May to September, highlighting the Riverside Telescope Makers Conference where Don Machholz discovered his second comet and a controversial Celestron telescope sale by Scope City. It covers successful observing trips, the San Jose Astronomical Association (SJAA) achieving tax-exempt status, and the Fremont Peak Observatory Association's (FPOA) highly successful telescope sale to fund its 30-inch observatory project. The period concluded with anticipation for early sightings of Halley's Comet.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "News",
+        "Amateur Astronomy",
+        "Observatory Projects",
+        "Awards"
+      ],
+      "keywords": [
+        "Riverside Telescope Makers Conference",
+        "Big Bear Lake",
+        "Don Machholz",
+        "Comet discovery",
+        "Scope City",
+        "Celestron",
+        "Fremont Peak Observatory Association (FPOA)",
+        "Fremont Peak",
+        "Observatory project",
+        "Yosemite's Glacier Point",
+        "SJAA",
+        "Tax-exempt status",
+        "Telescope sale",
+        "Halley's Comet",
+        "Jupiter",
+        "Jack Zeiders",
+        "Amateur astronomy",
+        "Viewing conditions",
+        "Rodger W. Tuthill award",
+        "A.B. Gregory award"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-monster-star-party-at-fremont-peak-or-night-of-the-comet",
+      "documentId": "eph85-10",
+      "title": "MONSTER STAR PARTY AT FREMONT PEAK or: NIGHT OF THE COMET",
+      "summary": "Hundreds of astronomy enthusiasts gathered at Fremont Peak State Park on September 14th for a combined conference and star party, primarily to observe Comet Halley. The event saw an unprecedented crowd of over 400 people, filling all parking areas. Attendees engaged in telescope viewing, with notable instruments like an 18-inch Newtonian, and participated in door prize giveaways from organizations like the AANC and FPOA.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Amateur Astronomy",
+        "Community"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Comet Halley",
+        "Astronomy",
+        "Telescopes",
+        "Observing",
+        "Stefan's Quintet",
+        "AANC",
+        "FPOA"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph85-10-equipment-administrator",
+      "documentId": "eph85-10",
+      "title": "EQUIPMENT ADMINISTRATOR",
+      "summary": "The SJAA is addressing issues with tracking club equipment loaned to members, specifically a missing 2.5\" item. Members holding any SJAA equipment should contact Bob Fingerhut. Tom Ahl has been appointed as the new Equipment Administrator and will manage the club's equipment loans once all items are accounted for.",
+      "categories": [
+        "Club Operations",
+        "Announcement",
+        "Equipment Management",
+        "Call for Action"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescopes",
+        "Equipment Loan",
+        "Equipment Administrator",
+        "Missing Equipment",
+        "Tom Ahl",
+        "Bob Fingerhut",
+        "Club Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-space-interest-movement-directory",
+      "documentId": "eph85-10",
+      "title": "SPACE INTEREST MOVEMENT DIRECTORY",
+      "summary": "This document features two main topics: an announcement for the 'SPACE INTEREST MOVEMENT DIRECTORY' compiled by Trudy Bell, detailing American space interest groups from 1880-1985 and her credentials, with information on how to purchase it. The second part is an observing report detailing a challenging, but ultimately successful, attempt to visually locate Halley's Comet using various telescopes, alongside photographic difficulties with a Schmidt camera but noting a successful capture by another observer.",
+      "categories": [
+        "Publication Announcement",
+        "Observing Report",
+        "Astronomy",
+        "Technical Information"
+      ],
+      "keywords": [
+        "SPACE INTEREST MOVEMENT DIRECTORY",
+        "Trudy Bell",
+        "American space groups",
+        "Halley's Comet",
+        "Comet observation",
+        "C-8 telescope",
+        "Schmidt camera",
+        "Astrophotography",
+        "IEEE Spectrum",
+        "L5 News",
+        "Giacobini-Zinner"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-sjaa-observatory-fund",
+      "documentId": "eph85-10",
+      "title": "SJAA OBSERVATORY FUND",
+      "summary": "The San Jose Astronomical Association (SJAA) has an observatory fund of $2600, prompting the board to reassess its purpose and future. They are considering options such as pursuing a permanent site at Grant Ranch or Fremont Peak (potentially with FPOA), or acquiring loaner telescopes for members instead. The SJAA is actively seeking member input through calls and questionnaires to establish a clear goal and objective for the fund.",
+      "categories": [
+        "Organizational Planning",
+        "Financial Management",
+        "Facility Development",
+        "Member Engagement",
+        "News"
+      ],
+      "keywords": [
+        "SJAA Observatory Fund",
+        "FPOA",
+        "Fremont Peak",
+        "Grant Ranch County Park",
+        "Permanent site",
+        "Telescopes",
+        "Member input",
+        "Strategic planning",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-observing-at-mauna-kea",
+      "documentId": "eph85-10",
+      "title": "OBSERVING AT MAUNA KEA",
+      "summary": "Jack Marling is scheduled to give a talk on October 5th, focusing on his observations of Planetary Nebulae made with the Air Force 24-inch telescope in Hawaii. Marling is also set to publish a book on planetarias in the near future.",
+      "categories": [
+        "event",
+        "observing report",
+        "news",
+        "astronomy talk"
+      ],
+      "keywords": [
+        "Jack Marling",
+        "Planetary Nebula",
+        "Mauna Kea",
+        "Hawaii",
+        "Air Force 24-inch telescope",
+        "astronomy",
+        "observing",
+        "talk",
+        "book publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-equipment-night",
+      "documentId": "eph85-10",
+      "title": "EQUIPMENT NIGHT",
+      "summary": "An 'Equipment Night' meeting, though not as well-attended as in previous years, featured a presentation on the Fremont Peak Observatory Association by Kevin Hedlock. Several members, including Bob Fingerhut, Jack Peterson, Jay Freedman, Kevin Medlock, and Gene Cisneros, showcased a variety of telescope equipment, highlighting the continued importance of such gatherings for enthusiasts.",
+      "categories": [
+        "Club Meeting",
+        "Events",
+        "Equipment Display",
+        "Observatory Presentation"
+      ],
+      "keywords": [
+        "Equipment Night",
+        "astrophotography",
+        "Fremont Peak Observatory Association",
+        "Kevin Hedlock",
+        "telescope equipment",
+        "Bob Fingerhut",
+        "Jack Peterson",
+        "Jay Freedman",
+        "Kevin Medlock",
+        "Gene Cisneros",
+        "8-inch Newtonian"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph85-10-star-party-henry-coe-park-august-17",
+      "documentId": "eph85-10",
+      "title": "STAR PARTY, HENRY COE PARK AUGUST 17",
+      "summary": "Despite initial threats of clouds and wind, a star party at Henry Coe Park on August 17 proved to be an excellent night for observers. Attendees witnessed Europa's reappearance at Jupiter's limb, several bright meteors (possibly Perseids), and concentrated on observing globular clusters, with M92 being a particular favorite. The report highlights the reward of attending events despite uncertain weather.",
+      "categories": [
+        "observing report"
+      ],
+      "keywords": [
+        "star party",
+        "Henry Coe Park",
+        "Jupiter",
+        "Europa",
+        "meteors",
+        "Perseids",
+        "globular clusters",
+        "M92",
+        "M13",
+        "Hercules"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-the-celestial-tourist-speaks-by-jay-freeman",
+      "documentId": "eph85-10",
+      "title": "THE CELESTIAL TOURIST SPEAKS BY: JAY FREEMAN",
+      "summary": "The document primarily features Jay Freeman's review of his new Celestron 100 four-inch refractor, detailing its portability, excellent optics, and performance on various celestial objects, including deep-sky targets, despite minor issues with the mount. It also includes a report on other club members' astronomical equipment, such as Bob's 16-inch Newtonian, Jack Peterson's Takahashi tracking platform, Kevin Medlock's fluorite refractor with a warning about 'acid dew' damage, and Gene Cisneros' vintage astrophotography system. Additionally, 'Mr. Video' announces plans for an SJAA Video Magazine to cover club events and educational segments.",
+      "categories": [
+        "Equipment Review",
+        "Observing Report",
+        "Club News",
+        "Astrophotography",
+        "Technical Tips"
+      ],
+      "keywords": [
+        "Celestron 100 refractor",
+        "Telescope review",
+        "Deep-sky observations",
+        "Saturn",
+        "Messier objects",
+        "Telescope mounts",
+        "Fluorite optics",
+        "Acid dew",
+        "Telescope maintenance",
+        "Astrophotography",
+        "Schmidt camera",
+        "Takahashi tracking platform",
+        "Astronomy club activities",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-astronomy-and-telescope-making-magazine-subscriptions",
+      "documentId": "eph85-10",
+      "title": "ASTRONOMY AND TELESCOPE MAKING MAGAZINE SUBSCRIPTIONS",
+      "summary": "This announcement urges members to renew their group subscriptions for \"Astronomy\" and \"Telescope Making\" magazines by October 10, with Jim Van Nuland as the contact person. Individual subscribers whose subscriptions expire in 1986 can also extend at the group rate. Subscribers need to provide their mailing label number to renew or drop their subscription.",
+      "categories": [
+        "news",
+        "announcement",
+        "administrative",
+        "club affairs"
+      ],
+      "keywords": [
+        "Astronomy magazine",
+        "Telescope Making magazine",
+        "subscriptions",
+        "renewal",
+        "group rate",
+        "deadline",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-astro-ads",
+      "documentId": "eph85-10",
+      "title": "ASTRO ADS",
+      "summary": "This document features an advertisement for a 6-inch Criterion RV-6 Dynascope reflector telescope, including an electric drive and eight eyepieces, priced at $200. Interested parties can contact Rick Lucia at the provided phone number.",
+      "categories": [
+        "Advertisements",
+        "For Sale",
+        "Equipment"
+      ],
+      "keywords": [
+        "Telescope",
+        "Criterion RV-6 Dynascope",
+        "Reflector telescope",
+        "Electric drive",
+        "Eyepieces",
+        "Used equipment",
+        "Astronomy equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph85-10-deep-sky-notes-october-by-steve-gottlieb",
+      "documentId": "eph85-10",
+      "title": "DEEP SKY NOTES - OCTOBER BY STEVE GOTTLIEB",
+      "summary": "Steve Gottlieb's \"Deep Sky Notes\" for October details his observations of various celestial objects, including galaxies like NGC 4565 and M31, several double stars, and planetary nebulae, using different telescopes and comparing their performance, especially a 4-inch refractor against larger Dobsons. He recounts attending a star party at Fremont Peak where observers shared views through diverse instruments and hunted for elusive galaxy groups. The article concludes with a discussion of known errors and misidentifications found in the Revised New General Catalogue (RNGC).",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Astronomy",
+        "Astronomy Equipment",
+        "Star Parties",
+        "Astronomical Catalogs"
+      ],
+      "keywords": [
+        "Deep Sky Notes",
+        "NGC 4565",
+        "M31",
+        "Double Stars",
+        "Planetary Nebulae",
+        "Galaxies",
+        "Refractor",
+        "Dobson",
+        "Star Party",
+        "Fremont Peak",
+        "RNGC",
+        "Observing Report",
+        "Telescope Performance",
+        "J.L.E. Dreyer"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph85-10-ngc-3745-3746-3748-3750-3751-3753-3754-copeland-s-septet",
+      "documentId": "eph85-10",
+      "title": "NGC 3745, 3746, 3748, 3750, 3751, 3753, 3754 (Copeland's Septet)",
+      "summary": "The article details Copeland's Septet (NGC 3745, 3746, 3748, 3750, 3751, 3753, 3754), highlighting its erroneous listing as 'non-existent' in the Revised New General Catalogue (RNGC) due to incorrect original NGC coordinates. John Louis Emil Dreyer himself corrected these coordinate discrepancies in the Index Catalogue (IC), providing updated positions for each object.",
+      "categories": [
+        "Astronomical Catalogs",
+        "Historical Astronomy",
+        "Data Correction"
+      ],
+      "keywords": [
+        "Copeland's Septet",
+        "NGC 3745",
+        "NGC 3746",
+        "NGC 3748",
+        "NGC 3750",
+        "NGC 3751",
+        "NGC 3753",
+        "NGC 3754",
+        "RNGC",
+        "NGC",
+        "IC",
+        "Dreyer",
+        "Coordinates",
+        "Catalog errors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-6197-6199-hercules",
+      "documentId": "eph85-10",
+      "title": "NGC 6197, 6199 (Hercules)",
+      "summary": "This document addresses corrections regarding NGC 6197 and NGC 6199 in the Hercules constellation. It states that NGC 6199 is non-existent and should be deleted from the RNGC. Furthermore, it corrects the coordinates for NGC 6197, which were erroneously reassigned in the 1975 RNGC, providing the accurate coordinates.",
+      "categories": [
+        "Catalog Corrections",
+        "Astronomical Data",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "NGC 6197",
+        "NGC 6199",
+        "Hercules",
+        "RNGC",
+        "Coordinates",
+        "Galaxy",
+        "Catalog Error"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-545-547-547a",
+      "documentId": "eph85-10",
+      "title": "NGC 545,547,547A",
+      "summary": "This document identifies and corrects discrepancies in the Revised New General Catalogue (RNGC) regarding the galaxies NGC 545, NGC 547, and NGC 547A, which were mistakenly listed by the RNGC as a pair and misassigned. It provides updated coordinates and descriptions for NGC 545 and NGC 547 to align with the original NGC listings and recommends deleting the entry for NGC 547A. The primary purpose is to rectify errors in astronomical catalog entries for these specific objects.",
+      "categories": [
+        "Astronomical Catalogs",
+        "Technical Correction",
+        "Galaxies"
+      ],
+      "keywords": [
+        "NGC 545",
+        "NGC 547",
+        "NGC 547A",
+        "NGC",
+        "RNGC",
+        "galaxy catalogs",
+        "astronomical errors",
+        "coordinates",
+        "double galaxies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-4347-4342",
+      "documentId": "eph85-10",
+      "title": "NGC 4347/4342",
+      "summary": "This document discusses the long-standing identification problems surrounding NGC 4341, NGC 4342, and NGC 4343, referencing observations by William and John Herschel. Various astronomical catalogs like the NGC, RNGC, and CGCG have disagreed on these objects' correct designations, with some recommending deletion of NGC entries in favor of IC designations.",
+      "categories": [
+        "Astronomical Cataloging",
+        "Object Identification",
+        "Historical Astronomy",
+        "Nomenclature"
+      ],
+      "keywords": [
+        "NGC 4347",
+        "NGC 4342",
+        "NGC 4341",
+        "NGC 4343",
+        "IC 3260",
+        "IC 3256",
+        "William Herschel",
+        "John Herschel",
+        "NGC",
+        "RNGC",
+        "CGCG",
+        "Astronomical Catalogs",
+        "Object Identification Discrepancies"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-4555a-coma-berenices",
+      "documentId": "eph85-10",
+      "title": "NGC 4555A (Coma Berenices)",
+      "summary": "This article identifies NGC 4555A, an entry in the Revised New General Catalogue (RNGC), as a duplicate of N4562, noting their identical coordinates. It recommends the deletion of RNGC 4555A from the catalog to resolve this redundancy.",
+      "categories": [
+        "Technical",
+        "Astronomy",
+        "Catalog Correction"
+      ],
+      "keywords": [
+        "NGC 4555A",
+        "N4562",
+        "RNGC",
+        "CGCG",
+        "MCG",
+        "Coma Berenices",
+        "Galaxy catalog",
+        "Duplicate entry",
+        "Coordinates"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-6056-hercules-galaxy-cluster",
+      "documentId": "eph85-10",
+      "title": "NGC 6056 (Hercules Galaxy Cluster)",
+      "summary": "The article highlights an identification and positional discrepancy for NGC 6056 (Hercules Galaxy Cluster) in the RNGC. It suggests the RNGC's description of NGC 6056 as two faint galaxies southwest of M56 is incorrect due to significant brightness differences and a 2.2' positional error.",
+      "categories": [
+        "Astronomical Catalog",
+        "Galaxy Clusters",
+        "Observational Astronomy",
+        "Error Correction"
+      ],
+      "keywords": [
+        "NGC 6056",
+        "Hercules Galaxy Cluster",
+        "RNGC",
+        "Galaxy Identification",
+        "Astronomical Catalog",
+        "Positional Error",
+        "M56"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-2288-2289-2290-gemini",
+      "documentId": "eph85-10",
+      "title": "NGC 2288,2289,2290 (Gemini)",
+      "summary": "This document discusses the historical identification and cataloging issues surrounding a group of three galaxies, NGC 2288, 2289, and 2290, located in the constellation Gemini. It notes initial confusion by Dreyer based on d'Arrest's sketches, despite N2289 and N2290 having been previously discovered by W. Herschel. The article further points out that the RNGC (Revised New General Catalogue) has introduced more discrepancies by reversing coordinates and descriptions for N2289 and N2290.",
+      "categories": [
+        "Astronomy",
+        "Galaxies",
+        "Astronomical Cataloging",
+        "Historical Astronomy",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "NGC 2288",
+        "NGC 2289",
+        "NGC 2290",
+        "Gemini",
+        "Dreyer",
+        "d'Arrest",
+        "William Herschel",
+        "RNGC",
+        "Galaxy identification",
+        "Astronomical catalog"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-7173-7174-7176-pisces-austrinus",
+      "documentId": "eph85-10",
+      "title": "NGC 7173,7174,7176, (Pisces Austrinus)",
+      "summary": "This article discusses the NGC 7173, 7174, and 7176 galaxy group in Pisces Austrinus, which is part of a larger quadruple system including NGC 7172. It addresses a historical confusion in the RNGC regarding the coordinates and descriptions of NGC 7173 and NGC 7174, providing corrected coordinates for NGC 7176 and NGC 7173 while noting the close pairing of NGC 7174 and NGC 7176.",
+      "categories": [
+        "Technical",
+        "Astronomical Catalogs",
+        "Deep-Sky Objects"
+      ],
+      "keywords": [
+        "NGC 7173",
+        "NGC 7174",
+        "NGC 7176",
+        "NGC 7172",
+        "Pisces Austrinus",
+        "Galaxy Group",
+        "RNGC",
+        "Coordinates",
+        "Object Identification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-6053-hercules-galaxy-cluster",
+      "documentId": "eph85-10",
+      "title": "NGC 6053 (Hercules Galaxy cluster)",
+      "summary": "The article analyzes the identification of NGC 6053, an object in the Hercules Galaxy cluster. It highlights a discrepancy between Dreyer's initial cataloging as a star and the RNGC's identification as a small galaxy, noting a significant positional error. Due to this improbability, the article recommends deleting N6053 as a distinct entry.",
+      "categories": [
+        "Astronomy",
+        "Cataloging",
+        "Historical Astronomy",
+        "Research Note"
+      ],
+      "keywords": [
+        "NGC 6053",
+        "Hercules Galaxy cluster",
+        "Dreyer",
+        "RNGC",
+        "Galaxy",
+        "Star",
+        "Catalog Correction",
+        "Positional Discrepancy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-5580-bootes",
+      "documentId": "eph85-10",
+      "title": "NGC 5580 (Bootes)",
+      "summary": "The article investigates the entry for NGC 5580, noting that its original coordinates do not correspond to an independent galaxy near NGC 5579. It suggests that NGC 5580 might be a misidentification of a knot within NGC 5579's spiral arm, or more likely, an erroneous entry that should be removed from astronomical catalogs like the RNGC.",
+      "categories": [
+        "Astronomical Object Analysis",
+        "Cataloging Issues",
+        "Galaxy Morphology",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "NGC 5580",
+        "NGC 5579",
+        "Bootes",
+        "Galaxy",
+        "Astronomical catalog",
+        "RNGC",
+        "Coordinates",
+        "Spiral arm",
+        "J. Herschel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-6959-6965-aquarius",
+      "documentId": "eph85-10",
+      "title": "NGC 6959, 6965 (Aquarius)",
+      "summary": "This article addresses coordinate errors and duplicate entries for NGC 6959 and NGC 6965, both located in the constellation Aquarius. It clarifies that NGC 6965 is a duplicate of NGC 6963 due to historical incorrect coordinates and recommends its deletion from the Revised New General Catalogue (RNGC). The document also provides corrected coordinates for NGC 6959 within the RNGC.",
+      "categories": [
+        "Astronomical Data Correction",
+        "Cataloging",
+        "Galaxies",
+        "Technical"
+      ],
+      "keywords": [
+        "NGC 6959",
+        "NGC 6965",
+        "NGC 6963",
+        "Aquarius",
+        "RNGC",
+        "Coordinates",
+        "Duplicate entry",
+        "Galaxy",
+        "Lord Rosse",
+        "Bigourdan"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-2830-2831-2832-lynx",
+      "documentId": "eph85-10",
+      "title": "NGC 2830,2831,2832 (Lynx)",
+      "summary": "This document details historical inaccuracies in the NGC catalog concerning the numbering and descriptions of NGC 2830, 2831, and 2832 in the Lynx constellation. These errors stemmed from Lord Rosse's initial observations and Dreyer's subsequent misinterpretation of a sketch, leading to incorrect ordering and descriptions for these objects. The article also suggests specific corrections for the RNGC positions and descriptions of NGC 2830.",
+      "categories": [
+        "Technical",
+        "Historical Astronomy",
+        "Cataloging",
+        "Errata"
+      ],
+      "keywords": [
+        "NGC 2830",
+        "NGC 2831",
+        "NGC 2832",
+        "NGC",
+        "RNGC",
+        "Lord Rosse",
+        "Dreyer",
+        "Lynx",
+        "Astronomical Catalog",
+        "Corrections"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-1627-1628-eridanus",
+      "documentId": "eph85-10",
+      "title": "NGC 1627, 1628 (Eridanus)",
+      "summary": "This document clarifies an error in the RNGC catalog regarding the descriptions of galaxies NGC 1627 and NGC 1628 in the Eridanus constellation. It states that their descriptions are reversed and identifies the edge-on system to the north as NGC 1628.",
+      "categories": [
+        "Astronomical Catalogs",
+        "Corrections",
+        "Galaxies",
+        "Observing Notes"
+      ],
+      "keywords": [
+        "NGC 1627",
+        "NGC 1628",
+        "Eridanus",
+        "Galaxies",
+        "RNGC",
+        "Catalog correction",
+        "Identification",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-3191-3192-ursa-major",
+      "documentId": "eph85-10",
+      "title": "NGC 3191, 3192 (Ursa Major)",
+      "summary": "The article details a historical cataloging error concerning NGC 3191 and NGC 3192 in Ursa Major, identifying N3191 as a duplicate entry for N3192 as they refer to the same object. Consequently, RNGC 3192 is reassigned as a non-existent object. It also notes that an attempt by Dreyer to identify a separate galaxy for N3192 based on a fainter object was considered undesirable.",
+      "categories": [
+        "Astronomical Cataloging",
+        "Historical Astronomy",
+        "Galaxy Classification",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "NGC 3191",
+        "NGC 3192",
+        "Ursa Major",
+        "Dreyer",
+        "Duplicate Entry",
+        "RNGC",
+        "Non-existent Object",
+        "Galaxy Identification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-512-andromeda",
+      "documentId": "eph85-10",
+      "title": "NGC 512 (Andromeda)",
+      "summary": "The article clarifies the new RNGC catalog description for NGC 512, stating that the features \"R,SLDIF,BM,B EL COM 2' N\" refer to an anonymous companion located 2' south of NGC 512. It confirms that the bright, elongated system itself is NGC 512.",
+      "categories": [
+        "Astronomical Catalogs",
+        "Object Identification",
+        "Corrections/Clarifications"
+      ],
+      "keywords": [
+        "NGC 512",
+        "Andromeda",
+        "RNGC",
+        "Catalog description",
+        "Companion star",
+        "Object identification"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-406-pisces",
+      "documentId": "eph85-10",
+      "title": "NGC 406 (Pisces)",
+      "summary": "This document addresses an error in the RNGC description of NGC 406, located in Pisces. It states that the original description was incorrectly copied from the NGC and provides the corrected description as \"UF, VS, 410FB5\".",
+      "categories": [
+        "Technical",
+        "Catalog Data",
+        "Correction"
+      ],
+      "keywords": [
+        "NGC 406",
+        "RNGC",
+        "NGC",
+        "Astronomical Catalog",
+        "Error Correction",
+        "Pisces"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-3850-3889-ursa-major",
+      "documentId": "eph85-10",
+      "title": "NGC 3850, 3889 (Ursa Major)",
+      "summary": "This article discusses the historical cataloging errors surrounding NGC 3889 in Ursa Major, noting its incorrect initial position and subsequent misidentification with NGC 3850 in the RNGC. It suggests either deleting NGC 3889 or correcting its position and description to align with more accurate observations.",
+      "categories": [
+        "astronomy",
+        "deep-sky objects",
+        "cataloging",
+        "historical astronomy",
+        "data correction"
+      ],
+      "keywords": [
+        "NGC 3850",
+        "NGC 3889",
+        "Ursa Major",
+        "Rosse",
+        "RNGC",
+        "catalog errors",
+        "positional astronomy",
+        "galaxy identification"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph85-10-by-don-machholz",
+      "documentId": "eph85-10",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "The article discusses the upcoming October Draconids, also known as Giacobinids, meteor shower on October 8, which is associated with periodic Comet Giacobini-Zinner. It highlights the historical unpredictability of the shower's intensity due to factors like the comet's proximity to Earth and the gravitational influence of Jupiter on its orbit and meteoroid swarm. While a strong shower is implied by recent orbital positions, observers are advised to look between October 7-10, despite potential interference from a rising moon.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy",
+        "Comets & Meteors"
+      ],
+      "keywords": [
+        "Draconids",
+        "Giacobinids",
+        "Meteor Shower",
+        "Comet Giacobini-Zinner",
+        "October 8",
+        "Meteoroid Swarm",
+        "Jupiter",
+        "Orbital Mechanics",
+        "Meteor Shower Prediction",
+        "Observing Conditions",
+        "Radiant"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-comet-comments",
+      "documentId": "eph85-10",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides updates on several comets, noting that Comet Slaughter-Burnham is dimming while Comet Halley is brightening and approaching Earth and the Sun. It details the recovery of Periodic Comet Daniel (1985j) by J Gibson and its current magnitude and orbital period. Furthermore, it tracks Periodic Comet Giacobini-Zinner as it dims, moves southward, and its potential connection to the Giacobinid Meteor shower in October.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Astronomy News",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Comet Slaughter-Burnham",
+        "Comet Halley",
+        "Periodic Comet Daniel (1985j)",
+        "Periodic Comet Giacobini-Zinner",
+        "Giacobinid Meteor shower",
+        "Comet recovery",
+        "Magnitude",
+        "Orbital period",
+        "M50"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-what-goes-around-comes-around-halley-s",
+      "documentId": "eph85-10",
+      "title": "WHAT GOES AROUND COMES AROUND - HALLEY'S",
+      "summary": "The article details Halley's Comet's predicted brightening and movement in the morning sky for October, noting it was initially fainter than expected but should catch up. It outlines the comet's decreasing distance from both the sun and Earth, its apparent motion, and specific close passes near nebula 2174-5 and M1, regrettably affected by lunar phases. A table provides ephemeris data including Right Ascension, Declination, Elongation, and Magnitude for late September through early November.",
+      "categories": [
+        "observing reports",
+        "predictions",
+        "astronomy",
+        "celestial events",
+        "technical data"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "comet observation",
+        "celestial mechanics",
+        "magnitude",
+        "ephemeris",
+        "M1",
+        "Crab Nebula",
+        "nebula 2174-5",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph85-10-by-jay-reynolds-freeman",
+      "documentId": "eph85-10",
+      "title": "BY: JAY REYNOLDS FREEMAN",
+      "summary": "This article provides detailed observational data for Halley's Comet in October, including positions, magnitude, and rising times, alongside tips for successful viewing and a report of a club member's sighting. It also offers comprehensive guidance on selecting appropriate telescope eyepieces and finders for visual astronomy, differentiating between low-power for faint objects and high-power for fine detail, with practical recommendations tailored to different telescope types and budgets. A brief account of an unsuccessful asteroid occultation attempt is also included.",
+      "categories": [
+        "Observing Guide",
+        "Technical Guide",
+        "Comets",
+        "Astronomical Equipment",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comet observation",
+        "Telescope eyepieces",
+        "Astronomical equipment",
+        "Visual astronomy",
+        "Magnification",
+        "Finder scopes",
+        "Deep-sky observing",
+        "High-power observing",
+        "Asteroid occultation",
+        "Observing techniques",
+        "Astrometry"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph85-10-ngc-7008",
+      "documentId": "eph85-10",
+      "title": "NGC 7008",
+      "summary": "NGC 7008 is a prominent 10th magnitude planetary nebula, characterized by its large size, good brightness, and a visible 13th magnitude central star. An observation using a 13\" telescope detailed its annular shape, the visible central star, a second embedded star at its eastern edge, and a brighter knot on the northeast side.",
+      "categories": [
+        "observing reports",
+        "planetary nebulae",
+        "astronomy"
+      ],
+      "keywords": [
+        "NGC 7008",
+        "planetary nebula",
+        "deep sky object",
+        "observing",
+        "telescope",
+        "magnitude",
+        "central star",
+        "annular nebula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-crl-2688",
+      "documentId": "eph85-10",
+      "title": "CRL 2688",
+      "summary": "CRL 2688, also known as the \"Egg Nebula,\" is a compact, bipolar protoplanetary nebula. An observation by Steve on August 20, 1985, using a 13-inch telescope, described it as a faint double star with a nebulous brighter component.",
+      "categories": [
+        "observing report",
+        "celestial objects",
+        "astronomy",
+        "historical observation"
+      ],
+      "keywords": [
+        "CRL 2688",
+        "Egg Nebula",
+        "protoplanetary nebula",
+        "bipolar nebula",
+        "observation",
+        "double star",
+        "telescope",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-7026",
+      "documentId": "eph85-10",
+      "title": "NGC 7026",
+      "summary": "This document describes observations of two planetary nebulae, NGC 7026 and NGC 7027. Observations were made from backyard telescopes, noting their magnitude, surface brightness, and distinct visual features such as two lobes for NGC 7026 and elongation with possible condensations for NGC 7027.",
+      "categories": [
+        "observing reports",
+        "backyard astronomy",
+        "deep-sky objects"
+      ],
+      "keywords": [
+        "NGC 7026",
+        "NGC 7027",
+        "planetary nebula",
+        "observing",
+        "telescope",
+        "magnitude",
+        "surface brightness",
+        "Cygnus",
+        "Livermore"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-sharpless-1089",
+      "documentId": "eph85-10",
+      "title": "SHARPLESS 1089",
+      "summary": "This article details the first visual sighting of the Sharpless 1089 nebula by Steve and the author on August 11-12, 1985, from Digger Pines. Discovered photographically in 1959, the observers successfully located and described the extremely faint and large nebula using O-III filters with 13-inch and 17.5-inch telescopes, noting its location relative to NGC 7048.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Astronomy",
+        "Amateur Astronomy",
+        "Nebula"
+      ],
+      "keywords": [
+        "Sharpless 1089",
+        "nebula",
+        "visual observation",
+        "Oxygen-III filter",
+        "O-III filter",
+        "deep-sky object",
+        "telescope",
+        "NGC 7048"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ngc-7048",
+      "documentId": "eph85-10",
+      "title": "NGC 7048",
+      "summary": "NGC 7048 is a 12th magnitude planetary nebula discovered by Curtis in 1918 using a 14½\" telescope. An observation describes it as a large, faint, elongated nebula, best seen with averted vision, with three nearby stars but no visible central star.",
+      "categories": [
+        "Observing Report",
+        "Discovery History",
+        "Planetary Nebulae"
+      ],
+      "keywords": [
+        "NGC 7048",
+        "Planetary Nebula",
+        "Curtis",
+        "1918",
+        "12th magnitude",
+        "UHC filter",
+        "Averted vision",
+        "Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-minkowski-1-78",
+      "documentId": "eph85-10",
+      "title": "MINKOWSKI 1-78",
+      "summary": "Minkowski 1-78, a celestial object discovered in 1946, is a challenging target for observation due to its faintness, with an estimated visual magnitude of 14.8. Early photographic observations by Kohoutek in 1964 indicated a red surface brightness of 12.2 and a blue photographic brightness fainter than 16.5, while Kaler's 1983 H-beta flux measurement helped estimate its visual magnitude. The article also provides a sighting location relative to an 8th magnitude star, noting that even professional astronomers like Kaler often located such faint nebulae by 'blind off see' rather than visual sighting.",
+      "categories": [
+        "observing reports",
+        "astronomical objects",
+        "technical analysis"
+      ],
+      "keywords": [
+        "Minkowski 1-78",
+        "planetary nebulae",
+        "surface brightness",
+        "visual magnitude",
+        "H-beta flux",
+        "astronomical observations",
+        "faint objects",
+        "Kohoutek",
+        "Kaler"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-kohoutek-3-81",
+      "documentId": "eph85-10",
+      "title": "KOHOUTEK 3-81",
+      "summary": "KOHOUTEK 3-81, a compact nebula, was discovered by Kohoutek in 1972 using a 32-inch Schmidt camera with specific photographic techniques. The article details the first visual sighting of this nebula on August 24-25, 1985, by an observer using a 17½-inch telescope at 280x with a UHC filter. The observer described it as a very small, faint nebula requiring averted vision, with an estimated magnitude of 15.5 and a visible central or inferior star.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Objects",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "KOHOUTEK 3-81",
+        "nebula",
+        "Kohoutek",
+        "visual sighting",
+        "Schmidt camera",
+        "UHC filter",
+        "averted vision",
+        "telescope",
+        "deep sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-humason-1-2",
+      "documentId": "eph85-10",
+      "title": "HUMASON 1-2",
+      "summary": "The article details an observational report on the planetary nebula Humason 1-2, offering visual descriptions, correcting its listed size, and providing finder chart information. It also describes a largely unsuccessful attempt to observe an occultation of a 5th-magnitude star by the comet Pyxieonus inner, an event aimed at measuring the comet's dust density but hindered by prediction complexities and poor weather.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Nebulae",
+        "Comets",
+        "Occultation Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Humason 1-2",
+        "Planetary Nebula",
+        "Pyxieonus inner",
+        "Comet",
+        "Occultation",
+        "Observational Astronomy",
+        "Deep Sky Object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-planetary-nebulae-in-east-cygnus-by-mark-marling-and-steve-gottlieb",
+      "documentId": "eph85-10",
+      "title": "PLANETARY NEBULAE IN EAST CYGNUS BY MARK MARLING AND STEVE GOTTLIEB",
+      "summary": "This article, a follow-up to a previous discussion on west Cygnus, details 15 planetary nebulae located in east Cygnus. It offers a range of observing challenges for amateur astronomers, from the bright NGC 7027 to the faint Minkowski 1-78, with some objects potentially unobserved visually before. The authors also recount an unsuccessful attempt to observe Weinberger 1-10, noting its extreme faintness.",
+      "categories": [
+        "observing guide",
+        "deep-sky astronomy",
+        "amateur astronomy",
+        "observing report"
+      ],
+      "keywords": [
+        "planetary nebulae",
+        "Cygnus",
+        "deep-sky objects",
+        "NGC 7027",
+        "Minkowski 1-78",
+        "Weinberger 1-10",
+        "O-III filter",
+        "UHC filter",
+        "telescope observing",
+        "Palomar Sky Survey"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph85-10-kohoutek-3-82",
+      "documentId": "eph85-10",
+      "title": "KOHOUTEK 3-82",
+      "summary": "This document describes the astronomical object KOHOUTEK 3-82, discovered by Kohoutek in 1972. Although photographically faint, the observer made a first-ever visual sighting on August 15, 1985, at Dinosaur Pines, finding it significantly brighter visually than its photographic magnitude suggested. The observation was made using a 17\" telescope, detailing its location relative to a bright star and its visual appearance.",
+      "categories": [
+        "observing reports",
+        "astronomical objects",
+        "visual astronomy",
+        "deep-sky objects"
+      ],
+      "keywords": [
+        "KOHOUTEK 3-82",
+        "Kohoutek",
+        "visual sighting",
+        "photographic magnitude",
+        "visual magnitude",
+        "telescope",
+        "Oxygen-III filter",
+        "Dinosaur Pines",
+        "arc-seconds",
+        "arc-minutes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-kohoutek-3-62",
+      "documentId": "eph85-10",
+      "title": "KOHOUTEK 3-62",
+      "summary": "An observer recounts their challenging observation of KOHOUTEK 3-62, a faint stellar planetary nebula discovered in 1964. In 1985, using a 17-inch telescope, UHC filter, and 280x magnification, they barely located the 15-16 magnitude object, noting its extreme faintness and reliance on the filter for visibility.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep-Sky Observation"
+      ],
+      "keywords": [
+        "KOHOUTEK 3-62",
+        "Planetary Nebula",
+        "Observation",
+        "Telescope",
+        "UHC filter",
+        "Magnitude",
+        "Deep-sky object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-ic-5117",
+      "documentId": "eph85-10",
+      "title": "IC 5117",
+      "summary": "IC 5117 is a magnitude 11.5 stellar planetary nebula discovered by Fleming in 1905, easily observable with a 13-inch telescope. Observers note its appearance as a 'star' and how OIII or UHC filters dramatically enhance its brightness relative to nearby companion stars, demonstrating an effective technique for identifying stellar planetaries. The article provides specific observational details, including its location relative to a brighter star and the visual effects of using different filters.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Telescope Filters"
+      ],
+      "keywords": [
+        "IC 5117",
+        "Planetary Nebula",
+        "Stellar Planetary",
+        "Fleming",
+        "Magnitude",
+        "Observational Astronomy",
+        "OIII Filter",
+        "UHC Filter",
+        "Telescope",
+        "Blinking (astronomy)",
+        "Deep Sky Object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-abell-78",
+      "documentId": "eph85-10",
+      "title": "ABELL 78",
+      "summary": "Abell 78 is a faint nebula discovered in 1955, centered between two bright stars, and is challenging to observe. Early observations from 1985 describe it as \"very faint,\" \"moderately large and roundish,\" and sometimes seen around a faint central star. Observers often used specialized filters (OIII, UHC) and averted vision with large telescopes to detect it.",
+      "categories": [
+        "observing report",
+        "astronomical object description",
+        "deep-sky object",
+        "technical details"
+      ],
+      "keywords": [
+        "Abell 78",
+        "nebula",
+        "deep sky",
+        "observing",
+        "OIII filter",
+        "UHC filter",
+        "averted vision",
+        "magnitude",
+        "telescope",
+        "Mauna Kea",
+        "Dinosaur Pines"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-minkowski-1-79",
+      "documentId": "eph85-10",
+      "title": "MINKOWSKI 1-79",
+      "summary": "Minkowski 1-79 is a relatively bright planetary nebula, discovered in 1946. Observations from 1984 describe it as a fairly bright, elongated object visible with telescopes ranging from 13\" to 24\", though the faint central star was not easily observed. One report noted it was bright enough to be seen unfiltered with direct vision, appearing roundish.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "planetary nebulae"
+      ],
+      "keywords": [
+        "Minkowski 1-79",
+        "planetary nebula",
+        "Minkowski",
+        "observation",
+        "Mauna Kea",
+        "telescope",
+        "UHC filter",
+        "central star",
+        "visual astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-kohoutek-3-84",
+      "documentId": "eph85-10",
+      "title": "KOHOUTEK 3-84",
+      "summary": "KOHOUTEK 3-84 is a compact planetary nebula, discovered photographically in 1972, that still requires visual observation to accurately determine its magnitude, estimated between 14.5 and 16.5. Observers are encouraged to locate it 15 arc-minutes north and 34 arc-minutes west of a magnitude 6.2 star on the Tirion Atlas to provide this needed data.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Nebulae",
+        "Amateur Astronomy",
+        "Call for Observations"
+      ],
+      "keywords": [
+        "KOHOUTEK 3-84",
+        "Planetary Nebula",
+        "Visual Magnitude",
+        "Observation",
+        "Tirion Atlas",
+        "Astronomy",
+        "Sighting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-minkowski-2-50",
+      "documentId": "eph85-10",
+      "title": "MINKOWSKI 2-50",
+      "summary": "The article focuses on Minkowski 2-50, a magnitude 14.7 planetary nebula, noting its photographic discovery in 1947 and its current status as an unobserved object by amateurs, with guidance on how to locate it. It encourages amateur astronomers to observe planetary nebulae, highlighting their contribution to scientific knowledge, such as refining visual magnitudes and sizes. The document also provides a detailed table listing various planetary nebulae in Cygnus, including their coordinates, sizes, visual magnitudes, surface brightness, and central star magnitudes, alongside a call for observers to report their findings.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Astronomical Data",
+        "Deep-Sky Objects",
+        "Reference"
+      ],
+      "keywords": [
+        "Minkowski 2-50",
+        "Planetary Nebulae",
+        "Amateur Observation",
+        "Visual Magnitude",
+        "Cygnus",
+        "Astronomical Coordinates",
+        "Deep-sky imaging",
+        "NGC 7008"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph85-10-san-jose-astronomical-association-membership-application",
+      "documentId": "eph85-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is the official membership application form for the San Jose Astronomical Association (SJAA). It details various membership options, including individual, membership with Sky & Telescope subscription, and junior (under 18) memberships, along with their associated fees. The form provides instructions for submission, either in person at an SJAA meeting or by mail to the Treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Organization Administration",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "fees",
+        "junior membership",
+        "Sky & Telescope",
+        "renewal",
+        "new member",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-10-questionnaire-optional",
+      "documentId": "eph85-10",
+      "title": "Questionnaire (optional)",
+      "summary": "This document contains an optional questionnaire designed to gather information from individuals about their astronomical interests (e.g., astro-photography, deep-sky observation, telescope making), telescope ownership, and areas where they feel qualified to help others. It appears to be a tool used by an astronomical organization, likely the SJAA EPHEMERIS based on the footer, to understand its members' profiles and facilitate community engagement.",
+      "categories": [
+        "Questionnaire",
+        "Amateur Astronomy",
+        "Membership",
+        "Community Engagement",
+        "Organizational"
+      ],
+      "keywords": [
+        "astronomy",
+        "questionnaire",
+        "astronomical interests",
+        "telescope ownership",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope making",
+        "expertise",
+        "SJAA EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph85-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8510/Eph85_10.pdf",
+      "txtPath": "8510/Eph85_10.md"
+    }
+  ]
+}

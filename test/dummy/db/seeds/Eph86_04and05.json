@@ -1,0 +1,702 @@
+{
+  "articles": [
+    {
+      "id": "eph86-04and05-april-may-1986",
+      "documentId": "eph86-04and05",
+      "title": "APRIL-MAY 1986",
+      "summary": "This document outlines a busy schedule of astronomical events and activities for April and May 1986, focusing on public engagement and specialized interests. Key events include the 6th Annual Bay Area Astronomical Auction, the Riverside Telescope Makers Conference, and numerous field expeditions and public comet observation sessions. Additionally, introductory astronomy classes and a star party are listed, showcasing a variety of opportunities for astronomy enthusiasts.",
+      "categories": [
+        "Events",
+        "Astronomical Observations",
+        "Public Outreach",
+        "Classes/Workshops",
+        "Conferences",
+        "Auctions",
+        "Schedules"
+      ],
+      "keywords": [
+        "April 1986",
+        "May 1986",
+        "Astronomical Auction",
+        "Riverside Telescope Makers Conference",
+        "Comet Observation",
+        "Field Expedition",
+        "Astronomy Class",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Henry Coe State Park",
+        "Big Bear Lake",
+        "Los Gatos",
+        "Astronomy Day"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph86-04and05-by-john-gleason",
+      "documentId": "eph86-04and05",
+      "title": "BY: JOHN GLEASON",
+      "summary": "This double issue is shorter than usual due to the editor's trip to New Zealand and the loss of a disk containing previous content, prompting a request for comet reports, especially on Halley's Comet. The article also announces public viewing sessions for Halley's Comet coordinated by SJAA, details an upcoming 6th Annual Astronomical Auction, and provides information on the 18th Annual Riverside Telescope Makers Conference, which will include dedicated time for comet observations.",
+      "categories": [
+        "News",
+        "Events",
+        "Observing Reports",
+        "Community Announcement"
+      ],
+      "keywords": [
+        "John Gleason",
+        "Ephemeris",
+        "Halley's Comet",
+        "Comet observation",
+        "Public viewing",
+        "SJAA",
+        "Astronomical Auction",
+        "Telescope Makers Conference",
+        "Riverside Telescope Makers Conference",
+        "Fremont Peak",
+        "Branham Lane Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-obscure-winter-planetary-nebulae-part-ii",
+      "documentId": "eph86-04and05",
+      "title": "OBSCURE WINTER PLANETARY NEBULAE—PART II",
+      "summary": "This article, part two of a series, continues the exploration of large, obscure planetary nebulae visible in the eastern winter skies. It details specific visual observations of objects like Abell 7, Abell 20, and Abell 21, providing descriptions, observing dates, equipment used (e.g., O-III and UHC filters, various telescope apertures), and historical sighting information. The observations highlight the faintness and unique characteristics of these deep-sky objects, offering practical guidance for amateur astronomers.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "deep-sky objects",
+        "technical"
+      ],
+      "keywords": [
+        "planetary nebulae",
+        "obscure objects",
+        "Abell 7",
+        "Abell 20",
+        "Abell 21",
+        "O-III filter",
+        "UHC filter",
+        "telescope",
+        "averted vision",
+        "Lepus",
+        "Canis Minor",
+        "observation techniques",
+        "amateur astronomy"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph86-04and05-k1-11-az2",
+      "documentId": "eph86-04and05",
+      "title": "K1-11-AZ2",
+      "summary": "K1-11-AZ2, discovered by Kohoutek in 1963 and cataloged by Abell in 1965, received its first visual observation by Jack on February 4, 1986. The observer described this 'dip planetary' as 'extremely large' with an 'elongation' at magnitude 17.5, and later confirmed its difficulty at magnitude 13.5 using an OIII filter in a 12.5\" telescope.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Discovery",
+        "Planetary Nebulae",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "K1-11-AZ2",
+        "Kohoutek",
+        "Abell",
+        "Planetary Nebula",
+        "Visual Observation",
+        "OIII filter",
+        "Telescope",
+        "Magnitude",
+        "Deep-sky object"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-m1-15",
+      "documentId": "eph86-04and05",
+      "title": "M1-15",
+      "summary": "This article describes the planetary nebula M1-15, a 1946 discovery, noting its computed visual magnitude of 13 and its relatively easy observability. An observation on February 4, 1986, by Jack using a 17.5\" telescope, found it appearing nearly stellar at magnitude 13-15.5 and very bright with an OIII filter, correcting its listed size as inaccurate. It was located 15\" NW of 7.8 magnitude SAO 134907.",
+      "categories": [
+        "Observing Report",
+        "Celestial Object Description",
+        "Deep Sky"
+      ],
+      "keywords": [
+        "M1-15",
+        "Planetary Nebula",
+        "Visual Magnitude",
+        "OIII Filter",
+        "Observing",
+        "Deep Sky Object",
+        "SAO 134907",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-m1-18",
+      "documentId": "eph86-04and05",
+      "title": "M1-18",
+      "summary": "The article details the challenging visual observation of M1-18, a faint 15th magnitude planetary nebula discovered by Minkowski in 1946, located near NGC 2438 in M46. Observers recount their experiences from the mid-1980s, noting the necessity of averted vision and specialized filters like UHC and OIII for even a glimpse with a 13.1-inch telescope.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Deep-sky Objects",
+        "Planetary Nebulae"
+      ],
+      "keywords": [
+        "M1-18",
+        "Planetary Nebula",
+        "NGC 2438",
+        "M46",
+        "Minkowski",
+        "Observing",
+        "UHC filter",
+        "OIII filter",
+        "Averted Vision",
+        "Telescope",
+        "Deep-sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-a-24",
+      "documentId": "eph86-04and05",
+      "title": "A-24",
+      "summary": "A-24 is a challenging deep-sky object discovered by George Abell in 1955, noted for its faint surface brightness of 16.5. In 1985, Jack made a barely successful first visual sighting using a 17.5\" telescope and an OIII filter, emphasizing its extreme faintness and the necessity of averted vision.",
+      "categories": [
+        "Observing Report",
+        "Deep-sky Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "A-24",
+        "George Abell",
+        "surface brightness",
+        "visual sighting",
+        "OIII filter",
+        "deep-sky object",
+        "telescope",
+        "observing challenge"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-je-1",
+      "documentId": "eph86-04and05",
+      "title": "Je-1",
+      "summary": "Je-1 is a large, diffuse annular planetary nebula discovered in 1939 by R. Jones and R. Emberson using a Harvard Observatory photograph. It was previously misplotted due to confusion with a nearby galaxy panel. Observations with a large telescope and OIII filter reveal it as a showpiece object with two brighter knots on its rim.",
+      "categories": [
+        "Astronomy",
+        "Observing Report",
+        "Celestial Objects",
+        "Discovery",
+        "Observation Guide"
+      ],
+      "keywords": [
+        "Je-1",
+        "Planetary Nebula",
+        "Discovery",
+        "Observation",
+        "OIII filter",
+        "Harvard Observatory",
+        "Burnham's CELESTIAL HANDBOOK",
+        "SKALNATE PLESO ATLAS OF THE HEAVENS",
+        "Telescope",
+        "Annular Nebula"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-k1-21",
+      "documentId": "eph86-04and05",
+      "title": "K1-21",
+      "summary": "K1-21, discovered by Kohoutek in 1971, is a challenging planetary object to observe due to its faint visual magnitude of 18.1. The article provides precise instructions for locating it by drifting from SHJ 168B and encourages observers to report their viewing results.",
+      "categories": [
+        "Observing Guide",
+        "Astronomy",
+        "Planetary Objects",
+        "Call for Observations"
+      ],
+      "keywords": [
+        "K1-21",
+        "Kohoutek",
+        "Planetary",
+        "Visual Magnitude",
+        "SHJ 168B",
+        "Observation",
+        "Astronomy Discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-sa-2-21",
+      "documentId": "eph86-04and05",
+      "title": "Sa 2-21",
+      "summary": "Sa 2-21, a planetary nebula discovered in 1975 by N. Sanduleak, was initially overlooked due to its close proximity to the bright star M Puppis. Observers in 1985 found it to be fairly faint but easily visible with a UHC filter, appearing moderate-sized and slightly elongated. It was successfully observed using 13.1\" and 17.5\" telescopes, confirming its nature as a round, faint planetary.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Objects",
+        "Planetary Nebulae",
+        "Filters"
+      ],
+      "keywords": [
+        "Sa 2-21",
+        "Planetary Nebula",
+        "M Puppis",
+        "UHC filter",
+        "Observation",
+        "Amateur Astronomy",
+        "Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-he-2-11",
+      "documentId": "eph86-04and05",
+      "title": "He 2-11",
+      "summary": "He 2-11 is an astronomical object discovered by Karl Henize in 1964. There are no known visual observations, and reports are requested to help determine its visual magnitude, which is estimated to be around 13.",
+      "categories": [
+        "Astronomical Objects",
+        "Discovery",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "He 2-11",
+        "Karl Henize",
+        "1964",
+        "visual observations",
+        "visual magnitude",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-obscure-large-winter-planetary-nebulae-part-2",
+      "documentId": "eph86-04and05",
+      "title": "OBSCURE LARGE WINTER PLANETARY NEBULAE (PART 2)",
+      "summary": "This article, part two of a series, presents a detailed list of obscure, large planetary nebulae observable during the winter months. For each celestial object, it provides critical astronomical data including coordinates, size, magnitude range, and surface brightness, aiding observers in locating and studying these less-known nebulae. The list features objects identified by various astronomers such as Abell, Kohoutek, and Minkowski.",
+      "categories": [
+        "observing reports",
+        "technical",
+        "celestial objects",
+        "astronomy"
+      ],
+      "keywords": [
+        "Planetary Nebulae",
+        "Winter Objects",
+        "Obscure Objects",
+        "Astronomical Data",
+        "Coordinates",
+        "Magnitude",
+        "Surface Brightness",
+        "Abell",
+        "Kohoutek",
+        "Minkowski",
+        "Henize",
+        "Jones Emberson",
+        "Sanduleak",
+        "Baade",
+        "Haro"
+      ],
+      "pageStart": 4,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph86-04and05-by-don-machholz",
+      "documentId": "eph86-04and05",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "Comets Hartley-Good and Boethin are discussed, with the former fading and the latter remaining in the evening sky. Halley's Comet is highlighted as the brightest, reaching perigee and opposition in April for optimal viewing. The author, Don Machholz, also mentions a personal story published in the March issue of \"Guideposts\" magazine.",
+      "categories": [
+        "Observing Report",
+        "Astronomy News",
+        "Skywatching"
+      ],
+      "keywords": [
+        "Comet Hartley-Good",
+        "Comet Boethin",
+        "Halley's Comet",
+        "perigee",
+        "opposition",
+        "comets",
+        "skywatching",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-what-goes-around-comes-around-halley-s",
+      "documentId": "eph86-04and05",
+      "title": "WHAT GOES AROUND COMES AROUND—HALLEY'S",
+      "summary": "Comet Halley is reaching its southernmost point (-44.4 degrees) on April 10, a rare position not seen since 1759 and not again until 2134. While the Southern Hemisphere will enjoy prime viewing, Northern observers will witness the unusual sight of the comet grazing the southern horizon with an upward-pointing tail against the Milky Way, presenting unique astrophotography opportunities.",
+      "categories": [
+        "Celestial Events",
+        "Observing Reports",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "Comet Observation",
+        "Southern Hemisphere",
+        "Northern Hemisphere",
+        "Astrophotography",
+        "Celestial Mechanics",
+        "Visibility",
+        "April"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-periodic-comet-boethin-1985n",
+      "documentId": "eph86-04and05",
+      "title": "Periodic Comet Boethin (1985n)",
+      "summary": "This article provides an ephemeris and observational notes for Periodic Comet Boethin (1985n), detailing its diffuse nature, magnitude, and visibility through June, along with a creative astrophotography tip. Additionally, it offers a comprehensive guide to observing galaxies in the Virgo Cluster, presenting techniques for locating specific Messier and NGC objects using naked-eye stars and various astronomical atlases.",
+      "categories": [
+        "Observing Guides",
+        "Cometology",
+        "Galactic Astronomy",
+        "Astrophotography Tips",
+        "Deep Sky Observing"
+      ],
+      "keywords": [
+        "Comet Boethin",
+        "1985n",
+        "Periodic Comet",
+        "Comet observation",
+        "Ephemeris",
+        "Magnitude",
+        "Astrophotography",
+        "Virgo Cluster",
+        "Galaxies",
+        "Messier objects",
+        "NGC objects",
+        "Observing techniques",
+        "Telescope",
+        "Binoculars",
+        "Dark skies",
+        "M87",
+        "M84",
+        "M86",
+        "AAVSO Atlas"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph86-04and05-periodic-comet-halley-1982i",
+      "documentId": "eph86-04and05",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This article provides a detailed guide for observing Comet Halley (1982i) during April and May, outlining its celestial path and visibility conditions. It highlights key dates such as its closest approach to Earth on April 10 and passes near Omega Centauri and NGC 5128, while also discussing the impact of moon phases on viewing. The document offers position data, magnitude estimates, and rise/set times for various Western longitudes and latitudes, projecting the comet's visibility until mid-July.",
+      "categories": [
+        "Observational Guide",
+        "Comet",
+        "Astronomy",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "Observing",
+        "Visibility",
+        "Celestial Path",
+        "Moon Interference",
+        "Omega Centauri",
+        "NGC 5128",
+        "Magnitude",
+        "Rise/Set Times",
+        "April",
+        "May",
+        "July"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-periodic-comet-halley-1982i",
+      "documentId": "eph86-04and05",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This document provides an ephemeris for Periodic Comet Halley (1982i), detailing its celestial coordinates (Right Ascension, Declination), elongation, and estimated visual magnitude from March 26 to June 5. It also includes approximate rise or set times for different latitudes, aiding observers in locating the comet during its predicted appearance.",
+      "categories": [
+        "observing reports",
+        "technical",
+        "astronomical data",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "ephemeris",
+        "astronomical data",
+        "comet observation",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "Elongation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-by-jay-reynolds-freeman",
+      "documentId": "eph86-04and05",
+      "title": "By: JAY REYNOLDS FREEMAN",
+      "summary": "The approach of Spring offers amateur astronomers an excellent, relatively unobstructed view of the rich central portion of the Virgo Cluster. While the region is filled with numerous galaxies, it presents challenges for visual observers due to a scarcity of naked-eye stars and prominent asterisms, making star-hopping difficult. This lack of Milky Way material, however, is beneficial as it prevents dimming of extragalactic objects.",
+      "categories": [
+        "Observing Guide",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Galaxies"
+      ],
+      "keywords": [
+        "Virgo Cluster",
+        "Galaxies",
+        "Amateur Astronomy",
+        "Observing",
+        "Spring",
+        "Star-hopping",
+        "Deep Sky"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph86-04and05-will-be",
+      "documentId": "eph86-04and05",
+      "title": "WILL BE:",
+      "summary": "This document announces an astronomical equipment swap meet/sale event scheduled for Saturday, April 26th, at 6:00 PM at the Los Gatos Red Cross. Attendees can buy and sell a wide range of astronomy-related items, including telescopes, eyepieces, mounts, books, and camera gear. Doors open at 2:00 PM, and pre-registration is encouraged.",
+      "categories": [
+        "Event Announcement",
+        "Sale/Swap Meet",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomy equipment",
+        "Swap meet",
+        "Sale",
+        "Telescopes",
+        "Eyepieces",
+        "Los Gatos",
+        "Amateur astronomy",
+        "Event",
+        "April 26th"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-please-pre-register-all-items",
+      "documentId": "eph86-04and05",
+      "title": "PLEASE PRE-REGISTER ALL ITEMS",
+      "summary": "This document outlines the pre-registration process for the 8th Annual Bay Area Astronomical Auction, encouraging individuals to sell astronomical or telescope-making related items. Sellers must complete a form with item details, minimum prices, and a percentage donation to SJAA, mailing it with a SASE to receive bidder/item numbers for efficient labeling. Emphasizing early registration, the article aims to streamline auction day operations, avoid delays, and support public astronomy education with proceeds.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Fundraising"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "Pre-registration",
+        "SJAA",
+        "Fundraising",
+        "Astronomy Education",
+        "Item Sales",
+        "1986 Bay Area Auction"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph86-04and05-directions-to-the-auction",
+      "documentId": "eph86-04and05",
+      "title": "DIRECTIONS TO THE AUCTION:",
+      "summary": "This document provides detailed directions to an auction event at the Los Gatos Red Cross buildings, located at 16011 Los Gatos-Saratoga Rd. It outlines key event logistics including doors opening at 2 PM for registration, a 5:45 PM deadline for item registration, and the auction starting promptly at 6 PM. Payment options are cash or check, and a $1 bidder/seller registration fee applies, with refreshments also available.",
+      "categories": [
+        "Events",
+        "Directions",
+        "Announcements",
+        "Logistics"
+      ],
+      "keywords": [
+        "Auction",
+        "Directions",
+        "Los Gatos",
+        "Red Cross",
+        "Registration",
+        "Bidders",
+        "Sellers",
+        "Event Details",
+        "Payment",
+        "Fees"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph86-04and05-general-meetings",
+      "documentId": "eph86-04and05",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA hosts monthly General Meetings and \"Indoor Star Parties\" at the Los Gatos Red Cross building in Los Gatos, California. These events provide a friendly atmosphere for members to share diverse astronomical interests such as astrophotography, deep sky observation, and telescope making. Held on the 4th Saturday of each month at 8 PM, the article also provides specific directions to the meeting location.",
+      "categories": [
+        "Events",
+        "Club Information",
+        "Logistics",
+        "Community"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Astronomy",
+        "Astrophotography",
+        "Deep Sky Observation",
+        "Telescope Making",
+        "Meeting Schedule",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-c-t-english-school",
+      "documentId": "eph86-04and05",
+      "title": "C.T. ENGLISH SCHOOL",
+      "summary": "The article introduces C.T. English School in the Santa Cruz mountains as a new observing site for the SJAA. It provides detailed driving directions from Hwy 17 South, including instructions for parking and setting up astronomical equipment on a paved playground or in an adjacent open field to minimize light interference.",
+      "categories": [
+        "Observing Site Information",
+        "Directions",
+        "Local Information"
+      ],
+      "keywords": [
+        "C.T. English School",
+        "Santa Cruz mountains",
+        "SJAA",
+        "Observing site",
+        "Directions",
+        "Hwy 17",
+        "Parking",
+        "Equipment setup"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-henry-coe-state-park",
+      "documentId": "eph86-04and05",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed directions to Henry Coe State Park, guiding visitors from Hwy 101 to a specific observing site. It includes crucial information about accessing a locked gate with a club combination (4585) and advises early arrival or pre-dark scouting for observing spots, mentioning the SJAA's equipment setup location.",
+      "categories": [
+        "Directions",
+        "Location Information",
+        "Observing Site",
+        "Club Information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Observing site",
+        "SJAA",
+        "Gate combination",
+        "Morgan Hill",
+        "Anderson Reservoir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-fremont-peak-state-park",
+      "documentId": "eph86-04and05",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is highlighted as a popular astronomical observing site for the San Jose Astronomical Association (SJAA), known for hosting activities on clear new moon weekends with many telescopes. The article provides detailed directions to the park and notes that the SJAA sets up at Coulter Camp. Additionally, it includes publication information for 'EPHEMERIS' and lists the current officers and board members of the SJAA.",
+      "categories": [
+        "Observing Site Information",
+        "Events",
+        "Directions",
+        "Organizational Information",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomical observation",
+        "Dark sky site",
+        "Coulter Camp",
+        "New moon",
+        "EPHEMERIS",
+        "Officers",
+        "Board of Directors"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph86-04and05-san-jose-astronomical-association-membership-application",
+      "documentId": "eph86-04and05",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines different membership tiers and their costs, including options for general membership, membership with Sky & Telescope magazine, and a junior membership. The form requests personal contact information and provides instructions for submission either at a meeting or by mail to the treasurer.",
+      "categories": [
+        "membership",
+        "application",
+        "administrative",
+        "club information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "dues",
+        "Sky & Telescope",
+        "junior membership",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph86-04and05-questionnaire-optional",
+      "documentId": "eph86-04and05",
+      "title": "Questionnaire (optional)",
+      "summary": "This document presents an optional questionnaire designed to gather information about astronomical interests, telescope ownership, and areas of expertise among its recipients. It includes questions about astro-photography, deep-sky observation, and telescope making. The footer also contains mailing information for SJAA EPHEMERIS, indicating it's a non-profit news material.",
+      "categories": [
+        "Survey",
+        "Membership Engagement",
+        "Astronomical Organization",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope making",
+        "telescope ownership",
+        "astronomy expertise",
+        "SJAA EPHEMERIS",
+        "questionnaire",
+        "survey"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph86-04and05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8604/Eph86_04and05.pdf",
+      "txtPath": "8604/Eph86_04and05.md"
+    }
+  ]
+}

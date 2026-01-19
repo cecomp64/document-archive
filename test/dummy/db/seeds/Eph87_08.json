@@ -1,0 +1,654 @@
+{
+  "articles": [
+    {
+      "id": "eph87-08-august-1987",
+      "documentId": "eph87-08",
+      "title": "AUGUST 1987",
+      "summary": "This document outlines an event schedule for August and early September 1987, primarily for an astronomical association. It features general meetings, board meetings, workshops on astrophotography, observational astronomy classes, and multiple field expeditions for stargazing and a Perseid Meteor Shower viewing. Key events include a workshop on amateur astrophotography and star parties at Fremont Peak State Park and Yosemite.",
+      "categories": [
+        "Events Schedule",
+        "Observational Astronomy",
+        "Workshops",
+        "Meetings",
+        "Field Expeditions",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "August 1987",
+        "September 1987",
+        "Astrophotography",
+        "Perseid Meteor Shower",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Grant Ranch County Park",
+        "Observational Astronomy Class",
+        "SJAA",
+        "Los Gatos Red Cross Building",
+        "Slide and Equipment Night",
+        "Board Meeting",
+        "General Meeting",
+        "Amateur Astronomy",
+        "Telescope Judging",
+        "Astronomical Association of Northern California CHAMP"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-field-of-view-by-john-gleason",
+      "documentId": "eph87-08",
+      "title": "FIELD OF VIEW BY JOHN GLEASON",
+      "summary": "The article emphasizes the urgency for members to renew their membership or bulletin subscription to continue receiving the monthly newsletter, 'Ephemeris'. Non-renewed members will cease receiving the newsletter after the current month, with a renewal form provided for convenience. Membership #24 includes the 'Ephemeris', 'Sky and Telescope' magazine, and Sky Publishing discounts, while an 'Ephemeris'-only subscription is available for $10.",
+      "categories": [
+        "Membership",
+        "Newsletter",
+        "Subscription",
+        "Club News"
+      ],
+      "keywords": [
+        "membership renewals",
+        "Ephemeris",
+        "newsletter",
+        "Sky and Telescope",
+        "subscription",
+        "discounts",
+        "renewal form"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph87-08-yosemite-trip",
+      "documentId": "eph87-08",
+      "title": "YOSEMITE TRIP",
+      "summary": "The article details the SJAA's annual star party weekend at Yosemite's Glacier Point on August 21st and 22nd, noting that the group campsite is at capacity and advising late registrants to secure first-come, first-served spots at Bridalveil Creek. It emphasizes the importance of the public stargazing program, urging members to prepare for telescope observations and public interaction to ensure future invitations. Members who registered but cannot attend are asked to notify the organizer.",
+      "categories": [
+        "events",
+        "observing reports",
+        "club activities",
+        "planning",
+        "public outreach"
+      ],
+      "keywords": [
+        "Yosemite",
+        "SJAA",
+        "star party",
+        "Glacier Point",
+        "camping",
+        "telescope observation",
+        "public program",
+        "Bridalveil Creek"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-new-computer",
+      "documentId": "eph87-08",
+      "title": "NEW COMPUTER",
+      "summary": "The SJAA has brought a new computer online, which will significantly upgrade the production of the Ephemeris newsletter. The editor plans to implement new personal publishing software for improved design and format, and future editions will benefit from higher resolution printing via a laser printer, with potential for digital photograph integration using a scanner. Until these upgrades are fully realized, the Ephemeris will continue to be printed with the ThinkJet.",
+      "categories": [
+        "Club News",
+        "Publications",
+        "Technology Update",
+        "Operational Improvement"
+      ],
+      "keywords": [
+        "SJAA",
+        "New Computer",
+        "Ephemeris",
+        "Personal publishing software",
+        "Laser printer",
+        "Digital scanner",
+        "Publication design",
+        "ThinkJet"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-answering-machine-needed",
+      "documentId": "eph87-08",
+      "title": "ANSWERING MACHINE NEEDED",
+      "summary": "The SJAA is seeking a donation of a telephone answering machine to establish an information service. This service will provide details on membership, upcoming events, and General Meeting locations. Interested donors are requested to contact the Officers and Board members listed in the Ephemeris.",
+      "categories": [
+        "Announcement",
+        "Request",
+        "Organization News",
+        "Equipment"
+      ],
+      "keywords": [
+        "Answering machine",
+        "Donation",
+        "SJAA",
+        "Information service",
+        "Membership",
+        "Events",
+        "General Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-uranometria-2000-0-volume-1",
+      "documentId": "eph87-08",
+      "title": "URANOMETRIA 2000.0 VOLUME 1",
+      "summary": "The SJAA is offering the new \"Uranometria 2000.0 Volume 1\" star atlas, featuring 330,000 stars and 10,300 deep-sky objects, to its members. Priced at an estimated $38.95, it's considered an excellent bargain, with a potential club discount from Sky Publishing. Interested individuals should contact Treasurer Jack Peterson to be added to the purchase list for late-month shipment.",
+      "categories": [
+        "product announcement",
+        "club offer",
+        "amateur astronomy",
+        "purchasing guide"
+      ],
+      "keywords": [
+        "Uranometria 2000.0 Volume 1",
+        "star atlas",
+        "SJAA",
+        "deep-sky objects",
+        "amateur astronomy",
+        "Sky Publishing",
+        "discount"
+      ],
+      "pageStart": 611,
+      "pageEnd": 611
+    },
+    {
+      "id": "eph87-08-poor-prospects-for-perseids",
+      "documentId": "eph87-08",
+      "title": "POOR PROSPECTS FOR PERSEIDS",
+      "summary": "This year's Perseid meteor shower on August 12/13 faces poor observing prospects due to a bright, waxing gibbous Moon, which will significantly interfere with visibility, especially during the predicted peak in the early morning hours. Despite this, it's suggested as a pleasant midweek backyard astronomy activity, with observers under dark skies potentially seeing 15-20 meteors per hour.",
+      "categories": [
+        "observing report",
+        "astronomy news",
+        "meteor shower"
+      ],
+      "keywords": [
+        "Perseid meteor shower",
+        "August 12/13",
+        "Moon interference",
+        "waxing gibbous Moon",
+        "meteor activity",
+        "backyard astronomy",
+        "dark skies",
+        "observing conditions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-aanc-conference",
+      "documentId": "eph87-08",
+      "title": "AANC CONFERENCE",
+      "summary": "The Astronomical Association of Northern California (AANC) is holding its annual conference on September 19-20 at the Lawrence Hall of Science in Berkeley. The event will feature talks on astronomy, equipment, and astrophotography. A pre-conference star party is also scheduled for August 22 at Fremont Peak.",
+      "categories": [
+        "Events",
+        "Conference",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "AANC Conference",
+        "Astronomical Association of Northern California",
+        "Lawrence Hall of Science",
+        "Berkeley",
+        "Star Party",
+        "Fremont Peak",
+        "Astronomy",
+        "Equipment",
+        "Astrophotography",
+        "September 19-20"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph87-08-slide-and-equipment-night",
+      "documentId": "eph87-08",
+      "title": "SLIDE AND EQUIPMENT NIGHT",
+      "summary": "An upcoming 'Slide and Equipment Night' is scheduled for September 5th, featuring equipment demonstrations, slides from the Riverside Telescope Makers Conference, and astrophotography by club members. The club editor will also be present, showcasing a new 8-inch f/16 brass refractor on a Tinsly/Mathis/Wedlock mount.",
+      "categories": [
+        "event announcement",
+        "club news",
+        "astronomy equipment",
+        "observing reports"
+      ],
+      "keywords": [
+        "Slide and Equipment Night",
+        "September 5th",
+        "equipment demonstrations",
+        "astrophotography",
+        "Riverside Telescope Makers Conference",
+        "refractor",
+        "telescope mount"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-astro-ads",
+      "documentId": "eph87-08",
+      "title": "ASTRO ADS",
+      "summary": "This document is an advertisement for a used Celestron C-90 Astro-Scope, priced at $300. The telescope comes with several accessories, including eyepieces, a diagonal, a barlow lens, a simple fork mount with a motor drive, and a wooden carrying case. Although several years old, the scope has been used for less than 20 hours, indicating its good condition.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Equipment"
+      ],
+      "keywords": [
+        "Celestron C-90",
+        "Astro-Scope",
+        "Telescope",
+        "Used equipment",
+        "Eyepieces",
+        "Motor drive",
+        "Astronomy equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-comet-comments-by-don-machholz",
+      "documentId": "eph87-08",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "This article provides updates on comets, noting that Comet Encke is briefly visible for Northern Hemisphere observers. It details the recent recovery of Periodic Comet Borrelly (1987p) by A. Gilmore and P. M. Kilmartin, predicting a favorable appearance that could reach magnitude 7 by year-end due to its close approach to the sun and opposition.",
+      "categories": [
+        "Observing Reports",
+        "Comet News",
+        "Astronomy Updates"
+      ],
+      "keywords": [
+        "Comet Encke",
+        "Comet Borrelly",
+        "1987p",
+        "Comet recovery",
+        "Orbital period",
+        "Magnitude",
+        "Northern Hemisphere",
+        "Observing",
+        "Mt. John Univ. Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-ephemerides",
+      "documentId": "eph87-08",
+      "title": "EPHEMERIDES",
+      "summary": "This article provides detailed ephemerides for Comet Sorrells (1986n) and Periodic Comet Klemola (1982i) for dates spanning late July to early September. It includes their right ascension, declination, elongation, and magnitude, along with observational notes on their visibility, movement relative to Earth and the Sun, and overall viewing prospects. Comet Sorrells is depicted as dimming and leaving, while Comet Klemola is noted as a challenging object to locate.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Observing Reports",
+        "Astronomy Data"
+      ],
+      "keywords": [
+        "Comet Sorrells (1986n)",
+        "Periodic Comet Klemola (1982i)",
+        "Ephemerides",
+        "Comet",
+        "Right Ascension (R.A.)",
+        "Declination (DEC)",
+        "Magnitude",
+        "Elongation",
+        "Milky Way",
+        "Observing",
+        "Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph87-08-periodic-comet-borrelly-1987p",
+      "documentId": "eph87-08",
+      "title": "Periodic Comet Borrelly (1987p)",
+      "summary": "This document provides an observational guide for Periodic Comet Borrelly (1987p), detailing its predicted positions, magnitudes, and distances from July to September. It describes the comet's early morning visibility, its initial southern trajectory, and its eventual turn north in mid-October, encouraging observers to track its development.",
+      "categories": [
+        "Comet Observation",
+        "Celestial Ephemeris",
+        "Astronomy",
+        "Viewing Guide"
+      ],
+      "keywords": [
+        "Comet Borrelly",
+        "1987p",
+        "Periodic Comet",
+        "Comet observation",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-seeking-comets",
+      "documentId": "eph87-08",
+      "title": "SEEKING COMETS",
+      "summary": "The article explains the process of computing comet orbits, starting with preliminary orbits based on initial astrometric positions from professional observatories. It highlights the growing difficulty for professional observatories to provide follow-up astrometric data due to other commitments. The piece emphasizes the critical need for amateur astronomers to contribute precise positional measurements to help refine comet orbits, noting that international amateurs have been doing this for years while American amateurs are lagging.",
+      "categories": [
+        "Comets",
+        "Amateur Astronomy",
+        "Technical",
+        "Observational Astronomy",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Comet orbits",
+        "Orbital elements",
+        "Astrometric positions",
+        "Comet discovery",
+        "Photographic plates",
+        "Smithsonian Astrophysical Observatory",
+        "Amateur astronomers",
+        "Parabolic orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-an-overview-of-observing-sites-by-don-machholz-and-rich-page",
+      "documentId": "eph87-08",
+      "title": "AN OVERVIEW OF OBSERVING SITES BY: DON MACHHOLZ AND RICH PAGE",
+      "summary": "This article, authored by Don Machholz and Rich Page, provides an overview of a specific astronomical observing site located on Rodeo Gulch Rd. near Soquel. It highlights the site's suitability for comet searching due to its wind protection and minimal traffic, along with detailed driving directions to reach it.",
+      "categories": [
+        "Observing Sites",
+        "Amateur Astronomy",
+        "Comet Observing",
+        "Location Guide"
+      ],
+      "keywords": [
+        "Observing sites",
+        "Rodeo Gulch Rd.",
+        "Soquel",
+        "Don Machholz",
+        "Rich Page",
+        "Comet searching",
+        "Directions",
+        "Astronomy",
+        "Dark sky site"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph87-08-mountain-view-rd",
+      "documentId": "eph87-08",
+      "title": "Mountain View Rd.",
+      "summary": "This document provides detailed directions and a comprehensive review of a stargazing site located off Mountain View Rd. and Rodeo Gulch Rd. It describes optimal telescope setup locations, horizon views, light pollution sources (Santa Cruz to the SSW), and local weather effects on transparency. The site, at approximately 600 feet elevation, features light traffic, minimal wind, and has been acknowledged by local law enforcement for use.",
+      "categories": [
+        "Observing Site Guide",
+        "Astronomy",
+        "Location Review",
+        "Observing Conditions"
+      ],
+      "keywords": [
+        "Mountain View Rd.",
+        "Rodeo Gulch Rd.",
+        "Stargazing",
+        "Telescope setup",
+        "Horizon",
+        "Light pollution",
+        "Santa Cruz",
+        "Observing site",
+        "Weather",
+        "Traffic"
+      ],
+      "pageStart": 6,
+      "pageEnd": 100
+    },
+    {
+      "id": "eph87-08-astronomical-society-of-the-pacific",
+      "documentId": "eph87-08",
+      "title": "ASTRONOMICAL SOCIETY OF THE PACIFIC",
+      "summary": "This document introduces the Astronomical Society of the Pacific and notes its association with the Lawrence Hall of Science. The content provided is minimal, essentially just listing the names of these two entities.",
+      "categories": [
+        "Organizations",
+        "Astronomy",
+        "Education"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "Lawrence Hall of Science",
+        "Astronomy Organizations",
+        "Science Education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-lawrence-hall-of-science-berkeley-california",
+      "documentId": "eph87-08",
+      "title": "Lawrence Hall of Science, Berkeley, California",
+      "summary": "This document introduces the Lawrence Hall of Science, an educational institution located in Berkeley, California. It serves as a brief mention or heading for content related to this specific science center.",
+      "categories": [
+        "institution profile",
+        "science education",
+        "museum information"
+      ],
+      "keywords": [
+        "Lawrence Hall of Science",
+        "Berkeley",
+        "California",
+        "science museum",
+        "educational institution"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-call-for-papers-and-registration",
+      "documentId": "eph87-08",
+      "title": "CALL FOR PAPERS and REGISTRATION",
+      "summary": "This document is a call for papers and registration announcement for an astronomy conference featuring professional speakers like Loren Acton, Clark Chapman, and Andrew Fraknoi, alongside papers from amateur astronomers. The event will include a swap meet, astrophotography competition, commercial and club exhibits, a banquet, and a star party, with a pre-conference star party at Fremont Peak State Park. Registration details, deadlines, and contact information for paper submissions and general inquiries are provided.",
+      "categories": [
+        "Event Announcement",
+        "Astronomy Conference",
+        "Call for Papers",
+        "Registration Information"
+      ],
+      "keywords": [
+        "astronomy conference",
+        "call for papers",
+        "registration",
+        "amateur astronomers",
+        "professional speakers",
+        "Loren Acton",
+        "Clark Chapman",
+        "Andrew Fraknoi",
+        "star party",
+        "astrophotography",
+        "swap meet",
+        "exhibits",
+        "banquet",
+        "Fremont Peak State Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-aanc-1987-conference-registration-form",
+      "documentId": "eph87-08",
+      "title": "AANC 1987 CONFERENCE REGISTRATION FORM",
+      "summary": "This document is a registration form for the 1987 AANC (Astronomical Association of Northern California) Conference. It allows attendees to register for the conference, select dinner options, request tickets for a planetarium show, and indicate participation in an astrophotography contest and a star party at Fremont Peak.",
+      "categories": [
+        "event registration",
+        "conference",
+        "astronomy events",
+        "form"
+      ],
+      "keywords": [
+        "AANC 1987 Conference",
+        "registration form",
+        "astronomy",
+        "star party",
+        "astrophotography contest",
+        "planetarium show",
+        "Fremont Peak",
+        "Northern California"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph87-08-general-meetings",
+      "documentId": "eph87-08",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Los Gatos Red Cross building, featuring guest speakers on diverse astronomical topics and informal \"Indoor Star Parties\" for members to share their interests. These meetings cultivate a friendly atmosphere for various pursuits like astrophotography, deep sky observation, and telescope making. The article also provides detailed directions, location, and start times for these gatherings.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Community",
+        "Club Activities",
+        "Informational"
+      ],
+      "keywords": [
+        "SJAA General Meetings",
+        "Los Gatos astronomy",
+        "Astronomical topics",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep sky observation",
+        "Telescope making",
+        "Meeting schedule",
+        "Directions",
+        "Los Gatos Red Cross"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-indoor-star-parties",
+      "documentId": "eph87-08",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "The 'INDOOR STAR PARTIES' are monthly Saturday evening gatherings for amateur astronomers to socialize, discuss astronomy, and share equipment. These events often feature telescopes set up in the parking lot or astrophotography slideshows indoors. Additionally, the SJAA conducts Board Meetings and an Introductory Astronomy workshop during these times.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Social Gathering",
+        "Workshops"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Club Meetings",
+        "Astronomy Workshop",
+        "Social Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-field-expeditions",
+      "documentId": "eph87-08",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA organizes \"Star Parties\" for astronomical observation on Saturdays closest to the New Moon. These field expeditions take place at various designated locations, ranging from sites near San Jose to distant places like Yosemite National Park, with directions provided in the EPHEMERIS.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomical Observation",
+        "Field Expeditions",
+        "SJAA",
+        "New Moon",
+        "Yosemite National Park",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-fremont-peak-state-park",
+      "documentId": "eph87-08",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly favored location for Bay Area amateur astronomers, hosting serious deep sky observing and astrophotography during New Moon weekends, often attracting 50-100 telescopes. It is also home to the Fremont Peak Observatory Association's 30\" Coudé telescope, which is open to the public on selected weekends. The article provides detailed directions to the park and information about the San Jose Astronomical Association, including its publication, 'EPHEMERIS', and contact details for its officers and board members.",
+      "categories": [
+        "Observing Sites",
+        "Amateur Astronomy",
+        "Community Information",
+        "Observatory Access",
+        "Logistics"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Amateur astronomers",
+        "Deep sky observing",
+        "Astrophotography",
+        "New Moon weekends",
+        "Fremont Peak Observatory Association",
+        "Coudé telescope",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Bay Area",
+        "Star gazing",
+        "Public observatory"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph87-08-san-jose-astronomical-association-membership-application",
+      "documentId": "eph87-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It outlines various membership types, including 'Membership Only', 'Membership/S&T', and 'Junior (Under 18)', along with their respective fees. The form requests applicant's name, address, and telephone number, and provides instructions for submission via mail or in-person at an SJAA meeting.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Administration",
+        "Organizations"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Contact Information",
+        "Renewal",
+        "Junior Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-08-questionnaire-optional",
+      "documentId": "eph87-08",
+      "title": "Questionnaire (optional)",
+      "summary": "This document features an optional questionnaire designed to gather information about individuals' astronomical interests, telescope ownership, and areas of expertise. It also includes mailing information for the SJAA EPHEMERIS, a non-profit organization, and is labeled as 'NEWS MATERIAL' with a 'TIME VALUE — DATED' stamp.",
+      "categories": [
+        "Survey/Questionnaire",
+        "Organizational Information",
+        "Community Engagement",
+        "Newsletter/Bulletin"
+      ],
+      "keywords": [
+        "Questionnaire",
+        "Astronomical interests",
+        "Telescope",
+        "Astro-photography",
+        "Deep-sky observation",
+        "Telescope making",
+        "SJAA EPHEMERIS",
+        "Non-profit organization",
+        "News material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph87-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8708/Eph87_08.pdf",
+      "txtPath": "8708/Eph87_08.md"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "articles": [
+    {
+      "id": "eph83-08-ephemeris",
+      "documentId": "eph83-08",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS\" for August 1983, appears to be a publication from the SJAA (likely an astronomical association). It includes an astronomical photograph depicting a spiral galaxy against a star-filled background, suggesting it contains observational data or information relevant to amateur astronomy for that month.",
+      "categories": [
+        "Astronomical Data",
+        "Astronomical Photography",
+        "Publication",
+        "Newsletter"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "August 1983",
+        "SJAA",
+        "Spiral Galaxy",
+        "Astronomy",
+        "Astronomical photography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-08-up-coming-events",
+      "documentId": "eph83-08",
+      "title": "Up-Coming Events",
+      "summary": "The article announces a series of upcoming events for an astronomical club, including the August general meeting featuring NASA scientist Fred Witteborn discussing the Infrared Telescope Facility Project, a high Sierra new moon star party at Glacier Point in Yosemite National Park in early August, and the annual slide and equipment night in September. It also details the September Conference on Astronomy hosted by the Astronomical Association of Northern California and briefly mentions an October general meeting.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observational Astronomy",
+        "Space Telescopes",
+        "Conferences"
+      ],
+      "keywords": [
+        "Upcoming events",
+        "Infrared Telescope Facility",
+        "Star party",
+        "Yosemite National Park",
+        "Astronomy conferences",
+        "Club activities",
+        "NASA-Ames Research Center"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-08-ephemeris-editor-change",
+      "documentId": "eph83-08",
+      "title": "EPHEMERIS editor change",
+      "summary": "Denni Frerichs is taking over as editor of the SJAA monthly news bulletin from Jack Zeiders, who is stepping down due to work commitments. Frerichs announces several changes, including moving the calendar to the center with full-size type, printing event directions and ads, and including board meeting minutes and agendas when possible. The new editor also makes a strong call for membership suggestions and article submissions for the bulletin.",
+      "categories": [
+        "news",
+        "organizational update",
+        "publication",
+        "call for submissions"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "editor change",
+        "SJAA news bulletin",
+        "Denni Frerichs",
+        "Jack Zeiders",
+        "calendar",
+        "board meetings",
+        "article submissions",
+        "membership involvement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-new-member",
+      "documentId": "eph83-08",
+      "title": "New member",
+      "summary": "The San Jose Astronomical Association (SJAA) actively engaged in public outreach, hosting a massive star party at Marriott's Great America for an estimated 14,000 attendees and a smaller educational event at Dartmouth School. The article also announced the birth of a new member, Elena Aurora Greenberg, and detailed an upcoming presentation by two members on a recent South Pacific eclipse. Additionally, it listed the current SJAA officers and board of directors.",
+      "categories": [
+        "Public Outreach",
+        "Events",
+        "Star Parties",
+        "Member News",
+        "Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Public Star Parties",
+        "Telescope Viewing",
+        "Astronomy Outreach",
+        "Marriott's Great America",
+        "Dartmouth School",
+        "Eclipse Presentation",
+        "New Member",
+        "Saturn",
+        "Moon",
+        "Venus"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-08-the-comet-connection",
+      "documentId": "eph83-08",
+      "title": "The COMET CONNECTION",
+      "summary": "The article details the upcoming Perseid Meteor Shower, set to peak on August 11 with optimal viewing in the early mornings of August 11-12, expecting 50-100 meteors/hour under favorable conditions. It provides observational tips, including radiant location and photography advice. The piece also discusses the associated, but currently unrecovered, Periodic Comet Swift-Tuttle, highlighting uncertainties in its orbital period and its ongoing search by astronomers.",
+      "categories": [
+        "Astronomy",
+        "Meteor Showers",
+        "Comets",
+        "Observing Guide",
+        "News"
+      ],
+      "keywords": [
+        "Perseid Meteor Shower",
+        "Comet Swift-Tuttle",
+        "Meteor observation",
+        "Astronomy photography",
+        "Comet search",
+        "Radiant",
+        "Meteor trains",
+        "Orbital period"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-08-picnic",
+      "documentId": "eph83-08",
+      "title": "Picnic",
+      "summary": "The annual SJAA Officers' Installation Picnic was held at Portal Park in Cupertino, gathering around 40 people for food, kite flying, and the official installation of officers and board members. Bob Fingerhut received the Dr. A. B. Gregory Award. Additionally, the article reminds members about renewing their SJAA memberships, detailing changes regarding Sky and Telescope subscriptions and providing instructions for renewal.",
+      "categories": [
+        "Event Report",
+        "Social Gathering",
+        "Awards",
+        "Membership",
+        "Administrative"
+      ],
+      "keywords": [
+        "SJAA",
+        "Picnic",
+        "Officers' Installation",
+        "Portal Park",
+        "Cupertino",
+        "Dr. A. B. Gregory Award",
+        "Bob Fingerhut",
+        "Membership Renewal",
+        "Sky and Telescope",
+        "Bulletin",
+        "German Chocolate Cake",
+        "Kite Flying",
+        "Boomerangs"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-sjaa-membership-application-renewal",
+      "documentId": "eph83-08",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document serves as a membership application and renewal form for the San Jose Astronomical Association (SJAA). It requests personal details like name, address, and contact information, as well as an area of interest. The form outlines various membership options, including a standard membership (with or without a Sky & Telescope subscription) and a junior membership, each with specified fees.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Forms",
+        "Administration",
+        "Organizational"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Fees",
+        "Junior Membership",
+        "Sky & Telescope",
+        "Astronomical Association"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-08-adds",
+      "documentId": "eph83-08",
+      "title": "ADDS",
+      "summary": "This document contains a series of classified advertisements for astronomical equipment, including various telescopes (C-90, Newtonian, refractor) and accessories like filters, eyepieces, and spotting scopes, primarily for sale by individuals. It also features a 'wanted' ad for a finder scope and details for a commercial astronomy store, Optron Systems, advertising a wide range of brands and products.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "For Sale",
+        "Wanted",
+        "Optics",
+        "Retail/Commercial"
+      ],
+      "keywords": [
+        "C-90 telescope",
+        "refractor",
+        "Newtonian telescope",
+        "Meade spotting scope",
+        "finder scope",
+        "Dobsonian",
+        "eyepieces",
+        "filters",
+        "barlow",
+        "tripod",
+        "Celestron",
+        "Meade",
+        "Lumicon",
+        "Tele-Vue",
+        "Optron Systems",
+        "Sunnyvale",
+        "Aptos",
+        "San Jose"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-08-aug",
+      "documentId": "eph83-08",
+      "title": "Aug.",
+      "summary": "This document outlines a series of astronomy-related events for August, including an outdoor star party at Henry Coe State Park, two indoor star parties, a board meeting, and a general meeting featuring a speaker from NASA discussing the Space Shuttle's Infrared Telescope Facility Project. It also highlights the peak of the Perseid Meteor Shower.",
+      "categories": [
+        "Events",
+        "Observing Events",
+        "Meetings",
+        "Lectures",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Star Party",
+        "Perseid Meteor Shower",
+        "Board Meeting",
+        "General Meeting",
+        "NASA Speaker",
+        "Infrared Telescope Facility",
+        "August Events",
+        "Astronomy Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-sept",
+      "documentId": "eph83-08",
+      "title": "Sept.",
+      "summary": "This document outlines a series of astronomical events and club meetings scheduled for September. Highlights include star parties at Fremont Peak and Henry Coe State Park, new and full moon dates, a board meeting, the AANC Astronomy Conference in Berkeley, and an SJAA General Meeting featuring an annual slide and equipment night.",
+      "categories": [
+        "Events",
+        "Club Meetings",
+        "Observing Opportunities",
+        "Astronomy Conference"
+      ],
+      "keywords": [
+        "September",
+        "Star Party",
+        "Fremont Peak",
+        "Henry Coe State Park",
+        "New Moon",
+        "Full Moon",
+        "Board Meeting",
+        "AANC Astronomy Conference",
+        "UC Berkeley",
+        "General Meeting",
+        "Slide and Equipment Night",
+        "Astronomy"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-08-general-meetings",
+      "documentId": "eph83-08",
+      "title": "General meetings:",
+      "summary": "This document provides detailed directions to the University of Santa Clara, Alumni Science Hall, room 102, for general meetings. It includes instructions for drivers coming from both north and south on Hwy 17, along with specific guidance for navigating to the building and parking lot, and locating room 102 on the ground floor.",
+      "categories": [
+        "meetings",
+        "directions",
+        "venue information"
+      ],
+      "keywords": [
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "room 102",
+        "Hwy 17",
+        "driving directions",
+        "parking",
+        "general meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-indoor-star-parties",
+      "documentId": "eph83-08",
+      "title": "Indoor Star Parties:",
+      "summary": "This document provides directions to \"Indoor Star Parties\" held at the Red Cross Building in Los Gatos, California. It details how to get there from Highway 17 South, including specific road names and turns, and mentions a simple map for guidance.",
+      "categories": [
+        "Events",
+        "Location Guide",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "Directions",
+        "Astronomy",
+        "Event Location"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-henry-coe-state-park",
+      "documentId": "eph83-08",
+      "title": "Henry Coe State Park:",
+      "summary": "This document provides detailed directions to the San Jose Astronomical Association (SJAA) observing site within Henry Coe State Park, accessible via Hwy 101 south towards Gilroy. It includes specific instructions for finding the site, accessing a locked gate with club combination 4565, and important etiquette for arrivals, especially after dark, emphasizing parking lights only.",
+      "categories": [
+        "Directions",
+        "Observing Site Information",
+        "Astronomy Club Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Observing site",
+        "Directions",
+        "Gate code",
+        "Parking",
+        "Gilroy",
+        "Hwy 101"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-fremont-peak-state-park",
+      "documentId": "eph83-08",
+      "title": "Fremont Peak State Park:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, starting from Highway 101 South. It specifies the setup location for the San Jose Astronomical Association (SJAA) as the Coulter Camp overflow area and includes an important note about using parking lights after dark, suggesting the park is used for night activities like stargazing.",
+      "categories": [
+        "Directions",
+        "Location Information",
+        "Observing Site Information",
+        "Event Logistics"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Directions",
+        "Hwy 101",
+        "Hwy 156 East",
+        "San Juan Bautista",
+        "Coulter Camp",
+        "SJAA",
+        "Parking lights"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-08-new-business",
+      "documentId": "eph83-08",
+      "title": "New Business",
+      "summary": "This document outlines an agenda for an upcoming meeting, focusing on several key topics. Items include a calendar update, the identity of September's speaker, and discussions on two proposals: one to shift board elections from June to Autumn, and another to move board meetings from Friday nights to Saturday nights, coinciding with Red Cross meetings.",
+      "categories": [
+        "Meeting Agenda",
+        "Organizational Update",
+        "Governance"
+      ],
+      "keywords": [
+        "Calendar",
+        "Speaker",
+        "Board elections",
+        "Board meetings",
+        "Proposals",
+        "Red Cross meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-old-business",
+      "documentId": "eph83-08",
+      "title": "Old Business",
+      "summary": "This document outlines three items under 'Old Business' for discussion. These include the speaker for the upcoming August general meeting, an update on the club's application for non-profit status with the IRS, and a discussion regarding the purchase of an expansion memory module for the Club's computer.",
+      "categories": [
+        "Meeting Agenda",
+        "Club Administration",
+        "Financial/Legal",
+        "Equipment"
+      ],
+      "keywords": [
+        "August meeting",
+        "speaker",
+        "non-profit status",
+        "IRS",
+        "memory module",
+        "club computer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-by-jim-van-nuland",
+      "documentId": "eph83-08",
+      "title": "BY JIM VAN NULAND",
+      "summary": "This article discusses observations of Jupiter's Great Red Spot (GRS), emphasizing the critical role of excellent seeing conditions for detailed views. It reports successful observations using both large (13.1 and 17.5 inch) and smaller (8 inch) telescopes, while noting challenges with a 4-1/4 inch f/4 instrument. The author encourages observers with smaller scopes to try and concludes with a brief schedule of GRS meridian transits for upcoming dates.",
+      "categories": [
+        "Observing Reports",
+        "Planetary Astronomy",
+        "Equipment Experiences",
+        "Observing Guides",
+        "Event Schedules"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "planetary observation",
+        "seeing conditions",
+        "telescopes",
+        "aperture",
+        "ocular",
+        "collimation",
+        "equatorial belt",
+        "GRS transit times"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-08-seventh-shuttle-flight-successful",
+      "documentId": "eph83-08",
+      "title": "Seventh Shuttle Flight Successful",
+      "summary": "The seventh Space Shuttle flight, STS-7, was successfully completed, demonstrating improved accuracy in satellite deployment which is expected to extend satellite operational life. The German pallet satellite, successfully tested during STS-7, is now scheduled for another flight on STS-11 in January 1984.",
+      "categories": [
+        "Spaceflight",
+        "Missions",
+        "Satellite Technology",
+        "News",
+        "Space Shuttle Program"
+      ],
+      "keywords": [
+        "Seventh Shuttle Flight",
+        "STS-7",
+        "communication satellites",
+        "deployment accuracy",
+        "satellite life",
+        "German pallet satellite",
+        "STS-11",
+        "January 1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-eight-shuttle-flight-scheduled-for-aug-20",
+      "documentId": "eph83-08",
+      "title": "Eight Shuttle Flight Scheduled for Aug. 20.",
+      "summary": "The eighth Space Shuttle flight, STS-8, is scheduled for August 20, marking the first mission with a night launch and night landing. Its primary payload is India's Insat 1B communications satellite, deployed to geosynchronous orbit via a PAM-D upper stage. The mission will also test the manipulator arm, conduct interface testing with TDRS-A, and process live samples for pharmaceutical production with a Continuous Flow Electrophoresis System, with a crew led by Commander Richard Truly.",
+      "categories": [
+        "space mission",
+        "news",
+        "upcoming event",
+        "technology",
+        "science experiment"
+      ],
+      "keywords": [
+        "STS-8",
+        "Space Shuttle",
+        "Insat 1B",
+        "PAM-D",
+        "TDRS-A",
+        "Kennedy Space Center",
+        "Edwards AFB",
+        "night launch",
+        "night landing",
+        "manipulator arm",
+        "Continuous Flow Electrophoresis System",
+        "pharmaceuticals",
+        "Richard Truly",
+        "Guion S. Bluford"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-ariane-sixth-flight-successful",
+      "documentId": "eph83-08",
+      "title": "Ariane Sixth Flight Successful",
+      "summary": "The European Ariane successfully completed its sixth flight on June 16, orbiting the ECS-1 communications satellite and the Amsat radio amateur satellite. This successful launch marked the first flight since a failure last September, with future launches for Intelsat F7, F8, and F9 already scheduled for late 1983 and early 1984.",
+      "categories": [
+        "news",
+        "spaceflight",
+        "launch report"
+      ],
+      "keywords": [
+        "Ariane",
+        "space launch",
+        "ECS-1",
+        "Amsat",
+        "communications satellite",
+        "radio amateur satellite",
+        "Intelsat",
+        "European space program"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-salyut-space-station-manned-again",
+      "documentId": "eph83-08",
+      "title": "Salyut Space Station Manned Again",
+      "summary": "Cosmonauts Vladimir Cyakhov and Aleksander Aleksandrov launched from Tyuratam on June 27 and successfully docked with the Salyut 7/Cosmos 1443 space station complex on June 28. This mission signifies the Salyut Space Station being manned once again. The station maintains an orbit of 342 x 328 km with a 51.6-degree inclination.",
+      "categories": [
+        "news",
+        "space mission",
+        "events"
+      ],
+      "keywords": [
+        "Salyut Space Station",
+        "Cosmonauts",
+        "Vladimir Cyakhov",
+        "Aleksander Aleksandrov",
+        "Tyuratam",
+        "Salyut 7",
+        "Cosmos 1443",
+        "Space station",
+        "Launch",
+        "Docking",
+        "Orbit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-cosmos-1443-identified",
+      "documentId": "eph83-08",
+      "title": "Cosmos 1443 Identified",
+      "summary": "Cosmos 1443, a Soviet module docked to the Salyut 7 space station, is identified as a multi-purpose spacecraft designed to function as a space station tug, an electrical power module, and a heavy cargo transporter. It features a reentry vehicle capable of returning 1100 pounds of cargo to Earth, 40 square meters of solar arrays providing 3 KW of power, and delivered 3 tons of cargo along with a 50 cubic meter habitable module to Salyut 7.",
+      "categories": [
+        "news",
+        "technical",
+        "spacecraft description"
+      ],
+      "keywords": [
+        "Cosmos 1443",
+        "Salyut 7",
+        "Soviet Union",
+        "space station",
+        "space tug",
+        "power module",
+        "cargo transport",
+        "reentry vehicle",
+        "solar array",
+        "habitable module"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-soviets-send-2-spacecraft-to-venus",
+      "documentId": "eph83-08",
+      "title": "Soviets Send 2 Spacecraft to Venus",
+      "summary": "The Soviet Union launched two spacecraft, Venera 15 on June 2 and Venera 16 on June 7, both believed to be Venus orbiters equipped with radar systems for terrain imaging. These spacecraft are expected to reach Venus in early October.",
+      "categories": [
+        "news",
+        "space exploration",
+        "missions",
+        "technology"
+      ],
+      "keywords": [
+        "Soviet Union",
+        "Venera 15",
+        "Venera 16",
+        "Venus",
+        "spacecraft",
+        "launch",
+        "orbiters",
+        "radar systems",
+        "space mission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-infrared-astronomical-satellite-s-mission-extended",
+      "documentId": "eph83-08",
+      "title": "Infrared Astronomical Satellite's Mission Extended",
+      "summary": "The Infrared Astronomical Satellite (IRAS) mission has been extended to conduct a third complete sky sweep starting in September, increasing its coverage to 99%. This extension builds on original plans for two sweeps covering 90% of the sky. Recent discoveries by IRAS include a newly found protostar, less than 100,000 years old, and a faint comet designated 1983f.",
+      "categories": [
+        "news",
+        "space mission",
+        "astronomy",
+        "scientific discovery"
+      ],
+      "keywords": [
+        "IRAS",
+        "Infrared Astronomical Satellite",
+        "mission extension",
+        "sky survey",
+        "protostar",
+        "comet",
+        "1983f",
+        "infrared astronomy"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-08-hughes-galaxy-satellite-launched",
+      "documentId": "eph83-08",
+      "title": "Hughes Galaxy Satellite Launched",
+      "summary": "The first of four Hughes Galaxy communications relay satellites was successfully launched on June 28. This significant event utilized a 3920/PAM Delta vehicle, marking a step forward for the Galaxy satellite series.",
+      "categories": [
+        "News",
+        "Space Launch",
+        "Satellite Technology"
+      ],
+      "keywords": [
+        "Hughes Galaxy",
+        "Satellite",
+        "Launch",
+        "Communications satellite",
+        "Delta vehicle",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-pioneer-10-leaves-solar-system",
+      "documentId": "eph83-08",
+      "title": "Pioneer 10 Leaves Solar System",
+      "summary": "Pioneer 10, launched on March 2, 1972, successfully passed the orbit of Neptune on June 13, making it the first man-made object to exit the solar system. After over 11 years of travel, the spacecraft is now set to explore interstellar space. This marks a significant milestone in space exploration.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Astronomy",
+        "Milestone"
+      ],
+      "keywords": [
+        "Pioneer 10",
+        "Solar System",
+        "Neptune",
+        "Interstellar space",
+        "Spacecraft",
+        "Space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-ionospheric-research-satillite-launched",
+      "documentId": "eph83-08",
+      "title": "Ionospheric Research Satillite Launched",
+      "summary": "The High Latitude Ionospheric Research Satellite (HILAT) has been launched from Vandenberg AFB into a polar orbit. Its mission is to measure the distorting effects of atmospheric structured plasmas on radio frequency communications and to provide ultraviolet imagery of auroras using its Auroral Ionospheric Mapper instrument.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Satellite Launch",
+        "Scientific Research",
+        "Space Science"
+      ],
+      "keywords": [
+        "HILAT",
+        "Satellite Launch",
+        "Ionosphere",
+        "Atmospheric Plasmas",
+        "Radio Communications",
+        "Auroras",
+        "Vandenberg AFB",
+        "Space Research"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-third-orbiter-nears-completion",
+      "documentId": "eph83-08",
+      "title": "Third Orbiter Nears Completion",
+      "summary": "The third shuttle orbiter, Discovery, is expected to be delivered to NASA in late September. Its first flight is currently planned for early 1984.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Discovery orbiter",
+        "Space Shuttle",
+        "NASA",
+        "Orbiter delivery",
+        "First flight",
+        "1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-by-don-machholz",
+      "documentId": "eph83-08",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article provides an update on recent comet activity, noting that while two Earth-grazing comets have passed, three periodic comets are still observable, with one faint comet recovered and another discovered. It details the recovery of Periodic Comet Johnson (1983h) and the discovery of Periodic Comet Russell 3 (1983i), including their magnitudes, locations, and orbital characteristics. The piece also announces a recurring 'Past Discoveries' section focusing on historical comet finds.",
+      "categories": [
+        "observing reports",
+        "comet discoveries",
+        "astronomy news",
+        "periodic comets"
+      ],
+      "keywords": [
+        "comets",
+        "Periodic Comet Johnson",
+        "Periodic Comet Russell 3",
+        "comet recovery",
+        "comet discovery",
+        "magnitude",
+        "Aquila",
+        "Mt. John University Observatory",
+        "Siding Spring"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-past-discoveries",
+      "documentId": "eph83-08",
+      "title": "PAST DISCOVERIES",
+      "summary": "This document recounts the discoveries of three comets by amateur astronomers: Periodic Comet Haneda-Campos (1978j), Comet Kohler (1977m), and Comet Machholz (1978l). It details the circumstances of each discovery, including the discoverers' dedicated efforts, the equipment used, the comets' initial observed magnitudes and positions, and notes on their unusual behaviors or why they might have been missed earlier. The article highlights the perseverance and experiences of amateur comet hunters.",
+      "categories": [
+        "Comet Discoveries",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Astronomical History"
+      ],
+      "keywords": [
+        "Comet Haneda-Campos (1978j)",
+        "Comet Kohler (1977m)",
+        "Comet Machholz (1978l)",
+        "Amateur astronomers",
+        "Comet hunting",
+        "Discovery circumstances",
+        "Magnitude",
+        "Celestial coordinates",
+        "T. Haneda",
+        "Jose Campos",
+        "Merlin Kohler",
+        "Light curve",
+        "Observational techniques"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph83-08-ephemeris-for-known-comets",
+      "documentId": "eph83-08",
+      "title": "Ephemeris for known comets",
+      "summary": "This document provides ephemeris data for several known periodic comets, including Tempel 1, Kopff, and Tempel 2, for the period between late July and early September. For each comet, it lists dates, Right Ascension, Declination, and magnitude, along with brief descriptive notes about their appearance, movement through constellations, and source (IAU Circulars). The data serves as a guide for observers tracking these celestial objects.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Guide",
+        "Astronomy",
+        "Technical Data"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Comets",
+        "Periodic Comet Tempel 1",
+        "Periodic Comet Kopff",
+        "Periodic Comet Tempel 2",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "IAU Circulars",
+        "Observing",
+        "Libra",
+        "Scorpio",
+        "M77"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-08-the-midsummer-messier-marathon-by-don-machholz",
+      "documentId": "eph83-08",
+      "title": "The Midsummer Messier Marathon by Don Machholz",
+      "summary": "Don Machholz conducted a Midsummer Messier Marathon on Loma Prieta on July 9-10, successfully observing 96 out of 110 Messier Objects despite strong winds. He also estimated magnitudes and sizes for over 90 objects. Other observers present were discouraged by the wind, and Machholz suggested another attempt in early November.",
+      "categories": [
+        "observing report",
+        "astronomical events",
+        "amateur astronomy",
+        "personal account"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Messier Marathon",
+        "Messier Objects",
+        "Loma Prieta",
+        "observing",
+        "wind",
+        "magnitude estimates",
+        "size estimates"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph83-08-s-w-a-ephemeris",
+      "documentId": "eph83-08",
+      "title": "S.W.A. EPHEMERIS",
+      "summary": "This document appears to be a masthead or mailing label for a publication titled \"S.W.A. EPHEMERIS\". It provides the publication's address in San Jose, CA, and indicates it is \"NEWS MATERIAL\" being mailed via bulk rate.",
+      "categories": [
+        "Publication Information",
+        "News Material",
+        "Logistics"
+      ],
+      "keywords": [
+        "S.W.A.",
+        "Ephemeris",
+        "San Jose CA",
+        "News Material",
+        "Bulk Rate",
+        "Mailing Label"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8308/Eph83_08.pdf",
+      "txtPath": "8308/Eph83_08.md"
+    }
+  ]
+}

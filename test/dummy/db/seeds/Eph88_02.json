@@ -1,0 +1,573 @@
+{
+  "articles": [
+    {
+      "id": "eph88-02-lick-observatory-first-century",
+      "documentId": "eph88-02",
+      "title": "LICK OBSERVATORY FIRST CENTURY",
+      "summary": "This document outlines an event schedule for an astronomy club, spanning February and March. It details general meetings featuring presentations on topics such as the history of Lick Observatory and filters for observation, alongside multiple field expeditions to Henry Coe and Fremont Peak State Parks. The schedule also includes a board meeting followed by an indoor astronomy workshop.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Field Expeditions",
+        "Workshops",
+        "Education",
+        "Club Business"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "General Meeting",
+        "Field Expedition",
+        "Astronomy Workshop",
+        "Observation",
+        "Astrophotography",
+        "Filters",
+        "Henry Coe State Park",
+        "Fremont Peak State Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-field-of-view",
+      "documentId": "eph88-02",
+      "title": "FIELD OF VIEW",
+      "summary": "The article announces a general meeting featuring U.J. Shiloh Unruh, who will speak about Lick Observatory and his new book, \"Eye On The Sky.\" It also informs members that Lick Observatory's 36-inch telescope will close for nearly a year of renovations starting April 1, 1988, though the 120-inch telescope will remain open. Additionally, new annual membership rates for SJAA, which include a magazine subscription, are now effective.",
+      "categories": [
+        "Events",
+        "News",
+        "Observatory Updates",
+        "Club News",
+        "Membership Announcements"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "U.J. Shiloh Unruh",
+        "General Meeting",
+        "36-inch Telescope",
+        "Observatory Renovations",
+        "SJAA",
+        "Membership Rates",
+        "Eye On The Sky",
+        "Astronomy History"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph88-02-membership-plus-sky-telescope-including-the-ephemeris-is-increasing-to-26-annually-junior-membership-under-18-increases-to-18-annual-dues-for-most-of-the-club-members-your-membership-will-expire-at-the-end-of-june-1989-but-you-may-renew-anytime-before-that-on-the-april-and-may-issue-of-the-ephemeris-there-will-be-stamped-in-red-a-reminder-to-renew-your-membership-and-on-your-june-and-july-issue-it-will-say-that-it-s-the-last-chance-to-renew-your-membership-the-club-requires-it-s-the-last-ephemeris-before-your-expiration-dates-so-if-you-don-t-receive-an-ephemeris-for-a-couple-of-months-it-s-probably-because-your-membership-has-expired-so-to-avoid-any-missing-issues-remember-to-renew-early-and-please-be-aware-of-the-dues-changes",
+      "documentId": "eph88-02",
+      "title": "Membership plus Sky & Telescope including the Ephemeris is increasing to $26 annually Junior membership (under 18) increases to $18 annual dues. For most of the club members your membership will expire at the end of June 1989 but you may renew anytime before that. On the April and May issue of the Ephemeris there will be stamped in red a reminder to renew your membership and on your June and July issue it will say that it's the \"last chance to renew\" your membership. The club requires it's the last Ephemeris before your expiration dates so if you don't receive an Ephemeris for a couple of months it's probably because your membership has expired. So to avoid any missing issues remember to renew early, and please be aware of the dues changes.",
+      "summary": "Membership dues for the club are increasing: $26 annually for standard membership (including Sky & Telescope and the Ephemeris) and $18 for junior membership. Most memberships expire at the end of June 1989, and members are encouraged to renew early to avoid missing issues of the Ephemeris, with renewal reminders to be stamped on spring issues. Failure to renew will result in cessation of Ephemeris delivery.",
+      "categories": [
+        "Club Administration",
+        "Membership Announcement",
+        "Dues Change"
+      ],
+      "keywords": [
+        "membership dues",
+        "renewal",
+        "Sky & Telescope",
+        "Ephemeris",
+        "junior membership",
+        "expiration date",
+        "club announcement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-introductory-astronomy-class-feb-27th",
+      "documentId": "eph88-02",
+      "title": "INTRODUCTORY ASTRONOMY CLASS FEB. 27TH.",
+      "summary": "An ongoing \"Introductory Astronomy class,\" led by Jack Zeiders and now in its third year, welcomes new participants to learn about Spring Constellations and deep sky objects. Classes are held on the fourth Saturday of each month at 8 PM, with some sessions planned for the West Valley College Planetarium.",
+      "categories": [
+        "Events",
+        "Education",
+        "Classes"
+      ],
+      "keywords": [
+        "Introductory Astronomy",
+        "Astronomy Class",
+        "Jack Zeiders",
+        "Spring Constellations",
+        "Deep Sky Objects",
+        "West Valley College Planetarium",
+        "Learning"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-astro-ads",
+      "documentId": "eph88-02",
+      "title": "ASTRO ADS",
+      "summary": "This document, titled \"ASTRO ADS,\" primarily serves as a classifieds section for used astronomical equipment, featuring various telescopes (refractors, reflectors, and Schmidt-Cassegrains) from brands like Celestron and Meade, along with numerous accessories. Additionally, it promotes a free Astronomy Computer Conference bulletin board for Bay Area amateurs to share experiences, equipment notes, and access local event listings.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Community Services",
+        "Digital Communications",
+        "For Sale"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Refractor",
+        "Reflector",
+        "Schmidt-Cassegrain",
+        "Eyepieces",
+        "Mounts",
+        "Astronomy Computer Conference",
+        "Bulletin Board System",
+        "Bay Area Astronomy",
+        "Used Equipment",
+        "Celestron",
+        "Meade"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph88-02-by-richard-stanton",
+      "documentId": "eph88-02",
+      "title": "BY: RICHARD STANTON",
+      "summary": "This article provides an astronomical observing guide for February, detailing several celestial events and objects. It covers the Delta Leonids meteor shower, a lunar occultation of Epsilon Arietis, specific lunar features, the Moon's passage through the Pleiades, and positions of several minor planets. Additionally, it offers observing opportunities for Jupiter's Galilean satellites.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Events",
+        "Celestial Mechanics",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "February",
+        "Meteor Shower",
+        "Delta Leonids",
+        "Occultation",
+        "Epsilon Arietis",
+        "Lunar Dark Limb",
+        "Lunar Features",
+        "Straight Wall",
+        "Plato Crater",
+        "Pleiades",
+        "Seven Sisters",
+        "Minor Planets",
+        "Asteroids",
+        "Hygia",
+        "Bellona",
+        "Vesta",
+        "Irene",
+        "Jupiter",
+        "Galilean Satellites",
+        "Io",
+        "Europa",
+        "Observational Astronomy",
+        "Planetary Transits",
+        "Lunar Phases"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph88-02-by-don-machholz",
+      "documentId": "eph88-02",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article outlines several upcoming Jovian moon events, including transits, occultations, and eclipses involving Europa, Ganymede, and Io, encouraging observers to view them before the Jupiter season ends. It also details the renaming of Comet 1987q1 to Comet Jensen-Shoemaker and provides a historical summary of comet discoveries and recoveries in 1987, noting it was a record year for both amateur and professional finds.",
+      "categories": [
+        "Observing Reports",
+        "Celestial Events",
+        "Comet News",
+        "Astronomy History"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Transit",
+        "Occultation",
+        "Eclipse",
+        "Comet",
+        "Comet 1987q1",
+        "Jensen-Shoemaker",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Amateur Astronomy",
+        "1987",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-ephemerides",
+      "documentId": "eph88-02",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides ephemerides for three comets—McNaught (1987b₁), Bradfield (1987s), and Furuyama (1987f₁)—covering late January through early March. It details their celestial coordinates, elongation, magnitude, and includes notes on their visibility, movement, and distances from Earth and the Sun. The information serves as a guide for observers to track these celestial objects.",
+      "categories": [
+        "Ephemerides",
+        "Observing Reports",
+        "Astronomy",
+        "Comets"
+      ],
+      "keywords": [
+        "Comets",
+        "Ephemerides",
+        "Observing",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Comet McNaught",
+        "Comet Bradfield",
+        "Comet Furuyama",
+        "Northern Hemisphere",
+        "Southern Hemisphere"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph88-02-seeking-comets",
+      "documentId": "eph88-02",
+      "title": "SEEKING COMETS",
+      "summary": "This article outlines the multi-tiered process of disseminating news about comet discoveries, primarily through the International Astronomical Union and Smithsonian Astrophysical Observatory's subscription-based services such as telegrams, mailgrams, computer messages, and printed Circulars for the scientific community. It further explains that the popular press typically relies on tips from amateur astronomers or local observatories rather than direct subscriptions, with the level of media coverage for a discovery varying based on the comet's significance or the discoverer's preferences.",
+      "categories": [
+        "Astronomical Communication",
+        "Comet Discovery",
+        "Media Relations",
+        "Scientific Dissemination"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "International Astronomical Union",
+        "Smithsonian Astrophysical Observatory",
+        "Central Bureau for Astronomical Telegrams",
+        "Astronomical communication",
+        "Telegram",
+        "Mailgram",
+        "Circulars",
+        "Popular press",
+        "Publicity",
+        "Amateur astronomers",
+        "Media coverage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-space-program-update-by-bob-fingerhut",
+      "documentId": "eph88-02",
+      "title": "SPACE PROGRAM UPDATE BY: BOB FINGERHUT",
+      "summary": "The space program is facing multiple challenges, with the next shuttle launch now delayed until at least September due to a test failure involving a redesigned solid rocket booster joint. Meanwhile, Congress significantly cut the FY 1988 funding for the Space Station, mandating NASA to submit a rescoped plan and diverting some funds from the Challenger replacement shuttle. Separately, international partners resolved an issue regarding the European Space Agency's contribution of a polar platform to the space station.",
+      "categories": [
+        "Space Program News",
+        "Shuttle Program",
+        "Space Station",
+        "Funding/Policy",
+        "Technical Updates",
+        "International Cooperation"
+      ],
+      "keywords": [
+        "Shuttle launch delay",
+        "Solid Rocket Booster (SRB)",
+        "Test failure",
+        "Space Station funding",
+        "Budget cuts",
+        "NASA",
+        "Congress",
+        "Rescoped program",
+        "Industrial Space Facility (ISF)",
+        "Polar Platform",
+        "European Space Agency (ESA)"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph88-02-solid-rocket-booster-for-titan-4-tested",
+      "documentId": "eph88-02",
+      "title": "SOLID ROCKET BOOSTER FOR TITAN 4 TESTED",
+      "summary": "A seven-segment solid rocket booster for the USAF's new Titan 4 rocket was successfully tested by CSD on December 21st in south San Jose, producing 1.5 million lbs of thrust. This development is for the Titan 4, which is designed to place 10,000 lbs into geosynchronous orbit, with 23 vehicles on order and its first launch scheduled for late 1988.",
+      "categories": [
+        "News",
+        "Aerospace",
+        "Space Program",
+        "Military Technology"
+      ],
+      "keywords": [
+        "Solid Rocket Booster",
+        "Titan 4",
+        "USAF",
+        "Rocket Test",
+        "CSD",
+        "Geosynchronous Orbit",
+        "Space Launch",
+        "Rocketry Development"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-record-setting-soviet-cosmonauts-return-to-earth",
+      "documentId": "eph88-02",
+      "title": "RECORD SETTING SOVIET COSMONAUTS RETURN TO EARTH",
+      "summary": "Soviet cosmonauts successfully completed a record-setting 326-day manned space flight, returning to Earth on December 29th. This historic mission concluded with a crew change aboard the MIR space station. The new crew's expected year-long stay is noted as the duration required for a potential manned Mars mission.",
+      "categories": [
+        "Space Exploration",
+        "News",
+        "Human Spaceflight",
+        "Record-Breaking Events"
+      ],
+      "keywords": [
+        "Soviet cosmonauts",
+        "MIR space station",
+        "Space flight record",
+        "326 days",
+        "Mars mission",
+        "Crew change",
+        "Space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-usaf-plans-manned-military-exercises-on-space-shuttle",
+      "documentId": "eph88-02",
+      "title": "USAF PLANS MANNED MILITARY EXERCISES ON SPACE SHUTTLE",
+      "summary": "The U.S. Air Force intends to use 8 of the first 14 Space Shuttle missions, following the resumption of flights, for manned military exercises. These operations will evaluate the effectiveness of human crews in strategic reconnaissance, ballistic missile warning, and surveillance of Soviet naval forces. The Air Force spokesman also indicated plans to continue these activities on the future space station.",
+      "categories": [
+        "Military Space",
+        "Space Shuttle",
+        "Military Exercises",
+        "Space Policy",
+        "Reconnaissance"
+      ],
+      "keywords": [
+        "USAF",
+        "Air Force",
+        "Space Shuttle",
+        "Manned military exercises",
+        "Strategic reconnaissance",
+        "Ballistic missile warning",
+        "Soviet naval forces",
+        "Space station",
+        "Military objectives"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-by-don-machholz-and-rich-savage",
+      "documentId": "eph88-02",
+      "title": "BY: DON MACHHOLZ AND RICH SAVAGE",
+      "summary": "This article, by Don Machholz and Rich Savage, reviews the Uvas Reservoir parking lot as a potential astronomical observing site, providing detailed directions from Blossom Hill Rd. and Camden Ave. It describes the large, paved area, horizon heights, and discusses potential issues like light pollution from nearby cities and car lights. The authors also address the legality of using the site for quiet observations, noting its suitability as a winter observing spot.",
+      "categories": [
+        "Observing Sites",
+        "Site Review",
+        "Astronomy Guide",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "Uvas Reservoir",
+        "Observing site",
+        "Dark sky",
+        "Light pollution",
+        "Horizon height",
+        "Directions",
+        "Astronomy",
+        "Don Machholz",
+        "Rich Savage",
+        "Milky Way",
+        "San Jose",
+        "Morgan Hill",
+        "Gilroy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph88-02-great-red-spot-by-jim-van-nuland",
+      "documentId": "eph88-02",
+      "title": "GREAT RED SPOT BY: JIM VAN NULAND",
+      "summary": "This article provides an observing guide for Jupiter's Great Red Spot (GRS) for December through March, noting that winter conditions make observations challenging and that February is the last month for frequent views. It offers tips for finding and observing the GRS, including looking for its surrounding dark oval and reported yellow color. A schedule of GRS meridian transit times in PST for February and early March is also included for optimal viewing.",
+      "categories": [
+        "observing guide",
+        "astronomical events",
+        "amateur astronomy",
+        "planetary observation"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "observing",
+        "meridian transit",
+        "February",
+        "March",
+        "PST",
+        "seeing conditions",
+        "planetary phenomena"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-chills-thrills-and-raindrops-a-night-on-freaky-peak-by-mike-o-brine",
+      "documentId": "eph88-02",
+      "title": "CHILLS, THRILLS, AND RAINDROPS: A NIGHT ON FREAKY PEAK BY: MIKE O'BRINE",
+      "summary": "Mike O'Brine recounts a frustrating astrophotography attempt at Fremont Peak on December 26th, 1987. Despite initially promising clear weather and good observing conditions, which allowed for some planetary viewing and photography, sudden overcast and rain unexpectedly ruined his deep-sky imaging plans just as he was about to begin his first long exposure. This experience highlights the unpredictable nature of amateur astronomy, leaving him with another failed deep-sky session but a resolve to return.",
+      "categories": [
+        "Observing Report",
+        "Astrophotography",
+        "Amateur Astronomy",
+        "Weather-Related Challenges",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Astrophotography",
+        "Deep-sky imaging",
+        "Telescopes",
+        "Observing",
+        "Weather",
+        "Frustration",
+        "Film photography",
+        "Amateur astronomy experience"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph88-02-employment-openings-at-lumicon",
+      "documentId": "eph88-02",
+      "title": "EMPLOYMENT OPENINGS AT LUMICON",
+      "summary": "Lumicon is seeking applicants for various positions including typing, telephone sales, order entry, purchasing, inventory, shipping, and showroom telescope sales. Starting salaries range from $14,000 to $18,000 per year, and candidates are encouraged to apply if they have a passion for astronomy. Resumes can be sent to Dr. Jack B. Marling at their Livermore, CA address.",
+      "categories": [
+        "Employment",
+        "Job Opening",
+        "Advertisement",
+        "Company News"
+      ],
+      "keywords": [
+        "Lumicon",
+        "Job",
+        "Employment",
+        "Astronomy",
+        "Sales",
+        "Shipping",
+        "Purchasing",
+        "Livermore CA",
+        "Dr. Jack B. Marling"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph88-02-general-meetings",
+      "documentId": "eph88-02",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Los Gatos Red Cross building, featuring guest speakers on astronomy topics and 'Indoor Star Parties.' These informal gatherings allow members to share interests, equipment, and enjoy camaraderie, with activities ranging from telescope viewing to astrophotography slideshows and introductory workshops. Meetings typically begin at 8 PM, with the location and directions provided for attendees.",
+      "categories": [
+        "Club Meetings",
+        "Events",
+        "Observing Reports",
+        "Astronomy Education",
+        "Community Gathering"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Indoor Star Parties",
+        "Los Gatos Red Cross",
+        "astronomy talks",
+        "astrophotography",
+        "deep sky observation",
+        "telescope making",
+        "amateur astronomy",
+        "Los Gatos California",
+        "astronomy workshop"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-field-expeditions",
+      "documentId": "eph88-02",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA hosts \"Star Parties\" for astronomical observation on Saturdays closest to the New Moon. These field expeditions take place at various designated locations, some near San Jose and others as far as Yosemite National Park. Attendees should consult the EPHEMERIS for directions to these events.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Announcements"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomical observation",
+        "SJAA",
+        "New Moon",
+        "Field Expeditions",
+        "Yosemite National Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-02-fremont-peak-state-park",
+      "documentId": "eph88-02",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly popular observing site for Bay Area amateur astronomers, offering excellent conditions for deep sky observing and astrophotography near San Juan Bautista. The park hosts the Fremont Peak Observatory Association's 30-inch telescope and regularly attracts 50-100 telescopes during clear New Moon weekends. The article also provides contact information for the San Jose Astronomical Association (SJAA) and its publication, \"EPHEMERIS,\" including a list of their officers and board members.",
+      "categories": [
+        "Observing Location Guide",
+        "Astronomical Club Information",
+        "Community Events",
+        "Local Astronomy News"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "Observing Site",
+        "Bay Area Astronomers",
+        "Fremont Peak Observatory",
+        "New Moon Events",
+        "EPHEMERIS"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph88-02-san-jose-astronomical-association-membership-application",
+      "documentId": "eph88-02",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing different membership types and their respective costs, including options for 'Membership Only,' 'Membership/S&T,' and 'Junior' memberships. It provides instructions for submitting the form and payment either at an SJAA meeting or by mail to the Treasurer, Jack Peterson, along with contact information.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Local Astronomy Club/Association",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Astronomy Club",
+        "Membership Fees",
+        "Sky & Telescope",
+        "Junior Membership",
+        "Treasurer",
+        "Contact Information",
+        "San Jose",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph88-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8802/Eph88_02.pdf",
+      "txtPath": "8802/Eph88_02.md"
+    }
+  ]
+}

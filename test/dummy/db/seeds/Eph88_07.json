@@ -1,0 +1,643 @@
+{
+  "articles": [
+    {
+      "id": "eph88-07-july-1988",
+      "documentId": "eph88-07",
+      "title": "JULY 1988",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) scheduled events for July and August 1988. It details various activities including an annual picnic, several star parties and field expeditions for observation, a board meeting, an introductory astronomy class, and a general meeting featuring a presentation on life on Mars. Key astronomical events like the Perseid Meteor Shower and new moon are also highlighted.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Observing Sessions",
+        "Meetings",
+        "Astronomical Events"
+      ],
+      "keywords": [
+        "July 1988",
+        "August 1988",
+        "Annual Picnic",
+        "Star Party",
+        "Field Expedition",
+        "Board Meeting",
+        "Astronomy Class",
+        "General Meeting",
+        "Perseid Meteor Shower",
+        "New Moon",
+        "Grant Ranch County Park",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "Yosemite National Park",
+        "Dr. Chris McKay",
+        "Life on Mars",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-field-of-view",
+      "documentId": "eph88-07",
+      "title": "FIELD OF VIEW",
+      "summary": "This article announces the annual SJAA picnic at Grant Ranch County Park, which will include a BBQ, the installation of new officers, and encourages members to bring potluck dishes and solar-filtered telescopes. Additionally, it provides an update on the Yosemite Star Party, noting that the group campsite is fully booked but a waiting list is available, and advises signed-up members to reconfirm reservations by July 18th.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA Picnic",
+        "Grant Ranch County Park",
+        "Officer Installation",
+        "Yosemite Star Party",
+        "Star Party",
+        "Astronomy Event",
+        "Camping",
+        "Solar Observing",
+        "Club Meeting"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph88-07-membership-renewals",
+      "documentId": "eph88-07",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "The article is a reminder for members of the San Jose Astronomical Association (SJAA) to renew their membership promptly to avoid losing their Sky & Telescope subscription and future Ephemeris issues. It instructs members to use the form on the back page of the Ephemeris, make checks payable to SJAA, and contact Jack Peterson for any renewal issues.",
+      "categories": [
+        "Membership",
+        "Club Administration",
+        "Announcements"
+      ],
+      "keywords": [
+        "Membership Renewal",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Sky & Telescope",
+        "Ephemeris",
+        "Club Fees",
+        "Jack Peterson"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-mars-watch-88",
+      "documentId": "eph88-07",
+      "title": "MARS WATCH - 88",
+      "summary": "The article announces the 'Mars Watch '88' Martian observing festivities organized by SJAA, encouraging members to participate in public programs. A bulletin with more details is available in this month's Ephemeris. The organizers are calling for more telescopes, specifically mentioning 5-inch Fluorite telescopes, to support the event.",
+      "categories": [
+        "Observing Events",
+        "Astronomy Club News",
+        "Public Programs",
+        "Call to Action"
+      ],
+      "keywords": [
+        "Mars Watch '88",
+        "Martian observing",
+        "SJAA",
+        "public programs",
+        "telescopes",
+        "Ephemeris",
+        "Fluorite telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-sjaa-member-receives-achievement-award",
+      "documentId": "eph88-07",
+      "title": "SJAA MEMBER RECEIVES ACHIEVEMENT AWARD",
+      "summary": "SJAA member Kevin Medlock received the prestigious Clifford Holmes Award for outstanding achievement in amateur astronomy. Recognized for his extensive contributions since his teens, Medlock has built numerous telescopes, including the 30-inch reflector at Fremont Peak, and spearheaded the Fremont Peak observatory project, which serves as a model for state park cooperation. He is also known for generously sharing his astronomical knowledge and is currently developing a new German equatorial mount, the Parsec-12.",
+      "categories": [
+        "news",
+        "awards",
+        "member recognition",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "Kevin Medlock",
+        "Clifford Holmes Award",
+        "SJAA",
+        "amateur astronomy",
+        "telescope construction",
+        "Fremont Peak",
+        "observatory",
+        "Parsec-12",
+        "telescope makers conference"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-august-speaker",
+      "documentId": "eph88-07",
+      "title": "AUGUST SPEAKER",
+      "summary": "Dr. Chris McKay from NASA will be the featured speaker in August, discussing the search for life on Mars. His talk is expected to be highly relevant given the grand opposition of Mars and the ongoing interest in the 'life on Mars' question within the planetary science community. Members are encouraged to attend to learn about the steps involved in this scientific endeavor.",
+      "categories": [
+        "event announcement",
+        "speaker series",
+        "astronomy",
+        "planetary science",
+        "news"
+      ],
+      "keywords": [
+        "Dr. Chris McKay",
+        "NASA",
+        "August speaker",
+        "Mars",
+        "Life on Mars",
+        "Grand Opposition of Mars",
+        "Planetary Science"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-reporters-at-large",
+      "documentId": "eph88-07",
+      "title": "REPORTERS AT LARGE",
+      "summary": "The San Jose Astronomical Association (SJAA) has gained two new \"Reporters at Large,\" Jon Greist and Brian Zebreg, to improve coverage of club events and monthly activities. The article also thanks members for their excellent contributions to the Ephemeris newsletter, encourages continued submissions, and reminds them to submit articles by the 15th of each month for timely publication.",
+      "categories": [
+        "Club News",
+        "Internal Communication",
+        "Volunteers",
+        "Publication Updates"
+      ],
+      "keywords": [
+        "Reporters at Large",
+        "SJAA",
+        "Ephemeris",
+        "Article submissions",
+        "Volunteers",
+        "Club activities",
+        "Jon Greist",
+        "Brian Zebreg",
+        "Don Machholz",
+        "Submission deadlines"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph88-07-by-don-grabski-and-brian-zehring",
+      "documentId": "eph88-07",
+      "title": "BY: DON GRABSKI AND BRIAN ZEHRING",
+      "summary": "Don Grabski introduces himself as the new \"REPORTER AT LARGE\" for the SJAA, sharing his journey into active amateur astronomy. He then reports on the lively Eighth Annual SJAA Auction, describing the pre-event swap meet and the main auction where a wide variety of astronomy-related items were sold. Grabski concludes by outlining future content plans for his column, including star party and meeting reports.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Amateur Astronomy",
+        "Column Introduction"
+      ],
+      "keywords": [
+        "Don Grabski",
+        "SJAA Auction",
+        "San Jose Astronomical Association",
+        "Amateur Astronomy Club",
+        "Swap Meet",
+        "Telescopes",
+        "Star Parties",
+        "Club Events",
+        "Astronomy Gear"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph88-07-cub-reporter-at-large-brian-zehring",
+      "documentId": "eph88-07",
+      "title": "CUB REPORTER AT LARGE - Brian Zehring",
+      "summary": "Brian Zehring, a 15-year-old member of the SJAA since December 1985, introduces himself as the 'Cub Reporter at Large' and a newly elected Board Member. He shares his passion for telescope building, having constructed a 12.5\" Dobsonian and currently working on a 17.5\" Surrier Truss design. Brian encourages fellow astronomers to approach him with any questions or comments.",
+      "categories": [
+        "Member Profile",
+        "News",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Brian Zehring",
+        "SJAA",
+        "Dobsonian Reflector",
+        "Telescope Building",
+        "Board Member",
+        "Youth in Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-an-overview-of-observing-sites-by-don-machholz-and-rich-page",
+      "documentId": "eph88-07",
+      "title": "AN OVERVIEW OF OBSERVING SITES BY DON MACHHOLZ AND RICH PAGE",
+      "summary": "This article provides an overview of Coyote Lake County Park in Santa Clara County as an astronomical observing site. It details directions, recommends specific campsites (9-17, 58, 59, 73) with amenities, and describes sky conditions including Milky Way visibility and some light pollution near the horizons. The authors also suggest two more secluded areas for observing that require special permits and note the park's suitability for group star parties.",
+      "categories": [
+        "Observing Sites",
+        "Site Review",
+        "Stargazing Locations",
+        "Guides"
+      ],
+      "keywords": [
+        "Coyote Lake County Park",
+        "Santa Clara County",
+        "Observing site",
+        "Stargazing",
+        "Campsites",
+        "Light pollution",
+        "Milky Way",
+        "Star party",
+        "Astronomy",
+        "California",
+        "Don Machholz",
+        "Rich Page"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph88-07-by-richard-stanton",
+      "documentId": "eph88-07",
+      "title": "BY: RICHARD STANTON",
+      "summary": "This article provides an astronomical guide for July, detailing two meteor showers (S. delta Aquarids and Alpha Capricornids) and two significant lunar occultations involving Regulus and Delta Capricorni, complete with dates, times, and observing particulars. It also celebrates the naming of asteroid (3672) Edberg in honor of Steve Edberg's contributions to amateur astronomy. The guide concludes with observing data for the minor planets Ceres and Pallas, including their positions and magnitudes for the month.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Astronomy News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor Showers",
+        "S. delta Aquarids",
+        "Alpha Capricornids",
+        "Lunar Occultations",
+        "Regulus",
+        "Delta Capricorni",
+        "Minor Planets",
+        "Asteroids",
+        "Ceres",
+        "Pallas",
+        "Steve Edberg",
+        "Asteroid (3672) Edberg",
+        "July",
+        "Observing"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph88-07-by-don-machholz",
+      "documentId": "eph88-07",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "This article discusses the visibility of Comets Liller and Periodic Comet Temple 2, but primarily focuses on the new discovery of Comet Shoemaker-Holt (1988g). Discovered by Carolyn and Eugene Shoemaker and Henry Holt using the Palomar 18\" Schmidt, this comet's orbit is strikingly similar to Comet Levy, suggesting both originated from a single parent comet that split years ago, with Levy being the brighter, likely larger, fragment.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "Cometary Science",
+        "Astronomy News"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Comet Liller",
+        "Periodic Comet Temple 2",
+        "Comet Shoemaker-Holt (1988g)",
+        "Carolyn Shoemaker",
+        "Eugene Shoemaker",
+        "Henry Holt",
+        "Palomar",
+        "Schmidt telescope",
+        "Comet Levy",
+        "Parent comet",
+        "Comet orbit",
+        "Comet fragmentation",
+        "M15"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-ephemerides",
+      "documentId": "eph88-07",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for Comet Liller (1988a) and Periodic Comet Tempel 2 (1987g) from late June to early August. For each comet, it lists daily celestial coordinates (Right Ascension and Declination), elongation from the sun, and visual magnitude, along with descriptive notes on their observed behavior and visibility during this period. The notes highlight Comet Liller's surprising brightness and tail, and Comet Tempel 2's southward trajectory and current activity despite being fainter than expected.",
+      "categories": [
+        "Astronomy",
+        "Ephemerides",
+        "Observing Guides",
+        "Comets",
+        "Celestial Data"
+      ],
+      "keywords": [
+        "Comet Liller",
+        "Comet Tempel 2",
+        "Ephemeris",
+        "Comets",
+        "Astronomy",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Astronomical Data",
+        "Observing",
+        "1988a",
+        "1987g"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-seeking-comets",
+      "documentId": "eph88-07",
+      "title": "SEEKING COMETS",
+      "summary": "This article explores the historical rate of comet discoveries, questioning if they have been found at a constant pace over time. It utilizes various authoritative sources like Michael Rudenko's and Dr. Brian Marsden's catalogues, along with IAU Circulars, to present data on new comet discoveries per decade and their annual averages.",
+      "categories": [
+        "historical analysis",
+        "astronomy",
+        "research",
+        "observational data"
+      ],
+      "keywords": [
+        "comets",
+        "comet discovery",
+        "discovery rate",
+        "astronomical history",
+        "catalogues",
+        "IAU Circulars"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph88-07-years-comets-comets-yr-discussion",
+      "documentId": "eph88-07",
+      "title": "YEARS # COMETS COMETS/YR. DISCUSSION",
+      "summary": "This article analyzes comet discovery rates from 1760 to 1988, presenting data on the number of comets found per year across different time periods. It suggests that variations in discovery rates are more reflective of the behavior and capabilities of comet hunters—including their number, experience, and geographic distribution—rather than actual fluctuations in the supply of new comets. The author highlights factors like improved observational techniques (e.g., photography) and the number of active observers as key drivers behind observed discovery trends.",
+      "categories": [
+        "Astronomy",
+        "Comet Observation",
+        "Historical Data Analysis",
+        "Observational Trends"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Comet hunters",
+        "Discovery rates",
+        "Historical trends",
+        "Observational bias",
+        "Astronomy",
+        "Comets",
+        "Time periods",
+        "Factors influencing discovery",
+        "Photographic finds"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-astro-ads",
+      "documentId": "eph88-07",
+      "title": "ASTRO ADS",
+      "summary": "This document contains two distinct sections: a classifieds listing for various used astronomical equipment and an article offering an astrophotography tip. The classifieds section, \"ASTRO ADS,\" details several telescopes (Celestron, Coulter), cameras, and accessories for sale or wanted. The second article, \"7 IS STILL A LUCKY NUMBER,\" provides advice to astrophotographers on how to achieve darker skies and better detail in their prints by requesting a \"+7 density channel\" at photo processing labs.",
+      "categories": [
+        "Classifieds",
+        "Equipment Sales",
+        "Astrophotography",
+        "Tips & Tricks",
+        "Observing Equipment"
+      ],
+      "keywords": [
+        "Celestron",
+        "Telescope",
+        "Schmidt Cassegrain",
+        "Newtonian Reflector",
+        "Astrophotography",
+        "Photo Processing",
+        "Eyepieces",
+        "Equatorial Mount",
+        "Star Diagonal",
+        "Finderscope",
+        "Solar Filter",
+        "Compustar",
+        "Schmidt Camera",
+        "Density Channel",
+        "Dark Sky",
+        "Print Quality"
+      ],
+      "pageStart": 8,
+      "pageEnd": 2415
+    },
+    {
+      "id": "eph88-07-a-calculator-program-for-mars-by-don-watson",
+      "documentId": "eph88-07",
+      "title": "A CALCULATOR PROGRAM FOR MARS BY: DON WATSON",
+      "summary": "Don Watson provides a calculator program designed for the CASIO fx-7000G, which computes the Longitude of the central meridian of Mars for a given date and time (PDT). This tool aims to assist observers in identifying surface features on Mars in conjunction with a map, with results showing less than a 1-degree difference compared to published tables. The program is presented with instructions and is adaptable to other programmable calculators.",
+      "categories": [
+        "Technical",
+        "Observing Aids",
+        "Planetary Astronomy",
+        "Programming"
+      ],
+      "keywords": [
+        "Mars",
+        "Calculator Program",
+        "Central Meridian",
+        "Longitude",
+        "Planetary Observation",
+        "CASIO fx-7000G",
+        "Astronomy Software",
+        "Observing Tools"
+      ],
+      "pageStart": 9,
+      "pageEnd": 519
+    },
+    {
+      "id": "eph88-07-by-arno-f-granados",
+      "documentId": "eph88-07",
+      "title": "BY: ARNO F. GRANADOS",
+      "summary": "This article advocates for variable star observing as a rewarding and scientifically valuable endeavor for amateur astronomers, highlighting that it can be pursued with various levels of equipment from naked eye to advanced telescopes. It details the observation process, including estimating stellar brightness and utilizing finder charts from the AAVSO, and encourages participation by emphasizing the dynamic nature of variable stars. The author underscores the significant contributions amateurs can make to astronomy and the personal satisfaction derived from this practice.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Variable Stars",
+        "Scientific Contribution",
+        "Practical Astronomy"
+      ],
+      "keywords": [
+        "Variable star observing",
+        "Amateur astronomy",
+        "AAVSO",
+        "Magnitude estimation",
+        "Finder charts",
+        "Telescopes",
+        "Binoculars",
+        "Observing techniques",
+        "Scientific data",
+        "Long period variables",
+        "Eclipsing variables"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph88-07-at-branham-lane-park",
+      "documentId": "eph88-07",
+      "title": "AT BRANHAM LANE PARK",
+      "summary": "The San Jose Astronomical Association and the San Jose Parks and Recreation Department are co-hosting public stargazing events at Branham Lane Park, Kirk Community Center. Attendees can observe planets like Mars and Saturn, the Moon's craters, and various deep-space objects through large amateur telescopes. These events are scheduled for multiple dates in September and October, running from sunset until 11:00 P.M.",
+      "categories": [
+        "Events",
+        "Public Outreach",
+        "Astronomy",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Stargazing",
+        "Mars",
+        "Saturn",
+        "Moon",
+        "Deep space objects",
+        "Telescopes",
+        "San Jose Astronomical Association",
+        "Public event",
+        "Branham Lane Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-general-meetings",
+      "documentId": "eph88-07",
+      "title": "GENERAL MEETINGS",
+      "summary": "The San Jose Astronomical Association (SJAA) holds monthly general meetings at the Red Cross building in Los Gatos, California, featuring guest speakers on a wide range of astronomical topics. These gatherings also serve as \"Indoor Star Parties\" where members share interests such as astrophotography, deep sky observation, and telescope making. The article provides details on the meeting schedule (1st Saturday of each month at 8 PM) and directions to the venue.",
+      "categories": [
+        "Events",
+        "Club Information",
+        "Meeting Details",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos California",
+        "Astronomical topics",
+        "Guest speakers",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep sky observation",
+        "Telescope making",
+        "Red Cross building",
+        "Meeting schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-indoor-star-parties",
+      "documentId": "eph88-07",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "The SJAA hosts informal \"Indoor Star Parties\" on select Saturday evenings, providing a venue for amateur astronomers to gather, share their passion for astronomy, and discuss equipment. These events often feature telescopes in the parking lot or astrophotography slideshows indoors, and may coincide with board meetings or introductory astronomy workshops. It's a social gathering for members to enjoy the company of friends with a shared interest.",
+      "categories": [
+        "Events",
+        "Community",
+        "Social Gathering",
+        "Workshops",
+        "Club Activities"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "amateur astronomers",
+        "telescopes",
+        "astrophotography",
+        "astronomy workshops",
+        "board meetings",
+        "social events",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-field-expeditions",
+      "documentId": "eph88-07",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA hosts \"Star Parties\" for astronomical observation on Saturdays closest to the New Moon. These field expeditions take place at designated locations, sometimes near San Jose and sometimes as far as Yosemite National Park. Members are advised to check the EPHEMERIS for details on upcoming star party locations.",
+      "categories": [
+        "Events",
+        "Observing",
+        "Announcements"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA",
+        "Astronomical Observation",
+        "New Moon",
+        "Field Expeditions",
+        "Yosemite National Park",
+        "EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph88-07-fremont-peak-state-park",
+      "documentId": "eph88-07",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a popular site for Bay Area amateur astronomers, frequently used for deep sky observing and astrophotography during New Moon weekends, often attracting 50-100 telescopes. The document provides detailed directions to the park and highlights its use by the San Jose Astronomical Association (SJAA). Additionally, it includes information about the SJAA's monthly publication, \"EPHEMERIS,\" and lists the club's current officers and board members with contact details.",
+      "categories": [
+        "Observing Location Guide",
+        "Amateur Astronomy Club",
+        "Club Directory",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "New Moon",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "California",
+        "Observing Site",
+        "Club Officers",
+        "Board of Directors"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph88-07-san-jose-astronomical-association-membership-application",
+      "documentId": "eph88-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing different membership options and their respective costs, including a 'Membership only' fee, a 'Membership/S&T' option, and a 'Junior (Under 18)' rate. It provides instructions on how to submit the form, including a mailing address for the treasurer and contact information, and asks applicants to specify if it's a new application or a renewal.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Association Information",
+        "Forms",
+        "News"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Junior Membership",
+        "Sky & Telescope",
+        "New Membership",
+        "Renewal",
+        "Contact Information",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph88-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8807/Eph88_07.pdf",
+      "txtPath": "8807/Eph88_07.md"
+    }
+  ]
+}

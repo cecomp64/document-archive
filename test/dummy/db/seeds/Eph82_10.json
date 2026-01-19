@@ -1,0 +1,505 @@
+{
+  "articles": [
+    {
+      "id": "eph82-10-ephemeris",
+      "documentId": "eph82-10",
+      "title": "Ephemeris",
+      "summary": "The article lists the San Jose Astronomical Association's (SJAA) scheduled events for October, including a general meeting, a board meeting, and multiple star parties. These events feature activities like equipment sharing, outdoor observing at Fremont Peak, and ongoing indoor mirror-grinding and telescope-making classes, culminating in a Halloween-themed indoor star party. It also provides contact and membership information for the SJAA.",
+      "categories": [
+        "Events",
+        "Astronomy Club News",
+        "Announcements",
+        "Meetings"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "October Events",
+        "General Meeting",
+        "Board Meeting",
+        "Star Party",
+        "Fremont Peak",
+        "Mirror Grinding",
+        "Telescope Making",
+        "Amateur Astronomy",
+        "Halloween Party"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-10-the-president-s-column",
+      "documentId": "eph82-10",
+      "title": "THE PRESIDENT'S COLUMN",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its annual \"Slide and Equipment Night\" on October 2nd at the Los Gatos Red Cross Building. This event encourages members to share astrophotography slides from past events like the Messier Marathon and Comet Austin, as well as showcase their astronomical equipment and ongoing projects. It's an informal gathering for members to \"show and tell\" their astronomy experiences and gear.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Slide and Equipment Night",
+        "Astronomy Events",
+        "Telescope Making",
+        "Amateur Astronomy",
+        "Observing",
+        "Astrophotography",
+        "Club Activities",
+        "Astronomy Equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-letter-to-the-editor",
+      "documentId": "eph82-10",
+      "title": "Letter to the Editor",
+      "summary": "Steve Edberg's letter challenges Sandra Faber's assertion that Mt. Wilson Observatory's telescopes are \"virtually useless\" due to bright skies. He highlights that the 100\" and 60\" telescopes are actively engaged in productive research, including stellar cycle studies, spectroscopy, and planetary nebulae imaging, emphasizing their continued importance for astronomy. Edberg concludes that the observatory is far from being closed down, despite light pollution, and provides foundational data for broader astronomical work.",
+      "categories": [
+        "Letter to the Editor",
+        "Observatory Operations",
+        "Astronomy Research",
+        "Light Pollution Impact",
+        "Public Debate"
+      ],
+      "keywords": [
+        "Mt. Wilson Observatory",
+        "Telescope Utilization",
+        "Astronomy Research",
+        "Light Pollution",
+        "Observational Astronomy",
+        "Stellar Studies",
+        "Planetary Nebulae",
+        "Sandra Faber",
+        "Amateur Astronomy",
+        "Mount Wilson"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-observations",
+      "documentId": "eph82-10",
+      "title": "Observations",
+      "summary": "This article announces special group rates for subscriptions to Astronomy Magazine ($12/year) and Telescope Making ($6/year), requiring a minimum of five participants. Interested individuals must contact Jim Van Nuland or Bob Fingerhut by October 1st, with the October 2nd general meeting being the last chance to sign up. Partial subscriptions are accepted to align with the January-December renewal cycle.",
+      "categories": [
+        "News",
+        "Membership Benefits",
+        "Publications",
+        "Events"
+      ],
+      "keywords": [
+        "Astronomy Magazine",
+        "Telescope Making",
+        "Group Rates",
+        "Subscriptions",
+        "Astro-Media",
+        "Jim Van Nuland",
+        "Bob Fingerhut",
+        "Renewal",
+        "SJAA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-sjaa-board-of-directors",
+      "documentId": "eph82-10",
+      "title": "SJAA BOARD OF DIRECTORS:",
+      "summary": "This document lists the names and phone numbers of the SJAA Board of Directors, including the Treasurer. It serves as a contact directory for the organization's leadership, followed by a short quote.",
+      "categories": [
+        "Organizational Information",
+        "Contact Details",
+        "Directory"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Contact Information",
+        "Phone Numbers",
+        "Treasurer",
+        "Leadership"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-10-general-meeting",
+      "documentId": "eph82-10",
+      "title": "General Meeting",
+      "summary": "At the September 11th General Meeting, Dr. Sy Stein, a former NASA biomedical specialist, presented a fascinating talk to about 30 attendees. He detailed how NASA's preparations for manned spaceflight led to numerous life-saving medical advancements, such as miniaturized accelerometers for Parkinson's detection, telemetry for patient monitoring, and miniature pitot tubes for heart diagnostics. Dr. Stein also highlighted how NASA's centrifuge was used to reposition a bullet in a man's brain, lamenting the recent reduction in biomedical advancements due to NASA funding cutbacks.",
+      "categories": [
+        "Meeting Report",
+        "Science Communication",
+        "Medical Technology",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "General Meeting",
+        "Dr. Sy Stein",
+        "NASA",
+        "biomedical advancements",
+        "manned spaceflight",
+        "medical technology",
+        "accelerometer",
+        "Parkinson's disease",
+        "telemetry",
+        "pitot tube",
+        "heart diagnostics",
+        "spray-on contacts",
+        "centrifuge",
+        "funding cutbacks",
+        "Ames Research Center"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-shake-up-at-loma-prieta",
+      "documentId": "eph82-10",
+      "title": "SHAKE-UP AT LOMA PRIETA",
+      "summary": "This article recounts astronomer Don Machholz's experiences with earthquakes while observing, particularly detailing a magnitude 4.5 quake on August 18, 1982, that occurred as he was comet hunting at Loma Prieta. He describes feeling the ground rise and fall, witnessing a galaxy shift in his telescope, and noting the unusual silence during the event. The epicenter of the quake was only a few miles from his observing location.",
+      "categories": [
+        "observing report",
+        "personal account",
+        "astronomy",
+        "geology",
+        "news"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Loma Prieta",
+        "earthquake",
+        "comet hunting",
+        "observing",
+        "Fremont Peak",
+        "M74",
+        "Richter Scale",
+        "Watsonville",
+        "1982"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-10-letter-to-the-editor",
+      "documentId": "eph82-10",
+      "title": "Letter to the Editor",
+      "summary": "Dr. Jack Marling of LUMICON, Inc. tested their Deep-Sky Filter on Comet Austin, finding it significantly improved both visual contrast and photographic clarity of the comet's tail, especially under severe light pollution. The filter's wide bandpass effectively transmits the comet's Swan bands while blocking light pollution, proving superior to other nebula filters. Marling concludes it is a versatile, all-purpose filter for comets and emission nebulae.",
+      "categories": [
+        "Observing Report",
+        "Product Review",
+        "Astrophotography",
+        "Visual Astronomy",
+        "Technical",
+        "Light Pollution"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "LUMICON Deep-Sky Filter",
+        "Light pollution",
+        "Comet observation",
+        "Astrophotography",
+        "Swan bands",
+        "Filter performance",
+        "Emission nebulae",
+        "C2 emissions",
+        "Livermore, California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-august-new-moon-at-freekis-peak",
+      "documentId": "eph82-10",
+      "title": "AUGUST NEW MOON AT FREEKIS PEAK",
+      "summary": "This article recounts a new moon star party at Fremont Peak, where observers successfully viewed Comet Austin and Comet Bowell despite initial concerns about clouds and some viewing obstructions. Attendees used various telescopes, including an 18-inch scope, to observe comets, planetary nebulae, and galaxies, enjoying warm shirt-sleeve temperatures.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Amateur Astronomy",
+        "Events"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "New Moon",
+        "Comet Austin",
+        "Comet Bowell",
+        "Binoculars",
+        "Telescopes",
+        "Planetary Nebulae",
+        "Galaxies",
+        "NGC 6826",
+        "Blinking Planetary",
+        "Don Machholz",
+        "Bay Area Astronomy",
+        "Coulter Camp",
+        "Madrone Flat"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-10-saoa-5",
+      "documentId": "eph82-10",
+      "title": "SAOA -5-",
+      "summary": "This article details observations made at a star party at Fremont Peak, where amateur astronomers utilized a variety of telescopes, including an 18-inch, to explore deep-sky objects. Key sightings included the \"blink\" effect of a green nebulosity, the challenging Stephan's Quintet, a mysterious M82-like galaxy near M45, and the distinct \"trifid\" appearance of M13. The event fostered a friendly atmosphere among attendees from several astronomical clubs, despite a significant amount of aperture present.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Deep Sky Objects",
+        "Amateur Astronomy",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "Planetary Nebula",
+        "Averted Vision",
+        "Stephan's Quintet",
+        "Galaxies",
+        "M13",
+        "Globular Cluster",
+        "M45",
+        "Minkowski 1-92",
+        "Fremont Peak",
+        "Newtonian Telescope",
+        "Dobson Telescope",
+        "C-11",
+        "Observational Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-staying-warm",
+      "documentId": "eph82-10",
+      "title": "STAYING WARM",
+      "summary": "This article humorously observes the peculiar attire often seen at star parties before providing practical advice for staying warm during winter observing sessions. It emphasizes dressing in layers, wearing a hat to prevent heat loss, and using appropriate gloves and footwear. The author highlights that proper clothing, rather than a \"macho observer\" approach, ensures a more comfortable and enjoyable astronomical experience.",
+      "categories": [
+        "Observing Tips",
+        "Practical Astronomy",
+        "Gear & Equipment",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "staying warm",
+        "star parties",
+        "winter observing",
+        "layered clothing",
+        "hats",
+        "gloves",
+        "footwear",
+        "cold weather astronomy",
+        "observing comfort"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-10-comet-comments",
+      "documentId": "eph82-10",
+      "title": "Comet Comments",
+      "summary": "This article, \"Comet Comments,\" reviews current cometary activity, announcing two newly identified sungrazing comets from 1981 that collided with the sun, observed by the P78-1 satellite, and linking them to the Kreutz group. It also highlights the 1975 discovery of Comet Kobayashi-Berger-Milon by an American amateur astronomer. The piece concludes with detailed observational data and notes for three currently visible comets: Comet Austin (1982g), Periodic Comet D'Arrest (1982e), and Periodic Comet Churyumov-Gerasimenko (1982f).",
+      "categories": [
+        "Cometology",
+        "Observational Astronomy",
+        "Astronomy News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Sungrazers",
+        "Comet discovery",
+        "Kreutz group",
+        "Amateur observation",
+        "Ephemeris",
+        "Comet Austin",
+        "Comet D'Arrest",
+        "Comet Churyumov-Gerasimenko",
+        "Comet Kobayashi-Berger-Milon",
+        "Satellite monitoring"
+      ],
+      "pageStart": 7,
+      "pageEnd": 78
+    },
+    {
+      "id": "eph82-10-space-program-update",
+      "documentId": "eph82-10",
+      "title": "Space Program Update",
+      "summary": "This 'Space Program Update' article details various global space activities, encompassing both successful and failed rocket launches and satellite operations, such as the private Conestoga-I launch and issues with the Ariane I and India's Insat-1A. It also covers ongoing space station missions, advancements in materials processing, and plans for new navigation systems and orbital projects. Additionally, the update discusses significant NASA and Department of Defense funding matters and outlines international collaborations like the U.S./West German ROSAT x-ray observatory.",
+      "categories": [
+        "Space News",
+        "Rocket Launches",
+        "Satellite Operations",
+        "Space Policy & Funding",
+        "Space Technology",
+        "International Space Programs",
+        "Commercial Space"
+      ],
+      "keywords": [
+        "Conestoga-I",
+        "Ariane I",
+        "Insat-1A",
+        "ANIK-D1",
+        "Salyut 7",
+        "Glonass",
+        "Challenger",
+        "NASA Funding",
+        "Department of Defense",
+        "ROSAT",
+        "Tethered Satellite",
+        "Teleoperator Retrieval System",
+        "Materials Processing in Space",
+        "Remote Sensing",
+        "Space Station"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-10-chris-kraft-jr-urges-stronger-support-for-research-and-development-and-the-space-program",
+      "documentId": "eph82-10",
+      "title": "Chris Kraft Jr. Urges Stronger Support for Research and Development, and the Space Program.",
+      "summary": "Former NASA Johnson Space Center director Chris Kraft Jr., upon his departure, urged the Reagan Administration to bolster support for research and development and the space program. He advocated for space station development, more shuttle orbiters (separated for military/NASA, and double the current plan), and increased commercial partnerships for the Space Transportation System. Kraft's departure was reportedly due to philosophical differences with NASA Administrator James Beggs regarding the Space Shuttle's operational transition.",
+      "categories": [
+        "Space Policy",
+        "NASA News",
+        "Government & Funding",
+        "Aerospace Industry",
+        "Personnel Change"
+      ],
+      "keywords": [
+        "Chris Kraft Jr.",
+        "NASA",
+        "Johnson Space Center",
+        "Reagan Administration",
+        "Research and Development",
+        "Space Program",
+        "Space Station",
+        "Space Shuttle",
+        "Orbiters",
+        "Commercial Sector",
+        "James Beggs",
+        "Space Policy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-fremont-peak-weekend-by-frank-dibbell",
+      "documentId": "eph82-10",
+      "title": "FREMONT PEAK WEEKEND By FRANK DIBBELL",
+      "summary": "This article recounts the \"Fremont Peak Weekend Star Party\" held on August 20th-21st, describing the author Frank Dibbell's experiences with fellow astronomy enthusiasts. Despite challenging observing conditions caused by cirrus clouds, attendees attempted to view Comet Austin and various deep-sky objects using a range of telescopes. Beyond stargazing, the weekend included a strenuous hike to Fremont Peak and its caverns, highlighting both the astronomical pursuits and social camaraderie of the event.",
+      "categories": [
+        "Star Party Report",
+        "Observing Report",
+        "Events",
+        "Personal Narrative",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Comet Austin",
+        "Deep-sky objects",
+        "Observing conditions",
+        "Telescopes",
+        "Hiking",
+        "Caverns",
+        "Astronomy",
+        "Stargazing"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-10-waa-board-meeting",
+      "documentId": "eph82-10",
+      "title": "WAA BOARD MEETING",
+      "summary": "The Western Amateur Astronomers (WAA) held their summer board meeting, discussing topics such as the design of the G. Bruce Blair Gold Medal, the decision to co-host the 1983 WAA Conference with the ASP in Hawaii, and their official stance on the Astronomical League. A significant announcement was made regarding an occultation of asteroid Pallas in May 1983, which is predicted to occur during the Riverside Telescope Makers' Conference, prompting a call for graze observers.",
+      "categories": [
+        "Organizational Meeting",
+        "Astronomy News",
+        "Event Planning",
+        "Observing Opportunity",
+        "Club Business"
+      ],
+      "keywords": [
+        "WAA",
+        "Board Meeting",
+        "G. Bruce Blair Gold Medal",
+        "1983 WAA Conference",
+        "ASP",
+        "Hawaii",
+        "Astronomical League",
+        "Pallas occultation",
+        "Riverside Telescope Makers' Conference",
+        "RTMC",
+        "Graze observers",
+        "SJAA",
+        "Philippine Astronomical Society"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-10-amateur-astronomy-survey",
+      "documentId": "eph82-10",
+      "title": "AMATEUR ASTRONOMY SURVEY",
+      "summary": "This document is a questionnaire created by Sunset Magazine for an upcoming story on amateur astronomy. It seeks to gather detailed information from amateur astronomers about their experience, interests, equipment, club affiliations, observing habits, and advice for newcomers. The collected responses will inform the magazine's article.",
+      "categories": [
+        "Survey",
+        "Media Research",
+        "Amateur Astronomy",
+        "Questionnaire"
+      ],
+      "keywords": [
+        "Amateur Astronomy",
+        "Survey",
+        "Sunset Magazine",
+        "Telescope",
+        "Astronomy Club",
+        "Observing",
+        "Photography",
+        "Hobby",
+        "Research"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph82-10-news-material",
+      "documentId": "eph82-10",
+      "title": "NEWS MATERIAL",
+      "summary": "This document is a bulletin from the San Jose Astronomical Association (SJAA), dated July 5, 1994. It provides the organization's contact information and includes a map detailing various locations for their meetings and star parties in the San Jose area.",
+      "categories": [
+        "News",
+        "Events",
+        "Organization Update",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Bulletin",
+        "Astronomy Meetings",
+        "Star Parties",
+        "San Jose, CA",
+        "July 1994",
+        "Club Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8210/Eph82_10.pdf",
+      "txtPath": "8210/Eph82_10.md"
+    }
+  ]
+}

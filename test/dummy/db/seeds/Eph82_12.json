@@ -1,0 +1,568 @@
+{
+  "articles": [
+    {
+      "id": "eph82-12-ephemeris",
+      "documentId": "eph82-12",
+      "title": "Ephemeris",
+      "summary": "This document, an 'Ephemeris' from the San Jose Astronomical Association, details upcoming club activities and astronomical events for December 1982, and January and February 1983. It includes general and board meetings, various star parties at different locations, an indoor star party focused on telescope making, and highlights significant celestial events like the Geminid Meteor shower and a total lunar eclipse. The document also provides contact information for the SJAA and its bulletin editor, along with membership details.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Astronomy",
+        "Observing Reports",
+        "Organizational News",
+        "Technical Talk"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "General Meeting",
+        "Board Meeting",
+        "Star Party",
+        "Indoor Star Party",
+        "Geminid Meteor shower",
+        "Lunar Eclipse",
+        "Telescope Mirror Making",
+        "Relativity",
+        "LandSat",
+        "De Anza College",
+        "Los Gatos Red Cross",
+        "Sanborn Canyon",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "University of Santa Clara",
+        "December 1982",
+        "January 1983",
+        "February 1983"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-12-president-s-column",
+      "documentId": "eph82-12",
+      "title": "PRESIDENT'S COLUMN",
+      "summary": "This President's Column delves into the long-standing mystery behind the specific, often fractional, standard sizes of commercially available Pyrex telescope mirror blanks. The author investigates by contacting a Pyrex Product Specialist at Corning Glass Works, who clarifies historical manufacturing processes and suggests that the additional fractions were likely an overcompensation to ensure a full \"clear aperture\" after final trimming and finishing. The article also touches upon different Pyrex types used for various mirror sizes.",
+      "categories": [
+        "Amateur Telescope Making",
+        "Technical",
+        "Historical Inquiry"
+      ],
+      "keywords": [
+        "Telescope mirrors",
+        "Pyrex",
+        "Mirror blanks",
+        "Corning Glass Works",
+        "Amateur telescope making",
+        "Glass manufacturing",
+        "Clear aperture",
+        "Telescope design",
+        "Material science"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-observations",
+      "documentId": "eph82-12",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) is holding its final general meeting at De Anza College on December 4th, featuring Lavis Epstein discussing relativity. Beginning in 1983, all general meetings will relocate to the University of Santa Clara's Daly Science Center, with Norm Sperling presenting on \"Searching Planet Earth\" using LandSat imagery at the January 22nd meeting. Norm Sperling, a former Sky & Telescope editor, also operates \"Everything in the Universe,\" an astronomical service.",
+      "categories": [
+        "Meeting Announcements",
+        "Organizational News",
+        "Events",
+        "Guest Speakers",
+        "Location Change"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meeting",
+        "De Anza College",
+        "University of Santa Clara",
+        "Daly Science Center",
+        "Lavis Epstein",
+        "Relativity",
+        "Norm Sperling",
+        "Searching Planet Earth",
+        "LandSat",
+        "Astronomy Lecture",
+        "1983 Events"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-12-november-board-meeting",
+      "documentId": "eph82-12",
+      "title": "November Board Meeting.",
+      "summary": "The November Board Meeting discussed soliciting member suggestions for future lecture topics and nominees for the 1983 G. Bruce Blair Award. A major point of discussion centered on establishing a club observing site and permanent telescope, prompted by Wayne Rosing's offer to donate a 40\" telescope blank once the club secures tax-exempt status. The Board is seeking member input on acquiring a dark-sky site, designing the observatory, building the telescope, and fundraising for this ambitious project.",
+      "categories": [
+        "Board Meeting Report",
+        "Club Projects",
+        "Observatory Planning",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Lectures",
+        "G. Bruce Blair Award",
+        "Observing Site",
+        "Permanent Telescope",
+        "Wayne Rosing",
+        "40 inch telescope blank",
+        "Observatory Project",
+        "Dark-sky location",
+        "Fundraising"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-january-s-bulletin",
+      "documentId": "eph82-12",
+      "title": "January's Bulletin.",
+      "summary": "The January Bulletin editor will be absent for the last two weeks of December and requests all contributors to submit their material directly to Denni. Denni will be responsible for compiling the January Bulletin during the editor's absence.",
+      "categories": [
+        "Announcement",
+        "Administrative",
+        "Publication"
+      ],
+      "keywords": [
+        "January Bulletin",
+        "submissions",
+        "Denni",
+        "editor absence",
+        "contributions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-andrew-fraknoi-joins-kgo-fm-radio",
+      "documentId": "eph82-12",
+      "title": "Andrew Fraknoi Joins KGO-FM Radio.",
+      "summary": "Andrew Fraknoi has joined ABC's KGO-FM Radio to host \"Exploring the Universe,\" a new science talk show airing Sundays. This program marks the Bay Area's first regularly scheduled commercial science broadcast, aiming to make modern science accessible through discussions with scientists, news, and public event listings. Fraknoi is a professor of astronomy and physics at San Francisco State University and the executive officer of the Astronomical Society of the Pacific.",
+      "categories": [
+        "News",
+        "Public Outreach",
+        "Media",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Andrew Fraknoi",
+        "KGO-FM Radio",
+        "Exploring the Universe",
+        "Science program",
+        "Radio show",
+        "Bay Area",
+        "Science communication",
+        "Astronomical Society of the Pacific"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-man-made-shadow-bands",
+      "documentId": "eph82-12",
+      "title": "MAN-MADE SHADOW BANDS?",
+      "summary": "Don Machholz describes a phenomenon he's observed for six years: brilliant landing lights from distant airplanes casting moving, triangular, or irregular light patterns onto surfaces. He compares these patterns to natural shadow bands seen during solar eclipses, which are caused by atmospheric air cells. Machholz asks readers if they have witnessed similar \"man-made shadow bands\" or have theories regarding their cause.",
+      "categories": [
+        "Observing Report",
+        "Atmospheric Phenomena",
+        "Community Inquiry",
+        "Unexplained Phenomenon"
+      ],
+      "keywords": [
+        "Shadow bands",
+        "Airplane lights",
+        "Light patterns",
+        "Atmospheric optics",
+        "Eclipse comparison",
+        "Observational astronomy",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-astronomy-at-indoor-star-parties",
+      "documentId": "eph82-12",
+      "title": "ASTRONOMY AT INDOOR STAR PARTIES",
+      "summary": "This article addresses concerns about a perceived lack of astronomy activities at indoor club meetings, suggesting various projects such as observational classes, drive corrector assembly, and mirror-making. The author encourages greater member participation to overcome the perception of a club 'clique,' emphasizing that involvement is key to engagement. It also highlights several ongoing member projects, including mirror grinding, comet seeking, and occultation timing, while inviting readers to share their own projects or viewpoints.",
+      "categories": [
+        "Club Activities",
+        "Amateur Astronomy Projects",
+        "Member Engagement",
+        "Telescope Making",
+        "Opinion Piece"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Member Participation",
+        "Telescope Making",
+        "Mirror Grinding",
+        "Observational Astronomy",
+        "Comet Seeking",
+        "Occultations"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-12-comet-comments",
+      "documentId": "eph82-12",
+      "title": "Comet Comments",
+      "summary": "The article provides an update on cometary activity at the close of 1982, noting visible periodic comets, Comet Austin's fading, and the recovery of a well-known periodic comet. It then delves into historical observations by Charles Messier, detailing how he discovered numerous Messier objects (e.g., M1, M50-M52, M56-M60) while primarily observing or searching for comets, and highlights instances of mistaken identity between comets and deep-sky objects by various observers.",
+      "categories": [
+        "Observing Reports",
+        "History of Astronomy",
+        "Comets",
+        "Deep-Sky Objects"
+      ],
+      "keywords": [
+        "Comets",
+        "Charles Messier",
+        "Messier Objects",
+        "Comet Observation",
+        "Historical Astronomy",
+        "1982 Astronomy",
+        "Deep-Sky Discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-periodic-comet-halley-1982i",
+      "documentId": "eph82-12",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "Halley's Comet (1982i) was successfully recovered on October 16th by a team at Mt. Palomar using the 200-inch telescope, confirming its position very close to D. Yeomans' prediction. The recovery was independently confirmed two days later by astronomers at Kitt Peak. The comet, estimated to have a 1.4 km radius nucleus, is expected to reach perihelion on February 9.3, 1986, and become visible in smaller telescopes by early September 1985.",
+      "categories": [
+        "Observing Report",
+        "News",
+        "Cometary Astronomy",
+        "Astronomical Discovery"
+      ],
+      "keywords": [
+        "Periodic Comet Halley",
+        "Comet recovery",
+        "Mt. Palomar",
+        "Kitt Peak",
+        "200-inch telescope",
+        "158-inch telescope",
+        "D. Yeomans",
+        "1982i",
+        "Perihelion",
+        "Nucleus size",
+        "Astronomical observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-periodic-comet-d-arrest-1982e",
+      "documentId": "eph82-12",
+      "title": "Periodic Comet D'Arrest (1982e)",
+      "summary": "The article provides an ephemeris for Periodic Comet D'Arrest (1982e) from late November to early January, including its Right Ascension, Declination, and predicted visual magnitude. It notes that the comet is rapidly fading and moving further away from both Earth and the Sun, indicating that optimal observing time is quickly diminishing. The data is adapted from MPC 6535.",
+      "categories": [
+        "observing report",
+        "ephemeris data",
+        "comet"
+      ],
+      "keywords": [
+        "Comet D'Arrest",
+        "1982e",
+        "periodic comet",
+        "ephemeris",
+        "magnitude",
+        "observing",
+        "astronomy",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-periodic-comet-churyumov-gerasimenko-1982f",
+      "documentId": "eph82-12",
+      "title": "Periodic Comet Churyumov-Gerasimenko (1982f)",
+      "summary": "This article provides an ephemeris for Periodic Comet Churyumov-Gerasimenko (1982f) from late November to early January, detailing its celestial coordinates and magnitude. It notes the comet's close approach to Earth (0.4 AU), suggests it might appear one magnitude fainter than published, and describes it as a small, roughly 1 arcminute object that would be nearly overhead in December.",
+      "categories": [
+        "Comet Observation",
+        "Ephemeris Data",
+        "Astronomy Information",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Comet Churyumov-Gerasimenko",
+        "1982f",
+        "Periodic Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Comet Observation",
+        "Angular Size"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-great-comets-notes-on-reporting-a-comet-discovery",
+      "documentId": "eph82-12",
+      "title": "Great Comets: Notes on Reporting a Comet Discovery",
+      "summary": "This article provides detailed instructions on how to report a new comet discovery to the Smithsonian Astrophysical Observatory (SAO) via telegram, including specific information to send like object type, position, magnitude, and appearance. It also advises discoverers to confirm their findings, noting that many initial reports are invalid, and suggests follow-up communication by letter. The piece concludes by mentioning the continuation of a comet-related series in the publication.",
+      "categories": [
+        "observing guide",
+        "technical",
+        "astronomical reporting",
+        "how-to"
+      ],
+      "keywords": [
+        "comet discovery",
+        "reporting",
+        "Smithsonian Astrophysical Observatory",
+        "SAO",
+        "telegram",
+        "telex",
+        "Central Bureau for Astronomical Telegrams",
+        "Right Ascension",
+        "Declination",
+        "magnitude",
+        "comet confirmation",
+        "astronomy",
+        "amateur astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-12-letter-to-the-editor",
+      "documentId": "eph82-12",
+      "title": "Letter to the Editor",
+      "summary": "Gerald W. Rattley writes to Steve, inquiring about his November bulletin, which he has not received by November 15th, and provides an update on his new permanent address. Steve responds, explaining that the bulk mailings, including the bulletin, were severely delayed due to an overwhelming volume of election-related material prioritized by federal law, causing significant backlogs for the postal service.",
+      "categories": [
+        "Correspondence",
+        "Club/Organization News",
+        "Administrative Update",
+        "Logistics"
+      ],
+      "keywords": [
+        "Mail delivery",
+        "November bulletin",
+        "Postal service",
+        "Election mail",
+        "Bulk mail",
+        "Astronomy club",
+        "Administrative issue",
+        "Magazine delay"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-space-program-update",
+      "documentId": "eph82-12",
+      "title": "Space Program Update",
+      "summary": "This 'Space Program Update' details recent activities including the Space Shuttle Columbia's successful launch of its first commercial payloads and the preparation of Challenger for its maiden mission, STS-6, which is experiencing delays. It also covers international developments like the Soviet Union's new navigation system and a space endurance record, ongoing issues with the Ariane rocket, and discussions around a potential fifth Shuttle orbiter and a space nuclear power source dispute. Furthermore, the article touches on plans for a large Soviet rocket, the development of the Lassocraft platform, and approval for Shuttle launches from Vandenberg AFB.",
+      "categories": [
+        "Space Missions",
+        "Spacecraft Development",
+        "International Programs",
+        "Space Policy & Funding",
+        "Space Technology",
+        "Human Spaceflight"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Columbia",
+        "Challenger",
+        "STS-6",
+        "STS-9",
+        "Ariane",
+        "Satellites",
+        "Commercial Space",
+        "Soviet Space Program",
+        "Space Endurance Record",
+        "Nuclear Space Power",
+        "NASA",
+        "Launch Vehicles",
+        "Space Stations",
+        "Kennedy Space Center",
+        "Payload Assist Module",
+        "Inertial Upper Stage"
+      ],
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-12-exploring-the-universe-seminars",
+      "documentId": "eph82-12",
+      "title": "EXPLORING THE UNIVERSE SEMINARS",
+      "summary": "Bill Dellinges recounts his experience assisting Dr. William Kaufmann's \"Exploring the Universe\" seminars, providing additional observing time with his C-14 telescope and teaching basic sky navigation. He notes participants' interest in learning constellations over deep celestial mechanics. Dellinges has been invited back for six sessions next summer, providing dates, tuition, and contact information for prospective attendees.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Education/Workshops",
+        "Announcements"
+      ],
+      "keywords": [
+        "Exploring the Universe Seminars",
+        "Astronomy workshops",
+        "Telescope observing",
+        "C-14 telescope",
+        "Celestial navigation",
+        "Constellation identification",
+        "William Kaufmann",
+        "Bill Dellinges",
+        "Sierra Nevada College",
+        "Astronomy Weekend"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-the-star-of-bethlehem",
+      "documentId": "eph82-12",
+      "title": "THE STAR OF BETHLEHEM",
+      "summary": "This article analyzes a series of unique planetary conjunctions and movements between August 3 BCE and December 2 BCE, suggesting they could explain the biblical 'Star of Bethlehem.' The author proposes that these astronomical phenomena, particularly involving Jupiter's interactions with Venus, Mars, and Regulus in the constellation Leo, align with ancient astrological interpretations predicting the birth of a king and specific biblical prophecies about the Christ Child. The text argues that these rare occurrences would have greatly excited observers like the Magi, leading them to Jerusalem and Bethlehem.",
+      "categories": [
+        "historical astronomy",
+        "biblical studies",
+        "astrology",
+        "cultural history",
+        "analysis"
+      ],
+      "keywords": [
+        "Star of Bethlehem",
+        "Jupiter",
+        "Venus",
+        "Regulus",
+        "planetary conjunctions",
+        "3 BCE",
+        "2 BCE",
+        "Magi",
+        "astrology",
+        "biblical prophecy",
+        "Leo",
+        "Virgo"
+      ],
+      "pageStart": 8,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-12-ads",
+      "documentId": "eph82-12",
+      "title": "Ads",
+      "summary": "This document contains several classified advertisements for astronomy-related items. Listings include a Celestron 2\" Star Diagonal, a vintage refractor box, 55-gallon steel drums for mirror grinding, and brass gear stock suitable for telescope drives.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomy Equipment",
+        "DIY Astronomy",
+        "Used Gear"
+      ],
+      "keywords": [
+        "Celestron Star Diagonal",
+        "refractor box",
+        "steel drums",
+        "mirror grinding",
+        "brass gear stock",
+        "telescope drives",
+        "astronomy ads",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-a-thrilling-chilling-autumn-star-party",
+      "documentId": "eph82-12",
+      "title": "A THRILLING, CHILLING AUTUMN STAR PARTY",
+      "summary": "This article recounts a \"chilling, thrilling\" autumn star party at Fremont Peak on November 17th, where despite cold conditions and low attendance, the author and a companion experienced an exceptionally rewarding night. Key observations included splitting double stars like Rigel and Trapezium, numerous Messier and NGC objects, and first-time visual sightings of the Horsehead Nebula and Rosette Nebula, aided by excellent seeing conditions later in the evening. The report emphasizes the value of persistence, proper preparation, and specific observing techniques for challenging deep-sky targets.",
+      "categories": [
+        "Observing Report",
+        "Star Party",
+        "Astronomy Event",
+        "Observing Tips & Techniques"
+      ],
+      "keywords": [
+        "Star party",
+        "Fremont Peak",
+        "Observing",
+        "Deep-sky objects",
+        "Double stars",
+        "Horsehead Nebula",
+        "Rosette Nebula",
+        "Eskimo Nebula",
+        "Rigel",
+        "Trapezium",
+        "Messier objects",
+        "NGC objects",
+        "Dobsonian telescope",
+        "Averted vision",
+        "Eyepieces",
+        "Seeing conditions",
+        "Autumn astronomy"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph82-12-news-material",
+      "documentId": "eph82-12",
+      "title": "NEWS MATERIAL",
+      "summary": "This document is an internal \"SIAA Bulletin\" from the San Jose Astronomical Association, explicitly labeled as \"NEWS MATERIAL.\" It contains the association's address and a postal marking dated October 7, 1982, indicating its historical context and origin as a club publication.",
+      "categories": [
+        "News",
+        "Organizational Bulletin",
+        "Astronomical Club Document",
+        "Historical Document"
+      ],
+      "keywords": [
+        "SIAA Bulletin",
+        "San Jose Astronomical Association",
+        "News material",
+        "October 1982",
+        "Astronomy club",
+        "Club publication",
+        "California"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-12-star-meeting-star-party-sites",
+      "documentId": "eph82-12",
+      "title": "STAR MEETING & STAR PARTY SITES",
+      "summary": "This document features a hand-drawn map detailing various locations designated for star meetings and star parties. The map includes roads, landmarks, and names of these sites, which appear to be concentrated around the San Jose area, serving as specific astronomical observation locations.",
+      "categories": [
+        "Event Information",
+        "Observing Sites",
+        "Maps",
+        "Local Astronomy"
+      ],
+      "keywords": [
+        "star parties",
+        "star meetings",
+        "observing sites",
+        "astronomy maps",
+        "San Jose astronomy",
+        "observation locations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8212/Eph82_12.pdf",
+      "txtPath": "8212/Eph82_12.md"
+    }
+  ]
+}

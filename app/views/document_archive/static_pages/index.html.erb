@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Search - Article Explorer</title>
+    <%= stylesheet_link_tag "document_archive/search", media: "all" %>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Article Semantic Search</h1>
+            <p class="subtitle">Search through articles using natural language</p>
+        </header>
+
+        <div class="stats-bar" id="statsBar">
+            <span id="stats">Loading...</span>
+        </div>
+
+        <div class="search-section">
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Enter your search query..."
+                    autocomplete="off"
+                >
+                <button id="searchButton">Search</button>
+            </div>
+            <div class="search-options">
+                <label>
+                    Results:
+                    <select id="limitSelect">
+                        <option value="5">5</option>
+                        <option value="10" selected>10</option>
+                        <option value="20">20</option>
+                        <option value="50">50</option>
+                    </select>
+                </label>
+            </div>
+        </div>
+
+        <div class="info-message" id="infoMessage">
+            <strong>Semantic Search:</strong> Server-side embedding generation enabled.
+            Configure with GEMINI_API_KEY (cloud) or EMBEDDING_PROVIDER=sentence-transformers (local).
+            See README for setup instructions.
+        </div>
+
+        <div id="loadingIndicator" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Searching...</p>
+        </div>
+
+        <div id="resultsContainer" class="results-container hidden">
+            <h2>Search Results (<span id="resultCount">0</span>)</h2>
+            <div id="results"></div>
+        </div>
+
+        <div id="browseSection" class="browse-section">
+            <h2>Browse All Articles</h2>
+            <div id="browseResults"></div>
+            <div class="pagination">
+                <button id="prevButton" disabled>Previous</button>
+                <span id="pageInfo"></span>
+                <button id="nextButton">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <%= javascript_include_tag "document_archive/search" %>
+</body>
+</html>

@@ -1,0 +1,371 @@
+{
+  "articles": [
+    {
+      "id": "eph80-08-the-summer-months-have-traditionally-been-a-very-active-time-for-the-sjaa",
+      "documentId": "eph80-08",
+      "title": "The summer months have traditionally been a very active time for the SJAA.",
+      "summary": "The San Jose Astronomical Association (SJAA) had a busy summer, marked by board elections and the appointment of new officers, including Kevin Medlock as president. Upcoming activities include new star party sites, a grazing occultation expedition, and a potential observing session at the Santa Clara County Fair. The article also provides contact information for board members, details membership renewals, and announces a lecture by Bob Truax.",
+      "categories": [
+        "Club News",
+        "Astronomy Events",
+        "Club Administration",
+        "Membership Information",
+        "Lectures"
+      ],
+      "keywords": [
+        "SJAA",
+        "Club Elections",
+        "Board Members",
+        "Star Parties",
+        "Grazing Occultation",
+        "Astronomy Events",
+        "Membership Renewal",
+        "Kevin Medlock",
+        "Bob Truax Lecture",
+        "Stellafane",
+        "Santa Clara County Fair"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-umunhum",
+      "documentId": "eph80-08",
+      "title": "UMUNHUM",
+      "summary": "The article announces Mt. Umunhum as a new, promising observing site, scouted by Bob Scott and Wolf Hanisch, replacing Henry Coe State Park for the August 9th star party. It provides detailed instructions for accessing the site, including gate combinations and operation, and notes potential observing areas within the base.",
+      "categories": [
+        "observing site report",
+        "event announcement",
+        "logistics",
+        "news"
+      ],
+      "keywords": [
+        "Mt. Umunhum",
+        "observing site",
+        "star party",
+        "Wolf Hanisch",
+        "Bob Scott",
+        "Henry Coe State Park",
+        "access instructions",
+        "Almaden Expressway",
+        "Guadalupe Dam"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-08-the-glasspool-site-star-party",
+      "documentId": "eph80-08",
+      "title": "The Glasspool Site Star Party",
+      "summary": "The San Jose Astronomical Association (SJAA) held a star party on July 12th at Dick Glasspool's property in the Santa Cruz Mountains, attended by about twenty members. Despite some difficulties with leveling telescopes and fog rolling in around midnight, participants enjoyed observing with various instruments, noting decent sky conditions given the site's proximity to San Jose. The SJAA extended thanks to Glasspool for his generous hospitality.",
+      "categories": [
+        "observing reports",
+        "events",
+        "club activities"
+      ],
+      "keywords": [
+        "star party",
+        "SJAA",
+        "Santa Cruz Mountains",
+        "Dick Glasspool",
+        "telescopes",
+        "observing",
+        "fog",
+        "sky conditions",
+        "Bay Area"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-08-the-picnic",
+      "documentId": "eph80-08",
+      "title": "THE PICNIC",
+      "summary": "The annual SJAA picnic at Cupertino's Portal Park gathered about 50 members for a day of food, games, and club business. Attendees enjoyed a potluck, flying kites, frisbee wars, and sunspot observing, along with the presentation of the Dr. A.E. Gregory Award to Kevin Medlock and the installation of new officers. The event was highly enjoyable and concluded at dusk.",
+      "categories": [
+        "Social Event",
+        "Club Meeting",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Picnic",
+        "SJAA",
+        "Club Event",
+        "Cupertino",
+        "Portal Park",
+        "Potluck",
+        "Kite Flying",
+        "Frisbee",
+        "Dr. A.E. Gregory Award",
+        "Officer Installation",
+        "Sunspot Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-want-ads",
+      "documentId": "eph80-08",
+      "title": "Want Ads",
+      "summary": "This document features a series of \"Want Ads\" for various used astronomical equipment. Items for sale include an Edmund 6\" equatorial mount with a clock drive, Bushnell 7X50 binoculars, a C-90 spotting scope, and a comprehensive 6\" f/8 reflector setup complete with mount, accessories, and a celestial atlas. Each listing provides a price and contact information for potential buyers.",
+      "categories": [
+        "Want Ads",
+        "Classifieds",
+        "Equipment Sales",
+        "Astronomy Equipment",
+        "Second-hand Market"
+      ],
+      "keywords": [
+        "equatorial mount",
+        "clock drive",
+        "binoculars",
+        "spotting scope",
+        "reflector telescope",
+        "guide scope",
+        "ocular",
+        "filters",
+        "telescope accessories",
+        "used equipment",
+        "for sale"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-08-comet-comments",
+      "documentId": "eph80-08",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on comet visibility, noting no bright comets are currently visible but predicting two to three brighter than magnitude 10 by autumn. It details the recent discoveries and recoveries of Comets Torres (1980e), Periodic Comet Brooks 2 (1980f), and Periodic Comet Stephan-Oterma (1980g) in Chile. Additionally, it includes positional data and magnitude estimates for Comet Forbes.",
+      "categories": [
+        "observing reports",
+        "news",
+        "cometary astronomy",
+        "predictions"
+      ],
+      "keywords": [
+        "comets",
+        "Comet Torres (1980e)",
+        "Periodic Comet Brooks 2 (1980f)",
+        "Periodic Comet Stephan-Oterma (1980g)",
+        "Comet Forbes",
+        "magnitude",
+        "discovery",
+        "recovery",
+        "astronomical observations",
+        "celestial coordinates",
+        "visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-comets-in-their-eyes",
+      "documentId": "eph80-08",
+      "title": "Comets in Their Eyes:",
+      "summary": "This article highlights notable individuals and their contributions to comet and asteroid discovery. It details Reverend Joel Metcalf's six comet and sixty asteroid discoveries in the early 1900s, and Doug Berger's accidental discovery of Comet Kobayashi-Berger-Milon in 1975, a significant first for American amateur astronomers in seven years. The text also briefly introduces Merlin Kohler, another casual comet hunter.",
+      "categories": [
+        "Amateur Astronomy",
+        "Historical Accounts",
+        "Comet Discovery",
+        "Biographies"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Asteroid discovery",
+        "Joel Metcalf",
+        "Doug Berger",
+        "Merlin Kohler",
+        "Amateur astronomers",
+        "Kobayashi-Berger-Milon",
+        "Telescopes",
+        "Star party"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-08-corona-borealis-in-september-1977-he-used-am-8-dynamax-for-the-discovery-his-profession-is-electronic-technician-merlin-had-no-systematic-comet-hunting-program-set-up-he-just-spent-a-few-minutes-sweeping-the-sky-after-every-observing-session",
+      "documentId": "eph80-08",
+      "title": "Corona Borealis in September, 1977. He used am 8\" Dynamax for the discovery. His profession is electronic technician. Merlin had no systematic comet-hunting program set up— he just spent a few minutes sweeping the sky after every observing session.",
+      "summary": "An electronic technician named Merlin discovered something in Corona Borealis in September 1977, using an 8\" Dynamax telescope. His discovery was not the result of a systematic comet-hunting program, but rather from casually sweeping the sky for a few minutes after each observing session.",
+      "categories": [
+        "Observing Report",
+        "Historical",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Corona Borealis",
+        "September 1977",
+        "discovery",
+        "Merlin",
+        "8\" Dynamax",
+        "electronic technician",
+        "comet-hunting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-sjaa-profiles",
+      "documentId": "eph80-08",
+      "title": "SJAA PROFILES",
+      "summary": "This article presents preliminary results from an SJAA member survey, revealing that 8-inch telescopes are the most popular, deep-sky observing is the main interest, and workshops received positive feedback. Based on these findings, the club plans to establish new classes for telescope making, astrophotography, and night sky observing, and is seeking a volunteer to organize a variable star observing team. Additionally, the report includes details about an upcoming Aldebaran occultation on August 5th.",
+      "categories": [
+        "Club News",
+        "Member Survey Results",
+        "Observing Events",
+        "Club Programs & Activities",
+        "Educational Workshops"
+      ],
+      "keywords": [
+        "SJAA",
+        "Member Survey",
+        "Telescope Ownership",
+        "Observing Interests",
+        "Deep Sky Observing",
+        "Lunar Observing",
+        "Planetary Observing",
+        "Astrophotography",
+        "Telescope Making",
+        "Variable Star Observing",
+        "Lunar Occultations",
+        "Aldebaran Occultation",
+        "Workshops",
+        "Volunteer Opportunities"
+      ],
+      "pageStart": 7,
+      "pageEnd": 83
+    },
+    {
+      "id": "eph80-08-sjaa",
+      "documentId": "eph80-08",
+      "title": "SJAA",
+      "summary": "This document details a lunar graze event organized by SJAA, scheduled for August 19-20, 1980, between Soledad and Greenfield. It provides comprehensive instructions for participants, including location, specific observation times, communication protocols (CB Channel 14), and contact information for weather and site updates. The event is expected to feature multiple occultation events due to the moon's profile.",
+      "categories": [
+        "Observing Report",
+        "Astronomical Event",
+        "Instructions/Logistics",
+        "Occultation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Lunar Graze",
+        "Occultation",
+        "Observation",
+        "Astronomy Event",
+        "August 1980",
+        "CB Radio",
+        "Graze Chasers",
+        "Soledad",
+        "Greenfield"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-many-handy-numbers-and-neat-stuff",
+      "documentId": "eph80-08",
+      "title": "Many handy numbers and neat stuff",
+      "summary": "This document provides a detailed collection of astronomical data, likely pertaining to a specific observing event such as a lunar graze. It includes various angles (graze position, vertex, cusp, Watts), twilight and moonset times, precise coordinates and characteristics for the star 24 Scorpii and the Moon, and site-specific longitude, latitude, and elevation. A diagram depicting moon phases and pole positions is also referenced.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Technical Data",
+        "Lunar Graze",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Lunar Graze",
+        "24 Scorpii",
+        "Ophiuchus",
+        "Moon",
+        "Star",
+        "Graze Position Angle",
+        "Astronomical Twilight",
+        "Observing Data",
+        "Site Coordinates",
+        "Magnitude",
+        "Declination",
+        "Right Ascension"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-08-using-a-hand-braced-low-power-newtonian-telescope",
+      "documentId": "eph80-08",
+      "title": "USING A HAND-BRACED, LOW-POWER NEWTONIAN TELESCOPE",
+      "summary": "The article details the author's successful use of a hand-braced, low-power 6-inch f/4.7 Newtonian telescope, without a traditional mount, for deep-sky observation. Emphasizing portability and ease of setup, the author explains a technique for steadying the telescope by bracing it against solid surfaces, making it effective for finding objects and observing broad, low-surface brightness targets. This method has allowed the author to observe over 400 deep-sky objects, including Messier objects and faint galaxies, highlighting its utility as an inexpensive and highly portable observing solution.",
+      "categories": [
+        "Observing Techniques",
+        "Telescope Equipment",
+        "Amateur Astronomy",
+        "Deep-sky Observing",
+        "Practical Astronomy"
+      ],
+      "keywords": [
+        "Hand-braced telescope",
+        "Newtonian telescope",
+        "Deep-sky observing",
+        "Amateur astronomy",
+        "Observing techniques",
+        "Portability",
+        "Mountless telescope"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph80-08-logo-contest",
+      "documentId": "eph80-08",
+      "title": "LOGO CONTEST",
+      "summary": "The SJAA is holding a logo contest, inviting its general membership to vote for a new design. Members can cast their ballots at upcoming general meetings or indoor star parties, with the winner scheduled to be announced in the October bulletin.",
+      "categories": [
+        "News",
+        "Contest",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "logo contest",
+        "voting",
+        "membership",
+        "SJAA",
+        "bulletin",
+        "star party",
+        "general meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-08-logo-contest",
+      "documentId": "eph80-08",
+      "title": "LOGO CONTEST",
+      "summary": "This document outlines a logo contest for the San Jose Astronomical Association (SJAA), presenting six distinct design options for a new organizational logo. Readers are prompted to select their preferred design, indicating the document's purpose is to gather feedback or announce the selection of a new logo.",
+      "categories": [
+        "Contest",
+        "Community",
+        "Organizational News",
+        "Branding"
+      ],
+      "keywords": [
+        "Logo Contest",
+        "SJAA",
+        "Logo Design",
+        "San Jose Astronomical Association",
+        "Community Feedback"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8008/Eph80_08.pdf",
+      "txtPath": "8008/Eph80_08.md"
+    }
+  ]
+}

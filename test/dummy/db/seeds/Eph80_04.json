@@ -1,0 +1,157 @@
+{
+  "articles": [
+    {
+      "id": "eph80-04-sjaa-ephemeris-apr-80",
+      "documentId": "eph80-04",
+      "title": "SJAA ephemeris APR '80",
+      "summary": "This document, the SJAA ephemeris for April '80, details a packed schedule of events for the San Jose Astronomical Association in April and May 1980. It lists board meetings, indoor and outdoor star parties, observing sessions for National Astronomy Day, new and full moon dates, and mentions the Riverside Telescope Makers' Conference. Additionally, the bulletin announces the establishment of the Dr. A.B. Gregory annual award, encouraging nominations for members who have made outstanding contributions to amateur astronomy.",
+      "categories": [
+        "Events Calendar",
+        "Club Announcements",
+        "Amateur Astronomy",
+        "Awards & Recognition",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Star Party",
+        "Board Meeting",
+        "National Astronomy Day",
+        "New Moon",
+        "Full Moon",
+        "Dr. A.B. Gregory Award",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Observing Events",
+        "Riverside Telescope Makers' Conference"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph80-04-observations",
+      "documentId": "eph80-04",
+      "title": "Observations",
+      "summary": "SJAA members successfully completed an African solar eclipse tour, observing wildlife and the eclipse despite some cloud cover. The article announces upcoming Astronomy Day events, encourages member participation, and details club matters such as membership renewals, board changes, and the importance of proper conduct and site agreements for observing at Fremont Peak. It also includes a table of Great Red Spot transit times for Jupiter.",
+      "categories": [
+        "Observing Reports",
+        "Club News",
+        "Events",
+        "Organizational",
+        "Community Outreach",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "SJAA",
+        "Solar Eclipse",
+        "Africa",
+        "Astronomy Day",
+        "Fremont Peak",
+        "Observing Sites",
+        "Membership",
+        "Club Activities",
+        "Jupiter",
+        "Great Red Spot",
+        "Light Pollution",
+        "Public Relations"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-04-comet-comments",
+      "documentId": "eph80-04",
+      "title": "COMET COMMENTS",
+      "summary": "The article provides an update on comet activity, noting no new discoveries or recoveries this year and the fading of Comet Bradfield (1979L) to 12th magnitude. It anticipates the return of three periodic comets—Encke, Tuttle, and Stephan-Oterma—by year-end, with Encke expected to reach magnitude 8. Additionally, the piece highlights historical comet discoverer Caroline Herschel and recent binocular discoverer David Seargent.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Historical Astronomy",
+        "Amateur Astronomy",
+        "Astronomical Discovery"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Bradfield (1979L)",
+        "Comet Encke",
+        "Comet Tuttle",
+        "Comet Stephan-Oterma",
+        "Magnitude",
+        "Perihelion",
+        "Ephemeris",
+        "Comet discovery",
+        "Caroline Herschel",
+        "David Seargent",
+        "Small telescopes"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-04-photograph-the-moon-planets",
+      "documentId": "eph80-04",
+      "title": "PHOTOGRAPH THE MOON & PLANETS",
+      "summary": "This article by Bob Fingerhut serves as a comprehensive guide to photographing the Moon and planets using the eyepiece projection technique. It outlines necessary equipment, provides mathematical formulas for calculating effective focal length, magnification, and focal ratio, and offers recommended starting exposure settings for the Moon, Mars, Jupiter, and Saturn. Additionally, it advises on film selection, photo processing, and the use of colored filters to enhance planetary features.",
+      "categories": [
+        "Astrophotography",
+        "Technical Guide",
+        "Amateur Astronomy",
+        "Observing Techniques"
+      ],
+      "keywords": [
+        "Eyepiece Projection",
+        "Astrophotography",
+        "Planetary Imaging",
+        "Lunar Photography",
+        "Telescope",
+        "Camera Equipment",
+        "Exposure Calculation",
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Film",
+        "Colored Filters"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-04-murphy-s-laws-for-amateur-astronomy-thanks-to-shea-pratt",
+      "documentId": "eph80-04",
+      "title": "MURPHY'S LAWS for AMATEUR ASTRONOMY (thanks to Shea Pratt)",
+      "summary": "This document outlines a humorous collection of \"Murphy's Laws\" specifically tailored for amateur astronomy, detailing common frustrations and ironic mishaps encountered by enthusiasts. It covers everything from adverse weather conditions during important astronomical events and equipment malfunctions to challenges with astrophotography and star party logistics. The laws highlight the often unpredictable and challenging nature of the hobby, presented with a comedic tone.",
+      "categories": [
+        "Amateur Astronomy",
+        "Humor",
+        "Observing Experiences",
+        "Equipment Challenges",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Murphy's Laws",
+        "Amateur astronomy",
+        "Star party",
+        "Astrophotography",
+        "Equipment failure",
+        "Observing conditions",
+        "Telescope",
+        "Clouds",
+        "Batteries",
+        "Challenges",
+        "Humor"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-04",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8004/Eph80_04.pdf",
+      "txtPath": "8004/Eph80_04.md"
+    }
+  ]
+}

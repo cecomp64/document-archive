@@ -1,0 +1,364 @@
+{
+  "articles": [
+    {
+      "id": "eph80-11-observations",
+      "documentId": "eph80-11",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) has secured a new general meeting location at DeAnza College, requiring club volunteers to staff telescopes for public viewing. The article also addresses resolutions for past issues with star parties at Sanborn Canyon Park and provides updates on the Space Shuttle Columbia's modifications and launch schedule. Furthermore, it details an upcoming meeting featuring the Viking Fund's efforts to keep the Viking Lander operating on Mars, announces a new telescope making class, and mentions astronomical T-shirts.",
+      "categories": [
+        "Club Announcements",
+        "Astronomical Events",
+        "Space Exploration",
+        "Volunteer Opportunities",
+        "Education"
+      ],
+      "keywords": [
+        "SJAA",
+        "DeAnza College",
+        "Viking Fund",
+        "Space Shuttle Columbia",
+        "star party",
+        "Sanborn Canyon Park",
+        "Saturn Encounter",
+        "telescope making",
+        "volunteer",
+        "planetarium",
+        "Mars",
+        "Voyager 1",
+        "L-5 Society"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-11-occultation-results-as-of-october-17-1980",
+      "documentId": "eph80-11",
+      "title": "Occultation Results (as of October 17, 1980)",
+      "summary": "This report details several occultation and lunar graze events observed by SJAA members and collaborators in late 1980. Key findings include the discovery of a potential moon or debris cloud around asteroid (213) Kleopatra, and observations of a graze of ZC1420 suggesting it is a new double star. Other events included an unsuccessful attempt to observe (78) Diana and a successful graze of ZC2399, which highlighted issues with lunar limb data.",
+      "categories": [
+        "observing reports",
+        "astronomical discoveries",
+        "amateur astronomy",
+        "occultation events",
+        "lunar grazes",
+        "technical analysis"
+      ],
+      "keywords": [
+        "occultation",
+        "Kleopatra",
+        "SAO128066",
+        "asteroid moon",
+        "debris cloud",
+        "ex-comet",
+        "Diana",
+        "SAO75392",
+        "lunar graze",
+        "ZC1420",
+        "double star",
+        "ZC2399",
+        "SJAA members",
+        "Gerry Rattley",
+        "Bill Cooke",
+        "Don Machholz",
+        "Jack Peterson",
+        "Ralph Lowd",
+        "Bob Fingerhut",
+        "Dr. Dunham",
+        "Lick Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-11-coming-attractions",
+      "documentId": "eph80-11",
+      "title": "Coming Attractions",
+      "summary": "This document, titled \"Coming Attractions,\" details upcoming asteroid occultation events for amateur astronomers in November 1980, emphasizing the need for graze equipment and readiness for short-notice observations. It highlights three specific events: (94) Aurora on November 2nd, (213) Kleopatra on November 6th, and (134) Sophrosyne on November 24th, with notes on their visibility, magnitude, and potential shifts. Observers are encouraged to prepare and contact Jim Van Nuland for more information.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy",
+        "amateur astronomy",
+        "technical"
+      ],
+      "keywords": [
+        "asteroid occultation",
+        "moon-hunting",
+        "graze equipment",
+        "Aurora",
+        "Kleopatra",
+        "Sophrosyne",
+        "1980 November",
+        "astrometry",
+        "Sky & Telescope",
+        "finder charts",
+        "celestial events"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-11-comet-comments",
+      "documentId": "eph80-11",
+      "title": "COMET COMMENTS",
+      "summary": "As November begins, this article discusses recent professional comet recovery and discovery events, alongside three periodic comets currently visible in the morning sky. It serves as the last opportunity to view these celestial visitors, brighter than magnitude 10, before two move south for the winter. The piece also briefly recalls the previously un-discovered Comet 1979L from the prior year and provides specific updates on Periodic Comets Reinmuth 2 (1980n) and Russell 2 (1980o).",
+      "categories": [
+        "Astronomical News",
+        "Comet Updates",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comets",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Observing",
+        "Morning Sky",
+        "Magnitude",
+        "Comet 1979L",
+        "Comet Reinmuth 2",
+        "Comet Russell 2"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-11-p-comet-stephen-oterma-1980g",
+      "documentId": "eph80-11",
+      "title": "P/Comet Stephen-Oterma (1980g)",
+      "summary": "This document provides an ephemeris for P/Comet Stephen-Oterma (1980g), listing its Right Ascension, Declination, and magnitude from October 18 to December 7. It also includes an observer's report describing the comet as magnitude 9.7, condensed, and 3 arcminutes across. The comet's path is noted as moving north through Orion and into Taurus, with a close approach to M1 (the Crab Nebula) in early December.",
+      "categories": [
+        "observing report",
+        "ephemeris",
+        "cometary astronomy",
+        "astronomical data"
+      ],
+      "keywords": [
+        "Comet Stephen-Oterma (1980g)",
+        "Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Orion",
+        "Taurus",
+        "M1",
+        "Crab Nebula",
+        "Observational Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-11-p-comet-tuttle-1980h",
+      "documentId": "eph80-11",
+      "title": "P/Comet Tuttle (1980h)",
+      "summary": "This document provides an observation report for P/Comet Tuttle (1980h), including a table of its predicted positions and magnitudes from October to December 1980. The comet was personally observed at magnitude 8.9, showing condensation and a 4' diameter. Its trajectory involved moving through Ursa Major and Leo before diving south and becoming unobservable in early December.",
+      "categories": [
+        "Observing Report",
+        "Cometary Astronomy",
+        "Ephemeris",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "P/Comet Tuttle (1980h)",
+        "Comet",
+        "Observation",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Ephemeris",
+        "Big Dipper",
+        "Leo",
+        "Cometary Motion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-11-p-comet-encke",
+      "documentId": "eph80-11",
+      "title": "P/Comet Encke",
+      "summary": "The article provides observing data, an ephemeris, and tips for P/Comet Encke, noting its diffuse appearance and challenging nature. It then transitions to a reflection on amateur comet discoverers, discussing their motivations beyond mere fame, and expresses concern about the future of ground-based comet hunting in an era of advanced space-based observation. The author, Don Machholz, an experienced comet hunter, promises future advice on reporting discoveries.",
+      "categories": [
+        "Observing Report",
+        "Celestial Objects",
+        "Amateur Astronomy",
+        "Astronomy Culture",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "P/Comet Encke",
+        "Comet observation",
+        "Ephemeris",
+        "Amateur astronomers",
+        "Comet discovery",
+        "Don Machholz",
+        "Binoculars",
+        "Observing tips",
+        "Comet hunters"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-11-the-great-henry-coe-close-in-cloud-party",
+      "documentId": "eph80-11",
+      "title": "The Great Henry Coe Close-in Cloud Party",
+      "summary": "The SJAA's ten-member subcommittee, joined by guests, gathered at Henry Coe State Park for an observing event that was quickly marred by heavy cloud cover and several humorous mishaps, including a car breakdown and members getting lost. Despite discussing alternative observation methods for cloudy conditions, the consensus was to leave early if the clouds persisted, with many departing by 9 p.m. due to the lack of clear skies and distant lightning.",
+      "categories": [
+        "Observing Report",
+        "Club Event",
+        "Humor",
+        "Field Trip"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "cloudy conditions",
+        "observing session",
+        "astronomy club",
+        "car trouble",
+        "weather",
+        "star gazing",
+        "Steve Greenberg"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-11-stellar-manners-or-how-to-behave-in-a-red-light-district",
+      "documentId": "eph80-11",
+      "title": "Stellar Manners; or How to Behave in a Red Light District",
+      "summary": "This article provides a comprehensive guide to proper etiquette at star parties, emphasizing the importance of consideration for fellow astronomers to ensure a pleasant experience for all. It covers specific behaviors related to arrival, parking, equipment setup, lighting, and noise, offering practical advice to maintain dark adaptation and minimize disturbances. Adhering to these 'stellar manners' is crucial for successful observing and astrophotography sessions.",
+      "categories": [
+        "Etiquette Guide",
+        "Observing Practices",
+        "Social Behavior",
+        "Astronomy Events",
+        "Tips and Advice"
+      ],
+      "keywords": [
+        "star parties",
+        "etiquette",
+        "dark adaptation",
+        "headlights",
+        "red lights",
+        "flashlights",
+        "noise",
+        "parking",
+        "equipment setup",
+        "astrophotography",
+        "observing"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-11-membership-list-additions",
+      "documentId": "eph80-11",
+      "title": "Membership list additions:",
+      "summary": "This document provides an update to a membership list, detailing new members, a bulletin subscriber, changes to existing member information such as new addresses and phone numbers, and general additions. It lists individuals and couples along with their contact details, current as of December 20th.",
+      "categories": [
+        "Membership Updates",
+        "Administrative",
+        "Contact Information"
+      ],
+      "keywords": [
+        "membership",
+        "new members",
+        "address changes",
+        "phone number updates",
+        "bulletin subscriber",
+        "contact list"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-11-map-of-area",
+      "documentId": "eph80-11",
+      "title": "MAP OF AREA:",
+      "summary": "This document is a sketch map providing the relative locations of various areas, including Quinault, Queets, Hoh River, Forks, and Olympic National Park boundaries. It explicitly states it is not a detailed road map, showing approximate distances and indicating unimproved roads or trails, primarily for geographical context rather than precise navigation.",
+      "categories": [
+        "Map",
+        "Geographical Information",
+        "Informational"
+      ],
+      "keywords": [
+        "Map",
+        "Sketch",
+        "Relative Locations",
+        "Quinault",
+        "Queets",
+        "Hoh River",
+        "Forks",
+        "Olympic National Park",
+        "Trails",
+        "Roads",
+        "Distances",
+        "Geographic Context"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph80-11-wheelchair-accessible",
+      "documentId": "eph80-11",
+      "title": "WHEELCHAIR ACCESSIBLE:",
+      "summary": "This document details wheelchair-accessible features available at a location, including restrooms, elevators, telephones, and automatic doors. It also provides a legend for various parking types, such as restricted, motorcycle, and dedicated wheelchair parking, and indicates the 'North' direction.",
+      "categories": [
+        "Accessibility Information",
+        "Facility Information",
+        "Parking Information"
+      ],
+      "keywords": [
+        "Wheelchair Accessible",
+        "Accessibility",
+        "Restrooms",
+        "Elevators",
+        "Automatic Doors",
+        "Parking",
+        "Wheelchair Parking",
+        "Facility Features"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-11-street-map",
+      "documentId": "eph80-11",
+      "title": "STREET MAP",
+      "summary": "This document is a simplified, hand-drawn street map sketch designed to guide users to a specific \"MEETING SITE.\" It features key local roads such as Stevens Creek Blvd, Steele Rd, and McClellan Rd, and references major routes like HWY 17 and 280, along with a mention of De Anza. The map explicitly states it is \"DEFINITELY NOT TO SCALE!\"",
+      "categories": [
+        "Directions",
+        "Map",
+        "Travel Information",
+        "Local Guide"
+      ],
+      "keywords": [
+        "Street map",
+        "Directions",
+        "Meeting site",
+        "Stevens Creek Blvd",
+        "Steele Rd",
+        "McClellan Rd",
+        "De Anza",
+        "HWY 17",
+        "Saratoga Sunnyvale",
+        "Roads"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8011/Eph80_11.pdf",
+      "txtPath": "8011/Eph80_11.md"
+    }
+  ]
+}

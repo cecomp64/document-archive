@@ -1,0 +1,665 @@
+{
+  "articles": [
+    {
+      "id": "eph85-02-february-1985",
+      "documentId": "eph85-02",
+      "title": "FEBRUARY 1985",
+      "summary": "This document outlines the astronomical events and club activities for February and early March 1985, including general meetings, star parties, a field expedition, and moon phases. Key events feature a presentation on Schmidt corrector plate fabrication and the announcement of the 5th Annual Astronomical Auction. It also mentions an upcoming Messier Marathon and board nominations.",
+      "categories": [
+        "Events Calendar",
+        "Club News",
+        "Meetings",
+        "Observing Reports",
+        "Technical Presentation"
+      ],
+      "keywords": [
+        "February 1985",
+        "General Meeting",
+        "Optical Fabrication",
+        "Schmidt Corrector Plates",
+        "Star Party",
+        "Full Moon",
+        "Solar Eclipses",
+        "Field Expedition",
+        "Henry Coe State Park",
+        "New Moon",
+        "Board Nominations",
+        "Messier Marathon",
+        "Astronomical Auction",
+        "Peninsula Astronomical Society",
+        "University of Santa Clara"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-and-the-light-shines-in-darkness",
+      "documentId": "eph85-02",
+      "title": "AND THE LIGHT SHINES IN DARKNESS",
+      "summary": "Carol and Barry Beaman describe running a public viewing session at Quarry Hill Observatory where they encountered a partially blind visitor eager to see Saturn through the 12.5\" reflector. Barry guided the man to the eyepiece, who, despite his severe visual impairment, exclaimed with joy upon seeing the 'light' of the planet. This emotional experience deeply moved both the man and the other visitors present.",
+      "categories": [
+        "observing reports",
+        "public outreach",
+        "human interest",
+        "events"
+      ],
+      "keywords": [
+        "Quarry Hill Observatory",
+        "public viewing",
+        "Saturn",
+        "telescope",
+        "blindness",
+        "astronomy outreach",
+        "observing session",
+        "emotional experience"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-the-artificial-comet",
+      "documentId": "eph85-02",
+      "title": "THE ARTIFICIAL COMET",
+      "summary": "Don Machholz recounts his observation of an artificial satellite's cloud release, dubbed 'THE ARTIFICIAL COMET,' on December 27, 1984, after real clouds prevented the originally scheduled Christmas morning viewing. Using binoculars and a telescope, he observed the cloud expand rapidly, forming a 'wrinkle' and a faint tail, appearing as a fuzzy star near Spica. The event, occurring 70,000 miles from Earth, remained faint, never exceeding magnitude 4 and rarely visible to the naked eye.",
+      "categories": [
+        "Observing Report",
+        "Space Experiment",
+        "Astronomical Event",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Artificial Comet",
+        "Satellite",
+        "Cloud Release",
+        "Don Machholz",
+        "Observation",
+        "1984",
+        "Spica",
+        "Binoculars",
+        "Telescope",
+        "Magnitude"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph85-02-by-john-gleason",
+      "documentId": "eph85-02",
+      "title": "BY: JOHN GLEASON",
+      "summary": "John Gleason is editing the 1985 Membership roster and requests members whose names are listed to provide their missing telephone numbers by calling his number or waiting for the updated roster in March '85. Additionally, the article announces the SJAA's 30th anniversary on August 26, 1985, and invites long-time members to share historical information for an upcoming publication.",
+      "categories": [
+        "Club Announcement",
+        "Membership Update",
+        "Event Planning",
+        "Call for Information"
+      ],
+      "keywords": [
+        "1985 Membership Roster",
+        "Telephone Numbers",
+        "SJAA",
+        "30th Anniversary",
+        "Contact Information",
+        "Club History"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-by-erica-goode",
+      "documentId": "eph85-02",
+      "title": "BY: ERICA GOODE",
+      "summary": "The article announces a $70 million grant from the William M. Keck Foundation to Caltech, funding the construction of the world's most powerful optical telescope atop Mauna Kea, Hawaii. This 10-meter segmented-mirror telescope, designed by UC scientists, is slated for construction in 1986 and expected to begin operations by 1992. Jointly managed by UC and Caltech, the observatory will allow astronomers to study the early universe, despite initial UC aspirations for sole use and greater financial contribution.",
+      "categories": [
+        "News",
+        "Astronomy",
+        "Science Funding",
+        "Telescopes",
+        "Observatories",
+        "Research & Development"
+      ],
+      "keywords": [
+        "Keck Telescope",
+        "William M. Keck Foundation",
+        "California Institute of Technology (Caltech)",
+        "University of California (UC)",
+        "Mauna Kea",
+        "Optical Telescope",
+        "Segmented Mirror",
+        "Astronomy",
+        "Grant",
+        "Fundraising",
+        "Jerry Nelson",
+        "Star Formation",
+        "Galaxy Formation",
+        "Hawaii"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-by-don-machholz",
+      "documentId": "eph85-02",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "Don Machholz discusses the phenomenon of Venus casting a visible shadow, noting that the planet is currently at its brightest (magnitude -4.6) in the evening sky. He encourages observers to try and see this shadow using a white piece of paper and an object like a hand or pencil, suggesting it's an interesting observation and potential photography subject.",
+      "categories": [
+        "observing reports",
+        "observational astronomy",
+        "tips and tricks",
+        "planetary phenomena"
+      ],
+      "keywords": [
+        "Venus",
+        "shadow",
+        "planetary observation",
+        "magnitude",
+        "Don Machholz",
+        "astronomical phenomena",
+        "photography",
+        "evening sky"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph85-02-deep-sky-notes-february",
+      "documentId": "eph85-02",
+      "title": "DEEP SKY NOTES -- FEBRUARY",
+      "summary": "This article details visual observing challenges and techniques for deep-sky objects located around Zeta Orionis, the easternmost star in Orion's belt. It provides specific tips for splitting Zeta Orionis itself, observing the emission nebula NGC 2024, reflection nebulae NGC 2023 and IC 432, and the elusive Horsehead Nebula (IC 434 and B33). The author recommends using off-axis masks, various nebula filters, and specific magnifications, often placing Zeta Orionis just outside the field of view to counter its glare.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Observing Techniques",
+        "Equipment Tips",
+        "Star Charts & Guides"
+      ],
+      "keywords": [
+        "Zeta Orionis",
+        "Orion's Belt",
+        "NGC 2024",
+        "NGC 2023",
+        "IC 432",
+        "IC 434",
+        "B33",
+        "Horsehead Nebula",
+        "Emission Nebula",
+        "Reflection Nebula",
+        "Dark Nebula",
+        "Off-axis mask",
+        "Nebula filter",
+        "Lumicon 0111",
+        "UHC filter",
+        "H-Beta filter",
+        "Visual Observing",
+        "Telescopes",
+        "Orion constellation",
+        "Double stars",
+        "Star formation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-solar-eclipse-84",
+      "documentId": "eph85-02",
+      "title": "SOLAR ECLIPSE 84'",
+      "summary": "The Peninsula Astronomical Society is hosting \"SOLAR ECLIPSE 84'\" on Friday, February 8th at 8:00 PM in Appreciation Hall on the Foothill College Campus. This presentation will bring the experience of a total solar eclipse to attendees through color slides, prints, and movies narrated by veteran eclipse chasers Jacques Guertin and Ernie Piini. It will feature astrophotography from multiple renowned photographers who have published their work in major astronomy magazines.",
+      "categories": [
+        "Meeting Announcement",
+        "Educational Event",
+        "Observing Report",
+        "Astronomical Society"
+      ],
+      "keywords": [
+        "Solar Eclipse",
+        "Peninsula Astronomical Society",
+        "Astrophotography",
+        "Presentation",
+        "Foothill College",
+        "Jacques Guertin",
+        "Ernie Piini",
+        "Hugueite Guertin",
+        "Rick Baldridge",
+        "Joe Schrock",
+        "Bill Sorrells"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-cold-feet",
+      "documentId": "eph85-02",
+      "title": "COLD FEET",
+      "summary": "The article \"COLD FEET\" by Paul Barton shares personal anecdotes and practical advice on preventing cold feet in cold weather, especially when moving from a warm environment outdoors. It details how perspiration can undermine the insulation of wool socks and suggests a method involving drying gear, cooling feet, and briefly chilling them before donning heavy socks and boots. The piece also includes nostalgic reflections on historical cold weather customs from northern states, highlighting the persistent challenge of keeping warm.",
+      "categories": [
+        "Practical Advice",
+        "Personal Anecdote",
+        "Winter Preparedness",
+        "General Interest"
+      ],
+      "keywords": [
+        "Cold feet",
+        "Winter",
+        "Socks",
+        "Boots",
+        "Perspiration",
+        "Insulation",
+        "Cold weather tips",
+        "Foot care",
+        "Anecdote"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-astro-ads",
+      "documentId": "eph85-02",
+      "title": "ASTRO ADS",
+      "summary": "This advertisement offers a vintage Unitron 4-inch equatorial refractor telescope, Model 152, from around 1970. It includes all original accessories, a motor drive, and a modified drawtube to accept 1.25-inch eyepieces. The telescope is available for $1000 (firm) and can be purchased from William R. Billings in Newark, CA.",
+      "categories": [
+        "classifieds",
+        "for sale",
+        "astronomy equipment"
+      ],
+      "keywords": [
+        "Unitron",
+        "4-inch refractor",
+        "equatorial telescope",
+        "Model 152",
+        "vintage telescope",
+        "motor drive",
+        "1.25-inch eyepieces",
+        "astronomy equipment",
+        "for sale",
+        "Newark CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-question-of-the-month",
+      "documentId": "eph85-02",
+      "title": "QUESTION OF THE MONTH",
+      "summary": "The 'Question of the Month' poses an intriguing query: 'Why are there so many ladybugs at professional observatories?' This question suggests an exploration into the environmental or ecological factors that might attract these insects to astronomical facilities.",
+      "categories": [
+        "Question and Answer",
+        "Curiosity",
+        "Observatory Environment"
+      ],
+      "keywords": [
+        "ladybugs",
+        "observatories",
+        "insects",
+        "astronomy",
+        "environmental factors"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph85-02-by-denni-medlock",
+      "documentId": "eph85-02",
+      "title": "BY: DENNI MEDLOCK",
+      "summary": "This article shares humorous anecdotes and memorable experiences of amateur astronomers traveling with their large, portable telescopes to various observing sites and conventions. It highlights the frequent confusion, curiosity, and sometimes surprising recognition they encountered from the general public who often mistook their telescopes for other objects or were simply bewildered by the unusual cargo. The stories illustrate the unique challenges and joys of transporting astronomical equipment.",
+      "categories": [
+        "Amateur Astronomy",
+        "Travel Stories",
+        "Humor",
+        "Observing Experiences",
+        "Public Engagement"
+      ],
+      "keywords": [
+        "Portable telescopes",
+        "Amateur astronomy",
+        "Road trips",
+        "Public interaction",
+        "Telescope transport",
+        "Observing sites",
+        "Stellafane",
+        "Kitt Peak",
+        "VW Squareback",
+        "Astronomy anecdotes"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph85-02-by-don-machholz",
+      "documentId": "eph85-02",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "This article, authored by Don Machholz, provides an update on comet observations, noting no new discoveries or recoveries in the past month but highlighting three currently visible comets: Levy-Rudenko (1984k), Shoemaker (1984s), and Periodic Comet Schwassee (1984n), with detailed positional data and observing notes for early 1985. It also reviews 1984 as a record-tying year for comet discoveries and recoveries, emphasizing contributions by professional astronomers and the Shoemaker team. The article briefly mentions Halley's Comet, noting its faintness.",
+      "categories": [
+        "Comet Astronomy",
+        "Observing Reports",
+        "Astronomical News",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Levy-Rudenko (1984k)",
+        "Comet Shoemaker (1984s)",
+        "Periodic Comet Schwassee (1984n)",
+        "Halley's Comet",
+        "Comet discoveries",
+        "Astronomy",
+        "Observing",
+        "R.A. (Right Ascension)",
+        "Dec. (Declination)",
+        "Elong. (Elongation)",
+        "Mag. (Magnitude)",
+        "Don Machholz",
+        "Shoemakers (observers)",
+        "1984 comet activity",
+        "1985 comet outlook"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-what-goes-around-comes-around-halley-s-comet",
+      "documentId": "eph85-02",
+      "title": "WHAT GOES AROUND COMES AROUND--HALLEY'S COMET",
+      "summary": "This article outlines the anticipated 1984-1986 apparition of Halley's Comet, detailing its three distinct passages with predicted magnitudes, declinations, and optimal viewing periods for observers. It provides guidance for amateur astronomers on how and when to best observe the comet, emphasizing the importance of dark skies and suggesting learning constellations. The piece includes specific astronomical data for early 1985, forecasting naked-eye visibility in late 1985, particularly for northern hemisphere observers.",
+      "categories": [
+        "Observing Guides",
+        "Comets",
+        "Amateur Astronomy",
+        "Celestial Mechanics",
+        "Astronomical Predictions"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "comet observation",
+        "magnitude",
+        "declination",
+        "solar conjunction",
+        "naked eye visibility",
+        "telescope observation",
+        "light pollution",
+        "astronomical data",
+        "Right Ascension",
+        "Elongation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph85-02-by-don-machholz",
+      "documentId": "eph85-02",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "The article announces the Seventh Annual Messier Marathon, to be held over two weekends: March 15-17 at Loma Prieta and March 22-24 at Grant Ranch Park. Participants aim to observe as many of Charles Messier's 110 celestial objects as possible in one night. The text provides detailed directions, logistical information, and tips for attendees, noting that not everyone stays all night or focuses solely on Messier objects.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Astronomy Club Activities",
+        "Logistics"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier Objects",
+        "Astronomy",
+        "Observing",
+        "Loma Prieta",
+        "Grant Ranch Park",
+        "Charles Messier",
+        "Galaxies",
+        "Star Clusters",
+        "Nebulae"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-by-bob-fingerhut",
+      "documentId": "eph85-02",
+      "title": "BY: BOB FINGERHUT",
+      "summary": "This article details the revised 1985 Space Shuttle launch schedule, outlining six missions involving Discovery and Challenger with various payloads including communication satellites, Spacelab modules, and the retrieval of the Long Duration Exposure Facility. It also reports on the successful launch of the NOAA-F weather satellite, the Soviet Union's Vega-1 and Vega-2 probes destined for Venus and Halley's Comet, and a USSR spaceplane test. Additionally, the European Space Agency approved the Eureca retrievable space platform, and discussions are underway for a potential joint US/USSR manned space flight.",
+      "categories": [
+        "Space News",
+        "Launch Schedules",
+        "Space Exploration",
+        "Satellite Launches",
+        "Space Technology",
+        "International Cooperation"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "1985 Launch Schedule",
+        "Halley's Comet",
+        "Vega Probes",
+        "NOAA-F Satellite",
+        "USSR Spaceplane",
+        "Eureca Platform",
+        "Joint US/USSR Spaceflight",
+        "Spacelab"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-atm-coatings",
+      "documentId": "eph85-02",
+      "title": "ATM coatings",
+      "summary": "This document advertises a service for telescope mirror coatings, specializing in aluminum coatings with silicon monoxide over-coating. It provides a price list for various mirror sizes, from 4¼\" to 16\", and details additional charges for old coating removal, a minimum charge, and instructions regarding postage and return shipping.",
+      "categories": [
+        "Commercial",
+        "Services",
+        "Technical",
+        "Advertising",
+        "Amateur Telescope Making (ATM)"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Aluminum coatings",
+        "Silicon monoxide",
+        "Telescope mirrors",
+        "Mirror re-coating",
+        "Optical coatings",
+        "Pricing",
+        "Telescope services",
+        "Oakland"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph85-02-general-meetings",
+      "documentId": "eph85-02",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides detailed logistical information for general meetings held at the University of Santa Clara, Alumni Science Hall, Room 102. It includes comprehensive driving directions from both north and south Hwy 17 exits, clarifies parking and building access instructions, and states that meetings begin promptly at 8 PM.",
+      "categories": [
+        "Meetings",
+        "Events",
+        "Logistics",
+        "Directions",
+        "Venue Information"
+      ],
+      "keywords": [
+        "General Meetings",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Meeting Location",
+        "Directions",
+        "Meeting Time",
+        "Parking",
+        "Santa Clara"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-indoor-star-parties",
+      "documentId": "eph85-02",
+      "title": "INDOOR STAR PARTIES:",
+      "summary": "An indoor star party is scheduled to take place at the Los Gatos Red Cross Building, located at 18011 Los Gatos-Saratoga Rd., opening at 8 PM. Detailed driving directions are provided, starting from Hwy 17 South to the venue's parking lot via Rose Ave.",
+      "categories": [
+        "Events",
+        "Location Information",
+        "Community Announcement"
+      ],
+      "keywords": [
+        "Indoor Star Party",
+        "Los Gatos",
+        "Red Cross Building",
+        "Directions",
+        "Event Details",
+        "Astronomy",
+        "Saratoga Road"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-grant-ranch-county-park",
+      "documentId": "eph85-02",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "Grant Ranch County Park is a newly designated observing site for the SJAA, located on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. The article provides detailed directions, including how to access Mt. Hamilton Road from Hwy 680, and notes that the park's front gate will be locked after sunset, requiring the combination 4565 to open.",
+      "categories": [
+        "Observing Site Information",
+        "Directions",
+        "Local Astronomy",
+        "Announcements"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "observing site",
+        "gate combination",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-henry-coe-state-park",
+      "documentId": "eph85-02",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed driving directions to Henry Coe State Park, instructing visitors to take Hwy 101 South to the East Dunne Exit and proceed approximately 11 miles. It outlines specific access information for the park's locked gate, including a club combination (4565), and emphasizes the importance of relocking the gate and using parking lights only after dark.",
+      "categories": [
+        "Directions",
+        "Venue Information",
+        "Logistics",
+        "Access Information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Hwy 101 South",
+        "East Dunne Exit",
+        "Gate combination",
+        "Parking instructions",
+        "Park access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-fremont-peak-state-park",
+      "documentId": "eph85-02",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, specifically to the Coulter Camp overflow area where the San Jose Astronomical Association (SJAA) sets up. It also includes a reminder to use parking lights only after dark at the site.",
+      "categories": [
+        "Logistics",
+        "Directions",
+        "Astronomy Club Information",
+        "Observing Site"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Coulter Camp",
+        "Driving Directions",
+        "Astronomy",
+        "Observing Site"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-officers",
+      "documentId": "eph85-02",
+      "title": "OFFICERS:",
+      "summary": "This document lists the current officers of an organization, detailing their titles, names, addresses, and phone numbers. The listed positions include President, Vice-President, Secretary, and Treasurer, along with their respective contact details in California.",
+      "categories": [
+        "Organization Administration",
+        "Contact Information",
+        "Leadership Roster"
+      ],
+      "keywords": [
+        "officers",
+        "leadership",
+        "organization",
+        "contact details",
+        "administration",
+        "president",
+        "vice-president",
+        "secretary",
+        "treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-02-board-of-directors",
+      "documentId": "eph85-02",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document snippet lists the members of the Board of Directors with their contact phone numbers, along with the Ephemeris Editor, John Gleason, including his full mailing address. It serves as a directory for key personnel within an organization.",
+      "categories": [
+        "Organizational",
+        "Contact Information",
+        "Directory",
+        "Personnel"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Ephemeris Editor",
+        "Paul Mancuso",
+        "Steve Greenberg",
+        "Tom Ahl",
+        "Gene Disneros",
+        "Joe Sunseri",
+        "Chris Pratt",
+        "John Gleason",
+        "Contact details",
+        "Staff list"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph85-02-employment-openings-at-lumicon",
+      "documentId": "eph85-02",
+      "title": "EMPLOYMENT OPENINGS AT LUMICON",
+      "summary": "Lumicon, an astronomy-related company, is expanding in 1985 after five years of record growth and is seeking to fill several employment openings. Positions available include telephone sales, order entry, purchasing, inventory, shipping, and advertising, with starting salaries ranging from $12,000 to $18,000 per year. Interested individuals who combine a love for astronomy with enjoyable work are encouraged to send their resumes or call for more information.",
+      "categories": [
+        "Employment Opportunity",
+        "News",
+        "Business Announcement"
+      ],
+      "keywords": [
+        "Lumicon",
+        "Job Openings",
+        "Employment",
+        "Astronomy",
+        "Hiring",
+        "Sales",
+        "Purchasing",
+        "Shipping",
+        "Livermore CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph85-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8502/Eph85_02.pdf",
+      "txtPath": "8502/Eph85_02.md"
+    }
+  ]
+}

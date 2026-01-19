@@ -1,0 +1,465 @@
+{
+  "articles": [
+    {
+      "id": "eph82-11-ephemeris",
+      "documentId": "eph82-11",
+      "title": "Ephemeris",
+      "summary": "This ephemeris outlines the San Jose Astronomical Association's (SJAA) activities for October, November, and December, featuring a variety of events including general and board meetings, multiple outdoor and indoor star parties, and a Halloween party. It also announces a potential convoy for the STS-5 space shuttle landing and provides membership and contact information for the association. The scheduled events include talks on topics like lightning and relativity, as well as opportunities for mirror grinding.",
+      "categories": [
+        "Events Calendar",
+        "Astronomical Association",
+        "Meetings",
+        "Observing Sessions",
+        "Organizational Updates"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Star parties",
+        "Astronomical events",
+        "General meetings",
+        "Board meetings",
+        "Space Shuttle STS-5",
+        "Guest speakers",
+        "Mirror grinding",
+        "Membership"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-11-observations",
+      "documentId": "eph82-11",
+      "title": "Observations",
+      "summary": "This article from \"Observations\" details the San Jose Astronomical Association's November General Meeting, featuring Leon Salanave's talk on lightning photography and atmospheric physics. It also announces a club initiative for a group purchase of inexpensive computers and highlights the increasing role of technology in amateur astronomy. Additionally, the piece provides resources for beginners, including an ASP telescope guide and SJAA's telescope-building classes and star parties.",
+      "categories": [
+        "Club Meetings",
+        "News and Announcements",
+        "Technical Discussion",
+        "Equipment and Resources",
+        "Club Activities",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "SJAA General Meeting",
+        "Lightning Photography",
+        "Leon Salanave",
+        "Amateur Astronomy Computers",
+        "Group Purchase",
+        "Telescope Buying Guide",
+        "Telescope Building",
+        "Astronomical Society of the Pacific",
+        "Eric Burgess",
+        "Celestial BASIC",
+        "Star Parties",
+        "Atmospheric Physics"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-11-a-note-on-pupil-size-of-eyes",
+      "documentId": "eph82-11",
+      "title": "A NOTE ON PUPIL SIZE OF EYES",
+      "summary": "This article discusses the actual maximum pupil size of the human eye, noting that it can be significantly larger (9-10mm) than the commonly cited \"book\" value (6-7mm), especially under dark conditions. The author emphasizes the importance of accurate pupil size measurement for amateur astronomers, as it dictates the lowest efficiently usable magnification of a telescope to avoid light loss. The article also touches on methods for measuring pupil size and clarifies that large pupil diameter does not automatically equate to keen retinal dark adaptation.",
+      "categories": [
+        "Astronomy Tips",
+        "Human Physiology",
+        "Optical Principles",
+        "Equipment Advice"
+      ],
+      "keywords": [
+        "Pupil size",
+        "Dark adaptation",
+        "Telescope magnification",
+        "Exit pupil",
+        "Night vision",
+        "Optometry",
+        "Richest field telescope",
+        "Visual purple",
+        "Vitamin A"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-sjaa-board-of-directors",
+      "documentId": "eph82-11",
+      "title": "SJAA BOARD OF DIRECTORS",
+      "summary": "This document lists the members of the SJAA Board of Directors, providing their names and corresponding phone numbers. It also includes the contact information for the organization's Treasurer. The content serves as a directory for key personnel within the SJAA.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Contact Information",
+        "Phone Numbers",
+        "Treasurer",
+        "Organization"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-11-group-purchase-of-inexpensive-personal-computers",
+      "documentId": "eph82-11",
+      "title": "GROUP PURCHASE OF INEXPENSIVE PERSONAL COMPUTERS",
+      "summary": "Bruce de Graaf is organizing a group purchase of inexpensive personal computers for SJAA members to achieve significant cost reductions through bulk buying. Information on offerings from Apple, Atari, Commodore, Texas Instruments, and Timex/Sinclair will be presented at the November 6th General Meeting, aiming for complete systems under $600 suitable for software development. Interested members are asked to provide their contact information to facilitate the potential purchase in early December.",
+      "categories": [
+        "Community Initiative",
+        "Technology",
+        "Member Benefit",
+        "Announcement"
+      ],
+      "keywords": [
+        "Group purchase",
+        "Personal computers",
+        "SJAA members",
+        "Cost reduction",
+        "Wholesale prices",
+        "Software development",
+        "General Meeting",
+        "Apple",
+        "Atari",
+        "Commodore",
+        "Texas Instruments",
+        "Timex/Sinclair"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-club-telescopes",
+      "documentId": "eph82-11",
+      "title": "CLUB TELESCOPES",
+      "summary": "This article announces that the club's 12.5-inch Dobsonian telescope is currently with Bob Black and will be available for a new two-month loan period starting November 12th; interested members should contact Bob. Additionally, it reports that the club's 6-inch telescope was damaged in an accident and calls for volunteers to assist with its repair.",
+      "categories": [
+        "club news",
+        "equipment loan",
+        "volunteer request",
+        "observing equipment",
+        "announcement"
+      ],
+      "keywords": [
+        "telescope",
+        "Dobsonian",
+        "club equipment",
+        "equipment loan",
+        "repair",
+        "volunteer",
+        "accident",
+        "12.5-inch",
+        "6-inch",
+        "San Carlos"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-comet-note",
+      "documentId": "eph82-11",
+      "title": "COMET NOTE",
+      "summary": "This article responds to a previous query regarding instances of amateur astronomers discovering comets while observing Messier objects. The author, Jim McMahon, recalls two such cases: Comet Seki-Lines (1962c) and Comet Bally-Clayton (1968d), providing brief accounts and references to Sky and Telescope articles. While Comet Bally-Clayton was found near the Ring Nebula, the author notes Comet Seki-Lines might not strictly qualify as it was found far from a Messier object.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Discovery",
+        "Observing Reports",
+        "Historical Accounts",
+        "Letter to the Editor"
+      ],
+      "keywords": [
+        "Comet Seki-Lines",
+        "Comet Bally-Clayton",
+        "Don Machholz",
+        "Messier objects",
+        "amateur astronomers",
+        "Sky and Telescope",
+        "Puppis",
+        "Ring Nebula",
+        "John Bally-Urban",
+        "Patrick Clayton"
+      ],
+      "pageStart": 211,
+      "pageEnd": 266
+    },
+    {
+      "id": "eph82-11-ad",
+      "documentId": "eph82-11",
+      "title": "AD",
+      "summary": "This document is an advertisement for 55-gallon steel drums, available for $5 each. The drums are specifically marketed for their utility in traditional barrel-top mirror grinding, a technique used in amateur telescope making. Interested parties can contact Penny Pinschmidt.",
+      "categories": [
+        "Advertisement",
+        "Amateur Astronomy",
+        "Equipment/Supplies",
+        "For Sale"
+      ],
+      "keywords": [
+        "steel drums",
+        "mirror grinding",
+        "barrel-top",
+        "telescope making",
+        "amateur astronomy equipment"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-11-rattlev-rattles",
+      "documentId": "eph82-11",
+      "title": "Rattlev Rattles",
+      "summary": "Gerry Rattley provides an update on his astronomical observations in Arizona, detailing his discovery and positive experience at a new dark-sky observing site near Four Peaks in Tonto National Forest. He recounts successful deep-sky observations of various objects, including Comet Austin and challenging galaxies, and describes attending a lively Saguaro Astronomy Club star party near Sedona. The report concludes with a review and error list for the Astronomical League's 'Observe the Herschel Objects' booklet, which he highly recommends.",
+      "categories": [
+        "Observing Report",
+        "Dark Sky Sites",
+        "Astronomical Societies/Clubs",
+        "Deep-sky Observing",
+        "Equipment & Techniques",
+        "Book Review"
+      ],
+      "keywords": [
+        "Arizona",
+        "Four Peaks",
+        "Tonto National Forest",
+        "Observing site",
+        "Light pollution",
+        "Comet Austin",
+        "Cassiopeia",
+        "IC 10",
+        "Saguaro Astronomy Club",
+        "Star party",
+        "Sedona",
+        "Messier 101",
+        "Planetary nebulae",
+        "Cepheid's hydrogen star",
+        "Astrophotography",
+        "Image intensifier",
+        "Astronomical League",
+        "Herschel Objects"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-11-comet-comments",
+      "documentId": "eph82-11",
+      "title": "Comet Comments",
+      "summary": "This article discusses the current visibility of two periodic comets as Comet Austin fades, noting a lack of recent discoveries. It emphasizes a shortage of accurate astrometric positions for comets and encourages amateur astronomers to contribute, referencing relevant articles in 'Sky and Telescope'. The author also shares anecdotes about unusual comet discoveries, including Messier's observation of M1 and an accidental discovery by M.P. Candy.",
+      "categories": [
+        "Comets",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Astrometry",
+        "History of Astronomy"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Periodic comets",
+        "Comet discovery",
+        "Astrometry",
+        "Amateur astronomers",
+        "Sky and Telescope",
+        "Messier objects",
+        "Crab Nebula",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-great-comets-of-the-past-comet-west-1975n-1976vi-discovered-by-richard-west-of-the-european-southern-observatory-chile-on-november-5th-1975-in-eastern-sagittarius-this-comet-became-one-of-the-brightest-and-most-spectacular-of-the-century-at-discovery-comet-west-was-13th-magnitude-it-brightened-to-0-0-magnitude-in-late-february-1976-and-was-even-visible-in-the-daytime-in-early-march-it-displayed-two-tails-each-over-25-degrees-long-in-the-pre-dawn-sky-its-nucleus-split-into-four-parts-at-about-this-time-the-comet-will-be-back-in-15-000-years",
+      "documentId": "eph82-11",
+      "title": "Great Comets of the Past: Comet West (1975n, 1976VI). Discovered by Richard West of the European Southern Observatory (Chile) on November 5th, 1975, in eastern Sagittarius, this comet became one of the brightest and most spectacular of the century. At discovery, Comet West was 13th magnitude. It brightened to 0.0 magnitude in late February 1976, and was even visible in the daytime. In early March, it displayed two tails, each over 25 degrees long, in the pre-dawn sky. Its nucleus split into four parts at about this time. The comet will be back in 15,000 years.",
+      "summary": "Comet West, discovered in November 1975, became one of the brightest and most spectacular comets of the century. By February 1976, it reached 0.0 magnitude, was visible in daylight, and later displayed two long tails before its nucleus split into four parts. This impressive celestial event is expected to return in 15,000 years.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Observing Reports",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comet West",
+        "Comets",
+        "Magnitude",
+        "Comet Tails",
+        "Nucleus Splitting",
+        "Observing Reports",
+        "Astronomical History",
+        "Ephemeris Data",
+        "Comet Austin",
+        "Comet D'Arrest",
+        "Comet Churyumov-Gerasimenko"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-product-review",
+      "documentId": "eph82-11",
+      "title": "PRODUCT REVIEW",
+      "summary": "This article reviews the new Unicolor Rapid E-6 Developing Kit for Color Slides, praising its simplified three-step process, reduced development time (20-24 minutes), and improved color rendition, particularly for sky tones. The author notes it's a significant improvement over traditional multi-step E-6 processes and commercial development, making it especially beneficial for astrophotographers.",
+      "categories": [
+        "Product Review",
+        "Photography",
+        "Astrophotography",
+        "Technical"
+      ],
+      "keywords": [
+        "Unicolor Rapid E-6 Developing Kit",
+        "Color slides",
+        "Slide development",
+        "E-6 process",
+        "Astrophotography",
+        "Photography chemicals",
+        "Color rendition",
+        "Kodak Ektachrome"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-11-space-program-update",
+      "documentId": "eph82-11",
+      "title": "Space Program Update",
+      "summary": "This article provides an update on various international space programs, detailing the successful use of the Soviet COSPAS/International Sarsat system in multiple air and maritime rescues, despite a high false alarm rate. It also covers the diversion of the ISEE-3 spacecraft for a comet Giacobini-Zinner flyby, the Ariane-1 flight failure, the successful orbiting of Intelsat-5, and Otrag's plans for sounding rockets. Additionally, the update includes details on the upcoming STS-5 mission, NASA's FY'83 funding approval for projects like the Centaur upper stage and a fifth Space Shuttle orbiter, and the selection of Spacelab-1 payload specialists.",
+      "categories": [
+        "Space Exploration",
+        "Satellite Technology",
+        "Space Missions",
+        "Aerospace Industry",
+        "Rescue Operations",
+        "Space Policy & Funding",
+        "Rocketry"
+      ],
+      "keywords": [
+        "COSPAS",
+        "Sarsat",
+        "Search and Rescue",
+        "Emergency Locator Transmitter",
+        "ISEE-3",
+        "Comet Giacobini-Zinner",
+        "Halley spacecraft",
+        "Ariane-1",
+        "Intelsat-5",
+        "Otrag",
+        "Sounding Rockets",
+        "STS-5",
+        "Space Shuttle Columbia",
+        "NASA",
+        "Centaur upper stage",
+        "Spacelab-1",
+        "Payload Assist Module (PAM)",
+        "Astronauts",
+        "Satellite Business Systems (SBS-J)",
+        "Telesat-Canada Anik-C"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-san-jose-astronomical-association",
+      "documentId": "eph82-11",
+      "title": "San Jose Astronomical Association",
+      "summary": "The San Jose Astronomical Association (SJAA) provides a diverse range of activities and services for its members and the public. These offerings include educational opportunities like telescope-making classes and equipment nights, social gatherings such as star parties and picnics, and special events like Astronomy Day and an astronomical auction. The association also acknowledges achievements with awards and disseminates information through its bulletin.",
+      "categories": [
+        "Community Events",
+        "Education & Workshops",
+        "Awards & Recognition",
+        "Publications"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Astronomy events",
+        "Star parties",
+        "Telescope making",
+        "Astronomical awards",
+        "Astronomy education",
+        "Community astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-11-halley-s-back",
+      "documentId": "eph82-11",
+      "title": "Halley's Back!!",
+      "summary": "Halley's Comet was successfully recovered on October 16, 1982, by a team led by Jewitt and Danielson using the Hale 5-meter telescope at Mt. Palomar with a Space Telescope-developed CCD. The comet was observed in Canis Minor at a magnitude of 24.2, moving as predicted, although initial verification by other observatories and subsequent re-observations by the discovery team faced challenges.",
+      "categories": [
+        "observing report",
+        "cometary astronomy",
+        "news",
+        "technical"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "comet recovery",
+        "Hale 5-meter telescope",
+        "Mt. Palomar",
+        "CCD",
+        "magnitude 24.2",
+        "1982i",
+        "Canis Minor",
+        "Space Telescope technology"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-11-sjaa-bulletin",
+      "documentId": "eph82-11",
+      "title": "SJAA Bulletin",
+      "summary": "This document serves as the masthead or introductory page for the \"SJAA Bulletin,\" identifying it as a publication of the San Jose Astronomical Association. It provides the association's address and U.S. postage paid information, indicating it is a mailed periodical.",
+      "categories": [
+        "Organizational Information",
+        "Newsletter",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Bulletin",
+        "Astronomy Club",
+        "Organizational Details"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-11-sjaa-meetings-star-party-sites",
+      "documentId": "eph82-11",
+      "title": "SJAA MEETINGS & STAR PARTY SITES",
+      "summary": "This document, primarily a map, outlines the meeting locations and star party sites for the San Jose Astronomical Association (SJAA). It serves as a navigational guide, marking various organizational and observing locations within the San Jose area.",
+      "categories": [
+        "Community Information",
+        "Event Planning",
+        "Astronomy Sites",
+        "Maps & Directions"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Star Party",
+        "Meetings",
+        "Observing Sites",
+        "Locations",
+        "Map",
+        "Astronomy Events",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-11",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8211/Eph82_11.pdf",
+      "txtPath": "8211/Eph82_11.md"
+    }
+  ]
+}

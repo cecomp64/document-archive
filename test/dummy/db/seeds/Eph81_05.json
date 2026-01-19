@@ -1,0 +1,359 @@
+{
+  "articles": [
+    {
+      "id": "eph81-05-observations",
+      "documentId": "eph81-05",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) is gearing up for several events, primarily focusing on the national Astronomy Day where volunteers are needed at three South Bay locations. The article also outlines a busy June schedule of star parties and general meetings, details the upcoming club elections for board positions, and solicits nominations for the Dr. A. B. Gregory Award. Additionally, it includes classifieds for astronomical equipment and a job opening at LUMICON.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Volunteer Opportunities",
+        "Organizational",
+        "Classifieds"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "SJAA",
+        "Star Parties",
+        "Club Elections",
+        "Dr. A. B. Gregory Award",
+        "Telescope Sales",
+        "Volunteering",
+        "Board Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-job-description",
+      "documentId": "eph81-05",
+      "title": "Job Description",
+      "summary": "This job description outlines a position for optical and mechanical assembly, film hypersensitization, order fulfillment, and record-keeping tasks. The role offers wages of $4-6 per hour with quarterly merit raises, requiring full-time or at least daily 1-5 PM availability. The position is located at 891 Laguna Street, Livermore, until new Lumicon facilities are ready.",
+      "categories": [
+        "Job Posting",
+        "Employment",
+        "Business"
+      ],
+      "keywords": [
+        "Job Description",
+        "Wages",
+        "Hours",
+        "Location",
+        "Optical Assembly",
+        "Mechanical Assembly",
+        "Film Hypersensitization",
+        "Order Filling",
+        "Packing",
+        "Recordkeeping",
+        "Lumicon",
+        "Livermore"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-job-requirements",
+      "documentId": "eph81-05",
+      "title": "Job Requirements",
+      "summary": "This document outlines job requirements for a position at LUMICON, an equal opportunity employer. Key qualifications include knowledge of astronomy and telescopes, astrophotography experience (trainable), and good hand-eye coordination for optical assembly work. Interested applicants are directed to contact Dr. Jack Marling in Livermore.",
+      "categories": [
+        "Job Posting",
+        "Employment",
+        "Astronomy",
+        "Technical",
+        "Optical Assembly"
+      ],
+      "keywords": [
+        "Job Requirements",
+        "LUMICON",
+        "Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Optical Assembly",
+        "Employment Opportunity",
+        "Livermore"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph81-05-the-1981-messier-and-massive-marathons",
+      "documentId": "eph81-05",
+      "title": "The 1981 Messier and Massive Marathons",
+      "summary": "Don Machholz successfully completed a Messier Marathon and a \"Massive Marathon\" in April 1981 from Loma Prieta, observing 599 deep-sky objects in one night despite minor issues with local authorities regarding site usage. He plans to complete the remaining objects in the fall and encourages future marathons. The article also briefly mentions the establishment of \"The Halley Fund\" to support a NASA mission to Halley's Comet.",
+      "categories": [
+        "Observing Report",
+        "Deep-Sky Observing",
+        "Astronomy Events",
+        "Historical Astronomy",
+        "Citizen Science"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Deep-sky observing",
+        "Amateur astronomy",
+        "Don Machholz",
+        "Halley's Comet",
+        "Loma Prieta",
+        "Observing events",
+        "1981 astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-05-comet-comments",
+      "documentId": "eph81-05",
+      "title": "COMET COMMENTS",
+      "summary": "Two comets are currently visible in the sky, with one fading, and no new comets have been discovered recently. An interview with comet discoverer William Bradfield, conducted by Ben Mayer, is scheduled to appear in an upcoming issue of Astronomy magazine.",
+      "categories": [
+        "Observing Report",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "William Bradfield",
+        "Ben Mayer",
+        "Astronomy magazine",
+        "Celestial Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-p-comet-borrelly-1980i",
+      "documentId": "eph81-05",
+      "title": "P/Comet Borrelly (1980i):",
+      "summary": "The article presents an ephemeris for P/Comet Borrelly (1980i) spanning April 26 to June 5, detailing its changing right ascension, declination, and magnitude. It also notes that the comet's eastward motion keeps it visible in the western sky after evening twilight as it transits through the constellations Auriga and Lynx.",
+      "categories": [
+        "Cometology",
+        "Observing Guides",
+        "Astronomy"
+      ],
+      "keywords": [
+        "P/Comet Borrelly (1980i)",
+        "Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Auriga",
+        "Lynx",
+        "Observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-p-comet-panther-1980u",
+      "documentId": "eph81-05",
+      "title": "P/Comet Panther (1980u):",
+      "summary": "This document provides an ephemeris for Comet Panther (1980u) from late April to early June, detailing its right ascension, declination, and predicted magnitude. The comet is noted for still displaying a tail and is described as moving south through the constellations Lynx and Cancer in the evening sky, while also receding from both Earth and the Sun.",
+      "categories": [
+        "observing reports",
+        "comets",
+        "ephemeris",
+        "astronomy"
+      ],
+      "keywords": [
+        "Comet Panther (1980u)",
+        "comet",
+        "ephemeris",
+        "magnitude",
+        "observing",
+        "Lynx",
+        "Cancer",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-comet-meier-1980q",
+      "documentId": "eph81-05",
+      "title": "Comet Meier (1980q):",
+      "summary": "This document provides observational data for Comet Meier (1980q), detailing its Right Ascension, Declination, and Magnitude from late April to early June. During this period, the comet's magnitude ranged from 10.7 to 11.7, and it was observed moving away from both Earth and the Sun. Its path took it near Arcturus in late April before it proceeded into the constellation Virgo.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy Data"
+      ],
+      "keywords": [
+        "Comet Meier (1980q)",
+        "comet",
+        "observational data",
+        "magnitude",
+        "right ascension",
+        "declination",
+        "Arcturus",
+        "Virgo",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-great-comets",
+      "documentId": "eph81-05",
+      "title": "GREAT COMETS",
+      "summary": "The article details the Great Comet of 1811 (Flaugergues), discovered on March 26, 1811. It was observed for 1.5 years, becoming a circumpolar object, and was notable for having the largest known coma at 1.75 million miles in diameter and a tail over 100 million miles long. This comet is predicted to return in the year 4876, with an orbital period of 3065 years.",
+      "categories": [
+        "historical astronomy",
+        "cometary science",
+        "celestial objects"
+      ],
+      "keywords": [
+        "Great Comet of 1811",
+        "Flaugergues",
+        "comet",
+        "coma",
+        "tail",
+        "orbital period",
+        "astronomy",
+        "observing reports"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-record-keeping-for-the-celestial-tourist",
+      "documentId": "eph81-05",
+      "title": "RECORD-KEEPING FOR THE CELESTIAL TOURIST",
+      "summary": "This article encourages amateur astronomers, particularly \"celestial tourists\" not engaged in scientific observation, to keep detailed records of their sightings, highlighting the various pleasures and advantages. It suggests that record-keeping aids in planning observing sessions, developing observing programs, and provides an engaging activity during unfavorable weather. The author offers practical methods, including maintaining flexible logbooks, utilizing card indexes for cross-referencing, and marking off objects in catalogs, emphasizing adaptability in personal record-keeping systems.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Practices",
+        "Record Keeping",
+        "Hobby Guides",
+        "Astronomy Tips"
+      ],
+      "keywords": [
+        "Record-keeping",
+        "Amateur astronomy",
+        "Observing logbook",
+        "Celestial tourist",
+        "Deep-sky objects",
+        "Messier objects",
+        "NGC catalog",
+        "Observing programs",
+        "Telescope observation",
+        "Card index"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-05-go-columbia",
+      "documentId": "eph81-05",
+      "title": "GO COLUMBIA!",
+      "summary": "The article details the author's journey with friends to Edwards Air Force Base in April 1981 to witness the historic landing of the Space Shuttle Columbia. It vividly describes their early arrival, securing a prime viewing spot amidst a quarter-million people, and the emotional experience of seeing the shuttle's perfect descent and landing. The event represented a triumphant rebirth for America's space program after years of disappointment.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Space Exploration",
+        "Personal Account"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Edwards Air Force Base",
+        "Shuttle Landing",
+        "Space Program",
+        "First Flight",
+        "Sonic Boom",
+        "T-38 Chase Planes",
+        "San Jose Astronomical Association",
+        "Chabot Observatory"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph81-05-the-first-annual-sjaa-astro-auction-an-auctioneer-s-view",
+      "documentId": "eph81-05",
+      "title": "The First Annual (?) SJAA Astro Auction (An Auctioneer's View)",
+      "summary": "This article provides an auctioneer's firsthand account of the first SJAA Astro Auction, detailing the setup, the enthusiastic bidding from approximately eighty attendees, and the sale of a wide variety of astronomy-related items. Despite the author's initial apprehension, the event was a tremendous success, raising over $650 for the SJAA and fostering a fun, engaging atmosphere among participants.",
+      "categories": [
+        "Event Report",
+        "Club News",
+        "Fundraising",
+        "Personal Account"
+      ],
+      "keywords": [
+        "SJAA Astro Auction",
+        "Auctioneer's View",
+        "Fundraising",
+        "Astronomy Equipment",
+        "Club Activity",
+        "Bidding",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph81-05-star-party-observing-notes",
+      "documentId": "eph81-05",
+      "title": "STAR PARTY & OBSERVING NOTES",
+      "summary": "Jay Freeman details several observing sessions, including attending a Messier Marathon with his new 8-inch Newtonian telescope and other gatherings at Fremont Peak and Coulter Camp. He recounts a personal Messier survey using a small 60mm refractor to demonstrate its capabilities, having observed 55 objects. The article also covers observations of various non-Messier galaxies and faint deep-sky objects, discussing different equipment and sky conditions encountered.",
+      "categories": [
+        "Observing Reports",
+        "Star Parties",
+        "Astronomical Equipment",
+        "Visual Astronomy",
+        "Astronomical Surveys"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Loma Prieta",
+        "Fremont Peak State Park",
+        "Coulter Camp",
+        "Messier objects",
+        "Newtonian telescope",
+        "Cassegrain telescope",
+        "Refractor",
+        "Small aperture observing",
+        "Galaxies",
+        "NGC objects",
+        "Light pollution",
+        "Dobson mount",
+        "Star parties",
+        "Visual observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-05-sjaa-ephemeris",
+      "documentId": "eph81-05",
+      "title": "SJAA EPHEMERIS",
+      "summary": "The provided document is a page from the \"SJAA EPHEMERIS,\" a monthly publication by the San Jose Astronomical Association. It lists key administrative details, including contact information for the editor and club officers, as well as membership fees for standard and junior members (which include a Sky & Telescope subscription) and bulletin subscription rates for non-members.",
+      "categories": [
+        "Club Administration",
+        "Membership",
+        "Astronomical Organization"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Ephemeris",
+        "Membership",
+        "Club Officers",
+        "Contact Information",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8105/Eph81_05.pdf",
+      "txtPath": "8105/Eph81_05.md"
+    }
+  ]
+}

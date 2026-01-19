@@ -1,0 +1,880 @@
+{
+  "articles": [
+    {
+      "id": "eph83-07-ephemeris",
+      "documentId": "eph83-07",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled 'EPHEMERIS' for July 1985, is published by SJAA. It primarily features a detailed star chart. The chart illustrates constellations such as Lyra, Hercules, Corona, and Ophiuchus, along with numerous labeled stars and celestial objects, serving as a guide for observing the night sky during that month.",
+      "categories": [
+        "Ephemeris",
+        "Observing Guide",
+        "Astronomy Chart",
+        "Historical Document"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "July 1985",
+        "SJAA",
+        "Star Chart",
+        "Constellations",
+        "Lyra",
+        "Hercules",
+        "Corona",
+        "Ophiuchus",
+        "Celestial Objects",
+        "Astronomy",
+        "Observing"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-07-calendar",
+      "documentId": "eph83-07",
+      "title": "CALENDAR",
+      "summary": "This document outlines a calendar of events for July and August, including various star parties (both indoor and outdoor), board of directors meetings, an annual picnic, and general club meetings. Many events are hosted at specific locations like the Los Gatos Red Cross Building, Fremont Peak, and Henry Coe State Park, with an emphasis on member participation and newcomer inclusion.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Meetings",
+        "Observing Events"
+      ],
+      "keywords": [
+        "Calendar",
+        "Star Party",
+        "Indoor Star Party",
+        "Board Meeting",
+        "Annual Picnic",
+        "Public Star Party",
+        "General Meeting",
+        "Open Meeting",
+        "Los Gatos Red Cross Bldg.",
+        "Fremont Peak",
+        "Henry Coe State Park"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-adds",
+      "documentId": "eph83-07",
+      "title": "ADDS",
+      "summary": "This document features classified advertisements for various used astronomical equipment, including Celestron eyepieces, a 10-inch Newtonian telescope, and a 5-inch guide scope. It also provides key contact and submission information for \"EPHEMERIS,\" the monthly publication of the San Jose Astronomical Association (SJAA), along with a directory of the association's president, treasurer, and board members.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "Astronomy Club Information",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Celestron eyepieces",
+        "Newtonian telescope",
+        "Guide scope",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "Astronomy club",
+        "Telescope",
+        "Star diagonal",
+        "Board of Directors"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-07-for-sale",
+      "documentId": "eph83-07",
+      "title": "FOR SALE",
+      "summary": "This document is a classified advertisement offering a used Meade spotting scope package for sale. The package includes the scope, a silk tripod, a star diagonal, and two .965-inch eyepieces, priced at $350. Interested buyers are directed to contact Mike Ramirez at the provided phone number.",
+      "categories": [
+        "classifieds",
+        "for sale",
+        "equipment"
+      ],
+      "keywords": [
+        "Meade",
+        "spotting scope",
+        "tripod",
+        "star diagonal",
+        "eyepieces",
+        ".965 size",
+        "astronomy equipment",
+        "used equipment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-wanted",
+      "documentId": "eph83-07",
+      "title": "WANTED",
+      "summary": "The astronomy club is urgently seeking a finder scope for their 14-inch Dobsonian telescope, with a preference for a 7x50 or larger model. Individuals who can provide a suitable finder scope are asked to contact Ron Probst at (408) 249-6773.",
+      "categories": [
+        "Wanted Ad",
+        "Club Equipment",
+        "Community Notice"
+      ],
+      "keywords": [
+        "Finder Scope",
+        "Dobsonian",
+        "Telescope Accessory",
+        "Wanted",
+        "Astronomy Club",
+        "Equipment Request",
+        "7x50"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-mid-july-marathon",
+      "documentId": "eph83-07",
+      "title": "MID-JULY MARATHON",
+      "summary": "A mid-summer Messier Marathon is scheduled for Saturday, July 9, contingent on clear weather. Participants are invited to observe from their favorite sites, with organizer Don Machholz situated at Loma Prieta. Approximately 98 of the 110 Messier Objects are expected to be visible, and search sequences are available for attendees.",
+      "categories": [
+        "Events",
+        "Observing Report",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier Objects",
+        "Don Machholz",
+        "Loma Prieta",
+        "Observing event",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-sjaa-picnic-at-portal-park",
+      "documentId": "eph83-07",
+      "title": "SJAA PICNIC AT PORTAL PARK",
+      "summary": "The annual SJAA picnic will be held at Portal Park in Cupertino on Saturday, July 23rd, from 11am to 5pm. Hamburgers and hot dogs will be provided for a minimal fee, and attendees are encouraged to bring potluck side dishes for this family-friendly event. This picnic replaces the July general meeting and will include officer installation and the presentation of the Dr. A.B. Gregory Award.",
+      "categories": [
+        "Event",
+        "Social Gathering",
+        "Meeting Announcement",
+        "Community"
+      ],
+      "keywords": [
+        "SJAA",
+        "Picnic",
+        "Portal Park",
+        "Cupertino",
+        "July 23rd",
+        "Potluck",
+        "Officer Installation",
+        "Dr. A.B. Gregory Award",
+        "Family Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-dr-a-b-gregory-award-by-denni-frerichs",
+      "documentId": "eph83-07",
+      "title": "DR. A.B. GREGORY AWARD BY DENNI FRERICHS",
+      "summary": "Bob Fingerhut has been selected as the recipient of the Dr. A. B. Gregory Award by the SJAA (San Jose Astronomical Association) board. A long-time member, Fingerhut is being recognized for his substantial contributions to the club as a board member and treasurer. The award will be presented at the July 23rd picnic, and Mrs. Jean Gregory was also thanked for her continued support and recent donation to the award fund.",
+      "categories": [
+        "Awards",
+        "Club News",
+        "Announcements",
+        "Recognition"
+      ],
+      "keywords": [
+        "Dr. A. B. Gregory Award",
+        "SJAA",
+        "Bob Fingerhut",
+        "Award winner",
+        "Club member",
+        "Board member",
+        "Treasurer",
+        "Jean Gregory",
+        "Donation",
+        "Picnic"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-caption-contest-by-denni-frerichs",
+      "documentId": "eph83-07",
+      "title": "CAPTION CONTEST          BY DENNI FRERICHS",
+      "summary": "This article announces the winner of a caption contest, with Ken Wilson taking first place for entry #10 and receiving a T-shirt from the U.C. Berkeley Ten Meter Telescope Group. Following this, there's an announcement for the 9th Annual Upsilon Pegasids Watch, noting excellent viewing conditions and a research focus on photographic patrol of the shower radiant.",
+      "categories": [
+        "Contest",
+        "Community News",
+        "Astronomy Humor",
+        "Observing Event",
+        "Meteor Shower"
+      ],
+      "keywords": [
+        "Caption Contest",
+        "Ken Wilson",
+        "U.C. Berkeley Ten Meter Telescope Group",
+        "Upsilon Pegasids",
+        "Meteor Shower",
+        "Astronomy Event",
+        "Photographic Patrol"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-07-the-1982-upsilon-pegasid-fireball",
+      "documentId": "eph83-07",
+      "title": "The 1982 Upsilon Pegasid Fireball",
+      "summary": "On August 19, 1982, the European Meteor Network successfully photographed a -14.0 Upsilon Pegasid Fireball using five Czech cameras. The collected data confirmed the orbital elements of this new meteor shower, providing answers to some initial questions. However, further research is still needed to determine rates, the size and drift of the radiant, and to obtain a good spectrum.",
+      "categories": [
+        "observing reports",
+        "meteor astronomy",
+        "research findings"
+      ],
+      "keywords": [
+        "Upsilon Pegasid Fireball",
+        "1982",
+        "European Meteor Network",
+        "meteor shower",
+        "orbital elements",
+        "radiant",
+        "spectra"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-photographic-techniques",
+      "documentId": "eph83-07",
+      "title": "Photographic Techniques",
+      "summary": "This guide outlines optimal photographic techniques for capturing a meteor shower, recommending a 35mm camera with a fast 50mm lens pointed at the radiant in the Square of Pegasus. It suggests using Kodak 2475 or Tri-X film with exposures under five minutes and extended development, while advising against telephoto/wide-angle lenses and generally discouraging color film.",
+      "categories": [
+        "Photography",
+        "Technical Guide",
+        "Astrophotography",
+        "Observing Tips"
+      ],
+      "keywords": [
+        "Photographic techniques",
+        "Meteor shower",
+        "35mm camera",
+        "50mm lens",
+        "Radiant",
+        "Pegasus",
+        "Film development",
+        "Kodak 2475",
+        "Tri-X",
+        "Astrophotography"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-dates-of-the-shower",
+      "documentId": "eph83-07",
+      "title": "Dates of the Shower",
+      "summary": "The article outlines the timing for the Upsilon Pegasids and Perseids meteor showers in August, with their maximums expected around August 8th and August 12th, respectively. Both events will benefit from dark skies due to a new moon on August 9th, making observations ideal from August 5th onwards.",
+      "categories": [
+        "Events",
+        "Observing Guide",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Upsilon Pegasids",
+        "Perseids",
+        "Meteor Shower",
+        "August",
+        "New Moon",
+        "Observation",
+        "Dark Skies"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-07-characteristics-of-the-upsilon-pegasids",
+      "documentId": "eph83-07",
+      "title": "Characteristics of the Upsilon Pegasids",
+      "summary": "The Upsilon Pegasids are a meteor shower with a velocity that falls between the Perseids and Delta Aquarids. These meteors are typically yellow-white, slightly fainter than the Perseids, and generally do not produce significant trains.",
+      "categories": [
+        "Astronomy",
+        "Meteor Shower",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Upsilon Pegasids",
+        "Meteors",
+        "Meteor Shower",
+        "Velocity",
+        "Magnitude",
+        "Color"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-information-and-reports",
+      "documentId": "eph83-07",
+      "title": "Information and Reports",
+      "summary": "This document provides contact information for Harold Povenmire of the Florida Fireball Patrol for individuals seeking further information about a specific meteor shower or wishing to report their observations. It serves as a point of contact for ongoing observational reporting.",
+      "categories": [
+        "observing reports",
+        "contact information",
+        "events",
+        "astronomical observations"
+      ],
+      "keywords": [
+        "meteor shower",
+        "observations",
+        "reporting",
+        "Florida Fireball Patrol",
+        "Harold Povenmire",
+        "contact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-great-america-starparty",
+      "documentId": "eph83-07",
+      "title": "GREAT AMERICA STARPARTY",
+      "summary": "Volunteers are needed for the Great America Starparty at Marriott's Great America on Saturday, July 16, from 9 AM to midnight. Interested individuals should contact Frank Dibbell by phone to secure free park admission and offer their astronomy knowledge to help with the event.",
+      "categories": [
+        "Event Announcement",
+        "Volunteer Request",
+        "Observing Event"
+      ],
+      "keywords": [
+        "Great America Starparty",
+        "Marriott's Great America",
+        "July 16",
+        "volunteers",
+        "astronomy",
+        "starparty",
+        "Frank Dibbell"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-sjaa-annual-picnic-at-portal-park",
+      "documentId": "eph83-07",
+      "title": "SJAA Annual Picnic at Portal Park",
+      "summary": "The SJAA (San Jose Astronomical Association) is holding its annual picnic at Portal Park on Saturday, July 23rd, starting at 11 AM. Attendees are asked to make a small donation for hamburgers, with the rest of the food being potluck style. The event promises fun, food, frisbees, and friends, lasting until sunset.",
+      "categories": [
+        "event announcement",
+        "social gathering",
+        "club activity"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Picnic",
+        "Portal Park",
+        "July 23",
+        "potluck",
+        "hamburgers",
+        "social event"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-07-great-red-spot-ephemerides",
+      "documentId": "eph83-07",
+      "title": "GREAT RED SPOT EPHEMERIDES",
+      "summary": "This article provides ephemerides for observing Jupiter's Great Red Spot (GRS) for July and August, emphasizing the critical role of seeing conditions for successful viewing. The author encourages observers to report their results, noting a fading belt near the GRS and sharing personal observations of its color. The piece highlights a reduced number of observing opportunities for the upcoming month and offers advice on optimal viewing times.",
+      "categories": [
+        "observing report",
+        "ephemerides",
+        "amateur astronomy",
+        "observing tips",
+        "planetary observing"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Ephemerides",
+        "Seeing conditions",
+        "Observing",
+        "Telescope",
+        "Magnification",
+        "Transit times",
+        "Amateur astronomy",
+        "Planetary observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-by-jay-reynolds-freeman",
+      "documentId": "eph83-07",
+      "title": "BY JAY REYNOLDS FREEMAN",
+      "summary": "The author recounts naked-eye observations of Comet Kohoutek in November, criticizing pessimistic media coverage that discouraged public viewing. The article also describes an August 1981 observation of a cluster of galaxies in Hercules, offering tips on using higher magnification for faint deep-sky objects. Finally, it provides a theoretical analysis of apodizing screens, concluding they can improve contrast and reduce diffraction in telescopes.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Optical Instruments",
+        "Deep-Sky Observing",
+        "Cometary Astronomy",
+        "Astronomy Media"
+      ],
+      "keywords": [
+        "Comet Kohoutek",
+        "Naked-eye observation",
+        "Journalism criticism",
+        "Hercules Cluster",
+        "Galaxies",
+        "Deep-sky observing",
+        "Telescopes",
+        "Magnification",
+        "Apodizing screens",
+        "Optical theory",
+        "Diffraction",
+        "Contrast improvement"
+      ],
+      "pageStart": 7,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-07-by-don-machholz",
+      "documentId": "eph83-07",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article, by Don Machholz, analyzes the effect of central obstructions (like secondary mirrors) on a telescope's resolving power, specifically the size of the central diffraction disc. It quantifies how a central obstruction, contrary to intuitive expectations for general viewing, can make the central disc smaller, thereby improving resolution for certain types of observations like double stars of equal magnitude. For example, a 32% obstruction (common in C-14 telescopes) leads to a 10% smaller disc, while a 90% obstruction can yield a 50% improvement in resolving power, effectively turning the device into a ring interferometer.",
+      "categories": [
+        "Technical",
+        "Optics",
+        "Telescope Design",
+        "Diffraction Theory",
+        "Astronomical Instrumentation"
+      ],
+      "keywords": [
+        "Diffraction pattern",
+        "Central obstruction",
+        "Secondary mirror",
+        "Resolving power",
+        "Airy disc",
+        "Apodization",
+        "De-apodization",
+        "Double stars",
+        "Maksutov",
+        "Schmidt-Cassegrain",
+        "Refractor",
+        "Schiefspiegler",
+        "Interferometer",
+        "Optical performance"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-comet-comments",
+      "documentId": "eph83-07",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports on a busy summer for comets, with three periodic comets visible, one fading, a faint periodic comet recovered, and a new discovery by the Iras satellite. It also highlights a trend in amateur comet discoveries, showing a higher frequency in the latter half of the year, and details the recovery of Periodic Comet du Toit-Neujmin-Delporte (1983g) by J. Gibson.",
+      "categories": [
+        "Astronomy News",
+        "Comet Discoveries",
+        "Observing Reports",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comets",
+        "Comet Discoveries",
+        "Amateur Astronomers",
+        "Iras",
+        "du Toit-Neujmin-Delporte (1983g)",
+        "Mt. Palomar"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-07-comet-iras-1983f",
+      "documentId": "eph83-07",
+      "title": "Comet IRAS (1983f):",
+      "summary": "Comet IRAS (1983f) was discovered by the Infrared Astronomical Satellite (IRAS) on May 13, confirmed five days later. At discovery, it had a magnitude of 17 and was located in the constellation Hydra. It passed closest to the sun on January 20, reaching magnitude 14.5, and is now moving away, not expected to brighten further.",
+      "categories": [
+        "Astronomical Discovery",
+        "Comet Observation",
+        "News"
+      ],
+      "keywords": [
+        "Comet IRAS (1983f)",
+        "Infrared Astronomical Satellite",
+        "IRAS",
+        "Comet Discovery",
+        "Magnitude",
+        "Hydra"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-past-discoveries",
+      "documentId": "eph83-07",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article details the discoveries of two comets, Kobayashi-Berger-Milon (1975h) and Cernis-Petrauskas (1980k), highlighting the reasons for their delayed detection despite being potentially visible earlier. Comet 1975h was missed for over a month due to its unusual location outside typical comet-hunting grounds and an unspectacular part of the sky, eventually found by observers looking for a globular cluster. Comet 1980k was a challenging find, initially obscured by proximity to the sun, then low altitude, and finally moonlight, until it became more easily observable despite fading.",
+      "categories": [
+        "Comet Discoveries",
+        "Historical Astronomy",
+        "Amateur Astronomy",
+        "Observing Challenges"
+      ],
+      "keywords": [
+        "Comet Kobayashi-Berger-Milon (1975h)",
+        "Comet Cernis-Petrauskas (1980k)",
+        "Comet discovery",
+        "Amateur astronomers",
+        "Magnitude",
+        "Observational conditions",
+        "Light curve",
+        "Moon phase",
+        "Celestial coordinates",
+        "Comet hunters"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-07-date-1983-r-a-dec-mag-ests",
+      "documentId": "eph83-07",
+      "title": "Date (1983) R. A. Dec. Mag Ests.",
+      "summary": "This document provides ephemerides and observational notes for four comets—Periodic Comet Tempei 1 (1982i), Periodic Comet Kopff (1982k), Periodic Comet Temple 2 (1982d), and Comet Sugano-Saigusa-Fujikawa (1983e)—for dates between June and August 1983. For each comet, it lists right ascension, declination, estimated magnitude, and brief observational descriptions regarding their appearance, motion, and celestial proximity to other objects or constellations. The data includes references to IAU Circulars and is attributed to Don Machholz and Dennis di Cicco.",
+      "categories": [
+        "observing reports",
+        "ephemerides",
+        "astronomical data",
+        "comet observations",
+        "historical astronomy"
+      ],
+      "keywords": [
+        "Comet Tempei 1",
+        "Comet Kopff",
+        "Comet Temple 2",
+        "Comet Sugano-Saigusa-Fujikawa",
+        "1983",
+        "astrometry",
+        "magnitude estimates",
+        "right ascension",
+        "declination",
+        "celestial mechanics",
+        "IAU Circular",
+        "Don Machholz",
+        "Dennis di Cicco"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-june-star-party-by-jim-van-nuland",
+      "documentId": "eph83-07",
+      "title": "JUNE STAR PARTY BY JIM VAN NULAND",
+      "summary": "The article recounts two successful star gazing events in June, starting with a June 4 star party at Henry Coe State Park. This event featured planetary observations, a notable fireball, and clear conditions, despite low attendance and a raccoon encounter. An impromptu session on June 11 at Loma Prieta offered even better seeing, allowing for views of Milky Way objects, though comet observations proved challenging for most.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Astronomy Outreach",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Star Party",
+        "Henry Coe State Park",
+        "Loma Prieta",
+        "Venus",
+        "Sun",
+        "Planets",
+        "Apodizing Screens",
+        "Fireball",
+        "Comets",
+        "p/Kopff",
+        "Milky Way",
+        "Sagittarius",
+        "Scorpius",
+        "Observing Conditions",
+        "Don Machholz"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-07-beginners-corner-by-bruce-de-graaf",
+      "documentId": "eph83-07",
+      "title": "BEGINNERS' CORNER BY BRUCE DE GRAAF",
+      "summary": "This article, part of a \"Beginners' Corner\" series, outlines essential star party etiquette, emphasizing responsible behavior to ensure continued access to observing sites and respect for fellow astronomers. It details rules regarding minimizing light and noise pollution, refraining from alcohol and drugs at the site, and practicing good cleanup habits. The core principle, dubbed the \"Zen of astronomy,\" advocates for achieving remarkable results with minimal resources and avoiding any clutter that expends extraordinary energy to overcome.",
+      "categories": [
+        "Beginners' Guide",
+        "Observing Etiquette",
+        "Community Guidelines",
+        "Amateur Astronomy Practices"
+      ],
+      "keywords": [
+        "star party etiquette",
+        "night vision",
+        "light pollution",
+        "noise pollution",
+        "observing sites",
+        "responsible conduct",
+        "SJAA",
+        "alcohol",
+        "drugs",
+        "cleanup",
+        "Zen of astronomy"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-07-last-of-the-bigtime-comet-hunters",
+      "documentId": "eph83-07",
+      "title": "LAST OF THE BIGTIME COMET HUNTERS",
+      "summary": "This article discusses the diminishing era of visual comet hunting, tracing its history from early telescopic discoveries to the rise of photographic methods and, more recently, satellite discoveries like those by Solwind and IRAS. The author laments the shift towards advanced technology and potential automation, foreseeing an end to the traditional, personal experience of discovering comets through a telescope.",
+      "categories": [
+        "Astronomy",
+        "Comet Hunting",
+        "Technological Impact",
+        "History of Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Visual comet hunting",
+        "Photographic discovery",
+        "Satellite discovery",
+        "IRAS",
+        "Solwind",
+        "Amateur astronomers",
+        "Astronomy technology",
+        "Telescopic observation",
+        "Automation"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph83-07-riverside-83",
+      "documentId": "eph83-07",
+      "title": "RIVERSIDE '83",
+      "summary": "The Riverside Telescope Makers' Conference (RTMC) was held Memorial Day weekend in 1983 at Big Bear Lake, Southern California, attracting between 900 and 1,000 amateur astronomers and telescope enthusiasts. Despite a full Moon potentially impacting attendance, the conference implemented new organizational changes, influenced by Stellafane, by consolidating competition telescopes and commercial exhibitors in the main field. A total of 40 instruments were entered into the competition, a decrease from previous years.",
+      "categories": [
+        "Conference Report",
+        "Events",
+        "Amateur Astronomy",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "Riverside '83",
+        "RTMC",
+        "Riverside Telescope Makers' Conference",
+        "Big Bear Lake",
+        "Amateur astronomers",
+        "Telescope enthusiasts",
+        "Telescope competition",
+        "Stellafane",
+        "Cliff Holmes",
+        "Full Moon"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph83-07-texas-star-party-1983",
+      "documentId": "eph83-07",
+      "title": "TEXAS STAR PARTY 1983",
+      "summary": "The 1983 Texas Star Party, though experiencing reduced attendance, offered comfortable facilities and showcased innovative telescope designs, including Dennis Gallagher's handmade solar filter and Don Schaffer's lightweight 24-inch scope. Despite warm, full-moon weather affecting viewing, attendees found it an enjoyable Memorial Day weekend event, with expectations for improved conditions and attendance the following year.",
+      "categories": [
+        "observing reports",
+        "events",
+        "astronomy",
+        "telescopes"
+      ],
+      "keywords": [
+        "Texas Star Party 1983",
+        "star party",
+        "telescopes",
+        "solar telescope",
+        "H alpha filter",
+        "Don Schaffer",
+        "Warren Estes Award",
+        "Memorial Day weekend",
+        "full moon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-texas-star-party-1983",
+      "documentId": "eph83-07",
+      "title": "TEXAS STAR PARTY 1983",
+      "summary": "The 1983 Texas Star Party, held June 7-12 at Fort Davis, attracted around 450 attendees to the Prude Dude Ranch. Despite challenging conditions including extreme heat (100-110°F), dust, and shortages of ice and water, the observing was considered decent, particularly for nebulae, star clusters, and planets. The event featured a telescope competition, notable attendees like Sherman Schulze and Dr. John Gregory, well-received talks by guest speakers, and awarded an antique 6\" refractor for overall excellence.",
+      "categories": [
+        "Event Report",
+        "Observing Report",
+        "Amateur Astronomy",
+        "Telescope Making"
+      ],
+      "keywords": [
+        "Texas Star Party 1983",
+        "Fort Davis",
+        "Star party",
+        "Telescope competition",
+        "Amateur astronomy",
+        "Observing",
+        "Refractor telescopes",
+        "Sherman Schulze",
+        "Dr. John Gregory",
+        "Vintage telescopes",
+        "Astronomy events"
+      ],
+      "pageStart": 15,
+      "pageEnd": 16
+    },
+    {
+      "id": "eph83-07-pallas-occultation-of-1-vulpecula",
+      "documentId": "eph83-07",
+      "title": "PALLAS OCCULTATION OF 1 VULPECULA",
+      "summary": "This article details the occultation event where the asteroid Pallas passed in front of the star 1 Vulpecula. It specifically focuses on the event that occurred on May 29, 1983. The document includes astronomical charts likely used for observation or prediction of this celestial event.",
+      "categories": [
+        "Astronomical Events",
+        "Occultations",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Pallas",
+        "1 Vulpecula",
+        "Occultation",
+        "Asteroid",
+        "Star",
+        "1983 May 29",
+        "Astronomical Charts"
+      ],
+      "pageStart": 17,
+      "pageEnd": 17
+    },
+    {
+      "id": "eph83-07-preliminary-based-on-54-chords",
+      "documentId": "eph83-07",
+      "title": "PRELIMINARY, BASED ON 54 CHORDS",
+      "summary": "This document is a preliminary report, dated June 25, 2014, authored by Marie Marr and David Dunham. It presents an analysis based on 54 \"chords,\" illustrated with a coordinate graph displaying these measurements and an accompanying astronomical map, likely detailing observations of a celestial event.",
+      "categories": [
+        "Observing Reports",
+        "Technical Analysis",
+        "Astronomy",
+        "Preliminary Findings"
+      ],
+      "keywords": [
+        "Chords",
+        "Preliminary analysis",
+        "Astronomical observations",
+        "Occultation",
+        "Celestial mapping",
+        "Coordinate graph"
+      ],
+      "pageStart": 18,
+      "pageEnd": 18
+    },
+    {
+      "id": "eph83-07-chords-for-preliminary-pallas-plot",
+      "documentId": "eph83-07",
+      "title": "CHORDS FOR PRELIMINARY PALLAS PLOT",
+      "summary": "This document presents a list of observation sites and associated individuals, referred to as \"chords,\" which are intended for a preliminary plot of the asteroid Pallas. The extensive geographical distribution of locations, primarily across Florida, Arizona, Texas, and Mississippi, indicates a collaborative effort to collect data. This data likely stems from a stellar occultation event by Pallas, used to map its size and shape.",
+      "categories": [
+        "Observing Reports",
+        "Astronomy",
+        "Asteroid Research",
+        "Data Collection"
+      ],
+      "keywords": [
+        "Pallas",
+        "Asteroid",
+        "Occultation",
+        "Chords",
+        "Observation Sites",
+        "Stellar Occultation",
+        "Data Plotting",
+        "Astronomical Observation"
+      ],
+      "pageStart": 19,
+      "pageEnd": 19
+    },
+    {
+      "id": "eph83-07-directory-listings",
+      "documentId": "eph83-07",
+      "title": "Directory Listings",
+      "summary": "This document contains a directory listing of numbered entries associated with various locations and individuals, predominantly in Florida and Texas. It also includes an apology for the rushed publication of an 'occultation report' and a grateful acknowledgement to Denni Frerichs-Medlock for her significant and ongoing contributions to the club's newsletter as publisher and editor.",
+      "categories": [
+        "Directory",
+        "Club News",
+        "Acknowledgements",
+        "Newsletter Content",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "directory listings",
+        "Florida",
+        "Texas",
+        "occultation report",
+        "club newsletter",
+        "publisher",
+        "editor",
+        "member listings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-07-sjaa-membership-application-renewal",
+      "documentId": "eph83-07",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership in the SJAA (San Jose Astronomical Association). It requests personal contact information and an area of interest from applicants, offering various membership types including options with or without a Sky & Telescope magazine subscription, and a junior membership, each with different fee structures.",
+      "categories": [
+        "Membership Management",
+        "Organizational Document",
+        "Administrative Form"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership Application",
+        "Membership Renewal",
+        "Fees",
+        "Astronomy Club",
+        "Sky & Telescope",
+        "Contact Information",
+        "Junior Membership"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph83-07-time-wallie-dated",
+      "documentId": "eph83-07",
+      "title": "TIME WALLIE — DATED",
+      "summary": "This document functions as a masthead or mailing label for a publication named \"TIME WALLIE — DATED,\" produced by the SJAA EPHEMERIS. It specifies the organization's address in San Jose, CA, and includes details for bulk rate U.S. postage. The content primarily provides identification and mailing information for the publication.",
+      "categories": [
+        "Publication Information",
+        "Organizational Information",
+        "Mailing Details",
+        "Astronomy-related"
+      ],
+      "keywords": [
+        "TIME WALLIE",
+        "SJAA EPHEMERIS",
+        "San Jose",
+        "Postage",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8307/Eph83_07.pdf",
+      "txtPath": "8307/Eph83_07.md"
+    }
+  ]
+}

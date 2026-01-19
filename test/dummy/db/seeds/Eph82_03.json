@@ -1,0 +1,571 @@
+{
+  "articles": [
+    {
+      "id": "eph82-03-sjaa",
+      "documentId": "eph82-03",
+      "title": "SJAA",
+      "summary": "The SJAA March 1982 bulletin details a comprehensive schedule of events for March, April, and early May, organized by the San Jose Astronomical Association. Key activities include a general meeting discussing the UC 10-meter telescope, Messier Marathon observing sessions, indoor and outdoor star parties, and the Second Annual Astronomical Auction. The bulletin also provides essential contact and membership information for the association.",
+      "categories": [
+        "Events Calendar",
+        "Astronomical Meetings",
+        "Observing Sessions",
+        "Club News",
+        "Membership Information",
+        "Fundraising Event"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "astronomical events",
+        "March 1982",
+        "April 1982",
+        "May 1982",
+        "telescope",
+        "Messier Marathon",
+        "star party",
+        "observing",
+        "auction",
+        "astronomy club",
+        "California",
+        "general meeting",
+        "board meeting",
+        "National Astronomy Day"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-03-observations",
+      "documentId": "eph82-03",
+      "title": "OBSERVATIONS",
+      "summary": "The article explores opportunities for amateur astronomers, highlighting the upcoming Get Away Special (GAS) launches for conducting experiments in space and discussing advancements in astronomical imaging technology, specifically the development of a new virtual phase CCD sensor as a more affordable alternative to current CID cameras. It also details various San Jose Astronomical Association (SJAA) club activities, including an upcoming auction, membership renewals, club nameplates, and information regarding the annual Riverside Telescope Makers' Conference.",
+      "categories": [
+        "Space Exploration",
+        "Astronomical Technology",
+        "Club News",
+        "Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Get Away Special (GAS)",
+        "space shuttle Columbia",
+        "zero-g experiments",
+        "SJAA",
+        "charge injection device (CID)",
+        "virtual phase CCD",
+        "image sensors",
+        "Sky & Telescope",
+        "astronomical auction",
+        "membership renewal",
+        "club nameplates",
+        "Riverside Telescope Makers' Conference (RTMC)"
+      ],
+      "pageStart": 1,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-03-president-s-corner",
+      "documentId": "eph82-03",
+      "title": "PRESIDENT'S CORNER",
+      "summary": "This 'President's Corner' column from Denni Frerichs covers the smooth transition and improvements of the SJAA Bulletin, including the benefits of a new postal permit. It also reports on the Western Amateur Astronomers Mid-Winter Board Meeting, discussing awards and inter-club political dynamics. The column addresses and refutes external clubs' concerns about SJAA's perceived 'renegade' status regarding AANC affiliation and membership renewal, asserting the club's stability.",
+      "categories": [
+        "Club News",
+        "President's Report",
+        "Organizational Affairs",
+        "Publication Update",
+        "Community Listings",
+        "Club Resources"
+      ],
+      "keywords": [
+        "SJAA",
+        "Bulletin",
+        "Western Amateur Astronomers (WAA)",
+        "Board Meeting",
+        "G. Bruce Blair Award",
+        "Membership",
+        "Club Management",
+        "Inter-club Relations",
+        "Amateur Astronomy",
+        "Classifieds",
+        "Club Telescopes",
+        "Postal Permit",
+        "AANC"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-sjaa-board-members",
+      "documentId": "eph82-03",
+      "title": "SJAA Board Members",
+      "summary": "The provided document lists the board members of the SJAA organization, detailing their names, specific positions such as President, Vice President, Treasurer, and Secretary, and their respective phone numbers. It serves as a directory of key personnel for the organization.",
+      "categories": [
+        "Organization",
+        "Administration",
+        "Directory",
+        "Contact Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board members",
+        "Officers",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Contact information"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-03-comet-comments",
+      "documentId": "eph82-03",
+      "title": "COMET COMMENTS",
+      "summary": "This article reviews comet activity in 1981 and early 1982, noting that professional astronomers made all recent discoveries while amateurs were unsuccessful. It provides observing details for Comet Bowell (1980b) and introduces new comets including the recovered Periodic Comet Grigg-Skjellerup (1982a) and two potentially related Comet Hartley objects (1982b and 1982c). The piece also briefly mentions the historical Southern Comet (1947 XII) and promotes 'The International Comet Quarterly' for detailed observations.",
+      "categories": [
+        "Comet Astronomy",
+        "Astronomical News",
+        "Observing Reports",
+        "Historical Astronomy",
+        "Astronomical Publications"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "comet discovery",
+        "comet recovery",
+        "1981 comets",
+        "1982 comets",
+        "professional astronomers",
+        "amateur comet hunters",
+        "Comet Bowell (1980b)",
+        "magnitude",
+        "celestial coordinates",
+        "M 9",
+        "M 20",
+        "M 21",
+        "Neptune",
+        "Periodic Comet Grigg-Skjellerup (1982a)",
+        "Palomar",
+        "Canis Major",
+        "Comet Hartley (1982b)",
+        "Comet Hartley (1982c)",
+        "Siding Spring Observatory",
+        "Virgo",
+        "The International Comet Quarterly",
+        "ICQ",
+        "Great Comets",
+        "Southern Comet (1947 XII)"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-book-review",
+      "documentId": "eph82-03",
+      "title": "BOOK REVIEW:",
+      "summary": "This article reviews Fred W. Klein's \"A New List of 450 Deep-Sky Objects for Amateur Telescopes,\" a comprehensive observing guide for amateur astronomers. The booklet details 450 objects, providing their type, coordinates, magnitude, size, and a unique \"visibility\" rating determined by factors like surface brightness. Organized by right ascension, class, and a \"Best Objects\" list, it serves as a valuable resource for beginners, advanced observers, and armchair astronomers alike.",
+      "categories": [
+        "Book Review",
+        "Amateur Astronomy",
+        "Observing Guides",
+        "Astronomical Objects"
+      ],
+      "keywords": [
+        "Deep-sky objects",
+        "Amateur telescopes",
+        "Observing list",
+        "Visibility rating",
+        "Surface brightness",
+        "Double stars",
+        "Galaxies",
+        "Nebulae",
+        "Star clusters",
+        "Astronomy guide",
+        "Fred W. Klein"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-03-early-launch-for-next-shuttle",
+      "documentId": "eph82-03",
+      "title": "Early Launch for Next Shuttle?",
+      "summary": "Preparations for the space shuttle Columbia's third flight are ahead of schedule, prompting discussions about an earlier launch date. However, high officials have rejected advancing the tentatively scheduled March 22 launch. The shuttle is planned to land at Edwards Air Force Base, with an alternative runway available if crosswinds occur.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Mission Update",
+        "Launch Information"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Launch",
+        "Flight Schedule",
+        "Edwards Air Force Base",
+        "Landing",
+        "Mission Preparations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-satcom-iv-launched-on-january-15th",
+      "documentId": "eph82-03",
+      "title": "SATCOM IV Launched on January 15th.",
+      "summary": "NASA successfully launched RCA's American Communications Satellite IV, or SATCOM IV, on January 15th using a Delta 3910/PAM vehicle. After achieving an initial elliptical orbit, a Thiokol apogee kick motor circularized it to a geostationary altitude. The satellite was subsequently positioned at 83° west longitude, where it will become operational as a cable television relay.",
+      "categories": [
+        "news",
+        "events",
+        "spacecraft",
+        "satellite operations"
+      ],
+      "keywords": [
+        "SATCOM IV",
+        "NASA",
+        "RCA",
+        "satellite launch",
+        "Delta 3910/PAM",
+        "Thiokol",
+        "communications satellite",
+        "cable television",
+        "orbit",
+        "geostationary"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-more-satellites-of-saturn-detected",
+      "documentId": "eph82-03",
+      "title": "More Satellites of Saturn Detected!",
+      "summary": "A Jet Propulsion Laboratory researcher, using imagery from the Voyager 2 Saturn encounter, has identified evidence for four to six previously undetected satellites orbiting Saturn. These new objects, ranging from 6 to 12 miles in diameter, include one located at a Lagrangian point 60° ahead of Dione and another positioned between the orbits of Tethys and Dione.",
+      "categories": [
+        "Discovery",
+        "Planetary Science",
+        "News",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Saturn",
+        "Satellites",
+        "Moons",
+        "Voyager 2",
+        "JPL",
+        "Dione",
+        "Tethys",
+        "Lagrangian Point",
+        "Solar System Exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-soviet-space-program",
+      "documentId": "eph82-03",
+      "title": "Soviet Space Program.",
+      "summary": "Anatolii Y. Skripko, a Soviet technology attache, discussed the Soviet space program at an American Astronautical Society meeting. He revealed plans for orbiting a telescope within a decade and developing a space-shuttle-type vehicle in five years to support long-duration space stations. Skripko also noted issues with Salyut 6's observation windows and power, and indicated uncertainty regarding whether the upcoming Soviet/French mission would visit Salyut 6 or the soon-to-be-launched Salyut 7.",
+      "categories": [
+        "news",
+        "events",
+        "space exploration",
+        "international relations",
+        "technical outlook"
+      ],
+      "keywords": [
+        "Soviet Space Program",
+        "Anatolii Y. Skripko",
+        "American Astronautical Society",
+        "Space Telescope",
+        "Space Shuttle",
+        "Space Station",
+        "Salyut 6",
+        "Salyut 7",
+        "Soviet/French mission",
+        "future plans"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-nasa-s-fiscal-year-1983-budget",
+      "documentId": "eph82-03",
+      "title": "NASA's Fiscal Year 1983 Budget.",
+      "summary": "NASA's Fiscal Year 1983 budget proposal, submitted by the Reagan administration, allocated approximately $6.6 billion. This funding supported the development of a lightweight rocket-motor case to enhance the Space Shuttle's payload and planned repairs for the Solar Maximum spacecraft. However, several NASA requests, including a fifth shuttle orbiter, the Venus Orbiting Imaging Radar (VOIR), the Centaur upper stage, and a 30/20 gigahertz communications satellite demonstration, were not funded.",
+      "categories": [
+        "Budget",
+        "Space Policy",
+        "News",
+        "Funding"
+      ],
+      "keywords": [
+        "NASA",
+        "FY 1983 Budget",
+        "Reagan administration",
+        "Space Shuttle",
+        "Payload",
+        "Solar Maximum",
+        "Venus Orbiting Imaging Radar (VOIR)",
+        "Centaur",
+        "Communications Satellite"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-hearings-scheduled-on-fy-83-nasa-budget",
+      "documentId": "eph82-03",
+      "title": "Hearings Scheduled on FY '83 NASA Budget.",
+      "summary": "The House Science and Technology Subcommittee and the Senate Commerce Subcommittee have scheduled hearings on the proposed FY '83 NASA budget, running from February 9th to March 10th and February 23rd to April 1st, respectively. The article encourages readers to contact their congressional representatives to influence the budget and offers details for those wishing to attend the hearings in Washington, D.C.",
+      "categories": [
+        "news",
+        "government affairs",
+        "call to action",
+        "budget"
+      ],
+      "keywords": [
+        "NASA budget",
+        "FY '83",
+        "congressional hearings",
+        "House Science and Technology Subcommittee",
+        "Senate Commerce Subcommittee",
+        "advocacy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-private-offer-to-fund-fifth-orbiter",
+      "documentId": "eph82-03",
+      "title": "Private Offer to Fund Fifth Orbiter.",
+      "summary": "A private group, led by Dr. Klaus Heiss of Space Transportation Company (a subsidiary of William Sword, Inc.), has offered to fund a fifth space shuttle orbiter. The proposed orbiter would be operated within the existing shuttle fleet, with the company marketing its services for commercial and foreign payloads. NASA acknowledges the offer but states that new legislation would be required for such a private venture, and no formal proposal has yet been discussed with Congress.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Funding",
+        "Space Policy",
+        "Commercial Space"
+      ],
+      "keywords": [
+        "Private funding",
+        "Fifth orbiter",
+        "Space shuttle",
+        "Klaus Heiss",
+        "Space Transportation Company",
+        "NASA",
+        "Commercial payloads",
+        "Legislation",
+        "Investment banking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-ariane-upgrade",
+      "documentId": "eph82-03",
+      "title": "Ariane Upgrade.",
+      "summary": "The European Space Agency has greenlit the development of the Ariane 4 launcher, designed to place 3460-pound payloads into geosynchronous transfer orbits. A demonstration flight is planned for late 1985, with operational flights anticipated to begin in early 1986.",
+      "categories": [
+        "news",
+        "space technology",
+        "launcher development"
+      ],
+      "keywords": [
+        "Ariane 4",
+        "European Space Agency",
+        "ESA",
+        "space launcher",
+        "geosynchronous transfer orbit",
+        "payload",
+        "rocket"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-red-spot-ephemeris",
+      "documentId": "eph82-03",
+      "title": "RED SPOT EPHEMERIS",
+      "summary": "This document, authored by Jim van Huland, provides an ephemeris for Jupiter's Great Red Spot (GRS) for the months of March and part of April. It lists lower and upper limits in UT, serving as a guide for observers to locate the GRS during this period.",
+      "categories": [
+        "Observing Aids",
+        "Planetary Astronomy",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "ephemeris",
+        "observation",
+        "planetary observation",
+        "March",
+        "April",
+        "UT"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-great-red-spot-on-meridian-pst",
+      "documentId": "eph82-03",
+      "title": "Great Red Spot on Meridian PST",
+      "summary": "This document provides a detailed schedule for observing Jupiter's Great Red Spot (GRS) as it transits the planet's central meridian. The list includes specific dates and times, in Pacific Standard Time (PST), spanning from early March to early April. It serves as a practical guide for astronomers and skywatchers to plan their observations of this prominent Jovian feature.",
+      "categories": [
+        "Observing Schedule",
+        "Astronomy",
+        "Planetary Science",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "GRS",
+        "Jupiter",
+        "Meridian transit",
+        "Observing guide",
+        "Planetary observation",
+        "PST",
+        "Astronomy events"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-03-the-celestial-tourist-speaks",
+      "documentId": "eph82-03",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "This article, titled \"THE CELESTIAL TOURIST SPEAKS,\" serves as an observer's guide to the Virgo cluster of galaxies, particularly for evening viewing from early spring to early summer. Author Jay Freeman provides detailed star-hopping instructions using naked-eye stars and Messier objects to navigate the \"Realm of the Galaxies,\" and offers tips for various telescope users regarding field orientation. The piece also suggests alternative deep-sky observing programs for those who have completed the Messier Marathon, including lists of fine deep-sky and NGC objects.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Astronomy",
+        "Amateur Astronomy",
+        "Galaxies",
+        "Star Charts"
+      ],
+      "keywords": [
+        "Virgo cluster",
+        "Messier objects",
+        "Deep-sky observing",
+        "Galaxies",
+        "Star hopping",
+        "Amateur astronomy",
+        "Coma Berenices",
+        "Messier Marathon",
+        "NGC objects",
+        "Telescope observing"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-03-the-medal-of-gold-at-the-w-a-a-end-of-the-rainbow",
+      "documentId": "eph82-03",
+      "title": "The Medal of Gold at the W.A.A. End of the Rainbow.",
+      "summary": "The author recounts attending the W.A.A. winter board meeting, noting significant internal conflicts and misunderstandings among members despite their shared goal of advancing amateur astronomy. Despite these tensions, the meeting successfully named Doug Berger as the 29th G. Bruce Blair gold medalist for his contributions. The article concludes with a complete list of past winners, encouraging readers to learn about their contributions and engage in future award selections.",
+      "categories": [
+        "Organizational News",
+        "Awards",
+        "Amateur Astronomy",
+        "Meetings",
+        "History"
+      ],
+      "keywords": [
+        "W.A.A.",
+        "G. Bruce Blair Medal",
+        "Doug Berger",
+        "Amateur Astronomy",
+        "Board Meeting",
+        "Organizational Conflicts",
+        "Astronomy Day",
+        "Award Recipients"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-letter-to-the-editors",
+      "documentId": "eph82-03",
+      "title": "LETTER TO THE EDITORS",
+      "summary": "A humorous letter, ostensibly from \"Mr. B. Bear\" at Fremont Peak, is dictated to the editors of the San Jose Astronomical Association's bulletin, expressing fondness for amateur astronomers and their respectful activities at the peak. The author requests more frequent visits, primarily so the astronomers can influence Ranger Foley to turn off a disruptive mercury vapor lamp. The letter also includes a humorous critique of feeding rangers while discouraging feeding wildlife.",
+      "categories": [
+        "Letters to the Editor",
+        "Humor",
+        "Astronomical Community",
+        "Commentary"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "San Jose Astronomical Association",
+        "Amateur Astronomy",
+        "Star Parties",
+        "Wildlife",
+        "Light Pollution",
+        "Observational Etiquette",
+        "Ursa Major",
+        "Ursa Minor"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-03-time-value-dated",
+      "documentId": "eph82-03",
+      "title": "TIME VALUE - DATED",
+      "summary": "This document appears to be a registration form or information sheet for a 'Telescope Makers Conference,' possibly associated with the San Jose Astronomical Association. It outlines various costs including day use fees, camping, and multiple meal options with their respective prices. Payment instructions are provided for sending checks for conference proceedings and other fees.",
+      "categories": [
+        "Event Information",
+        "Registration",
+        "Conference",
+        "Astronomical Association"
+      ],
+      "keywords": [
+        "Telescope Makers Conference",
+        "San Jose Astronomical Association",
+        "fees",
+        "registration",
+        "camping",
+        "meals",
+        "day use",
+        "payment",
+        "conference proceedings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-03-gas-area-trail-to-relatives",
+      "documentId": "eph82-03",
+      "title": "GAS AREA TRAIL TO RELATIVES",
+      "summary": "This document appears to be a form or a system for tracing and connecting individuals, specifically 'relatives,' to a 'gas area,' potentially in an emergency or specific logistical context. It includes fields for contact information and references a map detailing local routes and landmarks like Highway 38 and Camp Oaks, suggesting a protocol for notification, reunification, or directional information tied to specific geographical locations.",
+      "categories": [
+        "Information Management",
+        "Tracing",
+        "Mapping",
+        "Emergency Preparedness",
+        "Logistics"
+      ],
+      "keywords": [
+        "Gas area",
+        "Relatives",
+        "Tracing",
+        "Map",
+        "Location tracking",
+        "Highway 38",
+        "Camp Oaks",
+        "Contact information",
+        "Search"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8203/Eph82_03.pdf",
+      "txtPath": "8203/Eph82_03.md"
+    }
+  ]
+}

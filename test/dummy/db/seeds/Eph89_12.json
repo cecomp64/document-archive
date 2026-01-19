@@ -1,0 +1,512 @@
+{
+  "articles": [
+    {
+      "id": "eph89-12-ephemeris",
+      "documentId": "eph89-12",
+      "title": "EPHEMERIS",
+      "summary": "This document is the December 1989 issue (Volume 1, Number 12) of \"EPHEMERIS,\" the official publication of the San Jose Astronomical Association.",
+      "categories": [
+        "Astronomical Publication",
+        "Association News",
+        "Newsletter"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "December 1989",
+        "Astronomy",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-sjaa-events-this-month",
+      "documentId": "eph89-12",
+      "title": "SJAA EVENTS THIS MONTH",
+      "summary": "The SJAA has a packed schedule for December, featuring a General Meeting on December 9th with John Briggs discussing 'Early American Telescopes and Their Makers.' Multiple star parties are planned throughout the month, including events at Fremont Peak, Branham Lane Park, and a New Year's 'freeze party' at Henry Coe State Park. Additionally, a Board Meeting will be held on December 16th, followed by an Indoor Star Party.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Star Parties",
+        "Presentations",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "SJAA",
+        "December events",
+        "General Meeting",
+        "Star Party",
+        "Fremont Peak",
+        "Branham Lane park",
+        "Henry Coe State Park",
+        "John Briggs",
+        "Early American Telescopes",
+        "Board Meeting",
+        "Indoor Star Party",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-meeting-schedule-for-1990",
+      "documentId": "eph89-12",
+      "title": "MEETING SCHEDULE FOR 1990",
+      "summary": "The SJAA announced its meeting schedule for 1990, shifting General Meetings to the first Saturday of each month. Introductory Observational Astronomy classes will now be held on the second Saturday. Most remaining Saturdays are designated for star parties.",
+      "categories": [
+        "schedule",
+        "events",
+        "announcement"
+      ],
+      "keywords": [
+        "1990",
+        "SJAA",
+        "General Meetings",
+        "Observational Astronomy class",
+        "star parties",
+        "meeting schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-branham-lane-star-parties",
+      "documentId": "eph89-12",
+      "title": "BRANHAM LANE STAR PARTIES",
+      "summary": "The article announces the 1990 schedule for the popular Branham Lane Star Parties, held at Branham Lane Park. These events are planned for various Fridays throughout the year, primarily on first Fridays before the summer solstice and last Fridays afterward, occasionally near a Full Moon for scheduling consistency.",
+      "categories": [
+        "Events",
+        "Observing Schedule",
+        "Community Astronomy"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Branham Lane Park",
+        "1990",
+        "Astronomy Events",
+        "Observing Schedule"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-earthquake-news",
+      "documentId": "eph89-12",
+      "title": "EARTHQUAKE NEWS",
+      "summary": "An earthquake caused widespread damage, though local observatories like Lick, Fremont Peak, and Chabot reported no issues. Owners of fluorite telescopes are advised to inspect their objectives for micro fissures due to seismic vibrations. The SJAA Board of Directors voted $500 for Earthquake Relief to the American Red Cross and encourages members to make their own donations and consider blood donations.",
+      "categories": [
+        "News",
+        "Community Outreach",
+        "Technical Advisory",
+        "Organizational Update"
+      ],
+      "keywords": [
+        "Earthquake",
+        "Damage",
+        "Observatories",
+        "Fluorite telescopes",
+        "Micro fissures",
+        "SJAA",
+        "American Red Cross",
+        "Donations",
+        "Blood donations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-celestron-photo-contest",
+      "documentId": "eph89-12",
+      "title": "CELESTRON PHOTO CONTEST",
+      "summary": "Celestron is sponsoring a photo contest with categories for both astronomical (Moon, Planets, Sun, Deep Sky, Unusual) and terrestrial (Sports Action, Wildlife, People) images taken with their products. The document also lists numerous upcoming events for December and January, including multiple star parties at various parks, general meetings with speakers, and board meetings, along with the organization's officers.",
+      "categories": [
+        "Photo Contest",
+        "Events",
+        "Meetings",
+        "Astrophotography",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "Celestron",
+        "Photo Contest",
+        "Astrophotography",
+        "Astronomical Photos",
+        "Terrestrial Photos",
+        "Moon",
+        "Planets",
+        "Sun",
+        "Deep Sky",
+        "Comet",
+        "Eclipse",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Branham Lane Park",
+        "Grant Ranch Park",
+        "General Meeting",
+        "Board Meeting",
+        "Introductory Astronomy Class"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph89-12-sjaa-ephemeris",
+      "documentId": "eph89-12",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document announces a photography contest sponsored by Celestron International, offering three prizes per category: $300, $100, and $50. The deadline for entries is April 30, 1990, with winners announced on May 31, 1990. Submitted photos may be used for Celestron's advertising and promotional purposes.",
+      "categories": [
+        "Contest",
+        "News",
+        "Events",
+        "Announcement"
+      ],
+      "keywords": [
+        "Celestron",
+        "Photography contest",
+        "Prizes",
+        "Deadline",
+        "Advertising",
+        "1990"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-lost-found",
+      "documentId": "eph89-12",
+      "title": "LOST & FOUND",
+      "summary": "A child's size 4 jacket was found at Branham Lane Park after a public star party held on November 3. The owner is requested to contact Jim Van Nuland via phone or attend the next star party at Branham Lane Park to retrieve the item.",
+      "categories": [
+        "Lost & Found",
+        "Community Announcement",
+        "Event Follow-up"
+      ],
+      "keywords": [
+        "Lost and Found",
+        "Jacket",
+        "Branham Lane Park",
+        "Star Party",
+        "November 3",
+        "Jim Van Nuland"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-december-starry-nights",
+      "documentId": "eph89-12",
+      "title": "DECEMBER STARRY NIGHTS",
+      "summary": "This article outlines December's astronomical highlights, including two major meteor showers: the Geminids (Dec 14) and the Ursids (Dec 22), with viewing tips despite moonlight. It also notes the Winter Solstice on December 21st, challenges observers with the faint Egg Nebula in Cygnus, and describes a beautiful lunar occultation of the Pleiades on December 10th.",
+      "categories": [
+        "observing reports",
+        "celestial events",
+        "deep sky objects",
+        "meteor showers",
+        "astronomy guide"
+      ],
+      "keywords": [
+        "December",
+        "Geminids",
+        "Ursids",
+        "meteor showers",
+        "Winter Solstice",
+        "Egg Nebula",
+        "proto-planetary nebula",
+        "Cygnus",
+        "occultation",
+        "Pleiades",
+        "Full Moon",
+        "Last Quarter Moon",
+        "telescopes",
+        "binoculars"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-astro-ads",
+      "documentId": "eph89-12",
+      "title": "ASTRO ADS",
+      "summary": "This document outlines ASTRO ADS, a free classifieds service for non-commercial advertisers selling astronomy-related products. It provides instructions for submitting ads, which run for approximately three months, and features several listings for used telescopes (Meade, Celestron, Newtonian), accessories (filters, finderscopes, drives), and astronomy publications.",
+      "categories": [
+        "classifieds",
+        "advertisements",
+        "astronomical equipment",
+        "community notices"
+      ],
+      "keywords": [
+        "ASTRO ADS",
+        "telescopes",
+        "Meade LXS",
+        "Schmidt Cassegrain",
+        "Newtonian telescope",
+        "Celestron 14",
+        "equatorial mount",
+        "filters",
+        "Lumicon",
+        "Sky & Telescope",
+        "used equipment",
+        "astronomy accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-space-program-update",
+      "documentId": "eph89-12",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The article provides an update on ongoing space programs, detailing the successful launch and initial operations of the Galileo spacecraft as it begins its journey towards Venus. It outlines upcoming NASA Space Shuttle missions for Discovery and Columbia, which include military payloads and satellite deployment/retrieval. Additionally, the report covers the Soviet space program, mentioning the Intercosmos-24 launch for VLF wave study, a delayed Mir space station module, and approval for a 1994 Mars mission featuring a balloon.",
+      "categories": [
+        "Space Program News",
+        "Space Missions",
+        "Spacecraft Operations",
+        "Rocket Launches",
+        "Scientific Missions",
+        "International Space Programs"
+      ],
+      "keywords": [
+        "Galileo",
+        "Voyager",
+        "Space Shuttle",
+        "Atlantis",
+        "Discovery",
+        "Columbia",
+        "NASA",
+        "Venus",
+        "Solar flare",
+        "IUS booster",
+        "Syncom 5",
+        "Long Duration Exposure Facility (LDEF)",
+        "Soviet Space Program",
+        "Intercosmos-24",
+        "Mir space station",
+        "Mars mission",
+        "Magnetosphere",
+        "VLF radio waves"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph89-12-news-briefs",
+      "documentId": "eph89-12",
+      "title": "NEWS BRIEFS",
+      "summary": "NASA's Solar Maximum Satellite is expected to re-enter Earth's atmosphere this month, with a planned rescue mission unable to be accommodated. Other significant space news includes the first launch of the Pegasus winged booster scheduled for December 7th, astronaut Bob Crippen's appointment as director of the National Space Transportation System, and the final approval of NASA's FY1990 budget at $12.38 billion, with $1.8 billion allocated for the space station.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "NASA",
+        "Satellite Operations",
+        "Space Transportation",
+        "Launches",
+        "Budget"
+      ],
+      "keywords": [
+        "NASA",
+        "Solar Maximum Satellite",
+        "Atmospheric Re-entry",
+        "Pegasus Winged Booster",
+        "Space Shuttle",
+        "Bob Crippen",
+        "National Space Transportation System",
+        "FY1990 Budget",
+        "Space Station",
+        "Eros"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-the-celestial-tourist-speaks",
+      "documentId": "eph89-12",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "This article provides amateur astronomers, particularly those in the central California coast, with meteorological insights to better predict observing conditions. It highlights the unreliability of weather forecast timing and advises observers to use cloud types (stratus, cumulus, cirrus) and their movement, along with wind direction, to determine if conditions will be favorable for remote site astronomy. The author emphasizes that post-frontal clearings with specific cloud and wind patterns, especially with a marine layer blocking city lights, often lead to excellent observing opportunities.",
+      "categories": [
+        "Technical",
+        "Advice",
+        "Meteorology",
+        "Observing Guide",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Meteorology",
+        "Weather forecasting",
+        "Amateur astronomy",
+        "Observing conditions",
+        "Cloud watching",
+        "Central California coast",
+        "Marine layer",
+        "Wind direction",
+        "Weather fronts",
+        "Fog",
+        "Dew",
+        "Fremont Peak"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph89-12-great-red-spot",
+      "documentId": "eph89-12",
+      "title": "GREAT RED SPOT",
+      "summary": "This article discusses the current favorable conditions for observing Jupiter's Great Red Spot (GRS), which appears larger and redder than in previous years, making it possible to observe twice in one night. The author provides specific observing tips, including optimal times and equipment, and notes discrepancies in GRS transit predictions compared to other sources like Sky & Telescope and ALPO. It also mentions a new dark lump observed near the Spot, encouraging observers to track its movement.",
+      "categories": [
+        "Observing Report",
+        "Planetary Observation",
+        "Amateur Astronomy Guide",
+        "News"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Opposition",
+        "Observing Tips",
+        "Central Meridian",
+        "North Equatorial Belt",
+        "Sky & Telescope",
+        "ALPO",
+        "Jim Van Nuland",
+        "Filters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-comet-comments",
+      "documentId": "eph89-12",
+      "title": "COMET COMMENTS",
+      "summary": "The article \"COMET COMMENTS\" by Don Machholz provides updates on several comets observed or discovered in late 1989, including 1989r, 1989s, 1989v, 1989x, and 1989y, detailing their magnitudes, movements, and discovery circumstances. It also analyzes the average rate of change in solar elongation for comets visually discovered in the morning versus evening sky between 1975 and 1989, offering practical advice for comet hunters to optimize their search strategies.",
+      "categories": [
+        "Comet Updates",
+        "Observing Reports",
+        "Comet Discovery",
+        "Astronomical Analysis",
+        "Comet Hunting Techniques"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Hunting",
+        "Comet Discovery",
+        "Observational Astronomy",
+        "Celestial Mechanics",
+        "Elongation",
+        "Magnitude",
+        "Perihelion",
+        "1989 Comets",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph89-12-the-longest-tail",
+      "documentId": "eph89-12",
+      "title": "THE LONGEST TAIL",
+      "summary": "The article describes the Great Comet of 1843, highlighting its extraordinary tail. Astronomers estimated its length to be approximately 500 million miles (800 million kilometers), which is over Jupiter's distance from the Sun and long enough to circle Earth's equator 20,000 times. This made it stretch halfway across the Earth's sky.",
+      "categories": [
+        "Astronomy",
+        "Comets",
+        "Historical Astronomy",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Great Comet of 1843",
+        "comet tail",
+        "astronomy",
+        "celestial mechanics",
+        "solar system distances",
+        "Jupiter"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-lucky-comets",
+      "documentId": "eph89-12",
+      "title": "LUCKY COMETS",
+      "summary": "Historically, comets were viewed with superstition and fear, often associated with disaster, as exemplified by Pope Calixtus III's prayer during the appearance of Halley's Comet in 1456. However, after Edmund Halley's discoveries in the 18th century, understanding shifted, and today comets are considered rare and lucky sights, with astronomer Jan Oort estimating only 1 in 100,000 are observable.",
+      "categories": [
+        "Astronomy",
+        "History",
+        "Cultural Significance",
+        "General Interest"
+      ],
+      "keywords": [
+        "Comets",
+        "Halley's Comet",
+        "Superstition",
+        "Edmund Halley",
+        "Jan Oort",
+        "Space",
+        "Observing",
+        "History of Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-12-too-far-to-drive",
+      "documentId": "eph89-12",
+      "title": "TOO FAR TO DRIVE",
+      "summary": "This article highlights the immense distances to the Alpha Centauri star system, illustrating the impracticality of interstellar travel with current technology. It also serves as a newsletter or club document, providing contact information for an organization's officers and board members. Furthermore, it includes practical astronomical data, such as an ephemeris for Comet Helin-Roman-Alu (1989v) and a schedule of Great Red Spot meridian transits for Jupiter, aiding observational astronomy.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Technical Data",
+        "Club Information",
+        "Popular Science"
+      ],
+      "keywords": [
+        "Alpha Centauri",
+        "interstellar travel",
+        "space distances",
+        "Comet Helin-Roman-Alu",
+        "Jupiter's Great Red Spot",
+        "ephemeris",
+        "observational astronomy",
+        "celestial mechanics",
+        "club directory"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph89-12-san-jose-astronomical-association-membership-application",
+      "documentId": "eph89-12",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options and their costs. It provides instructions for submitting the application, including a mailing address and contact information for the treasurer, and also includes details about the SJAA's monthly publication, \"EPHEMERIS,\" and its editor.",
+      "categories": [
+        "Membership Application",
+        "Club Information",
+        "Newsletter/Publication",
+        "Contact Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership",
+        "Application",
+        "Fees",
+        "Dues",
+        "Astronomy Club",
+        "EPHEMERIS",
+        "Newsletter",
+        "San Jose",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph89-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8912/Eph89_12.pdf",
+      "txtPath": "8912/Eph89_12.md"
+    }
+  ]
+}

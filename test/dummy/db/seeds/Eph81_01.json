@@ -1,0 +1,242 @@
+{
+  "articles": [
+    {
+      "id": "eph81-01-observations",
+      "documentId": "eph81-01",
+      "title": "Observations",
+      "summary": "This bulletin from the SJAA (San Jose Astronomical Association) apologizes for the delayed January issue due to a move, then outlines upcoming events including a telescope makers' workshop, a 'beginners night' indoor star party, and the nomination of Don Machholz for the G. Bruce Blair Gold Medal. It also provides a celestial calendar for winter/spring, details a Space Shuttle 'Getaway Special' experiment opportunity, and includes member announcements and want ads. ",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Educational",
+        "Awards",
+        "Space Exploration",
+        "Classifieds"
+      ],
+      "keywords": [
+        "SJAA",
+        "Telescope making workshop",
+        "Indoor star party",
+        "Beginners night",
+        "G. Bruce Blair Gold Medal",
+        "Don Machholz",
+        "Messier Marathon",
+        "Western Amateur Astronomers (WAA)",
+        "Quadrantids Meteor Shower",
+        "Penumbral Lunar Eclipse",
+        "Planetary observations",
+        "Northern Lights Skywatch",
+        "Space Shuttle Getaway Special",
+        "Astronomy Day",
+        "Riverside Telescope Makers' Conference"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph81-01-comet-comments",
+      "documentId": "eph81-01",
+      "title": "COMET COMMENTS",
+      "summary": "This article, published in early 1981, updates readers on visible comets, noting two currently observable in evening and morning skies, and announces the recovery of Periodic Comet West-Kohoutek-Ikemura. It provides detailed observing data, including coordinates and magnitudes, for P/Comet Stephen-Oterma and Comet Meier. The piece also introduces a new monthly feature on \"Great Comets,\" beginning with an overview of Halley's Comet, its historical observations, orbital period, and projected return in 1986 with amateur visibility anticipated in August 1985.",
+      "categories": [
+        "Comet Observing Reports",
+        "Astronomical News",
+        "Amateur Astronomy",
+        "Cometology",
+        "Historical Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "1981",
+        "Observing",
+        "Periodic Comet West-Kohoutek-Ikemura",
+        "P/Comet Stephen-Oterma",
+        "Comet Meier",
+        "Halley's Comet",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "1986 Return",
+        "Comet Recovery",
+        "Great Comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-01-looking-ahead-the-1981-messier-marathon",
+      "documentId": "eph81-01",
+      "title": "LOOKING AHEAD—THE 1981 MESSIER MARATHON",
+      "summary": "The article announces the 1981 Messier Marathon, the third annual event, scheduled for the weekends of March 6-7 and April 3-4 on Loma Prieta Mountain. It details the challenges presented by a full moon on March 20, which splits the optimal observing window and makes certain Messier objects difficult or impossible to spot on the chosen dates. Don Machholz invites participants, offering observing order sheets and providing his contact information for those interested in joining or getting more details.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Observing",
+        "Planning",
+        "News"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "1981",
+        "Messier objects",
+        "Amateur Astronomy",
+        "Observing event",
+        "Don Machholz",
+        "Loma Prieta Mountain",
+        "Full moon",
+        "Celestial objects"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph81-01-december-star-party-at-henry-coe-state-park-clouded-out-maybe",
+      "documentId": "eph81-01",
+      "title": "DECEMBER STAR PARTY AT HENRY COE STATE PARK CLOUDED OUT--MAYBE",
+      "summary": "A December 6 star party at Henry Coe State Park was largely impacted by mid-evening clouds and fog, causing most attendees to leave. Despite an initial period of clear skies allowing some observations, the weather deteriorated, though it reportedly cleared later that night, prompting the author to wonder if some observers might have had a good night after all. Before the clouds, some participants managed to observe objects like Comet Stephen-Oterma and the 'blinking' planetary nebula.",
+      "categories": [
+        "Observing Report",
+        "Events",
+        "Community News"
+      ],
+      "keywords": [
+        "Star Party",
+        "Henry Coe State Park",
+        "Clouded Out",
+        "Astronomy",
+        "Comet Stephen-Oterma",
+        "Crab Nebula",
+        "Blinking Planetary",
+        "Deep-sky objects",
+        "Jay Freeman",
+        "Observing conditions"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph81-01-henry-coe-star-party",
+      "documentId": "eph81-01",
+      "title": "Henry Coe Star Party",
+      "summary": "The December Henry Coe Star Party began with challenging weather, including clouds, fog, and a cold breeze, leading most astronomers to depart. However, one dedicated observer persevered through the night, eventually finding clear skies after 10:30 PM to conduct extensive observations. Despite the cold and solitude, they successfully viewed numerous celestial objects, ranging from star clusters in Cassiopeia, Perseus, Auriga, and Gemini, to comets Stephan-Oterma and Tuttle, and even the faint Horsehead Nebula, making the difficult experience rewarding.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Personal Account",
+        "Star Party"
+      ],
+      "keywords": [
+        "Henry Coe Star Party",
+        "Observing",
+        "Amateur Astronomy",
+        "Star Clusters",
+        "Comets",
+        "Nebulae",
+        "Telescopes",
+        "Weather",
+        "Perseverance",
+        "Cassiopeia",
+        "Orion",
+        "Horsehead Nebula",
+        "NGC 7789",
+        "M103",
+        "Stephan-Oterma",
+        "Tuttle"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph81-01-once-more-with-feeling-infamous-quotes-from-jpl-at-the-voyager-1-saturn-encounter",
+      "documentId": "eph81-01",
+      "title": "Once More, With Feeling: Infamous Quotes from JPL at the Voyager 1 Saturn Encounter",
+      "summary": "This article compiles a collection of humorous and \"infamous\" quotes from JPL scientists and observers during the Voyager 1 Saturn encounter. These remarks highlight the profound surprise and challenges faced by the scientific community as they grappled with unexpected discoveries, particularly the complex and poorly understood nature of Saturn's rings. The anecdotes reveal the human element of scientific exploration and the struggle to interpret new data.",
+      "categories": [
+        "Space Exploration",
+        "Planetary Science",
+        "Historical Event",
+        "Scientific Discovery",
+        "Anecdotal"
+      ],
+      "keywords": [
+        "JPL",
+        "Voyager 1",
+        "Saturn encounter",
+        "Saturn's rings",
+        "Scientific discovery",
+        "Eccentric ringlets",
+        "D Ring",
+        "Press conference",
+        "Clyde Tombaugh",
+        "Planetary astronomer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph81-01-on-titan",
+      "documentId": "eph81-01",
+      "title": "On Titan:",
+      "summary": "This article humorously recounts the early scientific and media speculation surrounding Titan, detailing how descriptions of its surface and potential for life evolved as temperature and pressure estimates were refined. Scientists, like Brad Smith and Tobias Owen, engaged in playful bets and discussions, even satirizing the idea of 'cryogenic life' on Titan. The piece also includes an amusing anecdote about a reporter at JPL during a brush fire, contrasting immediate earthly events with space exploration news.",
+      "categories": [
+        "Planetary Science",
+        "History of Science",
+        "Media Coverage",
+        "Anecdote",
+        "Humor"
+      ],
+      "keywords": [
+        "Titan",
+        "Brad Smith",
+        "Tobias Owen",
+        "Methane",
+        "Liquid Nitrogen",
+        "Cryogenic Life",
+        "Methanoids",
+        "JPL",
+        "Press Conference",
+        "Space Exploration",
+        "Scientific Speculation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph81-01-the-finest-deep-sky-objects-on-the-skalnate-pleso-atlas-of-the-heavens-chart-iii",
+      "documentId": "eph81-01",
+      "title": "The Finest Deep Sky Objects on the Skalnate Pleso Atlas of the Heavens Chart III",
+      "summary": "This document, titled \"The Finest Deep Sky Objects on the Skalnate Pleso Atlas of the Heavens Chart III,\" provides an observational guide to various deep-sky objects including open clusters, planetary nebulae, globular clusters, and galaxies. For each object, it lists its NGC number, coordinates, constellation, type, and detailed visual descriptions, often accompanied by recommended observing conditions and magnifications. The compilation serves as a practical resource for amateur astronomers seeking to observe these celestial targets.",
+      "categories": [
+        "Observing Guide",
+        "Deep-Sky Objects",
+        "Astronomy",
+        "Amateur Astronomy",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Skalnate Pleso Atlas",
+        "Deep Sky Objects",
+        "NGC objects",
+        "open cluster",
+        "planetary nebula",
+        "globular cluster",
+        "galaxy",
+        "observing tips",
+        "celestial objects",
+        "constellations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph81-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8101/Eph81_01.pdf",
+      "txtPath": "8101/Eph81_01.md"
+    }
+  ]
+}

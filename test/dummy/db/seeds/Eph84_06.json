@@ -1,0 +1,734 @@
+{
+  "articles": [
+    {
+      "id": "eph84-06-june-10-10-p-m-d-22-00-local-time",
+      "documentId": "eph84-06",
+      "title": "JUNE 10,10 P.M. D(22:00)LOCAL TIME",
+      "summary": "The article details several astronomical events occurring in June, starting on June 10 with a quasi-conjunction of Saturn and Mars, accompanied by the Moon's passage between them and later with Uranus. It also notes the Moon touching Earth's shadow on June 13. Furthermore, Uranus, Neptune, and Jupiter are slated to reach opposition throughout the month, with Jupiter being particularly visible.",
+      "categories": [
+        "Observing Guide",
+        "Celestial Events",
+        "Planetary Astronomy",
+        "Lunar Events",
+        "Astronomy Calendar"
+      ],
+      "keywords": [
+        "June 10",
+        "June 13",
+        "Saturn",
+        "Mars",
+        "Moon",
+        "Uranus",
+        "Neptune",
+        "Jupiter",
+        "Conjunction",
+        "Opposition",
+        "Earth's Shadow",
+        "Ecliptic",
+        "Star Chart",
+        "Night Sky"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-06-june",
+      "documentId": "eph84-06",
+      "title": "JUNE",
+      "summary": "This document presents an astronomical calendar for June, detailing various celestial events such as planetary oppositions and conjunctions, numerous meteor showers, and moon phases. It also schedules several club activities, including multiple star parties, a general meeting with a lecture, and board meetings. The calendar acts as a guide for amateur astronomers and club members to observe and participate in astronomy-related events throughout the month.",
+      "categories": [
+        "Astronomy Calendar",
+        "Celestial Events",
+        "Observing Events",
+        "Club Activities",
+        "Meteor Showers",
+        "Star Parties"
+      ],
+      "keywords": [
+        "June",
+        "Uranus Opposition",
+        "Meteor Showers",
+        "Moon Phases",
+        "Planetary Conjunctions",
+        "Perigee",
+        "Summer Solstice",
+        "Grant Ranch Star Party",
+        "Fremont Peak Star Party",
+        "General Meeting",
+        "Lecture",
+        "Jack Marling",
+        "Board Meeting"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-06-the-editors-last-statements",
+      "documentId": "eph84-06",
+      "title": "THE EDITORS LAST STATEMENTS",
+      "summary": "The editor of the SJAA EPHIMERIS, Tom Ahl, announces his resignation due to lack of computer and printer, issuing a plea for a replacement to take over the publication. The article also includes a call for volunteers for a public star party at Marriott's Great America Park on July 7th, and a brief update on Optron Systems closing its doors.",
+      "categories": [
+        "Club News",
+        "Editorial",
+        "Call for Volunteers",
+        "Event Announcement",
+        "Astronomy Community News"
+      ],
+      "keywords": [
+        "SJAA EPHIMERIS",
+        "Editor resignation",
+        "Volunteer needed",
+        "Public Star Party",
+        "Marriott's Great America Park",
+        "Optron Systems",
+        "Astronomy club",
+        "Publication",
+        "Tom Ahl"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-legal-status-report",
+      "documentId": "eph84-06",
+      "title": "LEGAL STATUS REPORT",
+      "summary": "The San Jose Astronomical Association (SJAA) reports that amendments to their articles of incorporation have been accepted by the state. Their attorney has reviewed draft state and federal applications, which are now being typed up by President Dave Ambross. This process is expected to take 3-4 weeks, after which the federal application will be submitted, followed by the state application.",
+      "categories": [
+        "Legal Update",
+        "Organizational News",
+        "Administrative Report"
+      ],
+      "keywords": [
+        "Legal Status",
+        "Articles of Incorporation",
+        "State Applications",
+        "Federal Applications",
+        "SJAA",
+        "Organizational Compliance",
+        "Progress Report"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-the-sjaa-annual-picnic",
+      "documentId": "eph84-06",
+      "title": "The SJAA Annual Picnic",
+      "summary": "The SJAA Annual Picnic is scheduled for July 14 at Portal Park in Cupertino. It's a family-friendly potluck event where the club provides main dishes, and attendees bring side dishes and drinks. Activities include kite flying, frisbee, and the presentation of the Dr. Gregory Award, along with the introduction of new officers and board members.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Picnic",
+        "July 14",
+        "Portal Park",
+        "Cupertino",
+        "Potluck",
+        "Family event",
+        "Dr. Gregory Award",
+        "Officers",
+        "Board members"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-06-event-calendar",
+      "documentId": "eph84-06",
+      "title": "EVENT CALENDAR",
+      "summary": "The document provides an event calendar for June, July, and August, detailing various star parties, general meetings (including elections), and a SJAA picnic. Key events include Grant Ranch, Fremont Peak, and Red Cross Indoor Star Parties, as well as general meetings with guest speakers. Additionally, it contains important information regarding membership renewal and prorated dues for new members, urging timely renewal to avoid missing magazine issues.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Observing Events",
+        "Membership Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "Event Calendar",
+        "Star Party",
+        "General Meeting",
+        "Elections",
+        "Board Meeting",
+        "SJAA Picnic",
+        "Membership Renewal",
+        "Dues",
+        "Sky & Telescope",
+        "Astronomy Magazines",
+        "Grant Ranch",
+        "Fremont Peak",
+        "Red Cross",
+        "Guest Speaker"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-callco-observatory",
+      "documentId": "eph84-06",
+      "title": "Callco Observatory",
+      "summary": "Callco Observatory, in a May 13, 1984 announcement, informs observers that Jupiter will finally be visible in the evening sky starting in June. The note highlights specific dates when the Great Red Spot will be visible twice, with these pairs of observations separated by a daylight passage.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Announcement"
+      ],
+      "keywords": [
+        "Callco Observatory",
+        "Jupiter",
+        "Great Red Spot",
+        "Observing",
+        "Evening Sky",
+        "May 1984",
+        "June 1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-great-red-spot-on-meridian-pdt",
+      "documentId": "eph84-06",
+      "title": "Great Red Spot on Meridian -- PDT",
+      "summary": "This article provides a schedule of dates and times, in Pacific Daylight Time (PDT), when Jupiter's Great Red Spot (GRS) will be on the central meridian. It acts as a guide for observers interested in viewing the GRS, listing multiple transit events across June and early July. The author, Jim Van Nuland, also includes a brief personal note about the document's creation.",
+      "categories": [
+        "Observing Schedule",
+        "Planetary Astronomy",
+        "Observing Forecast"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "GRS",
+        "Jupiter",
+        "Meridian transit",
+        "Observing times",
+        "PDT",
+        "Astronomy",
+        "Planetary observation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-06-discovery-being-prepared-for-june-20-launch",
+      "documentId": "eph84-06",
+      "title": "DISCOVERY BEING PREPARED FOR JUNE 20 LAUNCH -",
+      "summary": "The shuttle orbiter Discovery is undergoing final preparations for its maiden launch, mission 41-D, scheduled for June 20. Key milestones include its move to the vehicle assembly building on May 7, transfer to the launch pad on May 14, and a flight readiness firing on May 31. The mission is planned for seven days with a crew of six.",
+      "categories": [
+        "News",
+        "Space Mission",
+        "Launch Preparations"
+      ],
+      "keywords": [
+        "Discovery",
+        "Shuttle Orbiter",
+        "Launch",
+        "Mission 41-D",
+        "Spaceflight",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-shuttle-main-engine-certified-for-20-flights",
+      "documentId": "eph84-06",
+      "title": "SHUTTLE MAIN ENGINE CERTIFIED FOR 20 FLIGHTS -",
+      "summary": "The Space Shuttle Main Engine has achieved certification for 20 flights at 104% of rated thrust and 8 flights at 109%. This certification process involved accumulating double the normal running time an engine would experience in operational use.",
+      "categories": [
+        "news",
+        "technical",
+        "space program update"
+      ],
+      "keywords": [
+        "Shuttle Main Engine",
+        "certification",
+        "flight limits",
+        "thrust",
+        "space shuttle",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-new-parachutes-for-shuttle-solid-boosters",
+      "documentId": "eph84-06",
+      "title": "NEW PARACHUTES FOR SHUTTLE SOLID BOOSTERS -",
+      "summary": "The next Space Shuttle flight will utilize new, differently sized recovery parachutes for its solid rocket boosters: a 136 ft-diameter chute for the right booster and a 115 ft-diameter chute for the left. This modification comes after a main recovery parachute failed to deploy on the previous flight on April 6th, leading to damage to the booster's aft skirt.",
+      "categories": [
+        "News",
+        "Technical",
+        "Space Flight",
+        "Aerospace Engineering"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Solid Rocket Boosters",
+        "Parachute Recovery",
+        "Flight Anomaly",
+        "Aerospace Systems",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-canadian-astronaut-chosen-for-oct-launch",
+      "documentId": "eph84-06",
+      "title": "CANADIAN ASTRONAUT CHOSEN FOR OCT. LAUNCH -",
+      "summary": "Canadian naval Cdr. Marc Garneau has been selected by the National Research Council of Canada as the first Canadian astronaut to fly on the space shuttle. His inaugural flight, scheduled for October 24, will carry the Telsat Anik D spacecraft along with 11 Canadian-sponsored scientific investigations, including studies on atmospheric ash, shuttle glow, human adaptation to zero-g, and in-space manufacturing. Additional Canadian shuttle flights are anticipated in 1985 and 1986.",
+      "categories": [
+        "Space News",
+        "Astronautics",
+        "Space Missions",
+        "Scientific Research",
+        "National Space Programs"
+      ],
+      "keywords": [
+        "Marc Garneau",
+        "Canadian astronaut",
+        "Space Shuttle",
+        "Telsat Anik D",
+        "National Research Council of Canada",
+        "Zero-g experiments",
+        "Solar photometer",
+        "Shuttle glow",
+        "Human space adaptation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-china-orbits-a-geosynchronous-satellite",
+      "documentId": "eph84-06",
+      "title": "CHINA ORBITS A GEOSYNCHRONOUS SATELLITE -",
+      "summary": "China successfully launched a development communications satellite on April 8, which achieved geosynchronous orbit on April 10 and is now providing television relay services. Weighing 925 lb and stationed at 125 deg. E. long., the satellite was launched using a CZ-3 booster featuring an advanced liquid oxygen/liquid hydrogen upper stage, a technology few countries, including the Soviets, have mastered.",
+      "categories": [
+        "news",
+        "space launch",
+        "technology development",
+        "communications"
+      ],
+      "keywords": [
+        "China",
+        "geosynchronous satellite",
+        "communications spacecraft",
+        "CZ-3 booster",
+        "liquid oxygen/liquid hydrogen",
+        "space technology",
+        "television relay"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-salyut-7-resupply-and-repair",
+      "documentId": "eph84-06",
+      "title": "SALYUT 7 RESUPPLY AND REPAIR -",
+      "summary": "Two Progress tanker/transport spacecraft, Progress 20 and Progress 21, were launched in April and May respectively to resupply the Salyut 7 space station with cargo and fuel. Cosmonauts on Salyut 7 have conducted four spacewalks over the past month to repair the station's propulsion system, which was damaged by a propellant leak in September.",
+      "categories": [
+        "space missions",
+        "resupply",
+        "space station operations",
+        "maintenance and repair",
+        "extravehicular activity"
+      ],
+      "keywords": [
+        "Salyut 7",
+        "Progress 20",
+        "Progress 21",
+        "resupply",
+        "fuel",
+        "propulsion system",
+        "spacewalks",
+        "propellant leak",
+        "orbital maneuvering"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-viking-1-lander-in-mars-museum",
+      "documentId": "eph84-06",
+      "title": "VIKING 1 LANDER IN MARS MUSEUM -",
+      "summary": "NASA has donated the Viking 1 Lander to the National Air and Space Museum. The museum, however, has announced that the lander will remain on Mars for the foreseeable future, treating Mars itself as its exhibition site.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Mars Missions",
+        "Museums & Exhibits"
+      ],
+      "keywords": [
+        "Viking 1 Lander",
+        "NASA",
+        "National Air and Space Museum",
+        "Mars",
+        "Spacecraft",
+        "Donation",
+        "Space History"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-contingency-landing-sites-for-vandenberg-shuttle-launches-sought",
+      "documentId": "eph84-06",
+      "title": "CONTINGENCY LANDING SITES FOR VANDENBERG SHUTTLE LAUNCHES SOUGHT -",
+      "summary": "This document discusses the search for contingency landing sites for Space Shuttle launches originating from Vandenberg. Several locations are being considered for potential first-orbit aborts, including Easter Island, Tahiti, Fairbanks Alaska, and Spokane Washington.",
+      "categories": [
+        "Space Exploration",
+        "Aerospace Operations",
+        "Planning & Logistics",
+        "News"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Vandenberg",
+        "Contingency Landing Sites",
+        "Abort Sites",
+        "Launch Operations",
+        "Easter Island",
+        "Tahiti",
+        "Fairbanks Alaska",
+        "Spokane Washington"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-06-deep-sky-notes-june-by-steve-gottlieb",
+      "documentId": "eph84-06",
+      "title": "DEEP SKY NOTES-JUNE by Steve Gottlieb",
+      "summary": "Steve Gottlieb recounts his visual observation of a challenging group of five faint galaxies located southwest of M13, prompted by Walter Scott Houston's column. Encountering discrepancies with catalog entries, he consulted Brian Skiff and Dr. Harold Corwin to correctly identify the objects as NGC 6194, UGC 10473, IC 4614, NGC 6196, and NGC 6197, while also clarifying catalog errors for NGC 6199 and IC 4613. The article provides detailed coordinates and magnitudes for these objects, encouraging other observers to attempt locating them.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Astronomy",
+        "Galaxy Identification",
+        "Astronomical Catalogs"
+      ],
+      "keywords": [
+        "Deep Sky Notes",
+        "Steve Gottlieb",
+        "M13",
+        "Galaxies",
+        "NGC 6194",
+        "NGC 6196",
+        "NGC 6197",
+        "UGC 10473",
+        "IC 4614",
+        "Catalog Discrepancies",
+        "Visual Observation",
+        "Amateur Astronomy",
+        "Harold Corwin",
+        "Brian Skiff",
+        "NGC Catalog",
+        "IC Catalog"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-06-a-road-map-for-the-commuting-astronomer",
+      "documentId": "eph84-06",
+      "title": "A \"Road Map\" for the Commuting Astronomer",
+      "summary": "This article, \"A 'Road Map' for the Commuting Astronomer\" (Part 2), offers practical guidance for finding and evaluating astronomical observation sites. It details how to use maps to identify potential locations away from light pollution, considering factors like terrain, accessibility, and travel time. The author stresses the importance of daytime site visits to assess horizons, parking, safety concerns like traffic and seclusion, and to ensure observation is not conducted on private property without permission.",
+      "categories": [
+        "Practical Astronomy",
+        "Observing Guides",
+        "Site Selection"
+      ],
+      "keywords": [
+        "Astronomy observation site",
+        "Light pollution",
+        "Site selection",
+        "Commuting astronomer",
+        "Safety",
+        "Traffic",
+        "Private property",
+        "Maps",
+        "Observing conditions"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-06-comet-comments-05-13-84",
+      "documentId": "eph84-06",
+      "title": "COMET COMMENTS                                                05-13-84",
+      "summary": "The article provides updates on several comets, highlighting the recent recovery of Periodic Comet Giacobini-Zinner, which will be visible to amateur scopes next year and is a target for a U.S. spacecraft. It also notes that Periodic Comet Wild 2 will brighten but be difficult to observe due to its proximity to the Sun, and gives current positional and magnitude data for Halley's Comet.",
+      "categories": [
+        "Comet Updates",
+        "Observing Guide",
+        "Space Missions",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Giacobini-Zinner",
+        "Halley's Comet",
+        "Wild 2",
+        "Comet Recovery",
+        "Amateur Observation",
+        "Spacecraft Missions",
+        "Magnitude",
+        "Kitt Peak",
+        "European Southern Observatory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-past-discoveries",
+      "documentId": "eph84-06",
+      "title": "PAST DISCOVERIES",
+      "summary": "The article details the 1983 discovery of Comet Cernis (1983l) by Kazimeras Cernis, including its observational characteristics, the discoverer's methods, and an analysis of potential earlier detection. It also provides practical advice on selecting suitable astronomical observing sites, emphasizing factors like property rights, environmental conditions, and minimizing light pollution. The document concludes with contact information for the San Jose Astronomical Association officers and board members.",
+      "categories": [
+        "Amateur Astronomy",
+        "Comet Discovery",
+        "Observational Astronomy",
+        "Astronomy Club Information",
+        "Observing Site Selection"
+      ],
+      "keywords": [
+        "Comet Cernis (1983l)",
+        "Kazimeras Cernis",
+        "Comet discovery",
+        "Amateur astronomer",
+        "Observing sites",
+        "Light pollution",
+        "San Jose Astronomical Association",
+        "Observational techniques"
+      ],
+      "pageStart": 9,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph84-06-astronomical-society-of-the-pacific",
+      "documentId": "eph84-06",
+      "title": "ASTRONOMICAL SOCIETY OF THE PACIFIC",
+      "summary": "This document introduces the Astronomical Society of the Pacific, providing its name, physical address in San Francisco, California, and primary phone number. It serves as basic contact information for the organization.",
+      "categories": [
+        "Organization Information",
+        "Astronomical Societies",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific",
+        "ASP",
+        "San Francisco",
+        "California",
+        "contact information",
+        "astronomy organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-officers-and-staff",
+      "documentId": "eph84-06",
+      "title": "Officers and Staff",
+      "summary": "This document lists the names and corresponding roles of the officers and staff members within an organization. It details key leadership and administrative positions, including President, President-Elect, Secretary-Treasurer, and Executive Officer, along with various support and coordination roles.",
+      "categories": [
+        "Organizational Structure",
+        "Administration",
+        "Staff Directory",
+        "Leadership"
+      ],
+      "keywords": [
+        "Officers",
+        "Staff",
+        "President",
+        "Executive Officer",
+        "Secretary-Treasurer",
+        "Leadership",
+        "Administration",
+        "Organization",
+        "Personnel"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-board-of-directors",
+      "documentId": "eph84-06",
+      "title": "Board of Directors",
+      "summary": "This document lists the Board of Directors, including prominent astronomers and their affiliations with various observatories and universities. It also provides an update on the 1984 joint astronomy conference of the Astronomical Society of the Pacific, Western Amateur Astronomers, and Astronomical Association of Northern California at UC Santa Cruz. The update details newly added events such as tours of NASA Ames and the Kuiper Flying Observatory, lectures by an astronaut and scientists on comets and cosmology, and information regarding registration and accommodation.",
+      "categories": [
+        "Organizational",
+        "Events",
+        "News",
+        "Astronomy",
+        "Conference"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "Astronomy conference",
+        "Astronomical Society of the Pacific",
+        "Western Amateur Astronomers",
+        "UC Santa Cruz",
+        "NASA Ames Research Center",
+        "Kuiper Flying Observatory",
+        "Astronaut lecture",
+        "Comets",
+        "Cosmology",
+        "Lick Observatory"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph84-06-observation-plaque-find",
+      "documentId": "eph84-06",
+      "title": "OBSERVATION PLAQUE FIND",
+      "summary": "The San Jose Astronomical Association (SJAA) is undertaking a project to install a permanent observation plaque at its observatory site, similar to those found at museums. This 2x3 ft plaque will offer information on celestial objects, historical context, and observing details like Moon phases. The club is actively seeking member input on the plaque's location, design, and content, and is also soliciting financial support and ideas for this ongoing development.",
+      "categories": [
+        "Club Project",
+        "Announcement",
+        "Site Development",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "SJAA",
+        "Observation Plaque",
+        "Observatory Site",
+        "Club Project",
+        "Member Input",
+        "Funding",
+        "Astronomical Observation",
+        "Site Improvement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-i",
+      "documentId": "eph84-06",
+      "title": "I",
+      "summary": "This document is a pledge form soliciting donations for the San Jose Astronomical Association (SJAA). Funds raised are explicitly designated for establishing a permanent site for the SJAA. Donors can pledge various amounts, with instructions to make checks payable to SJAA and mail them to Robert Filippini.",
+      "categories": [
+        "Fundraising",
+        "Organizational Announcement",
+        "Non-profit Operations"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Pledge",
+        "Donation",
+        "Fundraising",
+        "Permanent site",
+        "Robert Filippini"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-membership",
+      "documentId": "eph84-06",
+      "title": "MEMBERSHIP",
+      "summary": "This document outlines membership renewal procedures, providing contact information for sending forms and requesting services like \"Rent-A-Scope\" and the publication \"SIT.\" It details various membership subscription types, including \"Amateur Goldings\" and \"Aluminum Goldings,\" with fees ranging from $9 to $30 based on type or size, alongside complex and somewhat nonsensical descriptions of additional charges.",
+      "categories": [
+        "Membership",
+        "Subscriptions",
+        "Fees",
+        "Organizational Information",
+        "Notices"
+      ],
+      "keywords": [
+        "Membership",
+        "Renewal",
+        "Rent-A-Scope",
+        "SIT",
+        "Subscriptions",
+        "Fees",
+        "Pricing",
+        "Goldings",
+        "Contact Information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-lunicoin",
+      "documentId": "eph84-06",
+      "title": "LUNICOIN®",
+      "summary": "LUNICOIN® is presented as an early, improbable micro-device associated with LITHICON MICRO DEVICE, LTD, and early patents by a pioneering French engineer. The text suggests this device \"fell out of favor,\" and mentions specific patent details related to \"EXPERT ART\" and a \"WORLD CARTONET\" entity, implying a historical and technical context.",
+      "categories": [
+        "Historical",
+        "Technical",
+        "Intellectual Property",
+        "Corporate History"
+      ],
+      "keywords": [
+        "LUNICOIN",
+        "LITHICON MICRO DEVICE, LTD",
+        "Patent",
+        "Micro device",
+        "Invention history",
+        "Pioneering engineer",
+        "EXPERT ART",
+        "WORLD CARTONET"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-06-sjaa-membership-application-renewal",
+      "documentId": "eph84-06",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is a membership application and renewal form for the SJAA organization. It collects personal details like name, address, phone, and areas of interest from applicants. The form also details three membership options: a \"MEMBERSHIP/SET\" at $21.00, \"MEMBERSHIP ONLY\" at $6.00, and \"JUNIOR (UNDER 12)\" at $15.00.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Administrative",
+        "Organization Management",
+        "Fees"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership Application",
+        "Membership Renewal",
+        "Application Form",
+        "Membership Dues",
+        "Junior Membership",
+        "Organizational Forms"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph84-06-sjaa-ephemeris",
+      "documentId": "eph84-06",
+      "title": "SJAA EPHEMERIS",
+      "summary": "This document represents the mailing information for a publication titled \"SJAA EPHEMERIS.\" It indicates it's a time-sensitive news material being sent at a bulk rate from San Jose, CA, suggesting it's a regular publication from an organization.",
+      "categories": [
+        "publication",
+        "news",
+        "astronomy",
+        "organizational communication"
+      ],
+      "keywords": [
+        "SJAA EPHEMERIS",
+        "San Jose",
+        "news material",
+        "publication",
+        "bulk rate",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8406/Eph84_06.pdf",
+      "txtPath": "8406/Eph84_06.md"
+    }
+  ]
+}

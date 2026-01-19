@@ -1,0 +1,377 @@
+{
+  "articles": [
+    {
+      "id": "eph82-09-ephemeris",
+      "documentId": "eph82-09",
+      "title": "Ephemeris",
+      "summary": "This article, titled \"Ephemeris,\" provides a detailed calendar of events for the San Jose Astronomical Association (SJAA) for September and October. It lists various activities including indoor and outdoor star parties, board meetings, and general meetings featuring guest speakers like Dr. Sy Stein from NASA Ames discussing space medicine research. The document also includes membership information and contact details for the SJAA.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Astronomy",
+        "Meetings",
+        "Star Parties",
+        "Calendar"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Star Party",
+        "Board Meeting",
+        "General Meeting",
+        "Space Medicine",
+        "NASA Ames",
+        "Fremont Peak",
+        "Tehachapi",
+        "Los Gatos Red Cross",
+        "September events",
+        "October events",
+        "Astronomical Association",
+        "Telescope making",
+        "Astrophotography"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-09-observations",
+      "documentId": "eph82-09",
+      "title": "Observations",
+      "summary": "The article reports on the August SJAA board meeting, detailing the new Treasurer, Bob Fingerhut, and the creation of an Observatory Building Fund. It announces a joint star party with the Central Coast Astronomical Society at Chews Ridge and emphasizes the urgent need for volunteers to assist with Bulletin production and article submissions. Additionally, it includes a get-well wish for Mrs. Gregory and promotes an astronomy writing contest.",
+      "categories": [
+        "Club Business",
+        "Events",
+        "Volunteer Needs",
+        "Financial",
+        "Announcements"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Treasurer",
+        "Observatory Building Fund",
+        "Star Party",
+        "Chews Ridge",
+        "Central Coast Astronomical Society",
+        "Bulletin",
+        "Volunteers",
+        "Article Submissions",
+        "Astronomy Writing Contest",
+        "McDonald Observatory"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-09-general-meeting",
+      "documentId": "eph82-09",
+      "title": "General Meeting",
+      "summary": "Dr. Sandra Faber of Lick Observatory spoke at the August SJAA General Meeting, detailing Lick's successful efforts to persuade the San Jose City Council to install low-pressure sodium (LPS) streetlights to combat light pollution. She explained the technical advantages of LPS lights for astronomical research over high-pressure sodium (HPS) lights due to their easily removable emission lines. Faber also discussed potential differences in streetlight preferences between amateur and professional astronomers, though the SJAA audience largely supported LPS.",
+      "categories": [
+        "Events",
+        "Light Pollution",
+        "Astronomy Advocacy",
+        "Observatory News",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Light Pollution",
+        "Lick Observatory",
+        "Sandra Faber",
+        "Streetlights",
+        "Low-Pressure Sodium (LPS)",
+        "High-Pressure Sodium (HPS)",
+        "Dark Skies",
+        "Astronomy Advocacy",
+        "San Jose",
+        "Astronomical Filters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-09-letters-to-the-editor",
+      "documentId": "eph82-09",
+      "title": "Letters to the Editor",
+      "summary": "This 'Letters to the Editor' section features Penny Pinschmidt's offer of a club 12-1/2\" telescope, which currently lacks interested takers, and an editor's inquiry about another member's 6\" telescope. It also includes a reminder of the club's two-month telescope loan policy for members. Additionally, Andy Fraknoi from the A.S.P. issues a correction for the Astronomical Society of the Pacific's mailing address.",
+      "categories": [
+        "Club News",
+        "Member Communications",
+        "Telescope Program",
+        "Administrative Update"
+      ],
+      "keywords": [
+        "Telescope loan",
+        "Club equipment",
+        "Astronomical Society of the Pacific",
+        "Address correction",
+        "Member policies",
+        "Astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-09-ads",
+      "documentId": "eph82-09",
+      "title": "Ads",
+      "summary": "The San Jose Astronomical Association (SJAA) is offering custom 1x3 inch black-and-gold nameplates with their logo for $3, available for order through Jack Selders at club meetings or by mail. The article also features humorous quotes from board members Jim Van Nuland and Jay Freeman regarding food preferences during discussions about an AANC Xmas Conference.",
+      "categories": [
+        "Ads",
+        "Club Announcements",
+        "Membership Information",
+        "Club Culture",
+        "Humor"
+      ],
+      "keywords": [
+        "SJAA",
+        "Nameplates",
+        "Club Merchandise",
+        "Jack Selders",
+        "Ordering",
+        "AANC Xmas Conference",
+        "Board Discussion",
+        "Quotes",
+        "Jim Van Nuland",
+        "Jay Freeman"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-09-the-celestial-tourist-speaks",
+      "documentId": "eph82-09",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "The article by Jay Reynolds Freeman offers practical advice for amateur astronomers introducing beginners to telescope observing, emphasizing common pitfalls that can deter newcomers. It recommends explaining telescope operation first, starting with familiar and bright celestial objects, ensuring physical comfort, and structuring an observing session as a 'tour of the universe' to foster engagement and lasting interest in astronomy.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guide",
+        "Education",
+        "Beginner Tips"
+      ],
+      "keywords": [
+        "Beginner astronomy",
+        "Telescope operation",
+        "First light",
+        "Observing tips",
+        "Celestial objects",
+        "Amateur astronomy education",
+        "Eyepiece focusing",
+        "Star tracking",
+        "Observing comfort",
+        "Astronomy outreach"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-09-impressions-of-july-s-lunar-eclipse",
+      "documentId": "eph82-09",
+      "title": "IMPRESSIONS OF JULY'S LUNAR ECLIPSE",
+      "summary": "The author recounts his experience observing a lunar eclipse from Henry Coe Park, a dark-sky site, accompanied by fellow observers. Despite some challenges like a diffuse shadow edge and residual moonlight affecting occultation timings, the dark sky allowed for excellent views of planets, deep-sky objects like the Trifid Nebula and M22, and the Milky Way. The move to the dark site significantly enhanced the aesthetic appreciation of the eclipse and the surrounding night sky.",
+      "categories": [
+        "observing report",
+        "events",
+        "personal account",
+        "astronomy"
+      ],
+      "keywords": [
+        "lunar eclipse",
+        "occultation",
+        "dark sky",
+        "observing",
+        "deep-sky objects",
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Milky Way",
+        "Trifid Nebula",
+        "M22",
+        "Andromeda Galaxy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-09-eleventh-annual-tehachapi-mountain-telescope-makers-star-party",
+      "documentId": "eph82-09",
+      "title": "Eleventh Annual Tehachapi Mountain Telescope Makers Star Party",
+      "summary": "The Eleventh Annual Tehachapi Mountain Telescope Makers Star Party is scheduled for Saturday, September 18, 1982, at Antelope Canyon Ranch in the Tehachapi Mountains at 7500 feet elevation. Sponsored by several astronomical societies, its purpose is to foster the art and science of telescope making through idea exchange and observation under ideal conditions. The event details include registration fees, camping options, traffic schedules for the one-lane access road, and a new moon coinciding with the event.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Star Party",
+        "Telescope Making",
+        "Community Gathering"
+      ],
+      "keywords": [
+        "Tehachapi Mountain",
+        "Star Party",
+        "Telescope Makers",
+        "Astronomy",
+        "Observing Event",
+        "Antelope Canyon Ranch",
+        "September 1982",
+        "Camping",
+        "New Moon"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-09-comet-comments",
+      "documentId": "eph82-09",
+      "title": "Comet Comments",
+      "summary": "This article, titled \"Comet Comments\" by Don Machholz, provides updates on several comets in the 1982 sky, including the recent discovery of Comet Austin (1982g) and its discoverer, Rodney Austin, along with observations for Periodic Comets Peters-Hartley (1982h), D'Arrest (1982e), and Churyumov-Gerasimenko (1982f). It also features a retrospective on the highly publicized but publicly disappointing Comet Kohoutek (1973 XII), drawing parallels to temper expectations for the upcoming Halley's Comet in 1986. The article includes orbital details, magnitudes, and visibility notes for these celestial objects.",
+      "categories": [
+        "Observing Reports",
+        "Comet Updates",
+        "Astronomical Discoveries",
+        "Historical Astronomy",
+        "Amateur Astronomy",
+        "Cometology"
+      ],
+      "keywords": [
+        "Comet Austin",
+        "Comet Peters-Hartley",
+        "Comet D'Arrest",
+        "Comet Churyumov-Gerasimenko",
+        "Comet Kohoutek",
+        "Halley's Comet",
+        "comet observation",
+        "comet discovery",
+        "amateur astronomy",
+        "celestial mechanics",
+        "magnitude",
+        "1982",
+        "Rodney Austin",
+        "Don Machholz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-09-space-program-update",
+      "documentId": "eph82-09",
+      "title": "Space Program Update",
+      "summary": "The 'Space Program Update' details recent advancements and future plans across various space agencies, covering topics from Earth observation to deep space missions. Key highlights include the space shuttle's imaging radar revealing subsurface features in the Sahara, congressional funding for NASA's Centaur upper stage and Galileo mission, and the successful deorbit of the Soviet Salyut-6 while Salyut-7 received new cosmonauts. The article also discusses potential Mars and Venus mapping missions, plans for additional Space Shuttle orbiters, and the future development of a manned space station.",
+      "categories": [
+        "Space News",
+        "Space Exploration",
+        "Space Technology",
+        "Earth Observation",
+        "Human Spaceflight",
+        "Space Policy",
+        "Planetary Science"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Imaging Radar",
+        "Sahara Desert",
+        "Mars Mapper",
+        "NASA",
+        "ESA",
+        "Centaur upper stage",
+        "Galileo mission",
+        "Salyut space station",
+        "Soviet space program",
+        "Space station development",
+        "Landsat-D",
+        "Venus Mapper",
+        "Congressional funding",
+        "Private space sector",
+        "Svetlana Savitskaya"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-09-rattley-rattles",
+      "documentId": "eph82-09",
+      "title": "Rattley Rattles",
+      "summary": "Gerry Rattley provides an update on his ongoing Herschel object observing project, detailing plans to observe more objects, prepare deep-sky observing articles for a bulletin series, and eventually publish a comprehensive Herschel Catalogue. The article also includes corrections to previous Herschel object discussions and a detailed update on the Coma Galaxy Cluster, highlighting discrepancies in galaxy identifications (IC4021/4026, NGC4886/4882, NGC4872/4874) when compared to the Webb Society Handbook and RNGC.",
+      "categories": [
+        "Observing Reports",
+        "Deep-Sky Astronomy",
+        "Technical Discussion",
+        "Astronomical Catalogs",
+        "Corrections and Updates"
+      ],
+      "keywords": [
+        "Herschel objects",
+        "Deep-sky observing",
+        "Coma Galaxy Cluster",
+        "Galaxy identification",
+        "Astronomical catalogs",
+        "RNGC",
+        "NGC",
+        "Sky Atlas 2000.0",
+        "Gerry Rattley",
+        "IC4021",
+        "IC4026",
+        "NGC4886",
+        "NGC4882",
+        "NGC4872",
+        "NGC4874",
+        "Observing project"
+      ],
+      "pageStart": 7,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-09-how-to-get-there",
+      "documentId": "eph82-09",
+      "title": "HOW TO GET THERE",
+      "summary": "This document provides detailed driving directions from downtown Tehachapi to Antelope Canyon Ranch, guiding attendees to a Star Party registration and an observing site. It specifies street names, turn directions, and distances, passing through Tehachapi Mountain County Park. A basic map illustrates the route and key landmarks along the way.",
+      "categories": [
+        "Event Logistics",
+        "Directions",
+        "Location Information"
+      ],
+      "keywords": [
+        "Tehachapi",
+        "Star Party",
+        "Directions",
+        "Antelope Canyon Ranch",
+        "Observing site",
+        "Tehachapi Mountain County Park",
+        "Event planning"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph82-09-news-material",
+      "documentId": "eph82-09",
+      "title": "NEWS MATERIAL",
+      "summary": "This document is a fragment of the San Jose Astronomical Association (SJAA) Bulletin, providing the organization's address. It also features a map indicating various SJAA meeting and star party locations, with a date reference of April 29, 1984.",
+      "categories": [
+        "news",
+        "club information",
+        "events",
+        "location information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "bulletin",
+        "star parties",
+        "meetings",
+        "club information",
+        "map",
+        "1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8209/Eph82_09.pdf",
+      "txtPath": "8209/Eph82_09.md"
+    }
+  ]
+}

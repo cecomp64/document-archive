@@ -1,0 +1,537 @@
+{
+  "articles": [
+    {
+      "id": "eph87-01-january-1987",
+      "documentId": "eph87-01",
+      "title": "JANUARY 1987",
+      "summary": "This document outlines a detailed schedule of events for an astronomical club in January and February 1987. It lists general meetings featuring presentations on topics such as computer-controlled telescopes and \"The UFO Verdict,\" along with various astronomical observation activities including indoor star parties, a field expedition to Fremont Peak State Park, and multiple 'freeze parties' at Henry Coe State Park. The schedule also includes board meetings and an indoor astronomy class.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Astronomical Observation",
+        "Club News",
+        "Presentations"
+      ],
+      "keywords": [
+        "January 1987",
+        "February 1987",
+        "club meetings",
+        "general meetings",
+        "computer-controlled telescope",
+        "UFOs",
+        "astronomical observation",
+        "star parties",
+        "field expeditions",
+        "freeze parties",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "astronomy classes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-field-of-view",
+      "documentId": "eph87-01",
+      "title": "FIELD OF VIEW",
+      "summary": "The article announces the January 3rd General Meeting, featuring Kevin Medlock demonstrating the CCT telescope accessory with a 'hands-on' opportunity. It also explains that this month's bulletin is shorter due to holiday scheduling and an earlier printing date, prompting a call for speakers for future General Meetings to ensure timely event announcements.",
+      "categories": [
+        "Events",
+        "Announcements",
+        "Membership News",
+        "Call for Participation"
+      ],
+      "keywords": [
+        "General Meeting",
+        "CCT telescope",
+        "Kevin Medlock",
+        "Telescope accessory",
+        "Hands-on demonstration",
+        "Call for Speakers",
+        "Ephemeris",
+        "SJAA",
+        "1987"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph87-01-the-ufo-verdict",
+      "documentId": "eph87-01",
+      "title": "THE UFO VERDICT",
+      "summary": "An amateur astronomer addresses the common question of UFO sightings, acknowledging that people do report unidentifiable phenomena. The article announces a presentation by Robert Schafer of Bay Area Skeptics, titled \"The UFO Verdict,\" on February 7th at 8 PM, where he will attempt to explain these occurrences.",
+      "categories": [
+        "events",
+        "announcement",
+        "skepticism",
+        "UFOs"
+      ],
+      "keywords": [
+        "UFO",
+        "Flying Saucers",
+        "Robert Schafer",
+        "Bay Area Skeptics",
+        "The UFO Verdict",
+        "amateur astronomer",
+        "presentation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-calico-observatory-by-jim-van-noland",
+      "documentId": "eph87-01",
+      "title": "CALICO OBSERVATORY BY: JIM VAN NOLAND",
+      "summary": "This article from Calico Observatory by Jim Van Noland discusses the end of the current observing season for Jupiter's Great Red Spot (GRS) due to its westward movement and decreasing elevation. The author reflects on the gradually improving visibility of the GRS, which is now showing an orange color, and expresses hope for its continued trend. A table of optimal observing times for the GRS's meridian transit in February 1987 is provided.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Observation Schedule",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Observing",
+        "Calico Observatory",
+        "Planetary Observation",
+        "Meridian Transit",
+        "1987"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-comet-comments-by-don-machholz",
+      "documentId": "eph87-01",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "This article reports on the recent discoveries of two faint comets: Periodic Comet Urata-Niijima (1986o) and Comet Lovas (1986p). Urata-Niijima, discovered photographically by amateurs, is a periodic comet returning every 5.4 years. The author also provides a brief update on the visibility of Comets Wilson, Sorrells, and Halley's Comet.",
+      "categories": [
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Urata-Niijima",
+        "Lovas",
+        "Halley's Comet",
+        "Wilson",
+        "Sorrells",
+        "Periodic Comet",
+        "Amateur Photography",
+        "Aries",
+        "Magnitude"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph87-01-comet-sorrells-1986n",
+      "documentId": "eph87-01",
+      "title": "Comet Sorrells (1986n)",
+      "summary": "This article provides an ephemeris for Comet Sorrells (1986n), detailing its celestial coordinates, elongation, and magnitude from December to early February. It describes the comet's appearance, its location in the evening sky near Pegasus, its projected visibility through March before being lost in solar glare, and its distance from Earth and the Sun in mid-January.",
+      "categories": [
+        "observing guide",
+        "comets",
+        "astronomical data"
+      ],
+      "keywords": [
+        "Comet Sorrells",
+        "1986n",
+        "ephemeris",
+        "celestial coordinates",
+        "magnitude",
+        "observing guide",
+        "Pegasus",
+        "solar glare"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-periodic-comet-halley-1982i",
+      "documentId": "eph87-01",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This document provides an observing guide for Periodic Comet Halley (1982i) from late December to early February. It includes ephemeris data (Right Ascension, Declination, elongation, magnitude) and notes that the comet is slowly fading as it recedes from the sun, but its distance to Earth is decreasing. Observers are advised to use a large telescope with medium power to view the small, ~1 arcminute comet.",
+      "categories": [
+        "observing guide",
+        "comets",
+        "astronomy",
+        "ephemeris"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "observing tips",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "elongation",
+        "telescope",
+        "astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-seeking-comets",
+      "documentId": "eph87-01",
+      "title": "SEEKING COMETS",
+      "summary": "This article provides a step-by-step guide for amateur astronomers on how to verify a potential comet discovery. It details methods to rule out known celestial objects, optical artifacts like ghost images or unresolved star groups, and film defects, emphasizing the importance of checking for characteristic cometary motion. The goal is to confirm an object is not a known entity before considering it a new comet, with reporting procedures to be covered in a future discussion.",
+      "categories": [
+        "Technical",
+        "Observing Guide",
+        "Astronomy",
+        "Comet Hunting"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Comet hunting",
+        "Amateur astronomy",
+        "Astronomical observation",
+        "Celestial identification",
+        "Nebulous objects",
+        "Verification process",
+        "Telescope techniques",
+        "Apparent motion"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph87-01-replacement-shuttle-funded",
+      "documentId": "eph87-01",
+      "title": "REPLACEMENT SHUTTLE FUNDED",
+      "summary": "The Defense Department transferred $2.4 billion to NASA, earmarking the funds for a new space shuttle orbiter. This transfer will result in NASA receiving a record fiscal 1987 budget appropriation totaling $10.4 billion.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Budget",
+        "Funding"
+      ],
+      "keywords": [
+        "Replacement Shuttle",
+        "NASA",
+        "Defense Department",
+        "Space Shuttle Orbiter",
+        "Fiscal 1987 Budget",
+        "Funding"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-west-coast-launch-site-supported",
+      "documentId": "eph87-01",
+      "title": "WEST COAST LAUNCH SITE SUPPORTED",
+      "summary": "A December 5th General Accounting Office report to Congress confirmed the necessity of Space Launch Complex 5 at Vandenberg AFB, California. This facility is required for launching nine government payloads between 1992 and 1994.",
+      "categories": [
+        "Government Report",
+        "Space Launch",
+        "Military/Defense",
+        "News"
+      ],
+      "keywords": [
+        "General Accounting Office",
+        "GAO",
+        "Congress",
+        "Vandenberg AFB",
+        "Space Launch Complex 5",
+        "government payloads",
+        "launch site",
+        "1992-94"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-shuttle-booster-failure-duplicated",
+      "documentId": "eph87-01",
+      "title": "SHUTTLE BOOSTER FAILURE DUPLICATED",
+      "summary": "A ground test has successfully duplicated the booster failure that destroyed the Space Shuttle Challenger, identifying cold O-rings and prelaunch pressure tests as the primary causes. These conditions led to slowed O-ring sealing and the formation of blow holes, allowing hot gases to escape. Additionally, NASA plans to reinvestigate a new theory based on launch films suggesting a premature failure of a booster attachment strut.",
+      "categories": [
+        "news",
+        "technical",
+        "investigation",
+        "space exploration",
+        "aerospace safety"
+      ],
+      "keywords": [
+        "Challenger disaster",
+        "space shuttle",
+        "booster failure",
+        "O-rings",
+        "NASA",
+        "accident investigation",
+        "technical failure",
+        "ground test"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-three-successful-booster-launches",
+      "documentId": "eph87-01",
+      "title": "THREE SUCCESSFUL BOOSTER LAUNCHES",
+      "summary": "This article reports on three successful booster launches: an Atlas E launched an NOAA-6 weather satellite from Vandenberg AFB on September 17; an Atlas Centaur put a Fleet Satellite Communications Spacecraft into geosynchronous orbit from Cape Canaveral on December 4; and a Scout booster launched a polar beacon experiment and auroral research spacecraft from Vandenberg AFB on November 13.",
+      "categories": [
+        "news",
+        "space launches",
+        "observing reports",
+        "satellite deployment"
+      ],
+      "keywords": [
+        "booster launches",
+        "Atlas E",
+        "NOAA-6",
+        "weather satellite",
+        "Vandenberg AFB",
+        "Atlas Centaur",
+        "Fleet Satellite Communications Spacecraft",
+        "geosynchronous orbit",
+        "Cape Canaveral",
+        "Scout booster",
+        "polar beacon experiment",
+        "auroral research spacecraft",
+        "polar orbit",
+        "Smithsonian",
+        "National Air and Space Museum"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-ariane-creates-space-pollution",
+      "documentId": "eph87-01",
+      "title": "ARIANE CREATES SPACE POLLUTION",
+      "summary": "An old Ariane booster third stage exploded on November 13, nine months after its launch, creating significant space pollution. The incident scattered approximately 200 pieces of debris, one-half inch or larger, into orbits ranging from 270 to 840 miles. These particles, even smaller ones, pose a serious threat, capable of crippling or destroying other spacecraft through collision.",
+      "categories": [
+        "Space Incidents",
+        "Space Pollution",
+        "Orbital Debris",
+        "Space Safety",
+        "News"
+      ],
+      "keywords": [
+        "Ariane booster",
+        "space pollution",
+        "explosion",
+        "orbital debris",
+        "spacecraft safety",
+        "debris field",
+        "orbital mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-commercial-satellites-booked-on-expendable-boosters",
+      "documentId": "eph87-01",
+      "title": "COMMERCIAL SATELLITES BOOKED ON EXPENDABLE BOOSTERS",
+      "summary": "Three U.S. commercial satellites are scheduled to launch on China's Long March booster in 1987 and 1988. Additionally, three other commercial satellites have been booked for launches on Delta boosters in 1990, highlighting ongoing activity in the commercial satellite launch market.",
+      "categories": [
+        "News",
+        "Commercial Space",
+        "Satellite Launches",
+        "Space Industry"
+      ],
+      "keywords": [
+        "Commercial satellites",
+        "Long March booster",
+        "Delta booster",
+        "Satellite launches",
+        "China",
+        "United States",
+        "Space industry"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-esa-approves-hermes-space-plane-preparatory-phase",
+      "documentId": "eph87-01",
+      "title": "ESA APPROVES HERMES SPACE PLANE PREPARATORY PHASE",
+      "summary": "The European Space Agency (ESA) has approved the preparatory phase for the Hermes space plane, aiming to define its usage and mission roles. Ten countries have committed to the program, with more considering participation. A decision on full-scale development is expected in 1987, with flights projected to commence in the late 1990s.",
+      "categories": [
+        "News",
+        "Space Programs",
+        "Spacecraft Development",
+        "Space Agencies"
+      ],
+      "keywords": [
+        "ESA",
+        "Hermes space plane",
+        "preparatory phase",
+        "mission roles",
+        "full-scale development",
+        "European Space Agency"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-soviet-shuttle-completes-launch-pad-tests",
+      "documentId": "eph87-01",
+      "title": "SOVIET SHUTTLE COMPLETES LAUNCH PAD TESTS",
+      "summary": "The Soviet space shuttle has successfully completed initial launch pad fit checks, mounted piggyback on its heavy expendable launch vehicle at Tyuratam, before being removed. The first launch of the heavy booster is anticipated in 1987, with the first manned mission for the orbiter projected for early 1988.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Launch Vehicles",
+        "Spacecraft Testing",
+        "Historical"
+      ],
+      "keywords": [
+        "Soviet shuttle",
+        "Buran",
+        "Tyuratam",
+        "Launch pad tests",
+        "Heavy expendable launch vehicle",
+        "Orbiter",
+        "Space program",
+        "1987",
+        "1988"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph87-01-general-meetings",
+      "documentId": "eph87-01",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings and \"Indoor Star Parties\" at the Los Gatos Red Cross building in Los Gatos, California, on the 4th Saturday of each month, starting at 8 PM. These meetings offer a friendly atmosphere for members and visitors interested in various astronomical pursuits like astrophotography, deep sky observation, and telescope making. The article provides detailed directions to the venue.",
+      "categories": [
+        "Meetings",
+        "Events",
+        "Community",
+        "Logistics"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos",
+        "Red Cross building",
+        "Indoor Star Parties",
+        "Astronomy",
+        "Astrophotography",
+        "Deep Sky Observation",
+        "Telescope Making",
+        "Monthly Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-indoor-star-parties",
+      "documentId": "eph87-01",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Indoor Star Parties are monthly Saturday evening gatherings for amateur astronomers, beginners, and new members to share their common interest in astronomy. Attendees are encouraged to bring telescopes and accessories, while activities include telescope viewing, astrophotography slideshows, and an introductory astronomy workshop. These informal social events take place at the Los Gatos Red Cross Building.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Community",
+        "Beginner Resources"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Astronomy Events",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "Beginners",
+        "Community Gatherings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-henry-coe-state-park",
+      "documentId": "eph87-01",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed directions to Henry Coe State Park via Hwy 101 South and East Dunne exit, guiding visitors past Anderson Reservoir. It specifies how to access the SJAA observing site within the park, noting a locked gate with a club combination (4565) and advising to park outside and hike in if arriving after dark. The primary observing area for SJAA is a short distance up a hill past the gate.",
+      "categories": [
+        "observing guides",
+        "location information",
+        "access instructions"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "directions",
+        "observing site",
+        "gate combination",
+        "Morgan Hill",
+        "Anderson Reservoir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-01-fremont-peak-state-park",
+      "documentId": "eph87-01",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a popular astronomical observation site located 3000 ft above sea level, frequently used by the San Jose Astronomical Association (SJAA) for new moon weekend gatherings in Coulter Camp. It provides ample space for 30-40 telescopes and hosts the FPOA's public observatory. The article also includes detailed driving directions to the park and contact information for the SJAA's officers and board of directors.",
+      "categories": [
+        "observing location guide",
+        "club information",
+        "events",
+        "astronomy",
+        "directions"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Coulter Camp",
+        "new moon weekend",
+        "public observatory",
+        "astronomy observing",
+        "California",
+        "FPOA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph87-01-san-jose-astronomical-association-membership-application",
+      "documentId": "eph87-01",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing different membership types and their associated fees, including options for \"Membership Only\", \"Membership/S&T\" (Sky & Telescope), and \"Junior (Under 18)\". It collects applicant information such as name, address, and telephone, along with optional questions about astronomical interests, telescope ownership, and areas of expertise. The form also provides instructions for submission and contact details for the association's treasurer.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Club Information",
+        "Local Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Astronomy Club",
+        "Sky & Telescope",
+        "Telescope",
+        "Astro-photography",
+        "Deep-sky observation",
+        "Telescope making",
+        "Milpitas",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph87-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8701/Eph87_01.pdf",
+      "txtPath": "8701/Eph87_01.md"
+    }
+  ]
+}

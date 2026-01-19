@@ -1,0 +1,463 @@
+{
+  "articles": [
+    {
+      "id": "eph87-03-grand-tour-of-the-solar-system",
+      "documentId": "eph87-03",
+      "title": "GRAND TOUR OF THE SOLAR SYSTEM",
+      "summary": "The document outlines a schedule of astronomical events for March and early April, primarily held at the Los Gatos Red Cross Building. Events include general meetings with specific programs like 'Grand Tour of the Solar System' by Bernie Haisch, an indoor astronomy class, board meetings, and an indoor star party. A field expedition for a Messier Marathon at Henry Coe State Park and an Astrophoto Symposium at Moorpark College are also scheduled.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Classes",
+        "Observing Reports",
+        "Announcements"
+      ],
+      "keywords": [
+        "Grand Tour of the Solar System",
+        "Bernie Haisch",
+        "General Meeting",
+        "Indoor Astronomy Class",
+        "Astrophoto Symposium",
+        "Board Meeting",
+        "Indoor Star Party",
+        "Field Expedition",
+        "Astronomical Observation",
+        "Messier Marathon",
+        "Henry Coe State Park",
+        "Los Gatos Red Cross Building",
+        "Moorpark College"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-field-of-view",
+      "documentId": "eph87-03",
+      "title": "FIELD OF VIEW",
+      "summary": "The article announces several key events and news for an astronomical group. It details a March 7th general meeting featuring Bernie Haisch on the solar system, reports the results of the February 7th SJAA board elections, provides instructions for the 7th Annual Bay Area Astronomical Auction, and promotes the upcoming 7th Astrophotography Conference in March, encouraging members to attend.",
+      "categories": [
+        "Events",
+        "News",
+        "Astronomy",
+        "Astrophotography",
+        "Organizational Updates"
+      ],
+      "keywords": [
+        "Bernie Haisch",
+        "Solar System",
+        "SJAA",
+        "Board Elections",
+        "Astronomical Auction",
+        "Astrophotography Conference",
+        "Astrophotography",
+        "Planets",
+        "Observing Techniques"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph87-03-dr-freeman-goes-to-space-camp-part-ii",
+      "documentId": "eph87-03",
+      "title": "DR. FREEMAN GOES TO SPACE CAMP, PART II",
+      "summary": "In 'DR. FREEMAN GOES TO SPACE CAMP, PART II,' Jay Freeman recounts his experience piloting a Space Shuttle simulator at the Houston Space Center. Despite his background as a lightplane pilot, he successfully guided the simulated shuttle into orbit, crediting the predictable controls and sophisticated display design. He concludes by reflecting on the differences between the simulation and a real-life ascent, acknowledging the additional challenges of actual space flight.",
+      "categories": [
+        "Personal Account",
+        "Observing Report",
+        "Space Exploration",
+        "Simulation",
+        "Technical"
+      ],
+      "keywords": [
+        "Space Shuttle simulator",
+        "Jay Freeman",
+        "Space Camp",
+        "Piloting",
+        "Orbit",
+        "Human factors engineering",
+        "Flight controls",
+        "Max Q",
+        "Autopilot",
+        "Ascent trajectory"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph87-03-comet-comments-by-don-machholz",
+      "documentId": "eph87-03",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "Don Machholz's \"Comet Comments\" reports on a recent surge in comet discoveries and recoveries, highlighting the significant contributions of amateur astronomers who visually found three new comets. The article provides detailed updates on the observational status, magnitudes, and orbital characteristics of several specific comets, including Du Toit-Hartley, Levy, Wiseman-Skiff, Nishikawa-Takamizawa-Tago, Terasako, and Wild. It offers insights into their visibility for Northern Hemisphere observers and projected brightness over the coming months.",
+      "categories": [
+        "news",
+        "observing reports",
+        "discoveries",
+        "technical astronomy",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "comet discoveries",
+        "comet recoveries",
+        "amateur astronomers",
+        "Comet Wilson",
+        "Comet Halley",
+        "Comet Sorrells",
+        "Periodic Comet Du Toit-Hartley (1986a)",
+        "Comet Levy (1987a)",
+        "Comet Wiseman-Skiff (1987b)",
+        "Comet Nishikawa-Takamizawa-Tago (1987c)",
+        "Comet Terasako (1987d)",
+        "Periodic Comet Wild (1987e)",
+        "magnitude",
+        "orbital period",
+        "Kitt Peak",
+        "Lowell Observatory",
+        "celestial observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-ephemerides",
+      "documentId": "eph87-03",
+      "title": "EPHEMERIDES",
+      "summary": "This article provides the ephemerides for Comet Terasako (1987d) from late February to early April, detailing its right ascension, declination, elongation, and predicted magnitude. It notes the comet is rapidly dimming and moving away from Earth and the Sun, predicting it will be lost in the evening sky by late March. The data is based on a preliminary parabolic orbit, with a special note about its proximity to M27 on March 14.",
+      "categories": [
+        "Ephemerides",
+        "Comets",
+        "Astronomy Data",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Comet Terasako (1987d)",
+        "Ephemeris",
+        "Comet",
+        "Astronomy",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Orbit",
+        "M27",
+        "Observing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph87-03-comet-wilson-1986l",
+      "documentId": "eph87-03",
+      "title": "Comet Wilson (1986L)",
+      "summary": "Comet Wilson (1986L) will be briefly visible in the morning sky from late February through early May. Observers north of 35° N latitude are favored in early March, while those south of 35° will have better views later in the month before the comet moves too far south for mid-northern latitudes until mid-May. The article provides an ephemeris for its visibility period.",
+      "categories": [
+        "Observing Guide",
+        "Astronomical Event",
+        "Comet",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Wilson",
+        "1986L",
+        "Comet",
+        "Observing",
+        "Morning Sky",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-periodic-comet-halley-1982i",
+      "documentId": "eph87-03",
+      "title": "Periodic Comet Halley (1982i)",
+      "summary": "This article presents an ephemeris for Periodic Comet Halley (1982i) from late February to early April, detailing its celestial coordinates, elongation, and estimated magnitude. It describes the comet's movement from Hydra to Sextans, its close encounter with galaxy 3115 on March 31, and notes that it should be observable with a 10\" telescope, despite some reports of it being brighter than listed.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Halley",
+        "1982i",
+        "Ephemeris",
+        "Celestial Coordinates",
+        "Magnitude",
+        "Observing",
+        "Hydra",
+        "Sextans",
+        "Galaxy 3115"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-seeking-comets",
+      "documentId": "eph87-03",
+      "title": "SEEKING COMETS",
+      "summary": "The article discusses two distinct astronomical topics: the prevalence of mistaken comet sightings and a detailed guide for the 1987 Messier Marathon. It explains that many amateur and professional comet reports are 'forgetables' caused by optical illusions, photographic flaws, or misidentified faint objects like NGC 404. The second section provides extensive information for the 1987 Messier Marathon, outlining the best dates (March 28/29) for observing the maximum number of Messier objects, historical context, optimal conditions, and suggested observing locations for participants.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Reports",
+        "Events",
+        "Guides/Instructions",
+        "Educational"
+      ],
+      "keywords": [
+        "Comets",
+        "Messier Marathon",
+        "Amateur Astronomy",
+        "Observing",
+        "Mistaken Reports",
+        "Galaxies",
+        "Nebulae",
+        "Messier Objects",
+        "1987",
+        "Brian Marsden",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph87-03-will-be",
+      "documentId": "eph87-03",
+      "title": "WILL BE:",
+      "summary": "An astronomical swap meet is scheduled for Saturday, May 2nd at 6:00 PM at the Los Gatos Red Cross, with doors opening at 2:00 PM. This event offers an opportunity to buy and sell a wide variety of astronomical equipment, including telescopes, eyepieces, camera gear, and accessories. Attendees are encouraged to bring their own items to sell and can pre-register for convenience.",
+      "categories": [
+        "Event",
+        "Swap Meet",
+        "Astronomy Equipment",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomy",
+        "Swap Meet",
+        "Los Gatos",
+        "Telescopes",
+        "Eyepieces",
+        "Camera Gear",
+        "Astronomical Equipment",
+        "Buy and Sell",
+        "May 2nd"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-the-7th-annual-bay-area-astronomical-auction",
+      "documentId": "eph87-03",
+      "title": "The 7th Annual Bay Area Astronomical Auction",
+      "summary": "The article announces the 7th Annual Bay Area Astronomical Auction, urging participants to pre-register astronomical and telescope-making related items for sale. Pre-registration via mail involves detailing items, setting minimum prices, and indicating a percentage of sale for the SJAA (a minimum of 10% or outright tax-deductible donations), with all proceeds supporting public astronomy education. Early registration ensures smoother processing, assigned numbers, and avoids delays on auction day.",
+      "categories": [
+        "Event Announcement",
+        "Auction",
+        "Fundraising",
+        "Community News",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Bay Area Astronomical Auction",
+        "Auction",
+        "Astronomical equipment",
+        "Telescope making",
+        "Pre-registration",
+        "SJAA",
+        "Fundraising",
+        "Donation",
+        "Public education"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-directions-to-the-auction",
+      "documentId": "eph87-03",
+      "title": "DIRECTIONS TO THE AUCTION:",
+      "summary": "This document provides directions to an auction held at the Los Gatos Red Cross buildings (16011 Los Gatos-Saratoga Rd). Doors open at 2 PM for registration, with item registration closing at 5:45 PM and the auction starting promptly at 6 PM. Payment can be made by cash or check, and a $1 bidder/seller registration fee applies, with a pre-registration form also provided.",
+      "categories": [
+        "event",
+        "directions",
+        "auction",
+        "registration information"
+      ],
+      "keywords": [
+        "auction",
+        "directions",
+        "Los Gatos",
+        "registration",
+        "event details",
+        "bidders",
+        "sellers",
+        "payment",
+        "SJAA"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph87-03-general-meetings",
+      "documentId": "eph87-03",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings and \"Indoor Star Parties\" at the Los Gatos Red Cross building, fostering a friendly environment for diverse astronomical interests like astrophotography, deep sky observation, and telescope making. These meetings occur on the 4th Saturday of each month, with doors opening at 7:45 PM and meetings beginning at 8 PM, and detailed directions are provided for attendees.",
+      "categories": [
+        "Club Meetings",
+        "Events",
+        "Astronomy Club Activities",
+        "Logistics Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos Red Cross building",
+        "Los Gatos",
+        "California",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep sky observation",
+        "Telescope making",
+        "Amateur astronomy",
+        "Monthly meetings",
+        "Meeting schedule",
+        "Directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-indoor-star-parties",
+      "documentId": "eph87-03",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Monthly \"Indoor Star Parties\" offer informal gatherings for amateur astronomers to socialize, share interests, and discuss astronomy. Activities typically include telescope observations in the parking lot, astrophotography slide shows, and also host SJAA board meetings and introductory astronomy workshops. These events are held at the Los Gatos Red Cross Building.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Workshops",
+        "Meetings"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomy",
+        "Astronomy Club",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "Social Events"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-henry-coe-state-park",
+      "documentId": "eph87-03",
+      "title": "HENRY COE STATE PARK",
+      "summary": "This document provides detailed directions to an observing site at Henry Coe State Park, accessible via Hwy 101 south towards Morgan Hill. It includes specific instructions for navigating to the park, locating a locked gate with a club combination (4585), and important advice for locking the gate and arriving after dark. The site is used by the SJAA for equipment setup.",
+      "categories": [
+        "Directions",
+        "Observing Site Information",
+        "Logistics",
+        "Club Information"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "Directions",
+        "Gate Combination",
+        "Observing Site",
+        "Morgan Hill",
+        "Anderson Reservoir"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-fremont-peak-state-park",
+      "documentId": "eph87-03",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is highlighted as a popular astronomical observing site, frequently utilized by the San Jose Astronomical Association (SJAA) for new moon weekend events and home to the FPOA's public observatory. The article provides detailed directions to the park and mentions the common presence of 30-40 telescopes during clear nights. Additionally, it lists the officers and board members of the SJAA, along with information about their monthly publication, EPHEMERIS.",
+      "categories": [
+        "Astronomy",
+        "Observing Site",
+        "Club Information",
+        "Events",
+        "Publication Details"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "FPOA",
+        "Public Observatory",
+        "Astronomical Observing",
+        "New Moon",
+        "Telescopes",
+        "EPHEMERIS",
+        "Club Officers",
+        "Directions",
+        "California"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph87-03-san-jose-astronomical-association-membership-application",
+      "documentId": "eph87-03",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing different membership types and their associated costs, including options for 'Membership Only', 'Membership/S&T' (likely Sky & Telescope), and 'Junior' (under 18). It provides fields for applicant information and instructions for submission, either at an SJAA meeting or by mail to the treasurer.",
+      "categories": [
+        "membership application",
+        "organizational administration",
+        "forms"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership",
+        "application",
+        "dues",
+        "astronomy club",
+        "junior membership",
+        "Sky & Telescope",
+        "contact information"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-03-questionnaire-optional",
+      "documentId": "eph87-03",
+      "title": "Questionnaire (optional)",
+      "summary": "This document presents an optional questionnaire designed to gauge an individual's astronomical interests (e.g., astrophotography, deep-sky observation, telescope making), telescope ownership, and areas of expertise. It also includes contact and mailing information for the 'SJAA EPHEMERIS,' a non-profit organization located in San Jose, CA, and is explicitly marked as 'NEWS MATERIAL.'",
+      "categories": [
+        "Questionnaire",
+        "Membership",
+        "Community engagement",
+        "News",
+        "Organization administration"
+      ],
+      "keywords": [
+        "Astronomy interests",
+        "Astrophotography",
+        "Deep-sky observation",
+        "Telescope ownership",
+        "Telescope making",
+        "Astronomy expertise",
+        "SJAA",
+        "Non-profit organization",
+        "Survey",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph87-03",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8703/Eph87_03.pdf",
+      "txtPath": "8703/Eph87_03.md"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "articles": [
+    {
+      "id": "eph89-07-july-1989",
+      "documentId": "eph89-07",
+      "title": "JULY 1989",
+      "summary": "This document outlines the event schedule for the San Jose Astronomical Association (SJAA) for July and August 1989. It details various activities including multiple star parties at Fremont Peak and Yosemite, an annual picnic, board and general meetings, and introductory observational astronomy classes. Key information such as dates, times, locations, and relevant astronomical details like moon phases, twilight times, and planetary conjunctions are provided for each event.",
+      "categories": [
+        "Events Calendar",
+        "Astronomy Club Activities",
+        "Observing Reports",
+        "Meetings",
+        "Educational Programs",
+        "Announcements"
+      ],
+      "keywords": [
+        "July 1989",
+        "August 1989",
+        "SJAA",
+        "Star Party",
+        "Fremont Peak State Park",
+        "Yosemite Star Party",
+        "Annual Picnic",
+        "Grant Ranch Park",
+        "Board Meeting",
+        "General Meeting",
+        "Observational Astronomy Class",
+        "Red Cross Building",
+        "Moon",
+        "Sunset",
+        "Astronomical Twilight",
+        "Mercury",
+        "Mars",
+        "Conjunction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-field-of-view",
+      "documentId": "eph89-07",
+      "title": "FIELD OF VIEW",
+      "summary": "This article announces that it's membership renewal time for an organization, likely the SJAA, with a $26 fee for members receiving Sky & Telescope. Members are instructed to mail renewals to Jack Peterson, and recent delays in the Ephemeris bulletin delivery are attributed to the renewal data processing. The piece emphasizes that non-renewal will result in the cessation of bulletin delivery.",
+      "categories": [
+        "Membership",
+        "Announcements",
+        "Organizational News",
+        "Administrative"
+      ],
+      "keywords": [
+        "Membership renewal",
+        "Dues",
+        "Sky & Telescope",
+        "Ephemeris bulletin",
+        "Mailing list",
+        "SJAA",
+        "Payment",
+        "Member communication"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph89-07-sjaa-annual-picnic-at-grant-ranch-park",
+      "documentId": "eph89-07",
+      "title": "SJAA ANNUAL PICNIC AT GRANT RANCH PARK",
+      "summary": "The San Jose Astronomical Association (SJAA) is hosting its annual family picnic and gathering at Grant Ranch Park on July 8. The event will feature an installation of officers, presentation of the A.L. Gregory award, a potluck lunch with club-provided food, and both solar viewing with a Hydrogen-Alpha filter and an informal star party. It's an opportunity for members, especially new ones, to socialize and enjoy astronomical activities in a relaxed setting.",
+      "categories": [
+        "events",
+        "announcements",
+        "club activities"
+      ],
+      "keywords": [
+        "SJAA",
+        "annual picnic",
+        "Grant Ranch Park",
+        "July 8",
+        "officer installation",
+        "A.L. Gregory award",
+        "potluck",
+        "solar viewing",
+        "star party",
+        "Hydrogen-Alpha filter",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-astro-ads",
+      "documentId": "eph89-07",
+      "title": "ASTRO ADS",
+      "summary": "The ASTRO ADS section offers free classified advertisements for non-commercial sale of astronomically related products and services. This particular installment lists various used telescopes and accessories, including Celestron C8s, a Kolkach Cold Camera, an Edmund Newtonian, a Meade Schmidt, and refractors, along with numerous eyepieces, mounts, and astrophotography equipment.",
+      "categories": [
+        "classifieds",
+        "astronomical equipment sales",
+        "used equipment",
+        "community notices"
+      ],
+      "keywords": [
+        "Astro Ads",
+        "telescopes for sale",
+        "Celestron C8",
+        "Kolkach Cold Camera",
+        "Edmund Newtonian",
+        "Meade Schmidt",
+        "refractor",
+        "eyepieces",
+        "mounts",
+        "astrophotography equipment",
+        "drive corrector",
+        "finder scope",
+        "Barlow lens",
+        "dew shield",
+        "telecompressor"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph89-07-by-don-machholz",
+      "documentId": "eph89-07",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article discusses the awaited recovery of Periodic Comet Brorsen-Metcalf, detailing its historical observations from 1847 and 1919, its predicted orbit for the current return, and potential reasons for its delayed recovery. It also provides an observing guide with expected brightness and viewing conditions, especially for Northern Hemisphere observers. A brief mention of the newly confirmed Periodic Comet West-Hartley is also included.",
+      "categories": [
+        "Comet Observing",
+        "Astronomy News",
+        "Historical Astronomy",
+        "Orbital Mechanics",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet Brorsen-Metcalf",
+        "Comet West-Hartley",
+        "Comet Discovery",
+        "Perihelion",
+        "Orbital Period",
+        "Magnitude Prediction",
+        "Comet Recovery",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph89-07-by-bob-fingerhut",
+      "documentId": "eph89-07",
+      "title": "BY: BOB FINGERHUT",
+      "summary": "This document provides an ephemeris for observing a comet from late June to early August, detailing its predicted positions (RA, DEC), elongation, and magnitude. Observers are advised to estimate the comet's magnitude and watch its tail for any changes. It also warns that the provided ephemeris might be inaccurate if the comet deviates from its predicted path, recommending the Sky & Telescope Hotline for updated positions.",
+      "categories": [
+        "Astronomy",
+        "Observing Guide",
+        "Comet Observation",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet",
+        "Ephemeris",
+        "Observation",
+        "Magnitude",
+        "Comet Tail",
+        "Right Ascension",
+        "Declination",
+        "Elongation",
+        "Sky & Telescope",
+        "Astronomical Prediction"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-voyager-is-closing-in-on-neptune",
+      "documentId": "eph89-07",
+      "title": "VOYAGER IS CLOSING IN ON NEPTUNE",
+      "summary": "The Voyager probe has entered its observatory phase, capturing the most detailed images of Neptune's clouds and atmospheric features to date. Its closest approach to the planet is scheduled for August 25th.",
+      "categories": [
+        "news",
+        "space exploration",
+        "planetary science",
+        "observing reports"
+      ],
+      "keywords": [
+        "Voyager",
+        "Neptune",
+        "space probe",
+        "planetary observation",
+        "atmosphere",
+        "clouds",
+        "August 25th"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-magellan-is-on-accurate-path-to-venus",
+      "documentId": "eph89-07",
+      "title": "MAGELLAN IS ON ACCURATE PATH TO VENUS",
+      "summary": "The Magellan spacecraft is accurately en route to Venus, requiring significantly less fuel for its first mid-course correction than anticipated, and potentially no second correction. This fuel efficiency means more altitude control fuel will be available, enabling Magellan to gather more data once it reaches Venus, with thruster life expected to be the mission's limiting factor.",
+      "categories": [
+        "news",
+        "mission update",
+        "space exploration"
+      ],
+      "keywords": [
+        "Magellan",
+        "Venus",
+        "spacecraft",
+        "mid-course correction",
+        "fuel efficiency",
+        "mission data",
+        "thruster life"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-endeavor-named-as-shuttle-replacement",
+      "documentId": "eph89-07",
+      "title": "ENDEAVOR NAMED AS SHUTTLE REPLACEMENT",
+      "summary": "The new Space Shuttle orbiter has officially been named Endeavor. This name pays homage to Captain James Cook's exploration ship from the late 1700s, and was chosen from submissions made by school children in Mississippi and Georgia.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Naming Ceremony",
+        "History"
+      ],
+      "keywords": [
+        "Endeavor",
+        "Space Shuttle",
+        "Orbiter",
+        "Naming",
+        "Captain James Cook",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-shuttle-launch-schedule-revised",
+      "documentId": "eph89-07",
+      "title": "SHUTTLE LAUNCH SCHEDULE REVISED",
+      "summary": "The shuttle launch schedule has been revised, with Atlantis slated to launch the Galileo spacecraft to Jupiter in October, followed by Discovery's Department of Defense mission. The final flight of the year in mid-December will attempt to retrieve the Long-Duration Exposure Facility (LDEF), whose retrieval was delayed by the Challenger accident and is now at risk of re-entry due to increased atmospheric drag from high solar activity. The launch of the Hubble Space Telescope is now planned for April 1990.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Launch Schedules",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "Launch Schedule",
+        "Atlantis",
+        "Galileo",
+        "Jupiter",
+        "Discovery",
+        "LDEF",
+        "Challenger Accident",
+        "Hubble Space Telescope",
+        "Solar Activity"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-07-giotto-can-be-revived-for-another-comet-encounter",
+      "documentId": "eph89-07",
+      "title": "GIOTTO CAN BE REVIVED FOR ANOTHER COMET ENCOUNTER",
+      "summary": "Tests have confirmed that the Giotto spacecraft, currently in hibernation after its 1986 encounter with Halley's Comet, can be revived and controlled by a joint effort between European tracking stations and NASA's Deep Space Network. The spacecraft will pass Earth in July 1990, and if found capable and financial approval is granted, it could be maneuvered for a second cometary flyby, with comet Grigg-Skjellerup being a candidate for a July 1992 encounter.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Mission Planning"
+      ],
+      "keywords": [
+        "Giotto spacecraft",
+        "Comet encounter",
+        "Halley's Comet",
+        "Grigg-Skjellerup",
+        "Spacecraft revival",
+        "Deep Space Network",
+        "ESA",
+        "Space exploration"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph89-07-by-richard-stanton",
+      "documentId": "eph89-07",
+      "title": "BY: RICHARD STANTON",
+      "summary": "This article provides an astronomical forecast for July, detailing four meteor showers (one major, three minor) occurring in the latter half of the month. It also highlights a planetary occultation of ZB Sagittari by Saturn on July 2nd and a lunar occultation of the Pleiades by the Last Quarter moon on July 27th as significant observing opportunities. The document includes a celestial calendar for July 1988-July 1989 and information about the San Jose Astronomical Association, its newsletter \"EPHEMERIS,\" and its officers.",
+      "categories": [
+        "Observing Reports",
+        "Astronomical Events",
+        "Newsletter Content",
+        "Amateur Astronomy",
+        "Club Information"
+      ],
+      "keywords": [
+        "Meteors",
+        "Meteor showers",
+        "Capricornids",
+        "Theta Aquilids",
+        "South Delta Aquarids",
+        "Alpha Capricornids",
+        "Planetary occultation",
+        "Saturn",
+        "ZB Sagittari",
+        "Lunar occultation",
+        "Pleiades",
+        "Taurus",
+        "Celestial calendar",
+        "July",
+        "1988",
+        "San Jose Astronomical Association",
+        "Astrophotography",
+        "Photometry",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph89-07-san-jose-astronomical-association-membership-application",
+      "documentId": "eph89-07",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA), detailing various membership options and their fees, including standard, junior, and one bundled with Sky & Telescope magazine. It provides instructions for submission to the treasurer, including contact information and payment details, and notes its status as time-sensitive news material from a non-profit organization.",
+      "categories": [
+        "Membership Application",
+        "Organizational Document",
+        "Administrative",
+        "News"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership application",
+        "astronomy club",
+        "dues",
+        "non-profit",
+        "Sky & Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph89-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8907/Eph89_07.pdf",
+      "txtPath": "8907/Eph89_07.md"
+    }
+  ]
+}

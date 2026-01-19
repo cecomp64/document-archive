@@ -1,0 +1,373 @@
+{
+  "articles": [
+    {
+      "id": "eph89-08-august-1989",
+      "documentId": "eph89-08",
+      "title": "AUGUST 1989",
+      "summary": "This document outlines a schedule of astronomical events and club activities for August and September 1989, with a mention of a July star party. It details multiple star parties at various parks, general meetings, a total lunar eclipse, board meetings, and special programs including an astrophotography presentation and an introductory observational astronomy class. The schedule involves collaborations with other astronomy clubs and notes specific times for sunsets, moon phases, and twilight.",
+      "categories": [
+        "Event Schedule",
+        "Club Announcements",
+        "Observational Astronomy",
+        "Astronomical Events"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Lunar Eclipse",
+        "Club Meetings",
+        "Astrophotography",
+        "Observational Astronomy Class",
+        "August 1989",
+        "September 1989",
+        "Astronomy Clubs"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph89-08-by-john-gleason-jim-van-nuland",
+      "documentId": "eph89-08",
+      "title": "BY: JOHN GLEASON & JIM VAN NULAND",
+      "summary": "This article details various activities and news for an astronomy club, including the presentation of the Dr. A. B. Gregory award to Tom Ahl and a successful Yosemite star party. It announces an upcoming 8th annual joint star party at Bonny Doon Airport on August 5th, an astrophotography class utilizing the Fremont Peak 30-inch telescope, and a September swap meet followed by an equipment night. Additionally, it provides information on NASA's Voyager II flyby of Neptune on August 25th, including broadcast details.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Observing Reports",
+        "Awards",
+        "Educational Programs",
+        "Astronomical Missions"
+      ],
+      "keywords": [
+        "Tom Ahl",
+        "Dr. A. B. Gregory award",
+        "Yosemite star party",
+        "Joint Star Party",
+        "Bonny Doon Airport",
+        "Astrophotography",
+        "Intro Astronomy class",
+        "Fremont Peak",
+        "Swap Meet",
+        "Slide and Equipment Night",
+        "Voyager II",
+        "Neptune flyby",
+        "NASA",
+        "JPL"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph89-08-astro-ads",
+      "documentId": "eph89-08",
+      "title": "ASTRO ADS",
+      "summary": "ASTRO ADS provides a free classifieds service for individuals to sell non-commercial, astronomically related products and services. Submissions are due by the 15th of each month and run for approximately three months. The listings primarily feature a variety of used astronomical equipment, including telescopes, eyepieces, mounts, and astrophotography gear, from brands like Celestron, Meade, and Edmund.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment Sales",
+        "Community Service",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "Astronomy Classifieds",
+        "Used Astronomical Equipment",
+        "Telescopes",
+        "Eyepieces",
+        "Mounts",
+        "Astrophotography",
+        "Telescope Accessories",
+        "Celestron",
+        "Meade",
+        "Edmund Scientific",
+        "For Sale"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-comet-comments-by-don-machholz",
+      "documentId": "eph89-08",
+      "title": "COMET COMMENTS BY: DON MACHHOLZ",
+      "summary": "This article by Don Machholz discusses recent comet activity, highlighting the recovery of three returning comets and the discovery of a new one. It also introduces a section dedicated to comet observations and techniques, noting that experienced comet hunters often observe known comets. Specific mention is made of Periodic Comet Du Toit-Neujmin-Delporte (1989l), recently recovered by Jim Gibson at magnitude 18.",
+      "categories": [
+        "news",
+        "observing reports",
+        "comet astronomy"
+      ],
+      "keywords": [
+        "comets",
+        "comet recovery",
+        "comet discovery",
+        "comet observations",
+        "Don Machholz",
+        "Periodic Comet Du Toit-Neujmin-Delporte",
+        "Jim Gibson",
+        "Palomar"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph89-08-periodic-comet-brorsen-metcalf-1989o",
+      "documentId": "eph89-08",
+      "title": "Periodic Comet Brorsen-Metcalf (1989o)",
+      "summary": "The article primarily reports on the recovery of Periodic Comet Brorsen-Metcalf (1989o) on July 4, noting its unexpected position and early appearance. It predicts the comet will brighten to magnitude 6 by early September and be observable for Northern Hemisphere skywatchers until late September. Brief updates are also provided for Sungrazing Comet 1989m (SMM 8) and Periodic Comet Gehrels 2 (1989n), including their observed magnitudes and closest approaches to the sun.",
+      "categories": [
+        "Observing Reports",
+        "Comet News",
+        "Astronomy Updates",
+        "Orbital Predictions"
+      ],
+      "keywords": [
+        "Comet Brorsen-Metcalf (1989o)",
+        "Comet 1989m (SMM 8)",
+        "Comet Gehrels 2 (1989n)",
+        "Sungrazing comet",
+        "Comet recovery",
+        "Magnitude",
+        "Visibility",
+        "Mt. Palomar",
+        "Eleanor Helin",
+        "Kreutz sungrazing group"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-ephemeris",
+      "documentId": "eph89-08",
+      "title": "EPHEMERIS",
+      "summary": "This document presents an ephemeris for the Periodic Comet Brorsen-Metcalf (1989o), covering the period from late July to early September. It provides daily astronomical data including Right Ascension and Declination for both 1950 and 2000 epochs, solar elongation, sky visibility, and apparent magnitude. This information is crucial for observers to locate and track the comet.",
+      "categories": [
+        "Ephemeris",
+        "Comet Observation",
+        "Astronomy Data",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Comet Brorsen-Metcalf",
+        "Comet 1989o",
+        "Astronomy",
+        "Celestial Coordinates",
+        "Right Ascension",
+        "Declination",
+        "Apparent Magnitude",
+        "Elongation",
+        "Comet Tracking"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-seeking-comets",
+      "documentId": "eph89-08",
+      "title": "SEEKING COMETS",
+      "summary": "This article discusses comet observing, highlighting its value for both scientific research and training potential comet hunters. It emphasizes the importance of becoming familiar with various comets, from bright to faint, before attempting to search for new ones. The author details the components of a proper comet observation, focusing on methods for estimating magnitude (brightness), coma size, appearance, and tail characteristics, while also stressing the need to record observational details like the method used and instrument specifications.",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Guides",
+        "Cometology",
+        "Instructional"
+      ],
+      "keywords": [
+        "Comet observing",
+        "Comet hunting",
+        "Magnitude estimation",
+        "Bobrovnikoff method",
+        "Sidgwick method",
+        "Morris method",
+        "Coma size",
+        "Tail length",
+        "Amateur astronomers",
+        "Telescope"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph89-08-field-observing-site-of-the-santa-cruz-astronomy-club",
+      "documentId": "eph89-08",
+      "title": "FIELD OBSERVING SITE OF THE SANTA CRUZ ASTRONOMY CLUB",
+      "summary": "This document outlines the field observing site for the Santa Cruz Astronomy Club, located at the Bonny Doon Airport, provided through the courtesy of the airport's ownership. The primary content is a hand-drawn map offering detailed directions to the site from various surrounding areas, noting its distance from key local intersections and major highways.",
+      "categories": [
+        "Observing Sites",
+        "Club Information",
+        "Maps/Directions"
+      ],
+      "keywords": [
+        "Santa Cruz Astronomy Club",
+        "Field Observing Site",
+        "Bonny Doon Airport",
+        "Observing Location",
+        "Directions",
+        "Santa Cruz",
+        "Astronomy Club",
+        "Map"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph89-08-august-starry-nights-by-richard-stanton",
+      "documentId": "eph89-08",
+      "title": "AUGUST STARRY NIGHTS BY: RICHARD STANTON",
+      "summary": "The article details methods for observing and documenting comets, including techniques for estimating coma size, determining the degree of condensation, and measuring tail length and position angle. It encourages amateur astronomers to contribute to comet observations, noting Periodic Comet Brorsen-Metcalf. Additionally, the piece highlights August as a busy month for meteor showers, particularly emphasizing the annual Perseids as a major event.",
+      "categories": [
+        "Observing Guides",
+        "Astronomical Events",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet observation",
+        "Coma",
+        "Comet tail",
+        "Degree of condensation",
+        "Meteor showers",
+        "Perseids",
+        "August astronomy",
+        "Brorsen-Metcalf"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-meteor-shower-summary",
+      "documentId": "eph89-08",
+      "title": "METEOR SHOWER SUMMARY",
+      "summary": "This article provides a summary of astronomical events and observing opportunities for August. It details several meteor showers, including the major Perseids, and outlines a partial solar eclipse (not visible in the U.S.), a total lunar eclipse, and two lunar graze/occultation events with specific times for PDT observers. Additionally, it presents a deep sky challenge to find the Egg Nebula (PK 80-6.1) for observers with large aperture telescopes.",
+      "categories": [
+        "Celestial Events",
+        "Observing Guide",
+        "Meteor Showers",
+        "Eclipses",
+        "Lunar Phenomena",
+        "Deep Sky Astronomy"
+      ],
+      "keywords": [
+        "Meteor Shower",
+        "Perseids",
+        "Solar Eclipse",
+        "Lunar Graze",
+        "Lunar Occultation",
+        "Total Lunar Eclipse",
+        "Egg Nebula",
+        "PK 80-6.1",
+        "August Astronomy",
+        "Aquarids",
+        "Cygnus"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph89-08-general-meetings",
+      "documentId": "eph89-08",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Red Cross building in Los Gatos, California, featuring guest speakers on a wide range of astronomical topics and informal \"Indoor Star Parties\" for members to share interests. These friendly gatherings cater to diverse astronomical passions like astrophotography and telescope making, with meetings currently held on the first Saturday of each month.",
+      "categories": [
+        "Events",
+        "Meeting Details",
+        "Organization Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos",
+        "Astronomy",
+        "Guest Speakers",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep Sky Observation",
+        "Telescope Making",
+        "Monthly Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-indoor-star-parties",
+      "documentId": "eph89-08",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "Indoor Star Parties are informal Saturday evening gatherings for amateur astronomers to socialize, discuss astronomy, and share equipment. These events often include telescope observations in the parking lot or astrophotography slideshows indoors. The SJAA also uses these times for board meetings and monthly introductory astronomy workshops.",
+      "categories": [
+        "Club Activities",
+        "Social Events",
+        "Astronomy Education",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomers",
+        "Astronomy Gatherings",
+        "Telescopes",
+        "Astrophotography",
+        "Workshops",
+        "SJAA Board Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph89-08-field-expeditions",
+      "documentId": "eph89-08",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The San Jose Astronomical Association (SJAA) organizes \"Star Parties\" for astronomical observation on Saturdays near the New Moon, at various locations ranging from local sites to Yosemite. Fremont Peak State Park is a particularly popular and frequently used location for serious deep sky observing and astrophotography, often drawing 50-100 telescopes during clear New Moon weekends. The article also provides details about the SJAA's monthly publication, EPHEMERIS, and lists its officers and board of directors.",
+      "categories": [
+        "observing events",
+        "club activities",
+        "observing sites",
+        "club information",
+        "newsletters and publications"
+      ],
+      "keywords": [
+        "SJAA",
+        "Star Party",
+        "Astronomical Observation",
+        "New Moon",
+        "Fremont Peak State Park",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "Amateur Astronomers",
+        "EPHEMERIS",
+        "Club Officers",
+        "San Jose"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph89-08-san-jose-astronomical-association-membership-application",
+      "documentId": "eph89-08",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application for the San Jose Astronomical Association (SJAA), detailing various membership options including standard, with a Sky & Telescope subscription, and junior memberships, along with their respective costs. It provides instructions on how to submit the application and payment (checks payable to SJAA) either at a meeting or by mail to the treasurer.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Organizational Information",
+        "Forms"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership application",
+        "Dues",
+        "Sky & Telescope",
+        "Junior membership",
+        "Contact information",
+        "Non-profit organization",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph89-08",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8908/Eph89_08.pdf",
+      "txtPath": "8908/Eph89_08.md"
+    }
+  ]
+}

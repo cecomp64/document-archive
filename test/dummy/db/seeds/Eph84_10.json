@@ -1,0 +1,907 @@
+{
+  "articles": [
+    {
+      "id": "eph84-10-from-the-editors-desk",
+      "documentId": "eph84-10",
+      "title": "FROM THE EDITORS DESK",
+      "summary": "The editor of the monthly 'Ephemeris' is soliciting diverse articles from members and potential members to cover a wide range of astronomical topics, including book reviews, star party coverage, events, observing techniques, and astrophotography. Submissions for short, concise articles are due by the first Friday of each month, with priority given to time-sensitive material. The article also provides information on renewing SJAA, JPL Astronomy, and Sky & Telescope subscriptions through Jim Van Nuland.",
+      "categories": [
+        "Club News",
+        "Call for Submissions",
+        "Membership",
+        "Astronomical Events",
+        "Observing",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Article submissions",
+        "Astronomical events",
+        "Observing techniques",
+        "Astrophotography",
+        "Club membership",
+        "SJAA",
+        "Star party",
+        "Eclipses",
+        "Meteor showers"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-kaufmann-lectures-on-astronomy-by-bill-dellinger",
+      "documentId": "eph84-10",
+      "title": "KAUFMANN LECTURES ON ASTRONOMY BY: BILL DELLINGER",
+      "summary": "Dr. William Kaufmann will offer stargazing seminars this Fall at the Monterey Institute for Research in Astronomy (M.I.R.A.), utilizing their 36-inch reflector telescope. These limited-enrollment, one-night sessions cost $200 per person, with specific dates in October for sessions IV, V, and VI. Enrollment information is provided for interested participants.",
+      "categories": [
+        "events",
+        "educational opportunity",
+        "astronomy lectures"
+      ],
+      "keywords": [
+        "William Kaufmann",
+        "stargazing seminars",
+        "Monterey Institute for Research in Astronomy",
+        "M.I.R.A.",
+        "36-inch reflector",
+        "Lake Tahoe",
+        "Sierra Nevada College",
+        "Celestron-22",
+        "astronomy",
+        "observing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-deep-sky-notes",
+      "documentId": "eph84-10",
+      "title": "DEEP SKY NOTES",
+      "summary": "Amateur astronomer Steve Gottlieb recounts his experience identifying a faint galaxy in Cassiopeia, which prompted him to research various historical and modern galaxy catalogues. He details the utility and contents of significant resources such as the Shapley-Ames, de Vaucouleurs' Reference Catalogue, Uppsala General Catalogue, and Zwicky's Galaxies and Clusters. Gottlieb ultimately identified his observed galaxy as NGC 7623, part of Zwicky Cluster 2320.8+0845, highlighting the cluster as a fertile observing ground.",
+      "categories": [
+        "observing reports",
+        "deep-sky astronomy",
+        "astronomical catalogues",
+        "amateur astronomy",
+        "reference materials"
+      ],
+      "keywords": [
+        "deep sky",
+        "galaxies",
+        "galaxy clusters",
+        "observing",
+        "astronomy catalogues",
+        "NGC",
+        "IC",
+        "Shapley-Ames Catalogue",
+        "de Vaucouleurs Reference Catalogue",
+        "Uppsala General Catalogue",
+        "Zwicky Catalogue",
+        "Cassiopeia",
+        "NGC 7623",
+        "Palomar Sky Survey"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-10-october-6",
+      "documentId": "eph84-10",
+      "title": "OCTOBER 6",
+      "summary": "A general meeting is scheduled for October 6th at 8 PM at the University of Santa Clara. Norman Sperling will be the guest speaker, discussing the \"Four Great Questions of Astronomy.\"",
+      "categories": [
+        "Events",
+        "Meeting",
+        "Astronomy Lecture"
+      ],
+      "keywords": [
+        "October 6",
+        "General Meeting",
+        "University of Santa Clara",
+        "Norman Sperling",
+        "Four Great Questions of Astronomy",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-october-13",
+      "documentId": "eph84-10",
+      "title": "OCTOBER 13",
+      "summary": "An event is scheduled for October 13, featuring both a board meeting and an indoor star party. This gathering will be held at the Los Gatos Red Cross building, with the board meeting set to begin at 8 PM.",
+      "categories": [
+        "Events",
+        "Meetings",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Board Meeting",
+        "Star Party",
+        "Los Gatos",
+        "Event",
+        "October 13"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-october-20",
+      "documentId": "eph84-10",
+      "title": "OCTOBER 20",
+      "summary": "An astronomy event, the Grant Ranch Star Party, is scheduled for October 20 and will run from dusk till dawn. During this event, several members will also be utilizing the opportunity to test the observing site's seeing conditions.",
+      "categories": [
+        "Events",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Star Party",
+        "Grant Ranch",
+        "Observing",
+        "Seeing Conditions",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-october-27",
+      "documentId": "eph84-10",
+      "title": "OCTOBER 27",
+      "summary": "A Fremont Peak Star Party is scheduled for October 27, running from dusk till dawn. During the event, members will also be actively scouting potential locations for a permanent observatory.",
+      "categories": [
+        "Event",
+        "Astronomy",
+        "Observatory Planning",
+        "Site Selection"
+      ],
+      "keywords": [
+        "October 27",
+        "Fremont Peak",
+        "Star Party",
+        "Observatory",
+        "Site Selection",
+        "Astronomy Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-november-10",
+      "documentId": "eph84-10",
+      "title": "NOVEMBER 10",
+      "summary": "A general meeting is scheduled for November 10th at the University of Santa Clara, with the speaker yet to be determined. Members are encouraged to suggest potential speakers on astronomy or space science topics by contacting Dave Ambrose.",
+      "categories": [
+        "Events",
+        "Meeting Announcement",
+        "Community"
+      ],
+      "keywords": [
+        "November 10",
+        "General Meeting",
+        "University of Santa Clara",
+        "Speaker",
+        "Astronomy",
+        "Space Science",
+        "Dave Ambrose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-astro-mart",
+      "documentId": "eph84-10",
+      "title": "ASTRO MART",
+      "summary": "The 'ASTRO MART' section functions as a classifieds marketplace for astronomical equipment, listing various items for sale such as mirrors, refractors, reflectors, binoculars, and telescope accessories, each with a price and seller contact information. Additionally, there is a 'FOUND' item listing for binoculars left at a past star party, including details for retrieval.",
+      "categories": [
+        "Classifieds",
+        "Astronomical Equipment",
+        "For Sale",
+        "Lost and Found",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Mirrors",
+        "Refractors",
+        "Reflectors",
+        "Binoculars",
+        "Mounts",
+        "Focusers",
+        "Accessories",
+        "Astronomy equipment",
+        "Used equipment",
+        "Coulter",
+        "Celestron",
+        "Lumicon",
+        "Novak",
+        "Star party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-book-review-by-don-machholz",
+      "documentId": "eph84-10",
+      "title": "BOOK REVIEW BY: DON MACHHOLZ",
+      "summary": "Don Machholz reviews Ken Fulton's \"THE LIGHT-HEARTED ASTRONOMER,\" a humorous and insightful beginner's guide for amateur astronomers. The book offers practical advice, drawing on Fulton's decades of observing experience, and covers a wide range of topics without relying on charts or photos. While largely praised for its engaging style and educational value for both beginners and experienced observers, Machholz notes minor criticisms regarding a poorly disguised incident and some potentially stereotypical portrayals of women.",
+      "categories": [
+        "Book Review",
+        "Astronomy Books",
+        "Amateur Astronomy",
+        "Guides and Manuals"
+      ],
+      "keywords": [
+        "The Light-Hearted Astronomer",
+        "Ken Fulton",
+        "Don Machholz",
+        "Book Review",
+        "Amateur Astronomy",
+        "Beginner's Guide",
+        "Observing",
+        "Humor",
+        "AstroMedia Corp"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-comet-comments",
+      "documentId": "eph84-10",
+      "title": "COMET COMMENTS",
+      "summary": "This article discusses recent comet observations, noting the recovery of two returning comets and the visibility of two brighter comets that are performing better than predicted, displaying two tails. It also plans to analyze the azimuthal/altitude positions of comets at their discovery and compare these times to local astronomical twilight.",
+      "categories": [
+        "Cometary Astronomy",
+        "Observing Report",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet recovery",
+        "Comet visibility",
+        "Magnitude",
+        "Comet tails",
+        "Azimuthal position",
+        "Altitude position",
+        "Comet discovery",
+        "Astronomical twilight"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-10-general-meetings",
+      "documentId": "eph84-10",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides detailed directions to the General Meetings held at the University of Santa Clara, Alumni Science Hall, room 102. It includes specific driving instructions from both northbound and southbound Hwy 17, and notes that meetings begin at 8 PM.",
+      "categories": [
+        "meetings",
+        "logistics",
+        "event information"
+      ],
+      "keywords": [
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "directions",
+        "meeting location",
+        "schedule",
+        "Hwy 17"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-henry-coe-state-park",
+      "documentId": "eph84-10",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides directions to Henry Coe State Park, located east of Gilroy off Hwy 101, past Anderson Reservoir. It includes crucial arrival instructions for visitors, especially after dark, advising on gate locking, parking outside to scout an observing site, and using parking lights only. The ranger station club combination is also provided.",
+      "categories": [
+        "Directions",
+        "Park Information",
+        "Visitor Guidelines",
+        "Observing Location"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "Directions",
+        "Gilroy",
+        "Hwy 101",
+        "Anderson Reservoir",
+        "Gate",
+        "Parking",
+        "Observing site",
+        "Night arrival",
+        "Ranger station"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-indoor-star-parties",
+      "documentId": "eph84-10",
+      "title": "INDOOR STAR PARTIES:",
+      "summary": "This document announces an 'INDOOR STAR PARTY' event to be held at the Los Gatos Red Cross Building. It provides detailed directions to the venue, which will open at 8 PM, and includes a reference to a map for assistance.",
+      "categories": [
+        "events",
+        "announcement",
+        "observing reports"
+      ],
+      "keywords": [
+        "Indoor Star Party",
+        "Los Gatos",
+        "Red Cross Building",
+        "astronomy event",
+        "directions",
+        "event location",
+        "event time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-grant-ranch-county-park",
+      "documentId": "eph84-10",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "Grant Ranch County Park is introduced as a new observing site for the SJAA, conveniently located on Mt. Hamilton Road, halfway between San Jose and Lick Observatory. The article provides precise driving directions and essential access instructions for after sunset, including a combination lock (4565) sequence for the park gate and a reminder to relock it.",
+      "categories": [
+        "Site Information",
+        "Practical Information",
+        "News"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Observing site",
+        "Mt. Hamilton Road",
+        "Lick Observatory",
+        "Directions",
+        "Gate access",
+        "Combination lock"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-fremont-peak-state-park",
+      "documentId": "eph84-10",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, starting from Hwy 101 South, and guides visitors to the SJAA setup location at the Coulter Camp overflow area. It also includes a crucial reminder to use parking lights only after dark within the park.",
+      "categories": [
+        "Observing Site Information",
+        "Directions",
+        "Park Information",
+        "Event Logistics"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Coulter Camp",
+        "SJAA",
+        "Directions",
+        "Observing Site",
+        "Parking Rules",
+        "Hwy 101",
+        "Hwy 156"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-ephemeris",
+      "documentId": "eph84-10",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled EPHEMERIS, is a monthly publication by the San Jose Astronomical Association. It lists the association's key personnel, including the President, Vice-President, Secretary, Treasurer, Board of Directors, and the EPHEMERIS Editor, along with their contact information.",
+      "categories": [
+        "Organizational Information",
+        "Publication",
+        "Contact Directory",
+        "Astronomy Club News"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "San Jose Astronomical Association",
+        "Officers",
+        "Board of Directors",
+        "Astronomy Club",
+        "Newsletter",
+        "Contact Information"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-10-membership-benefits",
+      "documentId": "eph84-10",
+      "title": "MEMBERSHIP BENEFITS",
+      "summary": "The San Jose Astronomical Association provides a community where members can connect and share knowledge across a wide range of astronomical interests. These interests include deep-sky observing, astronomy computing, telescope making, and eclipses, fostering a collaborative environment for enthusiasts.",
+      "categories": [
+        "Membership",
+        "Astronomy Club",
+        "Amateur Astronomy",
+        "Community"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Deep-sky observing",
+        "Astronomy",
+        "Computerized telescope making",
+        "Eclipses",
+        "Knowledge sharing",
+        "Membership benefits"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-activities",
+      "documentId": "eph84-10",
+      "title": "ACTIVITIES",
+      "summary": "The San Jose Astronomical Association (SJAA) sponsors diverse astronomical activities, including weekly Saturday night events, monthly meetings, Star Parties for deep observing, and \"Indoor Star Parties\" for equipment and idea exchange. While participation is open to all, membership offers advantages such as a subscription to Sky and Telescope, a monthly newsletter, and access to club telescopes and a library. The SJAA is a non-profit group dedicated to promoting astronomy and public interest.",
+      "categories": [
+        "Club Information",
+        "Events",
+        "Membership",
+        "Activities"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Astronomy",
+        "Star Parties",
+        "Observing sessions",
+        "Monthly meetings",
+        "Indoor Star Parties",
+        "Membership benefits",
+        "Sky and Telescope magazine",
+        "Club telescopes",
+        "Amateur astronomy",
+        "Non-profit group"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-san-jose-astronomical-association-membership-application",
+      "documentId": "eph84-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It requests basic contact information (name, address, telephone) and allows individuals to apply for adult, junior, or bulletin-only memberships. The form also provides instructions for submission and contact details for the association's treasurer.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Organizations",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Astronomy Club",
+        "Application Form",
+        "Membership",
+        "Subscription",
+        "Contact Information",
+        "Milpitas"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-questionnaire-optional",
+      "documentId": "eph84-10",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire designed to gather information about an individual's astronomical interests, including specific areas like astro-photography or telescope making. It also inquires about telescope ownership and whether the respondent feels qualified to assist others in any specific area of astronomy.",
+      "categories": [
+        "Survey",
+        "Community Engagement",
+        "Interest Profiling"
+      ],
+      "keywords": [
+        "Questionnaire",
+        "Astronomy interests",
+        "Telescope ownership",
+        "Astrophotography",
+        "Deep-sky observation",
+        "Telescope making",
+        "Expertise sharing",
+        "Member profiling"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-10-periodic-comet-arend-rigaux-1984k",
+      "documentId": "eph84-10",
+      "title": "PERIODIC COMET AREND-RIGAUX (1984k)",
+      "summary": "J. Gibson successfully recovered Periodic Comet Arend-Rigaux (1984k) on August 7, observing it at magnitude 18.5 in the constellation Taurus using a 48\" Schmidt instrument. With an orbital period of 6.8 years, the comet will reach perihelion at 1.4 AU on December 1, brightening to an expected eleventh magnitude in the morning sky, with an ephemeris to follow next month.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Astronomy",
+        "Astronomical News"
+      ],
+      "keywords": [
+        "Periodic Comet Arend-Rigaux",
+        "Comet recovery",
+        "J. Gibson",
+        "Schmidt telescope",
+        "Taurus",
+        "Orbital period",
+        "Perihelion",
+        "Ephemeris"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-periodic-comet-gehrels-3-1984i",
+      "documentId": "eph84-10",
+      "title": "PERIODIC COMET GEHRELS 3 (1984i)",
+      "summary": "Periodic Comet Gehrels 3 (1984i) was recovered by J. Gibson, only 25 degrees away from a previously recovered comet. It is expected to reach perihelion on July 14, 1985, at 4.25 AU from the Sun. Currently magnitude 20, it is not projected to exceed magnitude 16, and has an orbital period of 8.1 years.",
+      "categories": [
+        "Cometary Science",
+        "Observing Reports",
+        "Discovery/Recovery"
+      ],
+      "keywords": [
+        "Comet Gehrels 3",
+        "1984i",
+        "J. Gibson",
+        "Comet recovery",
+        "Perihelion",
+        "Magnitude",
+        "Orbital period"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-halley-s-comet-on-october-15",
+      "documentId": "eph84-10",
+      "title": "HALLEY'S COMET ON OCTOBER 15:",
+      "summary": "This document provides precise astronomical data for Halley's Comet on October 15, including its Right Ascension (RA) and Declination (Dec) coordinates. It also lists the comet's distances from the Sun and Earth, as well as its estimated visual magnitude of 18.1.",
+      "categories": [
+        "Ephemeris Data",
+        "Observing Reports",
+        "Comets",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Comet",
+        "RA",
+        "Dec",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Distance from Sun",
+        "Distance from Earth",
+        "Astronomy",
+        "Ephemeris",
+        "Observational Data",
+        "October 15"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-comet-austin-1984i",
+      "documentId": "eph84-10",
+      "title": "Comet Austin (1984i)",
+      "summary": "This article provides an observational guide for Comet Austin (1984i), listing its predicted celestial coordinates, elongation, and visual magnitude from late September to mid-November. It notes the comet will be fading in the morning sky as it recedes from both Earth and the Sun, becoming fainter and more diffuse. Observers are encouraged to attempt detection before it becomes too difficult to spot by early November.",
+      "categories": [
+        "observing guide",
+        "comets",
+        "astronomy",
+        "observational data"
+      ],
+      "keywords": [
+        "Comet Austin (1984i)",
+        "comet",
+        "observing",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "elongation",
+        "morning sky",
+        "fading",
+        "celestial mechanics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-periodic-comet-takamizawa-1984j",
+      "documentId": "eph84-10",
+      "title": "Periodic Comet Takamizawa (1984J)",
+      "summary": "The article presents an ephemeris for Periodic Comet Takamizawa (1984J), detailing its Right Ascension, Declination, and magnitude from late September to early November. It notes that the comet is receding from both Earth and the Sun, and due to its apparent instability, there's a possibility of future outbursts affecting its predicted magnitude.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Periodic Comet Takamizawa (1984J)",
+        "Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Outburst",
+        "Observational Data",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-past-discoveries",
+      "documentId": "eph84-10",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article challenges common misconceptions about comet discoveries, noting that amateur astronomers frequently find them high in the dark sky, not solely near the horizon at astronomical twilight. It introduces a study analyzing 38 discoveries of 28 comets, detailing their azimuth, altitude, and the time relative to astronomical twilight at the moment of discovery.",
+      "categories": [
+        "Astronomical Discoveries",
+        "Observing Practices",
+        "Research Study"
+      ],
+      "keywords": [
+        "Comets",
+        "Discovery",
+        "Amateur astronomers",
+        "Astronomical twilight",
+        "Observing",
+        "Azimuth",
+        "Altitude",
+        "Study"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-evenings",
+      "documentId": "eph84-10",
+      "title": "EVENINGS",
+      "summary": "This document presents observational data, likely from an evening astronomical session. It features a grid chart plotting altitude against azimuth, potentially indicating celestial object positions or observation frequency. The data includes calculated average values for azimuth, altitude, and time elapsed after astronomical twilight.",
+      "categories": [
+        "observing reports",
+        "astronomy",
+        "data analysis"
+      ],
+      "keywords": [
+        "azimuth",
+        "altitude",
+        "astronomical twilight",
+        "observation data",
+        "celestial coordinates",
+        "evening observations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-mornings",
+      "documentId": "eph84-10",
+      "title": "MORNINGS",
+      "summary": "The document, titled \"MORNINGS,\" presents observational data, likely astronomical, displayed in a grid format with corresponding numerical values. It includes calculated averages for azimuth, altitude, and time before astronomical twilight, summarizing a set of morning observations.",
+      "categories": [
+        "Observing Reports",
+        "Data Analysis",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Mornings",
+        "Observations",
+        "Azimuth",
+        "Altitude",
+        "Astronomical Twilight",
+        "Data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-discovery-completes-first-flight",
+      "documentId": "eph84-10",
+      "title": "DISCOVERY COMPLETES FIRST FLIGHT",
+      "summary": "The space shuttle Discovery successfully completed its inaugural flight from August 30 to September 5, returning in excellent condition after accomplishing most mission objectives. Key activities included deploying communications satellites, testing a solar array and space station structural stability, and conducting various scientific experiments such as hormone production, fluid mechanics research, and growing the first iridium crystal in space. The mission also carried an IMAX camera for the Smithsonian Institution.",
+      "categories": [
+        "Space Mission Report",
+        "Space Science",
+        "Technology Development",
+        "Space Exploration News"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Maiden Flight",
+        "Satellite Deployment",
+        "Navy Leasat",
+        "Solar Array Testing",
+        "Space Station Development",
+        "Microgravity Experiments",
+        "Hormone Production",
+        "Crystal Growth",
+        "Iridium Crystal",
+        "Fluid Dynamics",
+        "IMAX Camera"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-teacher-to-fly-on-the-shuttle",
+      "documentId": "eph84-10",
+      "title": "TEACHER TO FLY ON THE SHUTTLE",
+      "summary": "President Reagan has announced that an elementary or secondary school teacher will be the first participant selected for the space shuttle flight program. This groundbreaking flight is anticipated to take place by late 1985 or early 1986, marking a significant educational outreach initiative for the space program.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Education",
+        "Government Announcement"
+      ],
+      "keywords": [
+        "President Reagan",
+        "Space Shuttle",
+        "Teacher in Space",
+        "NASA",
+        "Space Flight",
+        "Shuttle Flight Participant Program",
+        "1985",
+        "1986"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-10-challenger-scheduled-for-oct-1-launch",
+      "documentId": "eph84-10",
+      "title": "CHALLENGER SCHEDULED FOR OCT. 1 LAUNCH",
+      "summary": "The Space Shuttle Challenger's 41-G mission is set for an October 5th launch, featuring an 8-day flight with a seven-person crew, including the first American woman to perform a spacewalk. The mission will include a Canadian/Earth viewing payload and a spacewalk practice for upcoming satellite retrievals.",
+      "categories": [
+        "Space Mission",
+        "News",
+        "Space Shuttle Program",
+        "Manned Spaceflight"
+      ],
+      "keywords": [
+        "Challenger",
+        "STS-41G",
+        "Space Shuttle",
+        "NASA",
+        "Spaceflight",
+        "Astronauts",
+        "Spacewalk",
+        "Kathryn D. Sullivan",
+        "Marc Garneau",
+        "Satellite Retrieval"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-discovery-s-second-flight-scheduled-for-nov-2",
+      "documentId": "eph84-10",
+      "title": "DISCOVERY'S SECOND FLIGHT SCHEDULED FOR NOV. 2",
+      "summary": "NASA's Space Shuttle Discovery is scheduled for its second flight, mission 51-A, on November 2nd. This 6-day mission will carry a crew of six, including Commander Frederick H. Hauck, and aims to deploy several scientific payloads while also retrieving the Palapa B-2 and Westar-VI satellites that were previously placed in incorrect orbits.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Mission Details",
+        "Astronomy Events"
+      ],
+      "keywords": [
+        "Discovery",
+        "Space Shuttle",
+        "Mission 51-A",
+        "Palapa B-2",
+        "Westar-VI",
+        "Satellite Retrieval",
+        "NASA",
+        "Scientific Payloads",
+        "Frederick H. Hauck"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-europe-offers-columbus-to-u-s-space-station",
+      "documentId": "eph84-10",
+      "title": "EUROPE OFFERS \"COLUMBUS\" TO U.S. SPACE STATION",
+      "summary": "A German and Italian partnership has proposed the \"Columbus\" module, a free-flying version of the European Spacelab, designed to orbit in parallel with the U.S. space station. This initiative aims to provide Europe with greater independence from the U.S. and foster the development of technology for a potential future European space station, rather than subcontracting for existing station components.",
+      "categories": [
+        "International Cooperation",
+        "Space Station Development",
+        "Space Technology",
+        "Future Plans"
+      ],
+      "keywords": [
+        "Columbus module",
+        "Space Station",
+        "Europe",
+        "U.S. Space Station",
+        "Germany",
+        "Italy",
+        "Spacelab",
+        "Technology Development",
+        "International Partnership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-calico-observatory",
+      "documentId": "eph84-10",
+      "title": "CALICO OBSERVATORY",
+      "summary": "Jim Van Nuland's \"Calico Observatory\" column discusses the impending end of the Jupiter-watching season, focusing on the observation of the Great Red Spot. He provides a schedule of GRS meridian transits for October and early November in PDT/PST, emphasizing the critical need for steady seeing conditions, and encourages readers to share their observing results.",
+      "categories": [
+        "Observing Report",
+        "Planetary Astronomy",
+        "Observing Guide"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Planetary Observation",
+        "Astronomy",
+        "Seeing Conditions",
+        "Meridian Transit",
+        "CALICO OBSERVATORY"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-atm-coatings",
+      "documentId": "eph84-10",
+      "title": "ATM coatings",
+      "summary": "ATM Coatings, located in Oakland, CA, specializes in applying aluminum coatings with a silicon monoxide over-coating to telescope mirrors. They provide a clear pricing structure for various mirror sizes, ranging from 4¼\" to 16\", and offer free coating for secondary mirrors when sent with a primary. Additional services include removal of old coatings for a fee, with customers responsible for return postage and insurance.",
+      "categories": [
+        "Commercial Offering",
+        "Services",
+        "Amateur Telescope Making (ATM)",
+        "Advertisements",
+        "Optical Services"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "telescope mirrors",
+        "aluminum coatings",
+        "silicon monoxide",
+        "mirror recoating",
+        "optical coatings",
+        "telescope services",
+        "mirror refurbishment",
+        "pricing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-10-lumicon",
+      "documentId": "eph84-10",
+      "title": "LUMICON®",
+      "summary": "This document primarily features an advertisement for Lumicon, an astronomy equipment retailer in Livermore, CA, known for its extensive in-stock selection of telescopes and accessories, particularly specializing as a 'World Center for Astrophotography.' It also includes mailing details for the 'SJAA EPHEMERIS,' indicating the time-sensitive nature of its contents.",
+      "categories": [
+        "Advertisement",
+        "Astronomy Equipment",
+        "Retail",
+        "Astrophotography",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Lumicon",
+        "Telescopes",
+        "Astronomy Accessories",
+        "Astrophotography",
+        "Livermore CA",
+        "SJAA Ephemeris",
+        "San Jose CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8410/Eph84_10.pdf",
+      "txtPath": "8410/Eph84_10.md"
+    }
+  ]
+}

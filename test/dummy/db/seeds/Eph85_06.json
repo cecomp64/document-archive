@@ -1,0 +1,840 @@
+{
+  "articles": [
+    {
+      "id": "eph85-06-june-1985",
+      "documentId": "eph85-06",
+      "title": "JUNE 1985",
+      "summary": "This article outlines the June and early July 1985 schedule for an astronomy club, featuring a general meeting, indoor star parties, observing expeditions, and a board meeting, culminating in major star parties at Yosemite and Fremont Peak. Additionally, it includes a 'Deep Sky Notes' column by Steve Gottlieb, offering a detailed observing guide for the spiral galaxy M101, complete with location tips, visibility descriptions, and telescopic views.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Club News",
+        "Astronomy Guide",
+        "Deep Sky Astronomy"
+      ],
+      "keywords": [
+        "June 1985",
+        "July 1985",
+        "Star Party",
+        "General Meeting",
+        "Board Meeting",
+        "Field Expedition",
+        "Yosemite National Park",
+        "Glacier Point",
+        "Fremont Peak State Park",
+        "Grant Ranch County Park",
+        "M101",
+        "Pinwheel Galaxy",
+        "Deep Sky Observing",
+        "Amateur Astronomy",
+        "Telescopes",
+        "Astrophotography",
+        "Steve Gottlieb",
+        "Jay Freeman",
+        "Galaxies",
+        "HII Regions"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph85-06-club-telescopes",
+      "documentId": "eph85-06",
+      "title": "CLUB TELESCOPES",
+      "summary": "This article provides an update on the status and location of several club telescopes, listing contact information for members holding the 14\" Dobson and 6\" telescopes for others to use. It also issues a call for assistance in locating two missing SJAA telescopes: a 12\" refractor and a 2.4\" refractor.",
+      "categories": [
+        "Club Announcements",
+        "Equipment Management",
+        "Member Resources"
+      ],
+      "keywords": [
+        "Club telescopes",
+        "Telescope loan",
+        "Missing telescopes",
+        "SJAA",
+        "Dobson telescope",
+        "Refractor telescope",
+        "Equipment access"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-yosemite-trip",
+      "documentId": "eph85-06",
+      "title": "YOSEMITE TRIP",
+      "summary": "The article announces an upcoming Yosemite Star Party scheduled for July 12th and 13th, reminding interested individuals to sign up soon. Participants need to contact Jim Van Nuland with details about their party size and vehicles to facilitate campsite reservations by SJAA staff.",
+      "categories": [
+        "Events",
+        "Announcement",
+        "Call to Action",
+        "Observing Report"
+      ],
+      "keywords": [
+        "Yosemite Trip",
+        "Star Party",
+        "July 12th/13th",
+        "Sign up",
+        "Campsites",
+        "SJAA",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-membership-renewals",
+      "documentId": "eph85-06",
+      "title": "MEMBERSHIP RENEWALS",
+      "summary": "SJAA members are reminded to renew their subscriptions by sending renewal cards from Sky and Telescope Magazine and checks payable to SJAA to Bob Fingerhut at the provided Milpitas address. Failure to renew by the end of June will result in the loss of Sky and Telescope subscriptions and issues of the Ephemeris.",
+      "categories": [
+        "membership",
+        "announcement",
+        "club operations"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership renewals",
+        "Sky and Telescope Magazine",
+        "Ephemeris",
+        "Bob Fingerhut",
+        "subscription"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-astronomical-auction-success",
+      "documentId": "eph85-06",
+      "title": "ASTRONOMICAL AUCTION SUCCESS",
+      "summary": "The SJAA successfully held its 5th annual Astronomical Auction on May 11th, attracting 150 attendees who bid on items from Space Shuttle tiles to telescopes. The event generated over $500 for operational costs and observatory sales, with many larger items selling unexpectedly well. The auction ran smoothly due to pre-registration and functioning computers, attracting many new faces who had previously visited the SJAA's Astronomy Day display.",
+      "categories": [
+        "event report",
+        "fundraising",
+        "club activities",
+        "observing reports"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "SJAA",
+        "Space Shuttle tiles",
+        "C11 telescope",
+        "fundraising",
+        "tax-deductible",
+        "Astronomy Day",
+        "Kevin Medlock",
+        "Jim Van Nuland",
+        "Jack Zeiders",
+        "Chris Pratt",
+        "Jack Peterson",
+        "Dave Ambrose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-cid-camera",
+      "documentId": "eph85-06",
+      "title": "CID CAMERA",
+      "summary": "Bruce de Graaf is seeking assistance from 'Astro Hackers' to get a new CID Camera, replacing a stolen unit, properly functioning with a television monitor, and plans to release more information soon. The document also provides a detailed guide on observing and sketching faint astronomical knots, referencing specific NGC objects (5447, 5462, 5455, 5445) and comparing modern observations with historical records like Burnham's CELESTIAL HANDBOOK and Rosse's 1851 sketch.",
+      "categories": [
+        "Technical Discussion",
+        "Astronomical Observation",
+        "Equipment Update",
+        "Historical Astronomy",
+        "Community Call"
+      ],
+      "keywords": [
+        "CID Camera",
+        "Astronomical Observation",
+        "NGC objects",
+        "Rosse's sketch",
+        "Burnham's Celestial Handbook",
+        "Equipment Troubleshooting",
+        "Visual Astronomy"
+      ],
+      "pageStart": 2001,
+      "pageEnd": 2001
+    },
+    {
+      "id": "eph85-06-sjaa-gets-tax-exempt-status",
+      "documentId": "eph85-06",
+      "title": "SJAA GETS TAX EXEMPT STATUS",
+      "summary": "The San Jose Astronomical Association (SJAA) has finally received its tax-exempt status after 30 years. This new status means that the EPHEMERIS newsletter will be mailed under non-profit rates, and all membership dues and contributions to the SJAA are now fully tax-deductible. The organization is encouraging donations.",
+      "categories": [
+        "news",
+        "organization update",
+        "finance",
+        "membership"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "tax exempt status",
+        "non-profit",
+        "donations",
+        "membership dues",
+        "tax deductible",
+        "EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-pardon-my-typo",
+      "documentId": "eph85-06",
+      "title": "PARDON MY TYPO",
+      "summary": "The author expresses gratitude for positive feedback on the May EPHEMERIS, noting that the newsletter's production is becoming more stable, with typographic and spelling errors being the primary remaining challenge. This current issue was produced entirely on a new Hewlett Packard 110 computer and ThinkJet printer, testing a new system in anticipation of potentially losing access to professional equipment. This change resulted in a slightly larger, easier-to-read print type.",
+      "categories": [
+        "Editorial",
+        "Newsletter Production",
+        "Technical Update"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "newsletter",
+        "typographic errors",
+        "spelling errors",
+        "word processing software",
+        "Hewlett Packard 110",
+        "ThinkJet printer",
+        "HP3000",
+        "Laser Printer"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3000
+    },
+    {
+      "id": "eph85-06-equipment",
+      "documentId": "eph85-06",
+      "title": "EQUIPMENT",
+      "summary": "This article discusses Celestron's potential 20\" telescope and the author's concerns about portability and cost for such a large instrument. The author then provides several suggestions for improving Celestron's existing product line, focusing on mechanical refinements like the worm drive, fork arm stability, paint options for heat management, and more meaningful accessories, while praising their current optical quality and silver coatings.",
+      "categories": [
+        "Equipment Review",
+        "Product Analysis",
+        "Technical Suggestions",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Celestron",
+        "Telescopes",
+        "Aperture",
+        "Portability",
+        "Worm drive",
+        "Fork arms",
+        "Optics",
+        "Silver coatings",
+        "Accessories",
+        "Astrophotography",
+        "Product improvement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-comet-comments",
+      "documentId": "eph85-06",
+      "title": "COMET COMMENTS",
+      "summary": "This article, 'COMET COMMENTS' by Don Machholz, reports on the recovery of three comets, noting a lower than usual total for the year. It details the recovery of Periodic Comet Russell 1 (1985b) and the unique amateur recovery of Periodic Comet Honda-Mrkos-Pajdusakova (1985c). The piece also provides an ephemeris and observing notes for Periodic Comet Giacobini-Zinner (1984e), mentioning its potential instability and connection to Giacobinid meteors, with a brief mention of Halley's Comet.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Astronomy",
+        "Comets",
+        "Amateur Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet recovery",
+        "Periodic Comets",
+        "Comet Shoemaker (1984f)",
+        "Comet Russell 1 (1985b)",
+        "Comet Honda-Mrkos-Pajdusakova (1985c)",
+        "Comet Giacobini-Zinner (1984e)",
+        "Halley's Comet",
+        "Giacobinid meteors",
+        "Amateur astronomers",
+        "Mt. Palomar",
+        "Observing",
+        "Magnitude",
+        "Orbital elements"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph85-06-comet-shoemaker-1984f",
+      "documentId": "eph85-06",
+      "title": "COMET SHOEMAKER (1984F)",
+      "summary": "Comet Shoemaker (1984F) is currently visible in the evening sky, described as diffuse and 1-2 arcminutes in size, though its far southern position makes observation challenging. The article provides an ephemeris listing its celestial coordinates, elongation, and predicted magnitude (around 11.3-11.6) for late May through early July, encouraging observers to attempt to view it.",
+      "categories": [
+        "Observing Guide",
+        "Comet",
+        "Ephemeris",
+        "News"
+      ],
+      "keywords": [
+        "Comet Shoemaker (1984F)",
+        "Comet observation",
+        "Ephemeris",
+        "Astronomical object",
+        "Magnitude",
+        "Celestial coordinates",
+        "Evening sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-what-goes-around-comes-around-halley-s",
+      "documentId": "eph85-06",
+      "title": "WHAT GOES AROUND COMES AROUND - HALLEY'S",
+      "summary": "The article provides an update on Halley's Comet, detailing its current position near the sun, anticipated visibility in late July, and updated orbital elements. It also lists various booklets and handbooks for observers interested in the comet. Separately, an observing report from Calico Observatory describes a recent sighting of Jupiter's \"Spot\" under challenging conditions, noting its shape and encouraging reader contributions.",
+      "categories": [
+        "Cometology",
+        "Planetary Observing",
+        "Amateur Astronomy",
+        "Astronomical Resources",
+        "Ephemerides"
+      ],
+      "keywords": [
+        "Halley's Comet",
+        "Jupiter",
+        "Great Red Spot",
+        "Comet observation",
+        "Planetary observation",
+        "Orbital elements",
+        "Amateur astronomy",
+        "Observing reports",
+        "Astronomical publications",
+        "Magnitude",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-great-red-spot",
+      "documentId": "eph85-06",
+      "title": "Great Red Spot",
+      "summary": "This document provides a schedule of predicted transit times for Jupiter's Great Red Spot (GRS) across the planet's central meridian. The table lists specific dates in June and July, along with corresponding times, including mentions of PDT, to aid in observing the GRS.",
+      "categories": [
+        "Observing Aids",
+        "Planetary Astronomy",
+        "Astronomical Events",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "GRS transit",
+        "observing schedule",
+        "planetary observation",
+        "astronomical prediction",
+        "ephemeris",
+        "time zones"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-space-program-update",
+      "documentId": "eph85-06",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "The Challenger shuttle successfully completed its Spacelab 3 mission, landing at Edwards AFB after extensive experimentation. The mission focused on materials and life science, with a notable achievement being the production of two large triglycine sulfate crystals for infrared detection, overcoming initial challenges.",
+      "categories": [
+        "Space Exploration",
+        "Scientific Research",
+        "Mission Report",
+        "News"
+      ],
+      "keywords": [
+        "Spacelab 3",
+        "Challenger",
+        "Space Shuttle",
+        "Materials Science",
+        "Life Science",
+        "Triglycine Sulfate Crystals",
+        "Infrared Detection",
+        "Edwards AFB"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph85-06-fourth-shuttle-orbiter-delivered",
+      "documentId": "eph85-06",
+      "title": "FOURTH SHUTTLE ORBITER DELIVERED",
+      "summary": "The fourth Space Shuttle Orbiter, Atlantis, was delivered to Kennedy Space Center on April 13th. Its inaugural launch is slated for September 26th.",
+      "categories": [
+        "news",
+        "space exploration",
+        "space program",
+        "events"
+      ],
+      "keywords": [
+        "Atlantis",
+        "Space Shuttle",
+        "Orbiter",
+        "Kennedy Space Center",
+        "launch",
+        "delivery",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-spacelab-d1-delivered-may-1-for-oct-16-launch",
+      "documentId": "eph85-06",
+      "title": "SPACELAB D1 DELIVERED MAY 1 FOR OCT. 16 LAUNCH",
+      "summary": "The Spacelab D1 mission, a dedicated German flight aboard the orbiter Columbia, was delivered on May 1 and is slated for an October 16 launch. It will host experiments across various scientific disciplines including botany, biology, medicine, materials science, and navigation.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Scientific Research",
+        "Upcoming Events"
+      ],
+      "keywords": [
+        "Spacelab D1",
+        "Columbia orbiter",
+        "German space mission",
+        "Space experiments",
+        "Botany",
+        "Biology",
+        "Materials science",
+        "Life sciences",
+        "Space launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-infrared-telescope-in-747-sp-proposed",
+      "documentId": "eph85-06",
+      "title": "INFRARED TELESCOPE IN 747 SP PROPOSED",
+      "summary": "NASA has initiated a feasibility study to investigate the potential of integrating a 3.0-3.5 meter infrared telescope into a 747SP aircraft. This ambitious project aims to establish an airborne observatory, with a target operational date set for 1989.",
+      "categories": [
+        "news",
+        "project proposal",
+        "technical development",
+        "astronomy"
+      ],
+      "keywords": [
+        "infrared telescope",
+        "747 SP",
+        "NASA",
+        "feasibility study",
+        "airborne observatory",
+        "astronomy project",
+        "aerospace"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-nasa-noaa-dispute-settled",
+      "documentId": "eph85-06",
+      "title": "NASA - NOAA DISPUTE SETTLED",
+      "summary": "A dispute between NASA and NOAA regarding the launch of Tiros-N weather satellites has been settled. NOAA initially preferred Titan boosters, but the agreement mandates launches on the Space Shuttle, granting NASA full budget authority for these launches and modifications to NOAA's K, L, and M spacecraft. Additionally, NOAA will provide environmental remote sensing instruments for a polar orbiting platform to operate with the U.S. space station.",
+      "categories": [
+        "Inter-agency Agreement",
+        "Space Policy",
+        "Program Management",
+        "Space Launch"
+      ],
+      "keywords": [
+        "NASA",
+        "NOAA",
+        "Dispute Settlement",
+        "Tiros-N",
+        "Space Shuttle",
+        "Titan Booster",
+        "Budget Authority",
+        "Spacecraft Modifications",
+        "Environmental Remote Sensing",
+        "Polar Orbiting Platform",
+        "Space Station"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-sound-suppression-system-tested-at-vandenberg-afb",
+      "documentId": "eph85-06",
+      "title": "SOUND SUPPRESSION SYSTEM TESTED AT VANDENBERG AFB",
+      "summary": "A sound suppression system underwent successful testing at Vandenberg AFB. The test involved the space shuttle orbiter Enterprise, which was stacked on the launch pad during the operation.",
+      "categories": [
+        "News",
+        "Space Operations",
+        "Testing",
+        "Aerospace Technology"
+      ],
+      "keywords": [
+        "Sound Suppression System",
+        "Vandenberg AFB",
+        "Space Shuttle Enterprise",
+        "Launch Pad",
+        "Test",
+        "Aerospace"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-medical-hormone-produced-on-flight-51-d-in-flight-51-d-in-april",
+      "documentId": "eph85-06",
+      "title": "MEDICAL HORMONE PRODUCED ON FLIGHT 51-D IN FLIGHT 51-D IN APRIL",
+      "summary": "An electrophoresis experiment on Space Shuttle Flight 51-D successfully processed 100% of its sample, producing an unidentified medical hormone. Enough of the hormone was created to begin testing, with a potential market release by 1988. McDonnell Douglas has requested a payload specialist for mission 51-B in November, which will utilize a new payload bay processing system.",
+      "categories": [
+        "Space Missions",
+        "Biotechnology",
+        "Medical Research",
+        "Space Exploration News"
+      ],
+      "keywords": [
+        "Flight 51-D",
+        "electrophoresis",
+        "medical hormone",
+        "McDonnell Douglas",
+        "payload specialist",
+        "Mission 51-B",
+        "space research",
+        "biomedical production"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-club-telescopes",
+      "documentId": "eph85-06",
+      "title": "CLUB TELESCOPES",
+      "summary": "The article outlines the San Jose Astronomical Association's (SJAA) telescope loan program for its members and provides information on free astronomical want ads in their Ephemeris bulletin. It also details various scientific experiments conducted during a space flight, covering topics such as crystal growth, fluid dynamics, atmospheric chemistry, auroral observations, animal adaptation to zero-g, satellite deployment, and motion sickness research, often noting technical issues and partial successes encountered during these missions.",
+      "categories": [
+        "Club News",
+        "Member Services",
+        "Space Research",
+        "Scientific Experiments",
+        "Astronomy",
+        "Aerospace"
+      ],
+      "keywords": [
+        "SJAA",
+        "telescopes",
+        "loan program",
+        "Ephemeris",
+        "space flight",
+        "scientific experiments",
+        "crystal growth",
+        "fluid dynamics",
+        "atmospheric chemistry",
+        "ozone depletion",
+        "greenhouse effects",
+        "aurora",
+        "geomagnetic storm",
+        "animal studies",
+        "zero-g",
+        "satellite deployment",
+        "motion sickness",
+        "Challenger"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-in-orbit-repair-of-leasat-planned",
+      "documentId": "eph85-06",
+      "title": "IN ORBIT REPAIR OF LEASAT PLANNED",
+      "summary": "NASA has devised a plan for an in-orbit repair of a Leasat satellite during mission 51-I in August. The repair involves bypassing a sequencer and ordering the satellite to fire its booster to transfer to geosynchronous orbit, which will require a spacewalk. A second Leasat satellite is also scheduled for launch on the same mission.",
+      "categories": [
+        "news",
+        "space missions",
+        "satellite operations",
+        "technical"
+      ],
+      "keywords": [
+        "Leasat",
+        "in-orbit repair",
+        "NASA",
+        "mission 51-I",
+        "spacewalk",
+        "geosynchronous orbit",
+        "satellite"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph85-06-astronomy-day",
+      "documentId": "eph85-06",
+      "title": "ASTRONOMY DAY",
+      "summary": "The SJAA successfully hosted an Astronomy Day display at Eastridge Shopping Mall in Cupertino, attracting nearly 500 people. The event featured various telescopes, a slide show, and astrophotography information, generating significant interest in astronomy and Halley's Comet, even among those previously unaware of the organization. Despite being held indoors for the first time, it was a huge success, with organizers hoping to see new faces at future meetings.",
+      "categories": [
+        "Event Report",
+        "Outreach",
+        "News"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "SJAA",
+        "Eastridge Shopping Mall",
+        "Cupertino",
+        "Telescopes",
+        "Astrophotography",
+        "Halley's Comet",
+        "Public Engagement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-crowded-peak",
+      "documentId": "eph85-06",
+      "title": "CROWDED PEAK",
+      "summary": "The article reports on a large gathering of amateur astronomers at Fremont Peak State Park on May 18th, despite poor weather and observing conditions. It details various observations, including impressive views through a 16\" telescope and a new 4\" fluorite refractor, which is extensively compared to a 4\" achromat. The piece also covers a technical issue with a Celestron C11 clock drive and the discovery that Celestron had adopted a design by one of the attendees.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Technical Review",
+        "Events"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Amateur astronomy",
+        "Telescope observation",
+        "Fluorite refractor",
+        "Achromat refractor",
+        "Celestron",
+        "Clock drive",
+        "Eyepieces",
+        "Barlow lenses",
+        "Double stars",
+        "Coma cluster"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph85-06-general-meetings",
+      "documentId": "eph85-06",
+      "title": "GENERAL MEETINGS:",
+      "summary": "This document provides logistical details for the SJAA's general meetings and \"Indoor Star Parties,\" which are held monthly at the Los Gatos Red Cross building in Los Gatos, California. It includes the full address and detailed driving directions from Hwy 17 South, noting that meetings commence at 8 PM.",
+      "categories": [
+        "Meetings",
+        "Events",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "General Meetings",
+        "Los Gatos",
+        "Red Cross",
+        "SJAA",
+        "Indoor Star Parties",
+        "Meeting Location",
+        "Directions",
+        "Meeting Time"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-grant-ranch-county-park",
+      "documentId": "eph85-06",
+      "title": "GRANT RANCH COUNTY PARK:",
+      "summary": "Grant Ranch County Park is highlighted as a popular observing site for the San Jose Astronomical Association (SJAA), providing detailed directions via Mt. Hamilton Road. The article includes crucial access information, such as a combination lock for the park gate (sequence 4565) and mentions an additional observing area further up the road. Users are reminded to re-lock the gate after use.",
+      "categories": [
+        "Observing Site Guide",
+        "Location Information",
+        "Astronomy Club Information"
+      ],
+      "keywords": [
+        "Grant Ranch County Park",
+        "SJAA",
+        "Observing site",
+        "Directions",
+        "Mt. Hamilton Road",
+        "Gate access",
+        "Stargazing",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-henry-coe-state-park",
+      "documentId": "eph85-06",
+      "title": "HENRY COE STATE PARK:",
+      "summary": "This document provides detailed driving directions to Henry Coe State Park, starting from Hwy 101 South near Gilroy, and includes instructions for accessing the park's observing site. It specifies the club gate combination, emphasizes locking the gate, and advises on parking procedures, especially when arriving after dark, to ensure a smooth and safe observing experience.",
+      "categories": [
+        "observing site guide",
+        "directions",
+        "access information",
+        "park rules"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "directions",
+        "observing site",
+        "gate code",
+        "parking",
+        "Anderson Reservoir",
+        "East Dunne exit",
+        "Hwy 101"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-fremont-peak-state-park",
+      "documentId": "eph85-06",
+      "title": "FREMONT PEAK STATE PARK:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, specifically guiding visitors to Coulter Camp where the San Jose Astronomical Association (SJAA) sets up. It includes turn-by-turn instructions from Hwy 101, a basic map, and a crucial reminder to use parking lights only after dark. The piece also identifies EPHEMERIS as a monthly publication of the SJAA.",
+      "categories": [
+        "Observing Sites",
+        "Directions",
+        "Community Information",
+        "Guidelines"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Coulter Camp",
+        "San Jose Astronomical Association",
+        "Directions",
+        "Stargazing",
+        "California",
+        "Parking Rules"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-officers",
+      "documentId": "eph85-06",
+      "title": "OFFICERS:",
+      "summary": "This document lists the current officers of an organization, detailing the roles of President, Vice-President, Secretary, and Treasurer. It provides their names, mailing addresses, and contact phone numbers for each position. Notably, Robert Fingerhut holds both the President and Treasurer roles.",
+      "categories": [
+        "Organization Administration",
+        "Contact Information",
+        "Directory"
+      ],
+      "keywords": [
+        "Officers",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Contact details",
+        "Administration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-board-of-directors",
+      "documentId": "eph85-06",
+      "title": "BOARD OF DIRECTORS:",
+      "summary": "This document lists the members of the Board of Directors, including Paul Mancuso, Steve Greenberg, Tom Ahl, Gene Cisheros, Joe Sunseri, Chris Pratt, and Denni Medlock. Each director's name is accompanied by their respective phone number, providing direct contact information for the board.",
+      "categories": [
+        "Organizational Information",
+        "Directory",
+        "Contact List"
+      ],
+      "keywords": [
+        "Board of Directors",
+        "contact information",
+        "phone numbers",
+        "organizational structure",
+        "Paul Mancuso",
+        "Steve Greenberg",
+        "Tom Ahl",
+        "Gene Cisheros",
+        "Joe Sunseri",
+        "Chris Pratt",
+        "Denni Medlock"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-ephemeris-editor",
+      "documentId": "eph85-06",
+      "title": "EPHEMERIS EDITOR:",
+      "summary": "This document introduces an 'Ephemeris Editor' tool, likely a software application designed for managing astronomical ephemerides. It provides contact details for its creator, John P. Gleason, including his address and phone number.",
+      "categories": [
+        "Technical",
+        "Software",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Ephemeris Editor",
+        "Ephemeris",
+        "Software",
+        "Tool",
+        "John P. Gleason",
+        "Astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph85-06-san-jose-astronomical-association-membership-application",
+      "documentId": "eph85-06",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document serves as a membership application for the San Jose Astronomical Association (SJAA), detailing various membership options and their corresponding fees. It outlines categories such as adult, junior, and memberships bundled with a Sky & Telescope subscription. The application also provides submission instructions, including mailing to the treasurer or bringing it to an SJAA meeting, along with contact information.",
+      "categories": [
+        "Membership",
+        "Application",
+        "Organization Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Membership Application",
+        "Membership Fees",
+        "Junior Membership",
+        "Adult Membership",
+        "Sky & Telescope",
+        "Astronomy Club",
+        "Dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph85-06-questionnaire-optional",
+      "documentId": "eph85-06",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire designed to gather information about an individual's astronomical interests (e.g., astrophotography, deep-sky observation, telescope making) and telescope ownership. It also asks if the respondent is qualified to assist others in specific areas of astronomy. The latter part of the document includes postal information for SJAA EPHEMERIS, indicating it's time-sensitive news material distributed via bulk rate.",
+      "categories": [
+        "Questionnaire",
+        "Membership Form",
+        "Astronomy Club Activity",
+        "Administrative"
+      ],
+      "keywords": [
+        "astronomical interests",
+        "astro-photography",
+        "deep-sky observation",
+        "telescope making",
+        "telescope ownership",
+        "astronomy club",
+        "SJAA Ephemeris",
+        "membership survey"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph85-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8506/Eph85_06.pdf",
+      "txtPath": "8506/Eph85_06.md"
+    }
+  ]
+}

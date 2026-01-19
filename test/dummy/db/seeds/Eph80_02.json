@@ -1,0 +1,365 @@
+{
+  "articles": [
+    {
+      "id": "eph80-02-observations",
+      "documentId": "eph80-02",
+      "title": "Observations",
+      "summary": "The San Jose Astronomical Association (SJAA) held an enthusiastic January indoor star party, featuring guest Walter Scott Houston, which also served as a board meeting. Key discussions included plans for Astronomy Day 1980, which is a nation-wide event with a prize from Edmund Scientific, and the nomination of Paul Zurakewski for the G. Bruce Blair gold medal. The club is also seeking a new publicity chairman.",
+      "categories": [
+        "Club News",
+        "Event Planning",
+        "Awards & Recognition",
+        "Club Administration",
+        "Observing Events"
+      ],
+      "keywords": [
+        "SJAA",
+        "Indoor Star Party",
+        "Astronomy Day 1980",
+        "Walter Scott Houston",
+        "Edmund Scientific Co.",
+        "Paul Zurakewski",
+        "Telescope Makers' Workshop",
+        "G. Bruce Blair Gold Medal",
+        "Western Amateur Astronomers",
+        "Planetariums",
+        "Volunteer Opportunities"
+      ],
+      "pageStart": 64,
+      "pageEnd": 64
+    },
+    {
+      "id": "eph80-02-wants-ads",
+      "documentId": "eph80-02",
+      "title": "WANTS ADS",
+      "summary": "This article is a classifieds section featuring multiple advertisements for astronomical equipment. It includes listings for various telescopes, such as a C-8, 6-inch, 10-inch, and 12-3/8-inch reflectors, along with accessories like mounts, eyepieces, and filters. The ads cover both items for sale and specific equipment being sought, with options for direct purchase or trade.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Equipment",
+        "For Sale",
+        "Wanted"
+      ],
+      "keywords": [
+        "Telescope",
+        "C-8",
+        "Newtonian telescope",
+        "Reflector telescope",
+        "Mount",
+        "Tripod",
+        "Sun filter",
+        "Drive corrector",
+        "Camera adapters",
+        "Eyepieces",
+        "Altazimuth mount",
+        "Equatorial mounting",
+        "Coulter optics",
+        "Astronomy equipment"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-02-comet-comments",
+      "documentId": "eph80-02",
+      "title": "COMET COMMENTS",
+      "summary": "Three new comets have recently been identified, comprising two faint recoveries and one bright discovery, bringing the year's total to twelve. The article details Periodic Comet Reinmuth I (1979j) and Periodic Comet Schwassmann-Wachmann 2 (1979k), both faint recoveries by Harvard astronomers. Most notably, Comet Bradfield (1979l) was discovered by William Bradfield as a bright magnitude 5 object, expected to become visible in the northern hemisphere in late January.",
+      "categories": [
+        "Comet Discoveries",
+        "Astronomical Observations",
+        "News"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Reinmuth I",
+        "Comet Schwassmann-Wachmann 2",
+        "Comet Bradfield",
+        "William Bradfield",
+        "G. Schwartz",
+        "C-Y Shao",
+        "Discovery",
+        "Recovery",
+        "Magnitude",
+        "1979",
+        "Astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-02-the-comets-of-1979",
+      "documentId": "eph80-02",
+      "title": "The Comets of 1979",
+      "summary": "This article provides a comprehensive listing of comet observations and discoveries made during the year 1979. It details both new discoveries by amateur and professional astronomers, including names, countries, discovery dates, and magnitudes. Additionally, it lists professional recoveries of previously known returning comets, noting the recoverers, countries, dates, and magnitudes.",
+      "categories": [
+        "Astronomical Discoveries",
+        "Observing Reports",
+        "Cometology",
+        "Historical Data"
+      ],
+      "keywords": [
+        "Comets",
+        "1979",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Amateur Astronomy",
+        "Professional Astronomy",
+        "Bradfield",
+        "Meier",
+        "Kowal",
+        "Schwassmann-Wachmann"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-02-comets-in-their-eyes",
+      "documentId": "eph80-02",
+      "title": "COMETS IN THEIR EYES:",
+      "summary": "This article introduces two prominent historical figures, Edmund Halley and Charles Messier, in relation to comets. Halley is highlighted for his prediction of the return of the comet now named after him, despite not discovering any comets himself. Messier, though a discoverer of multiple comets, is noted as being more famous for other contributions to astronomy.",
+      "categories": [
+        "Astronomy History",
+        "Comets",
+        "Biographical",
+        "Observational Astronomy"
+      ],
+      "keywords": [
+        "Edmund Halley",
+        "Halley's Comet",
+        "Charles Messier",
+        "Comets",
+        "Comet orbits",
+        "Comet prediction",
+        "1758",
+        "1986"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-02-comet-hunters",
+      "documentId": "eph80-02",
+      "title": "Comet Hunters",
+      "summary": "This article, the initial installment of the \"Comet in their eyes\" series, profiles two notable comet hunters. It highlights William Bradfield, a highly successful active amateur from South Australia, detailing his equipment, observation methods, and significant number of discoveries. The text also briefly touches upon another historical figure's observing tools and catalog, setting the stage for future installments.",
+      "categories": [
+        "Amateur Astronomy",
+        "Profiles",
+        "Observational Techniques",
+        "Historical Astronomy",
+        "Series Introduction"
+      ],
+      "keywords": [
+        "Comet hunting",
+        "Amateur astronomy",
+        "William Bradfield",
+        "Comet discovery",
+        "Refractors",
+        "Observational methods",
+        "Astronomical equipment",
+        "Moonwatch program",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-02-ephemeris-for-comet-bradfield-1979l",
+      "documentId": "eph80-02",
+      "title": "Ephemeris for Comet Bradfield ( 1979l):",
+      "summary": "This document provides an ephemeris for Comet Bradfield (1979l), detailing its celestial path as it transitions from the morning to evening sky and makes a close approach to Earth on January 26th. It includes a table listing the comet's Right Ascension, Declination, and estimated magnitude for dates between January 26 and February 03.",
+      "categories": [
+        "Ephemeris",
+        "Comets",
+        "Observing Information",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comet Bradfield 1979l",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comet Trajectory",
+        "Observing Guide"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-02-the-1980-messier-marathon",
+      "documentId": "eph80-02",
+      "title": "The 1980 MESSIER MARATHON",
+      "summary": "The article announces the 1980 Messier Marathon, an annual star party encouraging observers to view all Messier Objects on moonless nights, scheduled for March 14-16 at Loma Prieta. Additionally, it features an observing report from Jim van Nuland detailing his November 1979 observations of Jupiter, Mars, and the rare \"ringless\" appearance of Saturn, highlighting a culmination of his long-term observations.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Amateur Astronomy News",
+        "Star Parties"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "1980",
+        "Messier Objects",
+        "Loma Prieta",
+        "Jupiter",
+        "Great Red Spot",
+        "Mars",
+        "Saturn",
+        "Ring closure",
+        "New Moon",
+        "Don Machholz",
+        "Jim van Nuland",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-02-great-red-spot-on-meridian-pst",
+      "documentId": "eph80-02",
+      "title": "Great Red Spot on meridian PST",
+      "summary": "This document provides a schedule of dates and times in Pacific Standard Time (PST) when Jupiter's Great Red Spot (GRS) will be on the central meridian. The list spans from January 23rd to February 29th, detailing multiple observation opportunities across the specified period. It serves as a guide for observers interested in viewing this prominent feature of Jupiter.",
+      "categories": [
+        "observing reports",
+        "events",
+        "planetary astronomy",
+        "schedule"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "GRS",
+        "Jupiter",
+        "meridian",
+        "PST",
+        "observation schedule",
+        "astronomy",
+        "planetary observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-02-rattley-rattles",
+      "documentId": "eph80-02",
+      "title": "Rattley Rattles",
+      "summary": "This article, \"Rattley Rattles,\" presents the results of a club questionnaire, reflecting member attitudes and preferences despite a low 15% response rate. It details feedback on general meetings, star party formats and locations, and suggestions for the club bulletin. The club board acknowledges the member input and indicates they are working to address the issues and suggestions raised.",
+      "categories": [
+        "Club Administration",
+        "Member Feedback",
+        "Survey Results",
+        "Club Operations"
+      ],
+      "keywords": [
+        "questionnaire",
+        "member survey",
+        "club meetings",
+        "star parties",
+        "club bulletin",
+        "member preferences",
+        "astronomy club",
+        "program content",
+        "location preferences"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-02-directions-to-the-alternate-star-party-on-february-16-for-those-who-are-bored-with-henry-coe-state-park",
+      "documentId": "eph80-02",
+      "title": "Directions to the alternate star party on February 16 (for those who are bored with Henry Coe State Park).",
+      "summary": "This satirical article provides humorously elaborate, globe-trotting directions from San Jose to an \"alternate\" star party in Voi, Kenya, scheduled for February 16. The directions are intentionally impractical, playfully mocking the idea of being \"bored with Henry Coe State Park,\" while also noting a new moon perfect for observations and a possibility of solar observing.",
+      "categories": [
+        "Humor",
+        "Astronomy Events",
+        "Observing Reports",
+        "Satire"
+      ],
+      "keywords": [
+        "Star Party",
+        "Astronomy",
+        "Humor",
+        "Satire",
+        "Observing",
+        "February 16",
+        "New Moon",
+        "Solar Observing",
+        "Directions",
+        "Voi"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-02-december-star-party-at-loma-prieta",
+      "documentId": "eph80-02",
+      "title": "DECEMBER STAR PARTY AT LOMA PRIETA",
+      "summary": "The San Jose Astronomical Association hosted a star party on Loma Prieta mountain on December 15, 1979, attended by twenty to thirty people. Amidst clear skies and mild weather, attendees observed celestial objects with various telescopes, ranging from a 16-inch Newtonian to a Celestron 8 and 90. Notable observations included attempts at deep-sky photography of the Orion Nebula and the successful detection of the elusive Horsehead Nebula, challenging assumptions about visibility near city lights.",
+      "categories": [
+        "observing report",
+        "event",
+        "amateur astronomy",
+        "club activity"
+      ],
+      "keywords": [
+        "Loma Prieta",
+        "star party",
+        "San Jose Astronomical Association",
+        "December 15, 1979",
+        "telescopes",
+        "Newtonian",
+        "Celestron 8",
+        "Celestron 90",
+        "deep-sky photography",
+        "Orion Nebula",
+        "Hubble's Variable Nebula",
+        "NGC 2261",
+        "Horsehead Nebula",
+        "IC 434",
+        "light pollution",
+        "Pete Manly",
+        "Debbie Moore",
+        "Gerry Rattley",
+        "amateur observation"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-02-loma-prieta-cont",
+      "documentId": "eph80-02",
+      "title": "Loma Prieta cont.",
+      "summary": "This article reports on a successful winter star party held on Loma Prieta, noting strong attendance including several newcomers, and concludes with a gathering at a local diner. It also provides the answers to an astronomy-themed crossword puzzle, 'Skyword #5.' Additionally, the piece includes several announcements, such as a Black Hole Hotline, a space symposium and film screening at Stanford University, and a discussion regarding the apparent lack of grazing occultations in Northern California for 1980.",
+      "categories": [
+        "Event Report",
+        "Announcements",
+        "Puzzle Solution",
+        "Amateur Astronomy News"
+      ],
+      "keywords": [
+        "Loma Prieta",
+        "Star Party",
+        "Amateur Astronomy",
+        "Skyword",
+        "Crossword Puzzle",
+        "Black Hole Hotline",
+        "Astronomical Society of the Pacific (ASP)",
+        "Space Symposium",
+        "Stanford University",
+        "L-5 Society",
+        "Grazing Occultation",
+        "Northern California",
+        "Winter Observing"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8002/Eph80_02.pdf",
+      "txtPath": "8002/Eph80_02.md"
+    }
+  ]
+}

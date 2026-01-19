@@ -1,0 +1,616 @@
+{
+  "articles": [
+    {
+      "id": "eph87-10-october-1987",
+      "documentId": "eph87-10",
+      "title": "OCTOBER 1987",
+      "summary": "This document outlines a series of astronomical events and meetings for October and November 1987. Key events include a general meeting on October 3rd featuring Robert Wagoner discussing Supernova SN1987A, multiple field expeditions to Fremont Peak State Park, and an introductory astronomy class. The schedule also includes board meetings and a November indoor star party.",
+      "categories": [
+        "events",
+        "meetings",
+        "observing reports",
+        "education",
+        "news"
+      ],
+      "keywords": [
+        "October 1987",
+        "November 1987",
+        "Supernova SN1987A",
+        "Robert Wagoner",
+        "Large Magellanic Cloud",
+        "General Meeting",
+        "Board Meeting",
+        "Fremont Peak State Park",
+        "Field Expedition",
+        "Astronomical Observation",
+        "Introductory Astronomy Class",
+        "West Valley College Planetarium",
+        "Los Gatos Red Cross Building",
+        "Indoor Star Party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-by-john-gleason",
+      "documentId": "eph87-10",
+      "title": "BY: JOHN GLEASON",
+      "summary": "The article announces two significant upcoming astronomical events: the annual conference of the Astronomical Association of Northern California (AANC) taking place September 18-20 at the Lawrence Hall of Science, Berkeley, featuring talks on astronomy, equipment, and astrophotography. Additionally, it details the SJAA's October 3rd General Meeting, where Stanford Professor Robert Wagoner will lecture on supernovae, specifically discussing supernova 1987a and its use as a 'standard candle' for determining the Hubble constant.",
+      "categories": [
+        "Events",
+        "Conferences",
+        "Lectures",
+        "Astronomy News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "AANC Conference",
+        "Lawrence Hall of Science",
+        "Berkeley",
+        "Astronomy talks",
+        "Astrophotography",
+        "Robert Wagoner",
+        "Stanford University",
+        "Supernovae",
+        "SN 1987a",
+        "Large Magellanic Cloud",
+        "Standard candles",
+        "Hubble constant",
+        "SJAA General Meeting"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph87-10-astro-class-to-meet-at-planetarium",
+      "documentId": "eph87-10",
+      "title": "ASTRO CLASS TO MEET AT PLANETARIUM",
+      "summary": "The Introductory Astronomy Class, led by Jack Ziders, will convene at the West Valley College Planetarium on October 11th at 8:30 PM. The session will continue the survey of the night sky, with students advised to proceed directly to the planetarium instead of the usual meeting spot.",
+      "categories": [
+        "Events",
+        "Education",
+        "Astronomy Class Announcement"
+      ],
+      "keywords": [
+        "Introductory Astronomy Class",
+        "Jack Ziders",
+        "West Valley College Planetarium",
+        "October 11th",
+        "Night Sky Survey",
+        "Class Meeting"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-astro-ads",
+      "documentId": "eph87-10",
+      "title": "ASTRO ADS",
+      "summary": "The article features classified advertisements for astronomical equipment, including a refractor, focuser, eyepiece, and optical windows, alongside a reward for a stolen mirror. It also provides a detailed personal account of the 5th Annual Yosemite Star Party, describing the journey, campground conditions, observations of climbers, and two nights of stargazing with various telescopes for hundreds to thousands of attendees, highlighting a successful second night despite initial cloud cover.",
+      "categories": [
+        "Classified Ads",
+        "Event Report",
+        "Amateur Astronomy",
+        "Equipment Sales",
+        "Observing Event"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Telescopes",
+        "Astronomy Equipment",
+        "Stargazing",
+        "Optical Windows",
+        "Refractor",
+        "Eyepiece",
+        "Observing Report",
+        "For Sale",
+        "Stolen Mirror"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph87-10-shuttle-recovery-making-progress",
+      "documentId": "eph87-10",
+      "title": "SHUTTLE RECOVERY MAKING PROGRESS",
+      "summary": "The shuttle recovery effort is progressing, with a successful full-scale test of the new booster joint completed and more scheduled. Engines for the orbiter Discovery are undergoing acceptance testing for the first resumption flight, expected to finish by December. Additionally, work on a replacement orbiter began in August, with delivery anticipated by April 1991.",
+      "categories": [
+        "News",
+        "Program Update",
+        "Space Exploration",
+        "Technical"
+      ],
+      "keywords": [
+        "Shuttle Recovery",
+        "Booster Joint",
+        "Orbiter Discovery",
+        "Resumption Flight",
+        "Engine Testing",
+        "Replacement Orbiter",
+        "Space Shuttle Program",
+        "NASA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-nasa-studying-upgraded-shuttle-components",
+      "documentId": "eph87-10",
+      "title": "NASA STUDYING UPGRADED SHUTTLE COMPONENTS",
+      "summary": "NASA is actively studying upgrades for Space Shuttle components to enhance performance in the 1990s. Contracts have been awarded to five companies to design an advanced solid rocket motor, with a lightweight filament-wound motor case successfully exceeding test requirements and promising increased payload capacity. Additionally, improvements to the orbiter engine's turbo machinery are under investigation.",
+      "categories": [
+        "News",
+        "Technical",
+        "Space Exploration",
+        "Aerospace Industry"
+      ],
+      "keywords": [
+        "NASA",
+        "Space Shuttle",
+        "Solid Rocket Motor",
+        "Filament-wound motor case",
+        "Turbo machinery",
+        "Orbiter engines",
+        "Payload",
+        "Shuttle performance",
+        "Upgrades",
+        "Hercules Aerospace"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-space-station-faces-funding-problems",
+      "documentId": "eph87-10",
+      "title": "SPACE STATION FACES FUNDING PROBLEMS",
+      "summary": "Senator Proxmire, chairman of the Senate Appropriations subcommittee controlling NASA's budget, is actively attempting to cancel the space station project, causing concern within NASA. Following this, some NASA officials illegally urged industry to lobby Congress in support of the space station, leading to an apology from Administrator James Fletcher and potential criminal charges for those involved due to the misuse of government funds for lobbying.",
+      "categories": [
+        "News",
+        "Politics",
+        "Funding",
+        "Space Policy",
+        "NASA"
+      ],
+      "keywords": [
+        "Space Station",
+        "Funding Problems",
+        "NASA Budget",
+        "Senator Proxmire",
+        "Lobbying",
+        "Congress",
+        "Criminal Charges"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-chinese-spacecraft-conducts-zero-g-materials-processing",
+      "documentId": "eph87-10",
+      "title": "CHINESE SPACECRAFT CONDUCTS ZERO-G MATERIALS PROCESSING",
+      "summary": "The China 20 spacecraft successfully conducted zero-gravity materials processing experiments in space. It obtained valuable data on the smelting and recrystallization of various materials, including alloys, semiconductors, and recently conceived superconductor materials.",
+      "categories": [
+        "Space Exploration",
+        "Materials Science",
+        "Scientific Research",
+        "Aerospace Technology"
+      ],
+      "keywords": [
+        "China 20",
+        "zero-gravity",
+        "materials processing",
+        "space experiments",
+        "alloys",
+        "semiconductors",
+        "superconductors",
+        "smelting",
+        "recrystallization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-japanese-launch-second-h-1-booster",
+      "documentId": "eph87-10",
+      "title": "JAPANESE LAUNCH SECOND H-1 BOOSTER",
+      "summary": "Japan successfully launched its second H-1 booster on August 27, deploying the ETS-5 engineering test satellite into a geosynchronous transfer orbit. The H-1 rocket features a cryogenic second stage and a newly developed solid-propellant third stage.",
+      "categories": [
+        "Space Launch",
+        "News",
+        "Aerospace Technology"
+      ],
+      "keywords": [
+        "Japan",
+        "H-1 booster",
+        "ETS-5 satellite",
+        "Geosynchronous transfer orbit",
+        "Cryogenic stage",
+        "Solid-propellant stage",
+        "Rocket launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-japan-to-develop-three-advanced-spacecraft",
+      "documentId": "eph87-10",
+      "title": "JAPAN TO DEVELOP THREE ADVANCED SPACECRAFT",
+      "summary": "The Japanese Space Agency has approved the development of three advanced spacecraft missions. These include the 5500 lb Advanced Earth Observation Satellite (ADEOS) for 1993, a 4400 lb Experimental Data Relay Tracking Satellite for 1994, and an Advanced Geosynchronous Meteorological Satellite also planned for 1993.",
+      "categories": [
+        "news",
+        "space missions",
+        "future plans"
+      ],
+      "keywords": [
+        "Japan",
+        "Japanese Space Agency",
+        "spacecraft",
+        "satellite",
+        "ADEOS",
+        "Earth observation",
+        "data relay",
+        "meteorological satellite"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-soviets-plan-mission-to-an-asteroid",
+      "documentId": "eph87-10",
+      "title": "SOVIETS PLAN MISSION TO AN ASTEROID",
+      "summary": "The Soviets are reportedly planning an asteroid mission for the mid-1990s, aiming to deploy probes onto the surface. Concurrently, a U.S. comet rendezvous asteroid flyby (CRAF) mission has been proposed for fiscal year 1989, though it is not designed for direct surface sampling.",
+      "categories": [
+        "news",
+        "space exploration",
+        "mission planning",
+        "international space programs"
+      ],
+      "keywords": [
+        "Soviets",
+        "asteroid mission",
+        "probes",
+        "U.S. comet rendezvous asteroid flyby (CRAF)",
+        "NASA",
+        "space exploration",
+        "1990s"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph87-10-by-don-machholz",
+      "documentId": "eph87-10",
+      "title": "BY: DON MACHHOLZ",
+      "summary": "The article reports on the discovery of two new comets by amateur astronomers and the recovery of a faint periodic comet. Comet Bradfield (1987s), the discoverer's thirteenth, is expected to become visible in binoculars, reaching magnitude five in November. Comet Rudenko (1987u), the discoverer's second, will be visible at magnitude 7-9 in the morning sky during October and November, while Periodic Comet Jackson-Neujmin (1987t) is too faint for amateur observation.",
+      "categories": [
+        "observing reports",
+        "comet discoveries",
+        "astronomical news"
+      ],
+      "keywords": [
+        "Comet Bradfield 1987s",
+        "Comet Rudenko 1987u",
+        "Periodic Comet Jackson-Neujmin 1987t",
+        "amateur astronomers",
+        "comet hunting",
+        "visual astronomy",
+        "magnitude",
+        "perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-ephemerides",
+      "documentId": "eph87-10",
+      "title": "EPHEMERIDES",
+      "summary": "This document provides detailed ephemerides for two comets, Comet Bradfield (1987s) and Comet Rudenko (1987u), covering late September to early November. It lists their celestial coordinates (R.A. and Dec.), elongation, magnitude, and observational notes, encouraging astronomers to view their progression and brightening in the evening and morning skies, respectively.",
+      "categories": [
+        "Ephemerides",
+        "Observing Reports",
+        "Astronomy",
+        "Comets"
+      ],
+      "keywords": [
+        "Ephemerides",
+        "Comet Bradfield (1987s)",
+        "Comet Rudenko (1987u)",
+        "Observing",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Elongation",
+        "Celestial objects"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph87-10-periodic-comet-borrelly-1987p",
+      "documentId": "eph87-10",
+      "title": "Periodic Comet Borrelly (1987p)",
+      "summary": "The article provides an observation guide for Periodic Comet Borrelly (1987p) from late September to mid-November, detailing its changing position, magnitude, and visibility. It describes the comet's steady brightening, increase in size, and condensation as it traces a 'strange little loop' through the southern morning sky. The comet is noted as one of three visible in binoculars during this period.",
+      "categories": [
+        "Observing Guide",
+        "Comets",
+        "Astronomical Observations",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Borrelly",
+        "1987p",
+        "Periodic Comet",
+        "Magnitude",
+        "Position",
+        "Azimuth",
+        "Observing",
+        "Binoculars",
+        "Morning Sky",
+        "Brightness"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-comet-wilson-1986l",
+      "documentId": "eph87-10",
+      "title": "Comet Wilson (1986L)",
+      "summary": "The article presents an observation log for Comet Wilson (1986L) covering late September to mid-November, detailing its position, azimuth, and visual magnitude. It notes the comet's appearance in the morning sky, its continued dimming, and its considerable distance from both the Sun and Earth. The comet is described as remaining small (1-2 arc-minutes) and faint (magnitude 11.1-11.8), similar to its state at the time of its discovery 14 months earlier.",
+      "categories": [
+        "Observing Report",
+        "Astronomy",
+        "Comets"
+      ],
+      "keywords": [
+        "Comet Wilson",
+        "1986L",
+        "Comet observation",
+        "Astronomical data",
+        "Magnitude",
+        "Orbital position",
+        "Morning sky"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-seeking-comets",
+      "documentId": "eph87-10",
+      "title": "SEEKING COMETS",
+      "summary": "The 1986 \"Catalogue of Cometary Orbits\" by Dr. Brian Marsden details 1187 apparitions of 748 comets, with 18% identified as periodic. These periodic comets typically have an average orbital period of 7.1 years, a perihelion distance of 1.5 AU, and an inclination of 13 degrees. Many recent periodic comet discoveries are faint, photographic finds near the ecliptic, characterized by nearly circular orbits and low intrinsic magnitude.",
+      "categories": [
+        "Cometology",
+        "Astronomical Data",
+        "Orbital Mechanics",
+        "Research"
+      ],
+      "keywords": [
+        "Comets",
+        "Cometary Orbits",
+        "Periodic Comets",
+        "Astronomical Catalogue",
+        "Comet Discovery"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-an-overview-of-observing-sites-by-don-machholz-and-rich-page",
+      "documentId": "eph87-10",
+      "title": "AN OVERVIEW OF OBSERVING SITES BY DON MACHHOLZ AND RICH PAGE",
+      "summary": "This article provides a comprehensive overview of Fremont Peak State Park as a popular observing site for amateur astronomers in Central California. It details driving directions, various telescope setup locations within the park, fees, typical weather conditions, sky quality, and potential challenges like light pollution, wildlife, and crowds. Despite some drawbacks, the park is highlighted as a great place for amateur astronomers to gather and observe.",
+      "categories": [
+        "Observing Sites",
+        "Site Review",
+        "Amateur Astronomy",
+        "Location Guide"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "observing site",
+        "amateur astronomers",
+        "San Benito County",
+        "telescope setup",
+        "sky quality",
+        "light pollution",
+        "weather",
+        "campsites",
+        "astrophotography",
+        "Madone Campsite",
+        "Coulter Group Area",
+        "Doe Flats Picnic Area",
+        "M 31",
+        "M 33"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph87-10-visit-the-hubble-space-telescope",
+      "documentId": "eph87-10",
+      "title": "VISIT THE HUBBLE SPACE TELESCOPE",
+      "summary": "The San Jose Astronomical Association (SJAA) is offering its members an exclusive opportunity to visit and view the Hubble Space Telescope at Lockheed in Sunnyvale before its launch. Two dates, November 6 and 9, are available, with a limit of 30 attendees per session, requiring advance sign-up with Bob Fingerhut and adherence to specific regulations.",
+      "categories": [
+        "Events",
+        "Observatory Visits",
+        "Astronomy News",
+        "Member Activities"
+      ],
+      "keywords": [
+        "Hubble Space Telescope",
+        "HST",
+        "Lockheed",
+        "Sunnyvale",
+        "SJAA",
+        "Space Shuttle",
+        "telescope viewing",
+        "event",
+        "tour",
+        "reservation"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph87-10-general-meetings",
+      "documentId": "eph87-10",
+      "title": "GENERAL MEETINGS",
+      "summary": "The SJAA holds monthly General Meetings at the Los Gatos Red Cross building, featuring speakers on various astronomical topics and informal \"Indoor Star Parties\" for members to share interests. These meetings foster a friendly atmosphere for enthusiasts of astrophotography, deep sky observation, telescope making, and general observing. The article also provides detailed directions and timing for the meetings.",
+      "categories": [
+        "Organizational Information",
+        "Events",
+        "Meeting Schedule",
+        "Directions"
+      ],
+      "keywords": [
+        "SJAA",
+        "General Meetings",
+        "Los Gatos",
+        "Red Cross building",
+        "Astronomical topics",
+        "Speakers",
+        "Indoor Star Parties",
+        "Astrophotography",
+        "Deep sky observation",
+        "Telescope making",
+        "Observing",
+        "Event schedule",
+        "Venue directions"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-indoor-star-parties",
+      "documentId": "eph87-10",
+      "title": "INDOOR STAR PARTIES",
+      "summary": "The article describes monthly \"Indoor Star Parties\" as informal Saturday evening gatherings for amateur astronomers. These events allow members to share telescopes and accessories, view astrophotography, socialize, and discuss astronomy. Additionally, the SJAA conducts Board Meetings and an Introductory Astronomy workshop during these times.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Meetings",
+        "Workshops"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Amateur Astronomers",
+        "Telescopes",
+        "Astrophotography",
+        "Astronomy Workshops",
+        "SJAA",
+        "Club Meetings"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-field-expeditions",
+      "documentId": "eph87-10",
+      "title": "FIELD EXPEDITIONS",
+      "summary": "The SJAA organizes \"Star Parties\" for astronomical observation on Saturdays near the New Moon. These events take place at various designated locations, ranging from sites close to San Jose to more distant places like Yosemite National Park. Attendees are advised to check the EPHEMERIS for directions to these expedition sites.",
+      "categories": [
+        "events",
+        "observing reports",
+        "club activities"
+      ],
+      "keywords": [
+        "Star Party",
+        "SJAA",
+        "New Moon",
+        "astronomical observation",
+        "field expeditions",
+        "Yosemite National Park",
+        "San Jose",
+        "EPHEMERIS"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-fremont-peak-state-park",
+      "documentId": "eph87-10",
+      "title": "FREMONT PEAK STATE PARK",
+      "summary": "Fremont Peak State Park is a highly popular observing site for Bay Area amateur astronomers, favored for deep sky observing and astrophotography during New Moon weekends, often hosting 50-100 telescopes. The park is home to the Fremont Peak Observatory Association's 30-inch public telescope and serves as a primary setup area for the San Jose Astronomical Association, with detailed directions provided. The article also includes contact information for the San Jose Astronomical Association's officers and board members.",
+      "categories": [
+        "Observing Site Guide",
+        "Amateur Astronomy",
+        "Astronomy Club Information",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Amateur Astronomy",
+        "Deep Sky Observing",
+        "Astrophotography",
+        "New Moon",
+        "Fremont Peak Observatory Association",
+        "San Jose Astronomical Association",
+        "Public Telescope",
+        "Bay Area",
+        "California"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph87-10-san-jose-astronomical-association-membership-application",
+      "documentId": "eph87-10",
+      "title": "SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP APPLICATION",
+      "summary": "This document is a membership application form for the San Jose Astronomical Association (SJAA). It details different membership types and their associated fees, including options for Membership Only, Membership with Sky & Telescope subscription, and Junior membership. The form requests personal contact information and provides instructions for submission to the SJAA treasurer.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Administrative",
+        "Astronomy Club"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "membership application",
+        "membership fees",
+        "junior membership",
+        "Sky & Telescope",
+        "contact information",
+        "renewal",
+        "new membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph87-10-questionnaire-optional",
+      "documentId": "eph87-10",
+      "title": "Questionnaire (optional)",
+      "summary": "This document is an optional questionnaire designed to gather information on individuals' astronomical interests, inquire about telescope ownership, and identify areas where they might be qualified to assist others. It also includes contact and mailing information for the 'SJAA Ephemeris' in San Jose, CA, indicating it as dated news material from a non-profit organization.",
+      "categories": [
+        "Questionnaire",
+        "Community Engagement",
+        "Membership Survey",
+        "Astronomy Club Information",
+        "News Material"
+      ],
+      "keywords": [
+        "Questionnaire",
+        "Astronomical interests",
+        "Astro-photography",
+        "Deep-sky observation",
+        "Telescope making",
+        "Telescope ownership",
+        "Astronomy help",
+        "SJAA Ephemeris",
+        "San Jose CA",
+        "Non-profit"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph87-10",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8710/Eph87_10.pdf",
+      "txtPath": "8710/Eph87_10.md"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "articles": [
+    {
+      "id": "eph83-05-ephemeris",
+      "documentId": "eph83-05",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled \"EPHEMERIS\" and dated May 1983, appears to be a publication from an organization, likely SJAA, focusing on astronomical content. It includes a description of a dramatic black and white astronomical photograph featuring a nebula against a starry background.",
+      "categories": [
+        "Astronomy",
+        "Historical Document",
+        "Publication",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "ephemeris",
+        "astronomy",
+        "1983",
+        "nebula",
+        "astrophotography",
+        "SJAA",
+        "celestial objects"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-05-calendar",
+      "documentId": "eph83-05",
+      "title": "CALENDAR",
+      "summary": "This document outlines a calendar of astronomical events scheduled for May and June, primarily focusing on activities for an astronomy club. It includes dates for various star parties at different locations, general membership meetings featuring topics like astrophotography and annual board elections, and an indoor star party, alongside a major telescope makers convention.",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Meetings",
+        "Observing",
+        "Clubs & Organizations"
+      ],
+      "keywords": [
+        "Star Party",
+        "Membership Meeting",
+        "Astrophotography",
+        "Cold Camera",
+        "Gassing Techniques",
+        "Board Election",
+        "Indoor Star Party",
+        "Riverside Telescope Makers Convention",
+        "Henry Coe Park",
+        "Fremont Peak State Park",
+        "Los Gatos Red Cross"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-adds",
+      "documentId": "eph83-05",
+      "title": "ADDS",
+      "summary": "This document contains classified advertisements for astronomy equipment, including a C-8 telescope and PVC tubing suitable for a 10-inch telescope. It also provides essential information about \"EPHEMERIS,\" the monthly newsletter of the San Jose Astronomical Association (SJAA), detailing submission guidelines and contact information for the editor. Furthermore, it lists the SJAA's officers, board of directors, and highlights the cover photo for the May issue.",
+      "categories": [
+        "Classifieds",
+        "Club Information",
+        "Publication Information",
+        "Equipment Sales",
+        "Community Announcements"
+      ],
+      "keywords": [
+        "Telescope",
+        "Astronomical Equipment",
+        "San Jose Astronomical Association",
+        "EPHEMERIS",
+        "Newsletter",
+        "Classified Ads",
+        "Club Directory",
+        "Astronomy Club",
+        "Eagle Nebula"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-05-by-denni-frerichs-medlock",
+      "documentId": "eph83-05",
+      "title": "BY DENNI FRERICHS—MEDLOCK",
+      "summary": "The San Jose Astronomical Association (SJAA) announces upcoming activities, including June elections for four board positions and membership renewals with updated fee categories due to increased Sky & Telescope costs. July will feature the annual picnic and the presentation of the Dr. A. B. Gregory Award. Additionally, the club will no longer provide refreshments after meetings due to issues with littering at their University of Santa Clara venue.",
+      "categories": [
+        "Club News",
+        "Announcements",
+        "Membership",
+        "Events",
+        "Awards",
+        "Administration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Elections",
+        "Board Positions",
+        "Membership Renewal",
+        "Sky & Telescope",
+        "Membership Fees",
+        "Annual Picnic",
+        "Dr. A. B. Gregory Award",
+        "Club Meetings",
+        "Refreshments"
+      ],
+      "pageStart": 1,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-05-by-george-deiwert",
+      "documentId": "eph83-05",
+      "title": "BY GEORGE DEIWERT",
+      "summary": "George Deiwert recounts his first star party of 1983, attended by a small group of club members with various telescopes. Despite threatening weather forecasts, they enjoyed several hours of clear skies, observing Messier objects, planets, and galaxies in Leo and Coma Berenices before wind and clouds ended the session. The article also includes club announcements about a caption contest and a request for temporary storage for a 14\" telescope mount.",
+      "categories": [
+        "Observing Report",
+        "Astronomy Event",
+        "Club News",
+        "Community Announcement"
+      ],
+      "keywords": [
+        "Star party",
+        "Observing",
+        "Messier objects",
+        "Planets",
+        "Galaxies",
+        "Leo",
+        "Coma Berenices",
+        "Telescopes",
+        "Astronomy club",
+        "Weather",
+        "Caption contest",
+        "Equipment storage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-by-jim-van-nuland",
+      "documentId": "eph83-05",
+      "title": "BY JIM VAN NULAND",
+      "summary": "The author details recent attempts to observe a celestial 'Spot,' noting partial success due to cloud cover and poor seeing conditions. Observations suggest that predictions for the Spot's appearance are accurate within minutes, and the Spot appears somewhat more distinct than in previous years. Tips for observing include carefully looking along the southern edge of the SEB during moments of excellent seeing and utilizing an apodizing screen.",
+      "categories": [
+        "observing report",
+        "technical",
+        "astronomy"
+      ],
+      "keywords": [
+        "Spot",
+        "observation",
+        "seeing conditions",
+        "apodizing screen",
+        "SEB",
+        "telescope",
+        "predictions"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-05-great-red-spot-on-meridian-pdt",
+      "documentId": "eph83-05",
+      "title": "Great Red Spot on Meridian PDT",
+      "summary": "This document provides a schedule of dates and times when Jupiter's Great Red Spot (GRS) will transit the central meridian. The listed times are for the month of May and are specified in Pacific Daylight Time (PDT), serving as a guide for observers.",
+      "categories": [
+        "Observing Schedule",
+        "Astronomical Events",
+        "Planetary Observation",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "Meridian transit",
+        "Observing guide",
+        "PDT",
+        "May",
+        "Astronomy",
+        "Planetary astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-by-bob-fingerhut",
+      "documentId": "eph83-05",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The article details the successful maiden flight of the Space Shuttle Challenger (STS-6) and the subsequent rescue of the TDRS-A satellite after a critical booster malfunction. It outlines the payloads for the upcoming STS-7 mission and reports on significant advancements in the Soviet space program, including the expansion of the Salyut 7 space station and the development of their own spaceplane and a heavy-lift booster.",
+      "categories": [
+        "News",
+        "Space Exploration",
+        "Satellite Operations",
+        "International Space Programs",
+        "Space Shuttle Program"
+      ],
+      "keywords": [
+        "Challenger",
+        "STS-6",
+        "TDRS-A",
+        "STS-7",
+        "Salyut 7",
+        "Soviet space program",
+        "Space shuttle",
+        "Communications satellite",
+        "Space station",
+        "Spaceplane",
+        "Booster",
+        "NASA"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph83-05-landsat-loses-thematic-mapper-transmitter",
+      "documentId": "eph83-05",
+      "title": "LANDSAT LOSES THEMATIC MAPPER TRANSMITTER",
+      "summary": "Landsat 4's X-band transmitter, crucial for sending thematic mapper data to ground stations, failed on February 13th. This incident has temporarily halted data reception, but it is expected to be restored once TDRS-A becomes operational.",
+      "categories": [
+        "News",
+        "Satellite Operations",
+        "Technical Issue"
+      ],
+      "keywords": [
+        "Landsat 4",
+        "Thematic Mapper",
+        "X-band transmitter",
+        "TDRS-A",
+        "Satellite failure",
+        "Data reception",
+        "Remote sensing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-viking-i-still-silent",
+      "documentId": "eph83-05",
+      "title": "VIKING I STILL SILENT",
+      "summary": "JPL is actively working to reestablish communication with the Viking I lander on Mars, which has been silent since late last year. The silence began after a command inadvertently overwrote the portion of its computer memory storing Earth's location.",
+      "categories": [
+        "Space Exploration",
+        "News",
+        "Mission Update"
+      ],
+      "keywords": [
+        "Viking I",
+        "Mars",
+        "JPL",
+        "Space Lander",
+        "Communication Loss",
+        "Computer Memory"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-solar-system-exploration-committee-recommendations",
+      "documentId": "eph83-05",
+      "title": "SOLAR SYSTEM EXPLORATION COMMITTEE RECOMMENDATIONS",
+      "summary": "A NASA committee, formed in 1980, has recommended a \"core program\" for long-term solar system exploration. This program includes a Mars orbiter (slated for a 1990 launch), a comet rendezvous, and a Titan flyby with a probe, estimated to require an annual budget of $300 million in 1984 dollars.",
+      "categories": [
+        "Mission Planning",
+        "Space Exploration",
+        "Policy/Recommendations",
+        "Budget"
+      ],
+      "keywords": [
+        "Solar System Exploration",
+        "NASA",
+        "Committee Recommendations",
+        "Mars orbiter",
+        "Comet rendezvous",
+        "Titan flyby",
+        "Space missions",
+        "Budget"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-esa-selects-its-next-project",
+      "documentId": "eph83-05",
+      "title": "ESA SELECTS ITS NEXT PROJECT",
+      "summary": "The European Space Agency (ESA) has announced its next scientific mission will be the Infrared Space Observatory (ISO). This infrared astronomy spacecraft will carry a 60-cm diameter telescope and is expected to have an 18-month operational lifetime, with its launch planned for the 1990s.",
+      "categories": [
+        "News",
+        "Space Missions",
+        "Astronomy"
+      ],
+      "keywords": [
+        "ESA",
+        "Infrared Space Observatory",
+        "ISO",
+        "Infrared astronomy",
+        "Space mission",
+        "Telescope",
+        "Spacecraft"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-by-don-machholz",
+      "documentId": "eph83-05",
+      "title": "BY DON MACHHOLZ",
+      "summary": "Don Machholz reports no new comet discoveries or recoveries in the past month, but highlights two periodic comets, Tempel 1 (1982i) and Kopff (1982k), as bright enough for amateur telescope observation. The article provides detailed observational data, including right ascension, declination, and magnitude, for both comets from late April to early June 1983, along with notes on their positions relative to the sun and Earth.",
+      "categories": [
+        "Observing Reports",
+        "Cometary Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects Data"
+      ],
+      "keywords": [
+        "Comets",
+        "Periodic Comet Tempel 1",
+        "Periodic Comet Kopff",
+        "Amateur observation",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "IAU Circular",
+        "Comet recoveries"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-by-bruce-de-graaf",
+      "documentId": "eph83-05",
+      "title": "BY BRUCE DE GRAAF",
+      "summary": "This article, written by Bruce De Graaf, focuses on synchronizing a telescope's right ascension (RA) circle with the observed sky. It explains that once the RA circle is properly set, users can easily locate most celestial objects by 'dialing them up.' The piece follows a previous column that addressed the polar alignment of astronomical telescopes.",
+      "categories": [
+        "Technical",
+        "Observing Guides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "telescope",
+        "right ascension",
+        "RA circle",
+        "synchronization",
+        "polar alignment",
+        "astronomy",
+        "celestial navigation",
+        "object location"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-05-aligning-your-equatorial-mount",
+      "documentId": "eph83-05",
+      "title": "Aligning Your Equatorial Mount",
+      "summary": "This article details the process of setting an equatorial mount's Right Ascension (RA) circle after initial polar alignment. It explains that this involves locating a bright star with a known RA, centering it in the telescope, and then adjusting the RA circle to match the star's known RA. The article emphasizes the necessity of basic night sky knowledge and recommends resources like \"Rambling through the Skies\" in SKY AND TELESCOPE and a provided list of twenty bright stars with their RA/Dec values to aid in this process.",
+      "categories": [
+        "Technical Guide",
+        "Observational Astronomy",
+        "Beginner's Guide",
+        "Equipment Setup"
+      ],
+      "keywords": [
+        "equatorial mount",
+        "RA circle alignment",
+        "Right Ascension",
+        "polar alignment",
+        "bright stars",
+        "constellations",
+        "star charts",
+        "telescope setup"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-metric-prefixes",
+      "documentId": "eph83-05",
+      "title": "Metric Prefixes",
+      "summary": "This article provides an informational list of Système International (SI) metric prefixes, ranging from 'atto' (10^-18) to 'exa' (10^18), detailing their names and corresponding multipliers. It begins by introducing common prefixes like 'kilo' and 'mega' and then humorously suggests three new, non-standard prefixes for extremely large quantities: 'bige', 'mo'biga', and 'qu'mental' (assa'nomical).",
+      "categories": [
+        "informational",
+        "technical explanation",
+        "humor",
+        "editorial"
+      ],
+      "keywords": [
+        "metric prefixes",
+        "SI units",
+        "Systeme International d'Unites",
+        "atto",
+        "femto",
+        "pico",
+        "nano",
+        "micro",
+        "milli",
+        "centi",
+        "deci",
+        "deca",
+        "hecto",
+        "kilo",
+        "mega",
+        "giga",
+        "tera",
+        "peta",
+        "exa",
+        "measurement system"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph83-05-by-don-machholz",
+      "documentId": "eph83-05",
+      "title": "BY DON MACHHOLZ",
+      "summary": "Don Machholz's article analyzes the year-round visibility of Messier Objects from mid-Northern latitudes, detailing how many are circumpolar or otherwise observable. It suggests alternative Messier Marathon dates in July or late October/early November, evaluating their pros and cons based on weather and the number of visible objects. The author concludes that a large majority of Messier Objects can be observed at almost any time of the year with proper planning.",
+      "categories": [
+        "Observing Guides",
+        "Messier Objects",
+        "Amateur Astronomy",
+        "Celestial Events"
+      ],
+      "keywords": [
+        "Messier Objects",
+        "Messier Marathon",
+        "Astronomy",
+        "Observing",
+        "Celestial Visibility",
+        "Northern Latitudes",
+        "Don Machholz",
+        "Star Gazing"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-05-by-jay-reynolds-freeman",
+      "documentId": "eph83-05",
+      "title": "BY JAY REYNOLDS FREEMAN",
+      "summary": "Jay Reynolds Freeman offers practical advice on assembling an amateur astronomer's observing kit, dividing necessary items into 'every time' and 'occasional' use categories. The article emphasizes selecting tools and fasteners for visibility in the dark and corrosion resistance, along with essential spare parts and maintenance supplies to facilitate smooth telescope setup and operation in varying field conditions.",
+      "categories": [
+        "Amateur Astronomy",
+        "Equipment Guide",
+        "Practical Advice",
+        "Maintenance"
+      ],
+      "keywords": [
+        "observing kit",
+        "amateur astronomy tools",
+        "telescope equipment",
+        "fasteners",
+        "field maintenance",
+        "red flashlight",
+        "corrosion resistance",
+        "spare parts",
+        "collimation tools",
+        "dew protection",
+        "Allen wrenches"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-05-by-don-machholz",
+      "documentId": "eph83-05",
+      "title": "BY DON MACHHOLZ",
+      "summary": "The article reports that the 1983 Messier Marathon, scheduled for March in California, was canceled due to extremely cloudy and rainy weather. While opportunities to observe many Messier Objects will occur later in the year, March is traditionally the only month when 109 of the 110 objects are visible in a single night.",
+      "categories": [
+        "Observing Reports",
+        "Events",
+        "Astronomy",
+        "Weather Impact"
+      ],
+      "keywords": [
+        "Don Machholz",
+        "Messier Marathon",
+        "1983",
+        "March",
+        "California",
+        "Cloudy weather",
+        "Rainy weather",
+        "Messier Objects",
+        "Amateur astronomy"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-05-by-jim-van-nuland",
+      "documentId": "eph83-05",
+      "title": "BY JIM VAN NULAND",
+      "summary": "During a clear second weekend in Arizona, many observers participated in a Messier Marathon. David Levy successfully observed all 109 Messier Objects and 35 non-Messier objects. Wally Brown reported that out of 30 observers and 18 telescopes, four individuals completed all 109 objects, and plans were announced for two Marathon windows next Spring.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Astronomy Club News",
+        "Future Events"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier Objects",
+        "Deep-sky objects",
+        "Arizona",
+        "David Levy",
+        "Wally Brown",
+        "Saguaro Astronomy Club",
+        "Observing",
+        "Telescopes"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-05-by-jim-van-nuland",
+      "documentId": "eph83-05",
+      "title": "BY JIM VAN NULAND",
+      "summary": "This article details the construction and use of an apodizing filter, a DIY telescope accessory consisting of stacked screen layers, which author Jim Van Nuland promotes for improving resolution and mitigating poor seeing conditions, especially during planetary observations. He provides practical advice on building the filter, suggests comparative experiments with different telescope configurations, and defends its efficacy against common skepticism, clarifying its function isn't simply an aperture stop. The filter is noted to improve detail visibility even under bad seeing, despite introducing some diffraction spikes and color smears in the field of view.",
+      "categories": [
+        "Technical",
+        "Observational Astronomy",
+        "Telescope Accessories",
+        "DIY Astronomy",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Apodizing filter",
+        "Telescope accessory",
+        "Planetary observation",
+        "Seeing conditions",
+        "Resolution",
+        "Diffraction",
+        "DIY telescope filter",
+        "Optical theory",
+        "Screen layers",
+        "Off-axis stop",
+        "Sky & Telescope"
+      ],
+      "pageStart": 13,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph83-05-by-frank-dibbell",
+      "documentId": "eph83-05",
+      "title": "BY FRANK DIBBELL",
+      "summary": "This article profiles Gary Cervo, detailing his journey into amateur astronomy, sparked by a Sky & Telescope magazine in a doctor's office. He joined the SJAA after seeing a bulletin, appreciating the club's informal events like the Indoor Star Party. Gary's astronomical interests include deep sky and planetary observing with his C-6 telescope, astrophotography (having built a cold camera), and attending Fremont Peak Star Parties, where he initially struggled but found community.",
+      "categories": [
+        "Member Profile",
+        "Interview",
+        "Amateur Astronomy",
+        "Club Activities",
+        "Observing Interests",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Gary Cervo",
+        "SJAA",
+        "Amateur Astronomy",
+        "Sky & Telescope",
+        "Indoor Star Party",
+        "Deep Sky Observing",
+        "Planetary Observing",
+        "Cold Camera",
+        "Astrophotography",
+        "Fremont Peak Star Party",
+        "Telescopes",
+        "Dobsonian"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph83-05-sjaa-membership-application-renewal",
+      "documentId": "eph83-05",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership with the SJAA organization. It requests personal contact information, areas of interest, and allows applicants to select from different membership types and corresponding dues, including options for general membership (with or without a 'S&T' component) and a junior membership.",
+      "categories": [
+        "Membership",
+        "Forms",
+        "Administration",
+        "Club Operations"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Dues",
+        "Form",
+        "Junior Membership",
+        "S&T"
+      ],
+      "pageStart": 16,
+      "pageEnd": 16
+    },
+    {
+      "id": "eph83-05-sua-ephemeris",
+      "documentId": "eph83-05",
+      "title": "SUA EPHEMERIS",
+      "summary": "This document fragment, titled \"SUA EPHEMERIS,\" appears to be a publication masthead or mailing label. It provides an address in San Jose, CA, identifies itself as \"NEWS MATERIAL\" and \"TIME VALUE — DATED,\" and includes U.S. postage payment details.",
+      "categories": [
+        "News",
+        "Publications",
+        "Mailing Information"
+      ],
+      "keywords": [
+        "SUA EPHEMERIS",
+        "San Jose CA",
+        "News Material",
+        "Time Value",
+        "Postage Paid",
+        "Publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8305/Eph83_05.pdf",
+      "txtPath": "8305/Eph83_05.md"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "articles": [
+    {
+      "id": "eph80-09-observations",
+      "documentId": "eph80-09",
+      "title": "Observations",
+      "summary": "The September bulletin for the SJAA was delayed due to the unexpected loss of their primary meeting venue, the Rostropovian Planetarium, necessitating a temporary relocation to the Los Gatos Red Cross building and an active search for a new permanent site. Despite this logistical challenge, the club celebrated a highly successful Mt. Umunhum star party and announced another upcoming one, alongside updates on a graze expedition, member achievements, the club's logo contest, and other astronomical events.",
+      "categories": [
+        "Club News",
+        "Observing Reports",
+        "Events",
+        "Venue Changes",
+        "Member Achievements"
+      ],
+      "keywords": [
+        "SJAA",
+        "Rostropovian Planetarium",
+        "Mt. Umunhum",
+        "Star party",
+        "Graze expedition",
+        "Meeting site",
+        "Los Gatos Red Cross building",
+        "Carl Sagan",
+        "Cosmos",
+        "Perseid meteor shower",
+        "Astronomy Day",
+        "Club logo contest"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph80-09-want-ads",
+      "documentId": "eph80-09",
+      "title": "WANT ADS",
+      "summary": "This document contains a series of classified advertisements for used astronomical equipment. Listings include a request to buy a 4½\" reflector telescope and two separate sales offers for a 12½\" Dobsonian Newtonian telescope and a 6\" f/8 reflector telescope, both complete with various mounts and accessories.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Wanted",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "reflector telescope",
+        "Newtonian telescope",
+        "Dobsonian mount",
+        "equatorial mount",
+        "telescope accessories",
+        "guide scope",
+        "clock drive",
+        "oculars",
+        "barlow",
+        "filters",
+        "Meade",
+        "Keith Novak"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-09-comet-comments",
+      "documentId": "eph80-09",
+      "title": "COMET COMMENTS",
+      "summary": "The article reports a surge in comet activity, with 11 comets observed this year, including several amateur discoveries. It provides updates on the recovery of Periodic Comets Tuttle (1980h), Borrelly (1980i), and Kohoutek (1980j), detailing their current and projected visibility. Additionally, the new Comet Chernis-Petrauskas (1980k) is discussed, correcting initial reports regarding its magnitude and movement.",
+      "categories": [
+        "Observing Reports",
+        "News",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Comet Tuttle (1980h)",
+        "Comet Borrelly (1980i)",
+        "Comet Kohoutek (1980j)",
+        "Comet Chernis-Petrauskas (1980k)",
+        "Comet discoveries",
+        "Comet recoveries",
+        "Amateur astronomy",
+        "Magnitude",
+        "Telescopes",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-comet-chernis-petrauskas-1980k",
+      "documentId": "eph80-09",
+      "title": "Comet Chernis-Petrauskas (1980k)",
+      "summary": "The document provides astrometric data for Comet Chernis-Petrauskas (1980k) across several dates in late August and early September. It lists Right Ascension and Declination coordinates, and notes the comet's magnitude fading from 11-12, based on information from an SAO telegram.",
+      "categories": [
+        "Observational Data",
+        "Comet Reports",
+        "Astronomy",
+        "Astrometry"
+      ],
+      "keywords": [
+        "Comet Chernis-Petrauskas",
+        "1980k",
+        "Astrometry",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "SAO telegram"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-comet-stephan-oterma-1980g",
+      "documentId": "eph80-09",
+      "title": "Comet Stephan-Oterma (1980g)",
+      "summary": "This document presents observational data for Comet Stephan-Oterma (1980g), including a series of astrometric measurements (Right Ascension and Declination) taken between August 19 and September 28. It also notes the comet's brightening trend, with its magnitude increasing from 13.0 to 11.8 during this period, citing IAUC 3488.",
+      "categories": [
+        "observing reports",
+        "comets",
+        "astronomy",
+        "astrometry",
+        "photometry"
+      ],
+      "keywords": [
+        "Comet Stephan-Oterma",
+        "1980g",
+        "comet",
+        "astrometry",
+        "photometry",
+        "magnitude",
+        "RA",
+        "Dec",
+        "observation",
+        "brightening"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-comets-in-their-eyes",
+      "documentId": "eph80-09",
+      "title": "Comets in Their Eyes:",
+      "summary": "This article profiles two notable American amateur astronomers, Leslie Peltier (1900-1980) and Edgar Everhart (b. 1920), both celebrated for their multiple comet discoveries. Peltier, also a prolific variable star observer and nova hunter, held the record for most comet discoveries by an American amateur during his lifetime, while Everhart currently holds this distinction among living American amateurs, also contributing significantly to comet research and confirmation. The article briefly mentions Peltier's autobiography being republished and provides contact information for Don Machholz.",
+      "categories": [
+        "biographical",
+        "amateur astronomy",
+        "comet discovery",
+        "historical",
+        "news"
+      ],
+      "keywords": [
+        "Leslie Peltier",
+        "Edgar Everhart",
+        "comet discovery",
+        "amateur astronomers",
+        "variable stars",
+        "nova hunting",
+        "Starlight Nights",
+        "University of Colorado",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-astrophotography",
+      "documentId": "eph80-09",
+      "title": "ASTROPHOTOGRAPHY",
+      "summary": "This article, a continuation of a series on prime focus astrophotography, addresses the challenges of using slow f/10 systems with commercial films by recommending sensitization techniques like gassing with hydrogen/nitrogen or using a cold camera with dry ice. It highlights three crucial elements for successful astrophotography: precise polar alignment using drift methods, achieving sharp focus with an aerial technique, and maintaining constant, attentive guiding to prevent image degradation.",
+      "categories": [
+        "Astrophotography Techniques",
+        "Film Photography",
+        "Equipment & Mods",
+        "Observing Practices"
+      ],
+      "keywords": [
+        "Astrophotography",
+        "Prime focus",
+        "Film sensitization",
+        "Gassing",
+        "Cold camera",
+        "Polar alignment",
+        "Guiding",
+        "Focusing",
+        "SO-115 film",
+        "Celestron",
+        "Hydrogen gas",
+        "Nitrogen gas",
+        "Dry ice",
+        "Field rotation"
+      ],
+      "pageStart": 4,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph80-09-the-san-jose-astronomical-association-membership-list-sept-1980",
+      "documentId": "eph80-09",
+      "title": "THE SAN JOSE ASTRONOMICAL ASSOCIATION MEMBERSHIP LIST — Sept. 1980",
+      "summary": "This document is the San Jose Astronomical Association's membership list from September 1980. It provides contact information for its members, detailing names, addresses, cities, ZIP codes, and, in many cases, phone numbers. The list primarily features members residing in the greater San Jose and Silicon Valley areas, with a few members from other parts of California and even beyond.",
+      "categories": [
+        "Membership List",
+        "Historical Data",
+        "Astronomical Organization",
+        "Directory",
+        "Archival Document"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "Membership",
+        "1980",
+        "Astronomy club",
+        "Bay Area",
+        "Contact information",
+        "California"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-09-main-directory",
+      "documentId": "eph80-09",
+      "title": "Main Directory",
+      "summary": "This document, titled \"Main Directory,\" presents a structured list of individuals and their contact information. Each entry includes the person's name, full street address, city, zip code, and phone number. The majority of the listed individuals are residents of various cities predominantly located in the California Bay Area.",
+      "categories": [
+        "Directory",
+        "Contact Information",
+        "Member List"
+      ],
+      "keywords": [
+        "Directory",
+        "Contact list",
+        "Addresses",
+        "Phone numbers",
+        "Names",
+        "California Bay Area"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-bulletin-subscribers",
+      "documentId": "eph80-09",
+      "title": "BULLETIN SUBSCRIBERS",
+      "summary": "This document provides a directory of \"BULLETIN SUBSCRIBERS,\" listing individuals with their names, addresses, cities, zip codes, and in some cases, phone numbers. It appears to be an administrative record or mailing list intended for communication purposes.",
+      "categories": [
+        "Directory",
+        "Administrative",
+        "Listings",
+        "Contact Information"
+      ],
+      "keywords": [
+        "Bulletin subscribers",
+        "Subscriber list",
+        "Contact list",
+        "Directory",
+        "Mailing list",
+        "Addresses",
+        "Phone numbers"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph80-09-rattley-rattles",
+      "documentId": "eph80-09",
+      "title": "Rattley Rattles",
+      "summary": "Rattley returns to writing in the bulletin after his tenure as SJAA President, reporting on significant astronomical club activities. He details the upcoming 1980 AANC Conference at Cal State Hayward, a two-day event in September featuring professional talks, a swap meet, and awards, noting high pre-registration numbers. The article also provides updates on future AANC events, including the tentative date for Astronomy Day 1981, and a personal travelogue of his trip to the 1980 WAA Conference in Tucson, which included a memorable stop in Death Valley.",
+      "categories": [
+        "News",
+        "Events",
+        "Conference Report",
+        "Travelogue",
+        "Club Announcements"
+      ],
+      "keywords": [
+        "Rattley",
+        "SJAA",
+        "AANC Conference 1980",
+        "WAA Conference 1980",
+        "Astronomy Day 1981",
+        "Cal State Hayward",
+        "Death Valley",
+        "Club news",
+        "Voyager-Saturn",
+        "Mars geology",
+        "Star formation",
+        "Conference program",
+        "Travel report"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph80-09-rattley-rattles-on",
+      "documentId": "eph80-09",
+      "title": "Rattley Rattles On . . .",
+      "summary": "This article details a week-long astronomy road trip undertaken by the author and Dennis Gallagher, starting with a solar observation near Death Valley and visits to natural wonders like the Grand Canyon and Barringer Meteor Crater. The main event was attending the WAA Conference in Tucson, featuring lectures by notable astronomers like Bart Bok and Clyde Tombaugh, observatory tours, and a side trip to the Sacramento Peak Solar Observatory. The author concludes by reflecting on the conference's rich offerings and expressing disappointment over its low attendance.",
+      "categories": [
+        "Travelogue",
+        "Conference Report",
+        "Observing Report",
+        "Amateur Astronomy",
+        "Astronomy Events",
+        "Observatory Visits"
+      ],
+      "keywords": [
+        "Death Valley",
+        "Solar Observation",
+        "H-alpha",
+        "Grand Canyon",
+        "Barringer Meteor Crater",
+        "WAA Conference",
+        "Tucson",
+        "Bart Bok",
+        "Clyde Tombaugh",
+        "MMT",
+        "Kitt Peak National Observatory",
+        "Sacramento Peak Solar Observatory",
+        "Amateur Astronomers",
+        "SJAA",
+        "Dennis Gallagher",
+        "Astronomy Tours"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph80-09-logo-contest",
+      "documentId": "eph80-09",
+      "title": "LOGO CONTEST",
+      "summary": "The SJAA is holding a logo contest, allowing general membership to vote on their preferred design. Members can cast their votes using a ballot at upcoming general meetings or indoor star parties, with the winner being announced in the October bulletin.",
+      "categories": [
+        "Events",
+        "Club Activity",
+        "Announcement"
+      ],
+      "keywords": [
+        "logo contest",
+        "voting",
+        "membership",
+        "SJAA",
+        "ballot",
+        "club meeting",
+        "star party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-09-logo-contest",
+      "documentId": "eph80-09",
+      "title": "LOGO CONTEST",
+      "summary": "The document announces a logo contest for the San Jose Astronomical Association (SJAA), presenting six distinct logo design options for members to choose from. Readers are prompted to select their preferred design for the new SJAA logo.",
+      "categories": [
+        "Club News",
+        "Announcement",
+        "Design",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Logo Contest",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Logo Design",
+        "Club Branding",
+        "Vote"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-09",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8009/Eph80_09.pdf",
+      "txtPath": "8009/Eph80_09.md"
+    }
+  ]
+}

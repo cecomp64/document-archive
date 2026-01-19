@@ -1,0 +1,572 @@
+{
+  "articles": [
+    {
+      "id": "eph84-05-ephemeris",
+      "documentId": "eph84-05",
+      "title": "EPHEMERIS",
+      "summary": "This ephemeris provides a guide to celestial observations for May 14-16, detailing the positions of Saturn and Mars in the evening sky after their oppositions, and the full Moon's recent passes and potential pale eclipse. It also notes a rough planetary alignment of Saturn, Mars, Earth, and Mercury during April and May, complemented by a sky map showing other planets and prominent stars.",
+      "categories": [
+        "observing guide",
+        "ephemeris",
+        "astronomy",
+        "sky chart"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Saturn",
+        "Mars",
+        "Moon",
+        "Mercury",
+        "Opposition",
+        "Planetary Alignment",
+        "Evening Sky",
+        "Full Moon",
+        "Celestial Observation",
+        "Sky Map",
+        "Ecliptic",
+        "Stars"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-05-may-sjaa-calendar-of-events",
+      "documentId": "eph84-05",
+      "title": "MAY SJAA CALENDAR OF EVENTS",
+      "summary": "This document outlines the San Jose Astronomical Association's (SJAA) May calendar, featuring various astronomical events like planetary oppositions, moon phases, and meteor showers, alongside club activities such as general meetings and star parties. It also reports on a historic $36 million bequest to the University of California for a new 400-inch telescope on Mauna Kea, details SJAA's fundraising success, and announces a presentation on Space Shuttle operations and an upcoming annular solar eclipse.",
+      "categories": [
+        "Events Calendar",
+        "Astronomical Events",
+        "Club News",
+        "Philanthropy",
+        "Telescope Development",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Calendar of Events",
+        "Astronomical Phenomena",
+        "Star Party",
+        "General Meeting",
+        "University of California",
+        "Telescope",
+        "Mauna Kea",
+        "Marion O. Hoffman Trust",
+        "Lockheed",
+        "Space Shuttle",
+        "Annular Eclipse",
+        "Fundraising"
+      ],
+      "pageStart": 3,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-05-club-telescopes-available",
+      "documentId": "eph84-05",
+      "title": "Club Telescopes Available",
+      "summary": "The article announces the availability of club telescopes, including a 14\" Dobsonian, 6\" Newtonian, and 12\" Dobsonian, for loan to interested members, with contact information for the custodians. Additionally, it provides an update that the telescopes at Lick Observatory sustained no damage after a recent earthquake, though realignment was necessary.",
+      "categories": [
+        "Club Services",
+        "Equipment Loan",
+        "News",
+        "Observatory Update"
+      ],
+      "keywords": [
+        "Club Telescopes",
+        "Telescope Loan",
+        "Dobsonian",
+        "Newtonian",
+        "Lick Observatory",
+        "Earthquake Damage",
+        "Telescope Realignment"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-calico-observatory",
+      "documentId": "eph84-05",
+      "title": "Calico Observatory",
+      "summary": "Calico Observatory, located at 3508 Calico Ave, San Jose, Cal. 95124, provides its contact phone number as (408) 371-1307. This information was documented on April 22, 1984.",
+      "categories": [
+        "Observatory Information",
+        "Contact Details"
+      ],
+      "keywords": [
+        "Calico Observatory",
+        "San Jose",
+        "California",
+        "Observatory",
+        "Contact Information",
+        "1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-great-red-spot",
+      "documentId": "eph84-05",
+      "title": "Great Red Spot",
+      "summary": "This article provides a list of recommended observation times for viewing Jupiter's Great Red Spot (GRS) during May, noting that Jupiter is an after-midnight object. The author encourages observers to submit reports, especially those using smaller instruments, detailing aperture, magnification, and observing conditions. It also suggests checking the Spot's position half an hour prior to the listed times to confirm its motion.",
+      "categories": [
+        "observing guide",
+        "planetary astronomy",
+        "astronomy events",
+        "call for observations"
+      ],
+      "keywords": [
+        "Great Red Spot",
+        "Jupiter",
+        "observation times",
+        "May",
+        "aperture",
+        "magnification",
+        "observing conditions",
+        "astronomy report"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-05-deep-sky-notes-may",
+      "documentId": "eph84-05",
+      "title": "DEEP SKY NOTES - MAY",
+      "summary": "This article provides deep sky observing notes for May, focusing on the galaxy-rich Virgo-Coma Berenices supercluster. It offers guidance on locating and observing several celestial objects, including galaxies M99, NGC 4565 (Needle Galaxy), M64 (Black Eye Galaxy), and globular clusters M53 and NGC 5053, with detailed personal observing reports using various telescopes. The author shares tips on dealing with the high density of galaxies and the scarcity of bright field stars in this region.",
+      "categories": [
+        "observing reports",
+        "deep sky astronomy",
+        "observing guides",
+        "amateur astronomy"
+      ],
+      "keywords": [
+        "deep sky",
+        "May",
+        "Virgo-Coma Berenices",
+        "galaxies",
+        "star clusters",
+        "M99",
+        "NGC 4565",
+        "M64",
+        "M53",
+        "NGC 5053",
+        "observing tips",
+        "telescopes",
+        "C8",
+        "Odyssey 1",
+        "starhopping",
+        "Coma Berenices"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-05-fremont-peak-observing-sight",
+      "documentId": "eph84-05",
+      "title": "FREMONT PEAK OBSERVING SIGHT",
+      "summary": "This document outlines directions to the Fremont Peak observing site from South San Jose, detailing the route via US-101 S and CA-156 E. It includes map elements, distances, and mentions features like a camp-sight and a ranger's house, suggesting it is a dedicated location for astronomical observation or group events.",
+      "categories": [
+        "Observing Site Information",
+        "Directions",
+        "Astronomy"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Observing Site",
+        "Directions",
+        "Stargazing",
+        "San Jose",
+        "Amateur Astronomy",
+        "California"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-05-bob-fingerhut",
+      "documentId": "eph84-05",
+      "title": "BOB FINGERHUT",
+      "summary": "The Space Shuttle Challenger successfully repaired the Solar Maximum satellite, with plans for future in-orbit servicing of spacecraft like Landsat 4 and Palapa B-2 also discussed. However, failures in the PAM upper stage motors are causing widespread launch delays for multiple communication and navigation satellites, impacting upcoming shuttle missions and other booster launches. These technical issues are also affecting the next shuttle flight, 41-D, involving the new orbiter Discovery.",
+      "categories": [
+        "Aerospace News",
+        "Space Missions",
+        "Satellite Technology",
+        "Space Shuttle Program",
+        "Technical Issues",
+        "Satellite Repair"
+      ],
+      "keywords": [
+        "Solar Maximum satellite",
+        "Space Shuttle Challenger",
+        "Satellite repair",
+        "Halley's Comet",
+        "Long Duration Exposure Facility",
+        "Landsat 4",
+        "Palapa B-2",
+        "Westar 6",
+        "PAM upper stage",
+        "Launch delays",
+        "Space Shuttle Discovery",
+        "Communication satellites",
+        "Satellite recovery",
+        "Orbital mechanics"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-05-space-update-cont-d",
+      "documentId": "eph84-05",
+      "title": "SPACE UPDATE(cont'd)",
+      "summary": "This article provides an update on near-term space activities, detailing upcoming NASA and Ariane rocket launches in May and July for various communications satellites. It also covers a recent visit by Indian and Soviet cosmonauts to the Salyut-7 space station, and plans for future Space Shuttle missions in 1985 to include French and potentially Chinese astronauts, highlighting international cooperation in space.",
+      "categories": [
+        "Launch Schedule",
+        "Space Missions",
+        "Space Stations",
+        "International Cooperation",
+        "Manned Spaceflight",
+        "News"
+      ],
+      "keywords": [
+        "NASA",
+        "Ariane",
+        "Atlas-Centaur",
+        "Salyut-7",
+        "Space Shuttle",
+        "Comsat Intelsat VA-A",
+        "Spacenet-1",
+        "ECS-2",
+        "Telecom-1A",
+        "Rakesh Sharma",
+        "Yuri Malyshev",
+        "Gennady Strekalov",
+        "Patrick Baudry",
+        "Jean-Loup Chretien",
+        "President Reagan",
+        "India",
+        "Soviet Union",
+        "France",
+        "China",
+        "communications satellites"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-the-mostly-cloudy-messier-marathon-84-11-84",
+      "documentId": "eph84-05",
+      "title": "THE MOSTLY CLOUDY MESSIER MARATHON        84-11-84",
+      "summary": "The 1984 Messier Marathon weekend was largely clouded out, preventing a successful group observation. Despite this, the author, Don Machholz, independently observed 109 Messier objects on March 19th from Loma Prieta, even with a bright moon. The article concludes by listing optimal dates for future Messier Marathons in 1984 (July, October) and 1985 (March 15-17).",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Events",
+        "Personal Experience"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier Objects",
+        "Don Machholz",
+        "Loma Prieta",
+        "Astronomy",
+        "Observing",
+        "Cloudy skies",
+        "New Moon",
+        "Galaxies",
+        "Star Clusters",
+        "Nebulae"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph84-05-comet-comments-04-18-84",
+      "documentId": "eph84-05",
+      "title": "COMET COMMENTS                                04-18-84",
+      "summary": "This article, dated April 18, 1984, provides updates on several comets. It announces the recent discovery of faint Comet Russell 4 and notes that Comets Crommelin and Hartley-IRAS have faded. The author also mentions checking on Comet Halley as it approaches the inner solar system, providing its May 1984 positional data, and briefly recalls two earth-grazing comets from the previous year.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discovery",
+        "Astronomy News",
+        "Orbital Data"
+      ],
+      "keywords": [
+        "Comet Russell 4",
+        "Comet Halley",
+        "Comet Crommelin",
+        "Comet Hartley-IRAS",
+        "comet discovery",
+        "observing report",
+        "celestial coordinates",
+        "magnitude",
+        "orbital period",
+        "asteroid belt",
+        "earth-grazing comets"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-past-discoveries",
+      "documentId": "eph84-05",
+      "title": "PAST DISCOVERIES",
+      "summary": "The article details the discovery circumstances of two comets from 1983, Comet IRAS-Araki-Alcock and Comet Sugano-Saigusa-Fujikawa, both of which made close approaches to Earth. It explores why their discoveries were delayed despite being potentially observable earlier, discussing factors like rapid brightening, observer focus, and challenging viewing conditions. The piece also speculates on alternative scenarios for their detection based on orbital variations.",
+      "categories": [
+        "Cometology",
+        "Astronomical Discovery",
+        "Observational Astronomy",
+        "Amateur Astronomy History"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "IRAS-Araki-Alcock",
+        "Sugano-Saigusa-Fujikawa",
+        "1983 comets",
+        "Comet hunting",
+        "Close approaches",
+        "Observational challenges",
+        "Amateur astronomers",
+        "IRAS satellite"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph84-05-a-road-map-for-the-commuting-astronomer",
+      "documentId": "eph84-05",
+      "title": "A \"Road Map\" for the Commuting Astronomer",
+      "summary": "This article, \"A 'Road Map' for the Commuting Astronomer,\" addresses the common problem amateur astronomers face with declining backyard observing conditions. Author Don Machholz explains the need to seek remote observing sites due to issues like light pollution, unsteady atmospheric 'seeing,' and obstructed horizons. He offers initial tips for optimizing backyard observations before detailing the specific site characteristics (uniform terrain for steady seeing, open plains/ridges for low horizons, and remote locations for dark skies) that resolve these challenges for the \"commuting astronomer.\"",
+      "categories": [
+        "Amateur Astronomy",
+        "Observing Techniques",
+        "Site Selection",
+        "Light Pollution",
+        "Practical Advice"
+      ],
+      "keywords": [
+        "Commuting Astronomer",
+        "Observing Site",
+        "Light Pollution",
+        "Steady Seeing",
+        "Low Horizons",
+        "Dark Skies",
+        "Backyard Observing",
+        "Telescope",
+        "Site Selection Criteria"
+      ],
+      "pageStart": 12,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph84-05-showroom-n",
+      "documentId": "eph84-05",
+      "title": "SHOWROOM N",
+      "summary": "This document is an advertisement for TAU MODULAR DISPLAY GARAGE in San Mateo, featuring sales and factory rebates on a variety of astronomical equipment. It offers discounted prices on Celestron and Meade telescopes and accessories, with specific models like the TeleStar 60mm and Celestron C-90DE highlighted. All listed sales and rebates were valid through December 31, 1998.",
+      "categories": [
+        "Advertisement",
+        "Sales Promotion",
+        "Astronomy Equipment",
+        "Retail",
+        "Historical Ad"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Celestron",
+        "Meade",
+        "Tele Vue",
+        "Rebate",
+        "Sale",
+        "Red Dot Finder",
+        "Motor Drive",
+        "Astronomical Instruments",
+        "San Mateo",
+        "TAU Modular Display Garage",
+        "Precision Instruxents",
+        "TeleStar 60mm",
+        "Comet 411",
+        "C-90DE"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-sjaa-membership-application-renewal",
+      "documentId": "eph84-05",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for SJAA membership, detailing fields for personal contact information and areas of interest. It outlines various membership tiers, including general, \"MEMBERSHIP ONLY*\", and junior options, each with associated annual fees. Instructions for submitting renewals, including remittance details and the treasurer's contact information (Bob Fitzgerald in Milpitas, CA), are also provided.",
+      "categories": [
+        "Membership",
+        "Forms/Applications",
+        "Administrative",
+        "Financial"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership Application",
+        "Membership Renewal",
+        "Fees",
+        "Treasurer",
+        "Contact Information",
+        "Junior Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-lumicon",
+      "documentId": "eph84-05",
+      "title": "LUMICON",
+      "summary": "Lumicon, a company emphasizing \"High Quality in Astronomy,\" is conducting a stock clearance sale. The sale offers various types of filters, including Star, Comet, and Nebula filters, along with other Lumicon and Galaxy products.",
+      "categories": [
+        "Advertisement",
+        "Product Announcement",
+        "Sale",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Lumicon",
+        "filters",
+        "stock clearance",
+        "astronomy",
+        "Star filter",
+        "Comet filter",
+        "Nebula filter",
+        "sale",
+        "Galaxy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-world-center-for",
+      "documentId": "eph84-05",
+      "title": "WORLD CENTER FOR",
+      "summary": "This document advertises a \"WORLD CENTER FOR DEEP-SKY FILTERS\" located at 2111 Research Dr #5C, Diamond, CA 91765. It specifically mentions selling LUMICON filters and provides a contact phone number. The text appears to be a business advertisement for astronomical observing equipment.",
+      "categories": [
+        "Advertisement",
+        "Astronomy",
+        "Observing Equipment",
+        "Business Listing"
+      ],
+      "keywords": [
+        "Deep-sky filters",
+        "LUMICON",
+        "Astronomical equipment",
+        "Observing accessories",
+        "Diamond, CA",
+        "Filters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-ata",
+      "documentId": "eph84-05",
+      "title": "ATA",
+      "summary": "ATA, located in Oakland, CA, specializes in aluminum castings and offers primary and secondary mirrors with a unique ribbon monouda over-coating for microbes. They provide a price list for various mirror sizes (e.g., 4\" to 16\"), which includes the primary mirror, secondary mirror, postage, and insurance, with mirrors being shipped to Chico for coating.",
+      "categories": [
+        "Business Services",
+        "Optics Manufacturing",
+        "Price List",
+        "Specialized Coatings"
+      ],
+      "keywords": [
+        "ATA",
+        "Aluminum Castings",
+        "Ribbon Monouda",
+        "Microbe Coating",
+        "Primary Mirror",
+        "Secondary Mirror",
+        "Mirror Coating",
+        "Oakland",
+        "Chico",
+        "Optics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-everything-for-astronomers",
+      "documentId": "eph84-05",
+      "title": "Everything For Astronomers",
+      "summary": "This document is an advertisement for an astronomy equipment retailer located in San Jose, CA. It highlights a range of optical solutions and instruments for astronomers, featuring brands such as Dynamax, Odyssey, Swift Instruments, Lumicon, Accurack, and Celestron, along with binoculars. The ad invites customers to visit their showroom, request a catalog, and emphasizes their specialization in optical products.",
+      "categories": [
+        "advertisement",
+        "astronomy equipment",
+        "retail",
+        "optics"
+      ],
+      "keywords": [
+        "astronomers",
+        "optics",
+        "telescopes",
+        "instruments",
+        "binoculars",
+        "astronomy equipment",
+        "Celestron",
+        "Lumicon",
+        "Dynamax",
+        "San Jose"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-05-sjaa-membership-application-renewal",
+      "documentId": "eph84-05",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership with the SJAA. It outlines various membership options and their associated fees, including standard and junior rates. The form instructs applicants to fill in personal details and send the form and payment to the designated treasurer, Bob Fitzgerald.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Renewal Form",
+        "Administrative",
+        "Fees"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Fees",
+        "Dues",
+        "Treasurer",
+        "Contact Information",
+        "Junior Membership"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph84-05-ephemeris",
+      "documentId": "eph84-05",
+      "title": "EPHEMERIS",
+      "summary": "This document is an 'EPHEMERIS' for May 1984, likely a newsletter or publication from the SJAA (San Jose Astronomical Association), judging by the address. It is marked as 'TIME VALUE — DATED NEWS MATERIAL' and distributed via bulk mail.",
+      "categories": [
+        "Newsletter",
+        "News",
+        "Astronomical Publication",
+        "Club Communication"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "May 1984",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Newsletter",
+        "Astronomy",
+        "Dated material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-05",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8405/Eph84_05.pdf",
+      "txtPath": "8405/Eph84_05.md"
+    }
+  ]
+}

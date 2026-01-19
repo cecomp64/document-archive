@@ -1,0 +1,834 @@
+{
+  "articles": [
+    {
+      "id": "eph84-01-ephemeris",
+      "documentId": "eph84-01",
+      "title": "EPHEMERIS",
+      "summary": "This document appears to be the cover or an introductory page for the \"EPHEMERIS\" publication from January 1984, produced by SJAA. It prominently features a black and white astronomical photograph depicting a nebula or galaxy with bright stars.",
+      "categories": [
+        "Publication",
+        "Astronomy Club",
+        "Historical Document",
+        "Astronomical Imaging"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "January 1984",
+        "SJAA",
+        "astronomical photograph",
+        "nebula",
+        "galaxy",
+        "stars"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-01-upcoming-events",
+      "documentId": "eph84-01",
+      "title": "UPCOMING EVENTS",
+      "summary": "This article outlines several upcoming astronomy-related events, including a San Jose Astronomical Association meeting on January 14th featuring films from Kitt Peak National Observatory, an \"Electronics Oriented Astronomy\" seminar hosted by the Orange County Astronomers on March 3, 1984, and the dates for Astronomy Day. Additionally, it details a six-evening \"Science and Music Under the Stars\" program at the Chabot Planetarium throughout January, combining music performances with science demonstrations and telescope viewing.",
+      "categories": [
+        "Events",
+        "Astronomy Programs",
+        "Seminars",
+        "Club Activities",
+        "Planetarium Shows"
+      ],
+      "keywords": [
+        "Upcoming Events",
+        "SJAA General Meeting",
+        "Kitt Peak National Observatory",
+        "Observatories",
+        "Stars, Galaxies, Southern Skies",
+        "Orange County Astronomers",
+        "Electronics Oriented Astronomy",
+        "Computer applications",
+        "Digital telescope control",
+        "Photometry",
+        "Electronic image sensing",
+        "Astronomy Day",
+        "Astronomical League",
+        "Chabot Planetarium",
+        "Science and Music Under the Stars",
+        "Telescope viewing",
+        "January 1984",
+        "March 1984"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-new-items-available",
+      "documentId": "eph84-01",
+      "title": "NEW ITEMS AVAILABLE",
+      "summary": "The article announces several new items: the U.S. Naval Observatory's low-cost dial-in Universal time service, UC Berkeley 10 Meter Telescope T-shirts in various sizes and styles, and Guy Ottewell's 1984 Astronomical Calendar. The calendar offers comprehensive information for observers, including celestial events, planet data, and telescope user references.",
+      "categories": [
+        "Announcements",
+        "Products and Services",
+        "Observational Aids"
+      ],
+      "keywords": [
+        "US Naval Observatory",
+        "Universal time service",
+        "UC Berkeley 10 Meter Telescope",
+        "T-shirts",
+        "Astronomical Calendar",
+        "Guy Ottewell",
+        "1984",
+        "Moon phases",
+        "eclipses",
+        "planets",
+        "meteor showers",
+        "Halley's Comet"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-01-articles-to-read",
+      "documentId": "eph84-01",
+      "title": "ARTICLES TO READ",
+      "summary": "The San Jose Astronomical Association (SJAA) hosted a highly successful public star party in July 1983, attracting an estimated 14,000 attendees to view celestial objects through nine telescopes. The article also recommends a January 1984 Astronomy magazine piece on Chabot Observatory in Oakland, a facility frequently utilized by SJAA members, encouraging visits for its planetarium shows and telescope viewing.",
+      "categories": [
+        "Club Activities",
+        "Public Outreach",
+        "Observing Events",
+        "Observatory Information",
+        "Publications/Media Reference"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "public star party",
+        "Chabot Observatory",
+        "Marriott Great America",
+        "Sky and Telescope",
+        "Astronomy magazine",
+        "telescope viewing",
+        "planetarium",
+        "amateur astronomy"
+      ],
+      "pageStart": 551,
+      "pageEnd": 551
+    },
+    {
+      "id": "eph84-01-etc",
+      "documentId": "eph84-01",
+      "title": "ETC",
+      "summary": "This document announces the birth of Kevin Daniel van Nuland, humorously described as a \"nova,\" and features the Bubble Nebula (NGC 7635) as its cover photo, acknowledging various contributors. It then details two upcoming, local grazing occultation events in January (on the 12-13 and 21-22), providing specific observational details and encouraging participation, even for beginners, by calling Jim van Nuland.",
+      "categories": [
+        "News",
+        "Events",
+        "Observing Opportunities",
+        "Club Announcements"
+      ],
+      "keywords": [
+        "Nova",
+        "Kevin Daniel van Nuland",
+        "Bubble Nebula",
+        "NGC 7635",
+        "Grazing Occultation",
+        "Occultation",
+        "January events",
+        "San Jose",
+        "San Martin",
+        "Aries",
+        "ψ Virgihus",
+        "Jim van Nuland",
+        "Amateur Astronomy"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-01-the-graze-that-should-have-been",
+      "documentId": "eph84-01",
+      "title": "THE GRAZE THAT SHOULD HAVE BEEN",
+      "summary": "The San Jose Astronomical Association organized a grazing occultation event for 30 Piscium on December 12 in the San Francisco Bay area, led by Jim van Nuland. Despite initial hopes when the fog briefly cleared, allowing the Moon and target star to be seen, the weather ultimately obscured the view, preventing the dedicated team from observing the actual graze. The article humorously recounts the enthusiastic but ultimately unsuccessful expedition.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Astronomical Events",
+        "Occultations"
+      ],
+      "keywords": [
+        "grazing occultation",
+        "30 Piscium",
+        "San Jose Astronomical Association",
+        "Jim van Nuland",
+        "fog",
+        "amateur astronomy",
+        "observing"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-01-by-don-machholz",
+      "documentId": "eph84-01",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article provides updates on recent comet discoveries and recoveries, including details on Periodic Comet Taylor and Comet Hartley-IRAS. It announces a shift in the 'Our Past Discoveries' section to quantitatively analyze amateur comet finds from 1975-1983, aiming to understand discovery patterns and techniques. Additionally, it offers an update on Halley's Comet, including its current position and faint magnitude, noting increased public interest despite its modest appearance.",
+      "categories": [
+        "Comet Discoveries",
+        "Observing Reports",
+        "Astronomical Research",
+        "News",
+        "Historical Analysis"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Comet recovery",
+        "Halley's Comet",
+        "Periodic Comet Taylor",
+        "Comet Hartley-IRAS",
+        "Amateur astronomy",
+        "Comet hunting",
+        "IRAS satellite",
+        "Magnitude",
+        "Orbital data"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-01-periodic-comet-crommelin-1983n-ephemeris",
+      "documentId": "eph84-01",
+      "title": "Periodic Comet Crommelin (1983n) Ephemeris:",
+      "summary": "This article provides an ephemeris for Periodic Comet Crommelin (1983n), detailing its celestial coordinates (R.A., Dec.) and estimated magnitude from late December 1983 through early February 1984. Observers are advised that the comet, with a 27-year period, is currently well-placed in the evening sky and is predicted to brighten rapidly to near naked-eye visibility by March.",
+      "categories": [
+        "Observing Guide",
+        "Cometary Astronomy",
+        "Ephemeris"
+      ],
+      "keywords": [
+        "Comet Crommelin",
+        "1983n",
+        "periodic comet",
+        "ephemeris",
+        "R.A.",
+        "Dec.",
+        "magnitude",
+        "observing",
+        "celestial mechanics",
+        "astronomy",
+        "naked-eye visibility"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-past-discoveries",
+      "documentId": "eph84-01",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article analyzes historical comet discovery data, revealing that significantly more comets are discovered in the morning sky than the evening sky, despite greater evening observation efforts. This phenomenon is primarily attributed to Earth's orbital motion, which causes comets approaching the Sun to brighten more rapidly when viewed in the morning sky. Research from Edgar Everhart and amateur observations support this trend, with specific patterns noted for discovery times relative to local midnight.",
+      "categories": [
+        "Observational Astronomy",
+        "Comet Discoveries",
+        "Astronomical Research",
+        "Historical Data"
+      ],
+      "keywords": [
+        "Comet discovery",
+        "Amateur astronomy",
+        "Morning sky",
+        "Evening sky",
+        "Earth's orbit",
+        "Comet brightening",
+        "Observational bias",
+        "Don Machholz",
+        "Edgar Everhart"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-keeping-warm-while-observing",
+      "documentId": "eph84-01",
+      "title": "KEEPING WARM WHILE OBSERVING",
+      "summary": "Amateur astronomer Don Machholz provides practical advice for staying warm during cold, stationary observing sessions, highlighting the unique challenges faced by hobbyists. He emphasizes dressing in multiple thin layers, starting warm, protecting the head, and offers specialized solutions for cold feet, including a DIY electric sock system or using a good sleeping bag tied at the waist. Additional tips include drinking warm liquids and avoiding excessive movement to prevent sweating, encouraging observers to enjoy winter skies.",
+      "categories": [
+        "Observing Tips",
+        "Practical Advice",
+        "Amateur Astronomy",
+        "Gear"
+      ],
+      "keywords": [
+        "keeping warm",
+        "observing",
+        "cold weather",
+        "layers",
+        "electric socks",
+        "sleeping bag",
+        "comet hunting",
+        "Don Machholz",
+        "winter observing",
+        "amateur astronomy"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-01-skyward-for-january",
+      "documentId": "eph84-01",
+      "title": "SKYWARD for JANUARY",
+      "summary": "The 'SKYWARD for JANUARY' article outlines celestial events and planetary visibility for the month, encouraging early morning observations. It details the best viewing times and conditions for Mercury, Venus (including conjunctions with Uranus, the Trifid Nebula, and Neptune), Mars, and Saturn, noting features like Saturn's rings. The article also highlights the annual Quadrantid Meteor Shower on January 4th, predicting high rates under ideal viewing conditions.",
+      "categories": [
+        "observing guide",
+        "celestial events",
+        "astronomy",
+        "planet observations",
+        "meteor showers"
+      ],
+      "keywords": [
+        "January",
+        "Mercury",
+        "Venus",
+        "Uranus",
+        "Neptune",
+        "Mars",
+        "Saturn",
+        "Quadrantid Meteor Shower",
+        "Trifid Nebula",
+        "M-20",
+        "conjunctions",
+        "astrophotography",
+        "Cassini's division",
+        "Encke's division"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-01-calendar",
+      "documentId": "eph84-01",
+      "title": "CALENDAR",
+      "summary": "This document is an astronomical calendar detailing various events for January, February, and early March. It includes indoor and outdoor star parties, general meetings of the San Jose Astronomical Association (SJAA) with film screenings and presentations, and specific event locations and times. The calendar also provides logistical information such as lock combinations for remote star party sites.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Meetings",
+        "Local Astronomy Club Activities",
+        "Calendar"
+      ],
+      "keywords": [
+        "Star party",
+        "SJAA",
+        "General Meeting",
+        "Los Gatos",
+        "University of Santa Clara",
+        "J.D. Grant Ranch County Park",
+        "Henry Coe State Park",
+        "Sanbourn Canyon County Park",
+        "Fremont Peak",
+        "Electronics Oriented Astronomy",
+        "Kitt Peak",
+        "Bart Bok",
+        "Mt. Hamilton Rd.",
+        "Lick Observatory",
+        "San Jose Astronomical Association",
+        "Indoor star party"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph84-01-general-meetings",
+      "documentId": "eph84-01",
+      "title": "General meetings:",
+      "summary": "This document provides detailed directions to general meetings held at the University of Santa Clara, Alumni Science Hall, Room 102. It includes instructions for those traveling both north and south on Hwy 17, guiding them to the specific building and room on campus. A simple map is also referenced to aid in navigation.",
+      "categories": [
+        "Meeting Logistics",
+        "Venue Information",
+        "Directions"
+      ],
+      "keywords": [
+        "General meetings",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Room 102",
+        "Directions",
+        "Hwy 17",
+        "Campus map",
+        "Meeting location"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-indoor-star-parties",
+      "documentId": "eph84-01",
+      "title": "Indoor Star Parties:",
+      "summary": "The document provides location details and specific driving directions for \"Indoor Star Parties\" held at the Red Cross Building in Los Gatos. Attendees are directed from Hwy 17 South to the venue, with instructions on street turns and parking, supplemented by a simple map.",
+      "categories": [
+        "Events",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "directions",
+        "location",
+        "parking",
+        "map"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-henry-coe-state-park",
+      "documentId": "eph84-01",
+      "title": "Henry Coe State Park:",
+      "summary": "This document provides detailed driving directions to the San Jose Astronomical Association (SJAA) observing site within Henry Coe State Park, starting from Hwy 101 South. It includes specific landmarks, the location of the locked gate (combination 4565), and important rules for members, such as always locking the gate and using parking lights only after dark.",
+      "categories": [
+        "Observing Sites",
+        "Directions",
+        "Logistics",
+        "Club Information",
+        "Site Access"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "directions",
+        "observing site",
+        "gate code",
+        "parking",
+        "Gilroy",
+        "Anderson Reservoir",
+        "astronomy club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-fremont-peak-state-park",
+      "documentId": "eph84-01",
+      "title": "Fremont Peak State Park:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, starting from Hwy 101 South towards Salinas. It specifies the route via Hwy 156 East and subsequent turns to reach the park's main area. The San Jose Astronomical Association (SJAA) is noted to set up at the Coulter Camp overflow area, and visitors are reminded to use parking lights only after dark.",
+      "categories": [
+        "Directions",
+        "Observing Site Information",
+        "Venue Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Driving directions",
+        "Hwy 101",
+        "Hwy 156",
+        "Coulter Camp",
+        "SJAA",
+        "Astronomy"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph84-01-by-bob-fingerhut",
+      "documentId": "eph84-01",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The Space Shuttle Columbia completed its Spacelab mission despite experiencing significant in-flight repairs, landing computer failures, and post-landing fires in its auxiliary power units. The mission also saw Spacelab scientists disprove a 1914 theory and controversial restrictions placed on astronauts during a conference. Other key space news included the end of the Infrared Astronomical Satellite (IRAS) mission, the return of Soviet cosmonauts from Salyut 7 after critical solar array repairs, and updates on Inertial Upper Stage (IUS) motor testing and potential Russian booster launches.",
+      "categories": [
+        "Mission Reports",
+        "Space Technology",
+        "Astronomy",
+        "International Space Programs",
+        "Space Shuttle Operations",
+        "Science News"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Spacelab",
+        "IRAS",
+        "Salyut 7",
+        "Soviet Cosmonauts",
+        "IUS Motor",
+        "Mission Anomalies",
+        "Space Science",
+        "Infrared Astronomy",
+        "NASA"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph84-01-vandenberg-shuttle-launch-pad-under-construction",
+      "documentId": "eph84-01",
+      "title": "Vandenberg Shuttle Launch Pad Under Construction",
+      "summary": "Construction has begun on the shuttle assembly building (SAB) at Vandenberg Air Force Base. This facility is being prepared for its inaugural launch, scheduled for October 1985, which will feature the orbiter Discovery.",
+      "categories": [
+        "News",
+        "Space Program",
+        "Construction",
+        "Historical Event Planning"
+      ],
+      "keywords": [
+        "Vandenberg AFB",
+        "Space Shuttle",
+        "Shuttle Assembly Building",
+        "SAB",
+        "Discovery",
+        "Launch Pad",
+        "Construction",
+        "1985 Launch"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-president-reagan-vriefed-on-u-s-space-station",
+      "documentId": "eph84-01",
+      "title": "President Reagan Vriefed on U.S. Space Station",
+      "summary": "President Reagan received a briefing on the U.S. Space Station from NASA administrator James Beggs on December 1st. NASA hopes that President Reagan will announce his approval for the project during his State of the Union address in January.",
+      "categories": [
+        "News",
+        "Government",
+        "Space Program",
+        "Policy"
+      ],
+      "keywords": [
+        "President Reagan",
+        "NASA",
+        "Space Station",
+        "James Beggs",
+        "State of the Union",
+        "Approval"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-new-shuttle-manifest-released",
+      "documentId": "eph84-01",
+      "title": "New Shuttle Manifest Released",
+      "summary": "NASA has released its 1984 Space Shuttle manifest, outlining plans for nine missions involving 46 astronauts. The ambitious schedule includes significant events such as Bruce McCandless testing the Manned Maneuvering Unit, the repair of the Solar Maximum Mission satellite, the debut flight of the Orbiter Discovery, and numerous deployments of communication and scientific satellites, alongside dedicated Department of Defense missions.",
+      "categories": [
+        "News",
+        "Spaceflight",
+        "Mission Planning",
+        "Astronautics",
+        "Satellite Operations"
+      ],
+      "keywords": [
+        "NASA",
+        "Space Shuttle",
+        "Shuttle Manifest",
+        "1984",
+        "STS missions",
+        "Manned Maneuvering Unit",
+        "MMU",
+        "Solar Maximum Mission",
+        "Satellite Repair",
+        "Orbiter Discovery",
+        "Satellite Deployment",
+        "Spacewalk",
+        "Bruce McCandless",
+        "Kathryn D. Sullivan",
+        "Sally Ride",
+        "Robert Crippen",
+        "Department of Defense"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-membership",
+      "documentId": "eph84-01",
+      "title": "MEMBERSHIP",
+      "summary": "This document outlines the process for renewing membership with the SJAA, instructing members to send their renewal form, remittance, and an optional Sky & Telescope notice card to Treasurer Bob Fingerhut. It provides his full mailing address and phone number for submissions.",
+      "categories": [
+        "Membership",
+        "Administrative",
+        "Organization News",
+        "Instructions"
+      ],
+      "keywords": [
+        "membership renewal",
+        "SJAA",
+        "Treasurer",
+        "Bob Fingerhut",
+        "remittance",
+        "Sky & Telescope",
+        "contact information",
+        "dues"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-sjaa-membership-application-renewal",
+      "documentId": "eph84-01",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership with the SJAA. It requests personal information such as name, address, phone, and areas of interest, and outlines different membership options, including 'Membership/S&T' and 'Junior (Under 12)', each with associated fees.",
+      "categories": [
+        "Membership",
+        "Application/Form",
+        "Organizational Information",
+        "Fees/Dues"
+      ],
+      "keywords": [
+        "SJAA",
+        "Membership",
+        "Application",
+        "Renewal",
+        "Form",
+        "Fees",
+        "Dues",
+        "Junior Membership",
+        "Area of Interest"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph84-01-you-know-there-s-an-amateur-astronomer-in-your-house-when",
+      "documentId": "eph84-01",
+      "title": "YOU KNOW THERE'S AN AMATEUR ASTRONOMER IN YOUR HOUSE WHEN.....",
+      "summary": "This article humorously lists common, quirky situations that indicate the presence of an amateur astronomer in a household. It highlights how their unique hobbies, tools, and terminology often infiltrate daily life, leading to relatable and funny domestic scenarios for those passionate about astronomy. The situations range from telescopes filling the garage to specific jargon being used out of context.",
+      "categories": [
+        "Humor",
+        "Lifestyle",
+        "Amateur Astronomy",
+        "Hobby"
+      ],
+      "keywords": [
+        "amateur astronomer",
+        "hobby",
+        "humor",
+        "telescopes",
+        "mirror making",
+        "astronomy lifestyle",
+        "optics",
+        "daily life situations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-ads",
+      "documentId": "eph84-01",
+      "title": "ADS",
+      "summary": "The San Jose Astronomical Association (SJAA) accepts astronomically-related want ads for its Ephemeris publication, which run for two months. A prominent ad seeks a new Bulletin Editor for the SJAA Ephemeris, detailing duties like assembling and writing articles, the monthly time commitment, and the benefits of contributing to the nationally recognized bulletin. The current editor is seeking a replacement due to new family and school responsibilities and aims to consolidate publication tasks in the South Bay area.",
+      "categories": [
+        "Want Ads",
+        "Volunteer Opportunities",
+        "Club News",
+        "Publications",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "Bulletin Editor",
+        "Volunteer",
+        "Astronomy Club",
+        "Publication",
+        "Job Description",
+        "Oakland",
+        "South Bay"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph84-01-for-sale-listings",
+      "documentId": "eph84-01",
+      "title": "For Sale Listings",
+      "summary": "This document lists various used astronomical equipment for sale by individual sellers, including telescopes like a Celestron C-8, C-90s, and a 12½\" Ritchey-Chretien, along with accessories such as eyepieces, filters, drive correctors, binoculars, and mounts. Each listing provides a description, price, and contact information for the seller.",
+      "categories": [
+        "For Sale",
+        "Classifieds",
+        "Amateur Astronomy",
+        "Equipment"
+      ],
+      "keywords": [
+        "telescope",
+        "C-8",
+        "C-90",
+        "Ritchey-Chretien",
+        "eyepieces",
+        "filters",
+        "solar filter",
+        "Hydrogen-Alpha",
+        "drive corrector",
+        "mount",
+        "binoculars",
+        "astronomical equipment",
+        "used equipment",
+        "Celestron",
+        "Accutrak",
+        "Lumicon",
+        "Byers"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph84-01-officers",
+      "documentId": "eph84-01",
+      "title": "Officers:",
+      "summary": "This document lists the key officers and board of directors for an organization, providing their names, contact addresses, and phone numbers. It identifies the President, Vice-President, Secretary, Treasurer, and several Board of Directors members, as well as the Bulletin Editor.",
+      "categories": [
+        "administration",
+        "organization",
+        "contact information",
+        "governance"
+      ],
+      "keywords": [
+        "Officers",
+        "Board of Directors",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Treasurer",
+        "Bulletin Editor",
+        "leadership",
+        "contact details"
+      ],
+      "pageStart": 14,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph84-01-commercial-ads-are-priced-according-to-size-and-may-be-placed-by-contacting-gene-cisneros-at-408-923-6800",
+      "documentId": "eph84-01",
+      "title": "Commercial ads are priced according to size and may be placed by contacting: Gene Cisneros at (408) 923-6800.",
+      "summary": "This content provides information on placing commercial advertisements, stating that pricing is determined by ad size. Interested parties can contact Gene Cisneros at (408) 923-6800 to place an ad.",
+      "categories": [
+        "advertising",
+        "business",
+        "contact information",
+        "pricing"
+      ],
+      "keywords": [
+        "commercial ads",
+        "advertising",
+        "pricing",
+        "contact",
+        "Gene Cisneros"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-lumicon",
+      "documentId": "eph84-01",
+      "title": "LUMICON®",
+      "summary": "This article is an advertisement for LUMICON, positioning itself as a world center for astrophotography and a leading supplier of telescopes and accessories in the West. It highlights various LUMICON filters, such as UHC, O-III, REDI, and Deep Sky Filter-PLUS®, by providing examples of astronomical objects that can be observed or imaged with them, along with recommended viewing times and telescope sizes.",
+      "categories": [
+        "advertisement",
+        "product promotion",
+        "astronomy equipment",
+        "observing tips"
+      ],
+      "keywords": [
+        "LUMICON",
+        "astrophotography",
+        "telescopes",
+        "astronomy accessories",
+        "UHC Filter",
+        "O-III Filter",
+        "REDI FILTER",
+        "Deep Sky Filter-PLUS",
+        "M2772",
+        "M27",
+        "Dumbbell Nebula",
+        "Jupiter's moon Io",
+        "Io torus",
+        "deep sky objects",
+        "filters"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-atm-coatings",
+      "documentId": "eph84-01",
+      "title": "ATM coatings",
+      "summary": "This document is an advertisement for ATM Coatings, a business specializing in aluminum coatings with silicon monoxide over-coating for telescope mirrors. It provides a price list for various mirror sizes, notes free secondary coatings when sent with a primary, and details charges for old coating removal.",
+      "categories": [
+        "Commercial",
+        "Services",
+        "Optical Equipment Maintenance"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "telescope mirrors",
+        "aluminum coatings",
+        "silicon monoxide",
+        "mirror recoating",
+        "optical coatings",
+        "telescope services",
+        "pricing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-01-optron-systems",
+      "documentId": "eph84-01",
+      "title": "OPTRON SYSTEMS",
+      "summary": "OPTRON SYSTEMS is a retailer based in San Jose, CA, specializing in \"Everything For Astronomers.\" They stock products from a wide array of well-known brands including Celestron, Meade, Tele-Vue Optics, Bushnell, and Lumicon, inviting customers to visit their showroom.",
+      "categories": [
+        "advertisement",
+        "retail",
+        "astronomy equipment",
+        "business listing"
+      ],
+      "keywords": [
+        "OPTRON SYSTEMS",
+        "astronomy equipment",
+        "telescopes",
+        "optical systems",
+        "San Jose, CA",
+        "Celestron",
+        "Meade",
+        "Tele-Vue Optics",
+        "Bushnell",
+        "Lumicon",
+        "University Optics",
+        "Edmund Scientific",
+        "Dynamax",
+        "Accutrak",
+        "Odyssey",
+        "Swift",
+        "Kalt Corporation",
+        "Star Atlases"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph84-01-san-jose-ca-95124",
+      "documentId": "eph84-01",
+      "title": "SAN JOSE, CA 95124",
+      "summary": "This document fragment details mailing information, indicating U.S. postage paid at a bulk rate from San Jose, California, under permit number 5361. It highlights the material as time-sensitive and dated, suggesting it pertains to a mass mailing or postal dispatch.",
+      "categories": [
+        "Postal Services",
+        "Mailing Information",
+        "Administrative"
+      ],
+      "keywords": [
+        "San Jose, CA",
+        "Bulk Rate",
+        "U.S. Postage Paid",
+        "Permit No. 5361",
+        "Time-sensitive",
+        "Dated",
+        "Mailing",
+        "Nityas Material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-01",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8401/Eph84_01.pdf",
+      "txtPath": "8401/Eph84_01.md"
+    }
+  ]
+}

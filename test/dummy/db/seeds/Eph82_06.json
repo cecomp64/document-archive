@@ -1,0 +1,554 @@
+{
+  "articles": [
+    {
+      "id": "eph82-06-ephemeris",
+      "documentId": "eph82-06",
+      "title": "Ephemeris",
+      "summary": "This 'Ephemeris' outlines a comprehensive schedule of events for the San Jose Astronomical Association (SJAA) during June and July, including general meetings, board meetings, and various indoor and outdoor star parties. Notable activities feature annual board elections, a telescope collimating class, mirror-making sessions, and the annual picnic with officer installations and the A.B. Gregory Award presentation. It also provides contact information for the SJAA and its bulletin.",
+      "categories": [
+        "Events Schedule",
+        "Meetings",
+        "Star Parties",
+        "Workshops/Classes",
+        "Organizational Announcements",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "Ephemeris",
+        "June Events",
+        "July Events",
+        "General Meeting",
+        "Board Elections",
+        "Star Party",
+        "Indoor Star Party",
+        "Telescope Collimating",
+        "Mirror-making",
+        "Henry Coe State Park",
+        "Fremont Peak",
+        "Mt. Umunhum",
+        "Annual Picnic",
+        "A.B. Gregory Award",
+        "De Anza College",
+        "Los Gatos Red Cross",
+        "Danni Frerichs",
+        "Membership"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-miss-peach",
+      "documentId": "eph82-06",
+      "title": "Miss Peach",
+      "summary": "This \"Miss Peach\" comic strip by Mell Lazarus depicts a student named Arthur receiving his math test results, revealing he got every single answer wrong. Arthur comically blames his poor performance on a \"Jupiter Effect,\" offering a humorous excuse for his failure.",
+      "categories": [
+        "Comic Strip",
+        "Humor",
+        "Education",
+        "Entertainment"
+      ],
+      "keywords": [
+        "Miss Peach",
+        "Mell Lazarus",
+        "Comic",
+        "Humor",
+        "School",
+        "Math test",
+        "Jupiter Effect",
+        "Arthur",
+        "Grades"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-06-observations",
+      "documentId": "eph82-06",
+      "title": "Observations",
+      "summary": "The SJAA Board discussed progress on obtaining tax-exempt status and establishing a building fund for a permanent club observatory, with Board elections also announced for the June general meeting. Members were alerted to potentially unsafe solar filters from a recent auction, provided with testing instructions, and offered replacements. The article also included a reminder for club dues to be paid by June 30th, along with a pro-rated payment schedule for new members and an update on club telescope usage.",
+      "categories": [
+        "Club Administration",
+        "Member Notices",
+        "Safety Alert",
+        "Fundraising",
+        "Elections",
+        "Awards",
+        "Equipment"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Meeting",
+        "Tax Exempt Status",
+        "Building Fund",
+        "Observatory",
+        "Board Elections",
+        "Solar Filter Warning",
+        "Club Dues",
+        "Membership Renewal",
+        "Dr. A.B. Gregory Award",
+        "Club Telescopes",
+        "IRS"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-06-sjaa-9",
+      "documentId": "eph82-06",
+      "title": "SJAA -9-",
+      "summary": "This SJAA bulletin issue emphasizes the importance of paying membership dues by June 30th to maintain Bulletin subscriptions and access to club activity announcements. It also includes advice on Sky & Telescope renewals, a humorous plea for new authors with a list of writing rules, and requests for participation in lunar eclipse crater timings. Additional content covers a new member announcement and a satirical \"land for sale\" offer on Mercury.",
+      "categories": [
+        "Club Announcements",
+        "Membership",
+        "Events",
+        "Observing",
+        "Newsletter Content",
+        "Humor"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership dues",
+        "Bulletin subscription",
+        "Sky & Telescope",
+        "lunar eclipse",
+        "crater timings",
+        "club activities",
+        "authors",
+        "treasurer",
+        "Mercury planet",
+        "San Jose Astronomical Association"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-galaxy",
+      "documentId": "eph82-06",
+      "title": "Galaxy",
+      "summary": "This article from the 'Galaxy' miscellany department provides a detailed table of Great Red Spot transit times for Jupiter in June and early July, indicating when the Spot will be facing Earth. It offers practical advice for observers on detecting the Spot and warns that observing opportunities will diminish significantly by mid-August. The author also shares recent observations, describing the Spot as bright yellow and visible an hour early under good seeing conditions.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Observing Reports",
+        "Events"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "Planetary observation",
+        "Transit times",
+        "Astronomy",
+        "Seeing conditions",
+        "Fremont Peak",
+        "Star party"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-06-the-celestial-tourist-speaks",
+      "documentId": "eph82-06",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "Jay Reynolds Freeman provides practical advice and personal observations for amateur astronomers focusing on Jupiter and Saturn, highlighting the details observable on their surfaces and moons with varying telescope apertures. He shares experiences, such as seeing multiple divisions in Saturn's rings and resolving Titan's disk, and details his preferred eyepieces and their applications for a Celestron 14 in observing planets, nebulae, and double stars. The piece emphasizes the rewarding nature of detailed visual astronomy.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Equipment Advice",
+        "Planetary Observation",
+        "Tips and Techniques"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Saturn",
+        "Planetary Observation",
+        "Amateur Telescopes",
+        "Eyepieces",
+        "Moon Observations",
+        "Ring Divisions",
+        "Observing Techniques"
+      ],
+      "pageStart": 5,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-06-comet-comments",
+      "documentId": "eph82-06",
+      "title": "Comet Comments",
+      "summary": "This article, \"Comet Comments\" by Don Machholz, reports a slow year for comet discoveries, with only two comets currently visible. It provides a historical overview of Comet Seki-Lines (1962 III), a 'Great Comet' not expected to return, and details its discovery and close approach to the sun. The document also includes observational data, positions (R.A., Dec.), and magnitude estimates for Comet Bowell (1980b) and Periodic Comet Grigg-Skjellerup (1982a) from late May to early July, along with brief descriptions of their visibility and motion.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy News",
+        "Observational Astronomy",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Comets",
+        "Don Machholz",
+        "Comet Seki-Lines",
+        "Comet Bowell",
+        "Periodic Comet Grigg-Skjellerup",
+        "Observing Data",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Retrograde Motion",
+        "Amateur Discoveries"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-general-meeting",
+      "documentId": "eph82-06",
+      "title": "General Meeting",
+      "summary": "Mark Gingerich presented at the May SJAA General Meeting, discussing the history of communications satellites like Early Bird and GOES, and explaining how geosynchronous orbits are used. He also covered the legality of satellite reception and explored the potential applications of satellite receiver technology for amateur radio astronomy, predicting a rise in interest among amateurs. Gingerich also suggested visual observation of satellites as an alternative for those not interested in static, and mentioned an upcoming Sky & Telescope article.",
+      "categories": [
+        "Meeting Report",
+        "Events",
+        "Amateur Astronomy",
+        "Technology",
+        "Science Communication"
+      ],
+      "keywords": [
+        "Mark Gingerich",
+        "SJAA General Meeting",
+        "communications satellites",
+        "geosynchronous orbits",
+        "satellite reception",
+        "amateur radio astronomy",
+        "visual satellite observation",
+        "Early Bird",
+        "Westar",
+        "GOES",
+        "Syncom"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-jack-seidars",
+      "documentId": "eph82-06",
+      "title": "Jack Seidars",
+      "summary": "This article details a successful Astronomy Day event at Fremont Peak, organized by the San Jose Astronomical Association (SJAA). Several members brought various telescopes for public viewing, attracting 15-20 campers and other attendees who enjoyed observing celestial objects despite a bright moon. The event, advertised on KGO, was considered a significant improvement over a previous star party and saw a good turnout.",
+      "categories": [
+        "Observing Report",
+        "Event Report",
+        "Public Outreach",
+        "Astronomy Club Activity"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Astronomy Day",
+        "SJAA",
+        "Public viewing",
+        "Telescopes",
+        "Star party",
+        "Observing",
+        "Moonlight",
+        "Jack Seidars"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-06-space-program-update",
+      "documentId": "eph82-06",
+      "title": "Space Program Update",
+      "summary": "The article provides an update on space program activities, detailing the discovery of a new asteroid (1982 DB) and an unexpected chemoluminescent glow observed on the Space Shuttle Columbia during STS-3. It outlines extensive preparations for the upcoming STS-4 mission, including its objectives, crew, landing sites, and subsequent missions through STS-9 with named crews and planned payloads. Additionally, the report mentions the launch of the Soviet Salyut 7 station, plans for the first Space Shuttle spacewalk on STS-5, and an anticipated presidential space policy address.",
+      "categories": [
+        "Space News",
+        "Space Missions",
+        "Astronomy",
+        "Space Policy",
+        "Technological Developments",
+        "Orbital Phenomena",
+        "Crew Announcements"
+      ],
+      "keywords": [
+        "Asteroid 1982 DB",
+        "Apollo asteroids",
+        "Space Shuttle Columbia",
+        "STS-3",
+        "STS-4",
+        "Spacecraft glow",
+        "Chemoluminescence",
+        "Atomic oxygen",
+        "Remote Manipulator System",
+        "Getaway Special",
+        "Edwards AFB",
+        "Kennedy Space Center",
+        "Space Policy Address",
+        "Salyut 7",
+        "Soyuz-T",
+        "Extravehicular Activity (EVA)",
+        "Space suits",
+        "STS-5",
+        "STS-6",
+        "STS-7 Challenger",
+        "STS-8",
+        "STS-9 Spacelab",
+        "Tracking and Data Relay Satellites (TDRS)"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-06-from-pg-6",
+      "documentId": "eph82-06",
+      "title": "From pg. 6",
+      "summary": "A budget-driven decision to remove a crucial antenna on the Space Shuttle severely reduced the effectiveness of the TDRSS system, limiting real-time data transmission to just 30% of each orbit. Concurrently, several satellite launches, including Landsat-D and Ariane's first operational flight, faced delays due to various issues and repairs. Meanwhile, Insat-1A completed initial orbital tests with some deployment challenges, and a new Delta launch vehicle was introduced.",
+      "categories": [
+        "Space Missions",
+        "Satellite Technology",
+        "Aerospace News",
+        "Launch Schedules",
+        "Operational Issues"
+      ],
+      "keywords": [
+        "Space Shuttle",
+        "TDRSS",
+        "Antenna",
+        "Budgetary Efficiency",
+        "Landsat-D",
+        "STS-4",
+        "Ariane rocket",
+        "Marecs-B",
+        "Sirio-2",
+        "Insat-1A",
+        "Solar Sail",
+        "Delta launch vehicle",
+        "Telsat-F",
+        "Satellite Communication",
+        "Launch Delays",
+        "Orbital Tests"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-06-from-pg-4",
+      "documentId": "eph82-06",
+      "title": "From pg. 4",
+      "summary": "The article explains how the utility of an eyepiece's focal length is dependent on the telescope's focal ratio, not just magnification alone. The author illustrates this by contrasting the impracticality of a 20mm eyepiece with their f/11 Celestron C-14 against its usefulness for low-power work with an f/5 Dobsonian. This highlights that optimal eyepiece selection relates to the ratio of magnification to aperture for different telescope setups.",
+      "categories": [
+        "Technical",
+        "Observational Astronomy",
+        "Equipment Analysis"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Focal Ratio",
+        "Magnification",
+        "Aperture",
+        "Telescope",
+        "Celestron C-14",
+        "Dobsonian",
+        "Observational Techniques",
+        "Astronomy Equipment"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-06-ads",
+      "documentId": "eph82-06",
+      "title": "Ads",
+      "summary": "This document features classified advertisements for various used astronomical equipment, including refractors, Newtonian telescopes, and accessories from brands like Jaegers, Meade, Coulter, and Celestron. Each listing provides item descriptions, condition, price, and seller contact information. Additionally, the document includes an announcement detailing a new ad policy regarding ad duration and communication for sold items.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment",
+        "Policy Announcement"
+      ],
+      "keywords": [
+        "telescopes",
+        "refractors",
+        "focuser",
+        "equatorial mounting",
+        "Celestron C-8",
+        "Meade",
+        "Jaegers",
+        "Coulter",
+        "oculars",
+        "Barlow",
+        "tripod",
+        "finder",
+        "ad policy",
+        "used equipment",
+        "astronomy accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-sjaa-board-members",
+      "documentId": "eph82-06",
+      "title": "SJAA Board Members",
+      "summary": "This document lists the current board members of the SJAA, including their names, specific positions such as President, Vice President, Treasurer, and Secretary, and their respective phone numbers. It serves as a directory for the organization's leadership.",
+      "categories": [
+        "Organizational Information",
+        "Contact List",
+        "Directory",
+        "Administration"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Members",
+        "Leadership",
+        "Contact Information",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-06-ads",
+      "documentId": "eph82-06",
+      "title": "Ads",
+      "summary": "This document consists entirely of classified advertisements for various astronomical equipment. Items listed for sale include several reflector telescopes with different mounts and accessories, binoculars, telescope mirrors and diagonals, and Tirion atlases. Each ad provides a description, price (often negotiable), and contact information for the seller.",
+      "categories": [
+        "Classifieds",
+        "Advertisements",
+        "Astronomy Equipment Sales",
+        "Used Equipment"
+      ],
+      "keywords": [
+        "telescope",
+        "reflector",
+        "Newtonian",
+        "equatorial mount",
+        "Star Liner Mount",
+        "Edmund mount",
+        "eyepieces",
+        "Meade",
+        "binoculars",
+        "Celestron",
+        "telescope mirror",
+        "Coulter",
+        "Parks mirror",
+        "Tirion Atlases",
+        "for sale",
+        "astronomy gear",
+        "amateur astronomy"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-06-rattley-rattles",
+      "documentId": "eph82-06",
+      "title": "Rattley Rattles",
+      "summary": "This article provides a detailed guide to observing the Coma Cluster of Galaxies, describing its location and key members like NGC 4889 and NGC 4874, along with their magnitudes and coordinates. It includes a diagram to aid observers in finding numerous faint galaxies, encouraging the use of telescopes to test limiting magnitude and improve skills. The author also recounts their personal efforts to identify and correct a significant positional discrepancy for NGC 4872 found in various astronomical atlases.",
+      "categories": [
+        "Deep-Sky Astronomy",
+        "Observing Guide",
+        "Catalog/Reference Analysis",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Coma Cluster of Galaxies",
+        "NGC 4889",
+        "NGC 4874",
+        "NGC 4872",
+        "Galaxy observation",
+        "Deep-sky objects",
+        "Telescopes",
+        "Star atlases",
+        "Limiting magnitude",
+        "Astronomical catalog errors",
+        "Fremont Peak"
+      ],
+      "pageStart": 13,
+      "pageEnd": 366
+    },
+    {
+      "id": "eph82-06-letters-to-the-editor",
+      "documentId": "eph82-06",
+      "title": "Letters to the Editor",
+      "summary": "Michael D. Sugarman, President of the Riverside Astronomical Society, submitted a letter to the editor expressing strong admiration for the San Jose bulletin, stating he was very impressed with his first issue. He requested to receive monthly copies, to which the editor humorously agreed.",
+      "categories": [
+        "Reader Feedback",
+        "Letters to the Editor",
+        "Community Engagement",
+        "Publication Review"
+      ],
+      "keywords": [
+        "Michael D. Sugarman",
+        "Riverside Astronomical Society",
+        "San Jose bulletin",
+        "newsletter",
+        "reader mail",
+        "appreciation",
+        "subscription request"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-06-roster",
+      "documentId": "eph82-06",
+      "title": "Roster",
+      "summary": "This document is a roster or directory listing individuals with their contact information. It includes last names, first names, street/box numbers, cities, states, ZIP codes, and telephone numbers. The majority of the listed individuals appear to reside in various cities across California, particularly within the greater San Jose and Silicon Valley areas.",
+      "categories": [
+        "Roster",
+        "Directory",
+        "Contact Information",
+        "Membership List",
+        "Reference"
+      ],
+      "keywords": [
+        "Roster",
+        "Directory",
+        "Contact list",
+        "Names",
+        "Addresses",
+        "Phone numbers",
+        "California",
+        "San Jose",
+        "Silicon Valley",
+        "Bay Area",
+        "Contact details",
+        "Membership"
+      ],
+      "pageStart": 10,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph82-06-last-name-first-name-s-street-box-no-city-state-zip-code-telephone",
+      "documentId": "eph82-06",
+      "title": "LAST NAME | FIRST NAME(S) | STREET/BOX NO. | CITY, STATE | ZIP CODE | TELEPHONE",
+      "summary": "This document presents a structured list of individuals, detailing their last name, first name(s), street address, city, state, zip code, and telephone number. It functions as a directory or contact list, predominantly featuring addresses within various cities in California, with a few entries from other states or countries. The entries are organized alphabetically by last name and include some unusual or incomplete phone number formats.",
+      "categories": [
+        "Directory",
+        "Contact Information",
+        "Listing",
+        "Administrative"
+      ],
+      "keywords": [
+        "Contact List",
+        "Directory",
+        "Addresses",
+        "Phone Numbers",
+        "California",
+        "Names",
+        "Residential Information"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8206/Eph82_06.pdf",
+      "txtPath": "8206/Eph82_06.md"
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "articles": [
+    {
+      "id": "eph84-02-ephemeris",
+      "documentId": "eph84-02",
+      "title": "EPHEMERIS",
+      "summary": "This document, titled 'EPHEMERIS' for February 1984 by SJAA, features a detailed star chart. The chart illustrates the projected paths of Comet Ikeya 1964 and Comet Crommelin through various constellations including Pegasus, Pisces, Cetus, and Aquarius, complete with dates and star positions. It also references a cover story by Jack Marling on page 3.",
+      "categories": [
+        "Ephemeris",
+        "Star Chart",
+        "Astronomy",
+        "Comets",
+        "Celestial Navigation",
+        "Newsletter Content"
+      ],
+      "keywords": [
+        "EPHEMERIS",
+        "February 1984",
+        "SJAA",
+        "Star Chart",
+        "Comet Ikeya 1964",
+        "Comet Crommelin",
+        "Pegasus",
+        "Pisces",
+        "Cetus",
+        "Aquarius",
+        "Constellations",
+        "Comets",
+        "Celestial Paths"
+      ],
+      "pageStart": 2,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-02-upcoming-events",
+      "documentId": "eph84-02",
+      "title": "UPCOMING EVENTS",
+      "summary": "This article outlines a variety of upcoming astronomical events, including a SJAA General Meeting featuring Jeff Scargle, a lecture series by William Kaufmann on stars, and the SJAA's 4th Annual Astronomical Auction. It also announces the availability of Lick Summer Visitors Program tickets and explains the rescheduling of public viewing for Astronomy Day. Additionally, the document requests donations for a school's astronomy program, seeks slides for indoor star parties, and notes the passing of long-time SJAA member Thomas M. Edwards.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Public Outreach",
+        "Lectures/Presentations",
+        "Community Support"
+      ],
+      "keywords": [
+        "SJAA",
+        "Astronomical Society of the Pacific",
+        "Lick Observatory",
+        "Astronomy Day",
+        "Astronomical Auction",
+        "Astronomy Education",
+        "Star Parties",
+        "Lectures",
+        "Crab Nebula",
+        "Stars"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-02-letter-to-the-editor",
+      "documentId": "eph84-02",
+      "title": "Letter to the Editor",
+      "summary": "This letter to the editor recounts an anecdote from Lick Observatory, where Director C. D. Shane jokingly suggested wiring two British astronomers in series to use 110-volt heated suits with their 220-volt system, highlighting a cultural difference in humor. The author also shares fond memories of Lick Observatory staff and a near-disaster in 1940 involving a plane crash that almost destroyed the observatory's valuable library.",
+      "categories": [
+        "Anecdote",
+        "Historical",
+        "Astronomy History",
+        "Observatory Life",
+        "Letter to the Editor"
+      ],
+      "keywords": [
+        "Lick Observatory",
+        "C. D. Shane",
+        "H. Spencer-Jones",
+        "Don Machholz",
+        "Astronomy",
+        "Observing conditions",
+        "Humor",
+        "Historical anecdotes",
+        "Observatory staff",
+        "Near-disaster"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-02-the-1984-messier-marathon",
+      "documentId": "eph84-02",
+      "title": "THE 1984 MESSIER MARATHON",
+      "summary": "The 1984 Messier Marathon is scheduled for March 30-April 1, coinciding with a New Moon, allowing observers to see 109 of the 110 Messier Objects from Loma Prieta in the Santa Cruz Mountains. An alternative observing window in early March is also suggested, though it doesn't fall on a weekend. Don Machholz provides contact information for those interested in participating or getting more details.",
+      "categories": [
+        "Observing Event",
+        "Astronomy Announcement",
+        "Amateur Astronomy",
+        "Planning Guide"
+      ],
+      "keywords": [
+        "1984 Messier Marathon",
+        "Messier Objects",
+        "Observing Event",
+        "New Moon",
+        "Loma Prieta",
+        "Santa Cruz Mountains",
+        "Astronomy",
+        "Don Machholz",
+        "Star Gazing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-rare-conjunction-of-two-comets",
+      "documentId": "eph84-02",
+      "title": "RARE CONJUNCTION OF TWO COMETS",
+      "summary": "This article announces a rare conjunction of Comet Encke and Comet Crommelin in early February 1984, visible in the constellation Pisces. It provides detailed observing tips, including recommended equipment and optimal viewing times, and suggests astrophotography techniques using specific cameras, lenses, and film. The article also mentions the comets' anticipated brightening later in February and March, and offers contact information for further inquiries about observing and photography.",
+      "categories": [
+        "Astronomy News",
+        "Observing Guide",
+        "Astrophotography",
+        "Cometology",
+        "Events"
+      ],
+      "keywords": [
+        "Comet Encke",
+        "Comet Crommelin",
+        "Comet Conjunction",
+        "February 1984",
+        "Pisces",
+        "Observing Tips",
+        "Astrophotography",
+        "Telescope",
+        "Eyepiece",
+        "Film Techniques",
+        "Deep-Sky Filter",
+        "Magnitude",
+        "Jack Marling",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph84-02-venus-casts-a-shadow-and-more-on-shadow-bands",
+      "documentId": "eph84-02",
+      "title": "VENUS CASTS A SHADOW AND MORE ON SHADOW BANDS",
+      "summary": "The author successfully observed Venus casting a distinct, sharp shadow on paper and other surfaces, confirming a historical claim from \"The Amateur Astronomer Handbook.\" This phenomenon was easily visible when Venus was bright (around -4.1 magnitude) against a dark sky. The author also noted scintillation in Venus's light, akin to a 'shadow band' effect previously described for bright airline landing lights.",
+      "categories": [
+        "Observing Report",
+        "Amateur Astronomy",
+        "Celestial Phenomena",
+        "Optical Phenomena"
+      ],
+      "keywords": [
+        "Venus",
+        "Shadow",
+        "Shadow Bands",
+        "Scintillation",
+        "Observational Astronomy",
+        "Light Phenomena",
+        "Planetary Observation"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph84-02-by-don-machholz",
+      "documentId": "eph84-02",
+      "title": "BY DON MACHHOLZ",
+      "summary": "Don Machholz's article reviews recent comet activities at the start of 1984, announcing the recovery of Periodic Comet Clark and the discovery of Comet Bradfield. It provides observing ephemerides for Periodic Comet Crommelin and Periodic Comet Encke, along with a status update for Halley's Comet. The article also highlights 1983 as a record year for comet discoveries, detailing contributions from amateur astronomers, professionals, and the IRAS satellite.",
+      "categories": [
+        "Comet News",
+        "Observing Reports",
+        "Astronomical Data",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Discovery",
+        "Comet Recovery",
+        "Halley's Comet",
+        "Periodic Comet Crommelin",
+        "Periodic Comet Encke",
+        "Comet Bradfield",
+        "Comet Clark",
+        "Ephemerides",
+        "Magnitude",
+        "1984",
+        "1983",
+        "Amateur Astronomers",
+        "IRAS",
+        "Don Machholz"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph84-02-periodic-comet-hartley-iras-1983v",
+      "documentId": "eph84-02",
+      "title": "Periodic Comet Hartley-IRAS (1983v)",
+      "summary": "This document provides an ephemeris for Periodic Comet Hartley-IRAS (1983v) for dates spanning early March to early April, including its right ascension, declination, and estimated magnitude. It notes the comet's consistent northward movement at approximately 0.6 degrees per day and its observability in both the morning and evening skies.",
+      "categories": [
+        "Ephemeris",
+        "Cometology",
+        "Observing Guide",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "Comet Hartley-IRAS",
+        "1983v",
+        "Periodic Comet",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Comet Observation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-past-discoveries",
+      "documentId": "eph84-02",
+      "title": "PAST DISCOVERIES:",
+      "summary": "This article analyzes amateur comet discovery data from 1975-1983, noting that discoveries are not evenly distributed by year, month, or day of the week despite constant searching. It suggests that seasonal sky visibility, particularly the greater near-sun area revealed in the morning sky during autumn for Northern Hemisphere observers, might explain the higher number of discoveries in the latter half of the year. The analysis also highlights specific patterns, such as a lower frequency of discoveries on Monday evenings.",
+      "categories": [
+        "Astronomy",
+        "Comet Discovery",
+        "Amateur Astronomy",
+        "Statistical Analysis",
+        "Observational Trends"
+      ],
+      "keywords": [
+        "comets",
+        "comet discovery",
+        "amateur astronomers",
+        "discovery patterns",
+        "astronomical data",
+        "seasonal variations",
+        "ecliptic",
+        "morning sky",
+        "evening sky",
+        "Don Machholz"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph84-02-calendar",
+      "documentId": "eph84-02",
+      "title": "CALENDAR",
+      "summary": "This document outlines a calendar of astronomical events for February and March, primarily featuring star parties and general meetings organized by the San Jose Astronomical Association (SJAA). Key events include outdoor star parties at various parks like Henry Coe and Fremont Peak, indoor star parties at the Los Gatos Red Cross, and general meetings with guest speakers, such as a talk on the Crab Nebula. The calendar also lists external educational seminars and a Messier Marathon, providing diverse opportunities for astronomy enthusiasts.",
+      "categories": [
+        "Events",
+        "Astronomy",
+        "Meetings",
+        "Star Parties",
+        "Educational",
+        "Calendar"
+      ],
+      "keywords": [
+        "Star Parties",
+        "Astronomy Meetings",
+        "Crab Nebula",
+        "Messier Marathon",
+        "SJAA",
+        "Henry Coe State Park",
+        "Fremont Peak State Park",
+        "Los Gatos Red Cross",
+        "University of Santa Clara",
+        "Astronomical Society of the Pacific",
+        "Electronics Oriented Astronomy",
+        "Astronomy Lectures",
+        "Board Meetings"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph84-02-general-meetings",
+      "documentId": "eph84-02",
+      "title": "General meetings:",
+      "summary": "This document provides detailed directions to \"General meetings\" held at Alumni Science Hall, room 102, at the University of Santa Clara. It includes specific driving instructions for attendees traveling both north and south on Hwy 17, along with guidance on navigating to the correct room within the building from the parking lot.",
+      "categories": [
+        "Meeting Information",
+        "Logistics",
+        "Directions"
+      ],
+      "keywords": [
+        "General meetings",
+        "University of Santa Clara",
+        "Alumni Science Hall",
+        "Directions",
+        "Hwy 17",
+        "Meeting location",
+        "Campus navigation"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-indoor-star-parties",
+      "documentId": "eph84-02",
+      "title": "Indoor Star Parties:",
+      "summary": "This document provides location details and driving directions for \"Indoor Star Parties\" held at the Los Gatos Red Cross Building. It outlines how to reach the venue at 18011 Los Gatos-Saratoga Rd. from Hwy 17 South, including specific turns. A map of the area is also mentioned to assist attendees.",
+      "categories": [
+        "Events",
+        "Venue Information",
+        "Logistics"
+      ],
+      "keywords": [
+        "Indoor Star Parties",
+        "Los Gatos",
+        "Red Cross Building",
+        "Directions",
+        "Location",
+        "Saratoga",
+        "Hwy 17",
+        "Rose Ave"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-henry-coe-state-park",
+      "documentId": "eph84-02",
+      "title": "Henry Coe State Park:",
+      "summary": "This document provides detailed driving directions to the SJAA site within Henry Coe State Park, including access instructions from Hwy 101 South via the East Dunne exit. It outlines the location of the locked gate (combination 4565) and important guidelines for night arrivals, such as parking outside and using parking lights only.",
+      "categories": [
+        "Directions",
+        "Observing Site Information",
+        "Club Access",
+        "Astronomy",
+        "Park Information",
+        "Guidelines"
+      ],
+      "keywords": [
+        "Henry Coe State Park",
+        "SJAA",
+        "Directions",
+        "Observing Site",
+        "Gate Code",
+        "Night Access",
+        "Hwy 101",
+        "Anderson Reservoir",
+        "Gilroy",
+        "Astronomy Club"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-fremont-peak-state-park",
+      "documentId": "eph84-02",
+      "title": "Fremont Peak State Park:",
+      "summary": "This document provides detailed driving directions to Fremont Peak State Park, specifically guiding visitors to the Coulter Camp overflow area where the San Jose Astronomical Association (SJAA) sets up. It also includes a reminder to use parking lights after dark.",
+      "categories": [
+        "Directions",
+        "Astronomy Site",
+        "Logistics",
+        "Club Information"
+      ],
+      "keywords": [
+        "Fremont Peak State Park",
+        "Driving Directions",
+        "Coulter Camp",
+        "SJAA",
+        "Observing Site",
+        "Parking",
+        "San Juan Bautista"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph84-02-observatory-pledge-fund",
+      "documentId": "eph84-02",
+      "title": "OBSERVATORY PLEDGE FUND",
+      "summary": "The San Jose Astronomical Association (SJAA) is launching a pledge fund to establish a permanent observatory site. This ambitious project aims to house a 30-inch equatorially mounted reflecting telescope, provide a meeting place, and offer facilities like concrete pads and a warm-up building for members. The SJAA is seeking monthly pledges from members, with a goal of raising $12,000 in the first year, and also welcomes input on site location and desired amenities.",
+      "categories": [
+        "Fundraising",
+        "Club Project",
+        "Observatory Development",
+        "Call to Action",
+        "Community Announcement"
+      ],
+      "keywords": [
+        "SJAA",
+        "Observatory Project",
+        "Pledge Fund",
+        "Fundraising",
+        "Permanent Observing Site",
+        "Telescope",
+        "Member Contributions",
+        "Astronomical Association"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph84-02-clues-down",
+      "documentId": "eph84-02",
+      "title": "CLUES DOWN",
+      "summary": "The document, titled 'CLUES DOWN,' presents a numbered list of cryptic clues, likely intended for an astronomical quiz or crossword puzzle. The clues cover a diverse range of topics within astronomy, including constellations, specific stars and planets, types of telescopes, astronomical periods, and units of measurement.",
+      "categories": [
+        "Astronomy",
+        "Puzzles",
+        "Terminology",
+        "Celestial Objects",
+        "Observational Equipment"
+      ],
+      "keywords": [
+        "Astronomy clues",
+        "Constellations",
+        "Stars",
+        "Planets",
+        "Telescopes",
+        "Astronomical periods",
+        "Units of measurement",
+        "Cygnus",
+        "Aquila",
+        "Saturn",
+        "Delta Scorpii",
+        "Denebola",
+        "Berenice",
+        "Reflector type",
+        "Mount type"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-clues-across",
+      "documentId": "eph84-02",
+      "title": "CLUES ACROSS",
+      "summary": "This document, titled \"CLUES ACROSS,\" presents a list of numbered phrases designed as clues for a crossword puzzle. The clues encompass a broad range of subjects, with a notable focus on astronomy, including celestial bodies, phenomena, and constellations, interspersed with general knowledge and classical allusions.",
+      "categories": [
+        "Crossword Puzzle",
+        "Astronomy",
+        "Recreational",
+        "Education"
+      ],
+      "keywords": [
+        "Crossword",
+        "Clues",
+        "Astronomy",
+        "Saturn",
+        "Moon",
+        "Conjunction",
+        "Lacerta",
+        "Lunar Valley",
+        "Trapezium",
+        "Zenith",
+        "Vernal Equinox",
+        "Atmosphere",
+        "Mythology",
+        "General Knowledge",
+        "Puzzle"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph84-02-by-bob-fingerhut",
+      "documentId": "eph84-02",
+      "title": "BY BOB FINGERHUT",
+      "summary": "The article reports on a variety of current and upcoming space events, including the details of Shuttle Mission 41-B (STS-11) for satellite deployment and repair practice, and the International Cometary Explorer's critical maneuver for its 1985 comet intercept. It also covers technical issues with the Columbia and Challenger spacecraft, Soviet space activities involving biological experiments and winged spacecraft tests, the IRAS satellite's discovery of material around Fomalhaut, and discussions regarding a potential U.S. Space Station project and the sale of weather satellites.",
+      "categories": [
+        "Space Missions",
+        "Spacecraft Operations",
+        "Space Science",
+        "Space Policy",
+        "International Space Cooperation",
+        "Astronomy",
+        "Aerospace Industry News"
+      ],
+      "keywords": [
+        "Shuttle Mission 41-B",
+        "STS-11",
+        "Columbia",
+        "Challenger",
+        "ISEE-3",
+        "International Cometary Explorer",
+        "Giacobini-Zinner",
+        "Soviet space program",
+        "Biological satellite",
+        "Winged spacecraft",
+        "IRAS",
+        "Fomalhaut",
+        "Space Station",
+        "Weather satellites",
+        "Satellite deployment",
+        "Satellite repair",
+        "Zero-gravity",
+        "Spacecraft failures",
+        "NASA",
+        "President Reagan"
+      ],
+      "pageStart": 13,
+      "pageEnd": 13
+    },
+    {
+      "id": "eph84-02-ads",
+      "documentId": "eph84-02",
+      "title": "ADS",
+      "summary": "The San Jose Astronomical Association (SJAA) is seeking a new Bulletin Editor for its monthly publication, the \"Ephemeris\", citing the current editor's responsibilities and the desire for more consolidated operations. The article also features several classified advertisements for used astronomical equipment, including telescopes (Meade 8\" f/6 reflector, Celestron C-8, C-90), drive correctors, filters, and various accessories. Additionally, it lists the current officers and board of directors for the SJAA.",
+      "categories": [
+        "Club News",
+        "Volunteer Opportunity",
+        "Classifieds",
+        "Astronomical Equipment",
+        "Publication Information"
+      ],
+      "keywords": [
+        "Bulletin Editor",
+        "SJAA Ephemeris",
+        "San Jose Astronomical Association",
+        "Telescopes for Sale",
+        "Astronomical Equipment",
+        "Volunteer Recruitment",
+        "Club Officers",
+        "Meade Telescope",
+        "Celestron Telescope",
+        "Lumicon",
+        "Filters",
+        "Eyepieces"
+      ],
+      "pageStart": 1,
+      "pageEnd": 14
+    },
+    {
+      "id": "eph84-02-commercial-ads-are-priced-according-to-size-and-may-be-placed-by-contacting-gene-cisneros-at-408-923-6800",
+      "documentId": "eph84-02",
+      "title": "Commercial ads are priced according to size and may be placed by contacting: Gene Cisneros at (408) 923-6800.",
+      "summary": "This document provides contact details for placing commercial advertisements, noting that pricing is determined by size, with inquiries directed to Gene Cisneros at (408) 923-6800. The presence of an astronomical photograph suggests this advertising information is part of an astronomy-related publication.",
+      "categories": [
+        "Advertising",
+        "Business",
+        "Contact Information",
+        "Astronomy Publication"
+      ],
+      "keywords": [
+        "advertising",
+        "commercial ads",
+        "pricing",
+        "contact information",
+        "Gene Cisneros",
+        "astronomy",
+        "publication"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-lumicon",
+      "documentId": "eph84-02",
+      "title": "LUMICON®",
+      "summary": "Lumicon advertises itself as a 'World Center for Astrophotography' and a leading supplier of in-stock telescopes and accessories in the West. They showcase their narrow band filters, demonstrating their ability to resolve nebulae like NGC2237, and offer photo lab services, inviting customers to visit or call their Livermore, CA location.",
+      "categories": [
+        "Advertising",
+        "Astronomy Equipment",
+        "Astrophotography",
+        "Product Information"
+      ],
+      "keywords": [
+        "LUMICON",
+        "Telescopes",
+        "Astronomy Accessories",
+        "Astrophotography",
+        "Narrow Band Filter",
+        "Filters",
+        "Nebula",
+        "NGC2237",
+        "Livermore CA"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-ata-coatings",
+      "documentId": "eph84-02",
+      "title": "ATA coatings",
+      "summary": "ATA Coatings, located in Oakland, CA, specializes in applying aluminum coatings with silicon monoxide over-coating for telescope mirrors. The service provides pricing for various mirror sizes from 4¼\" to 16\", offers free secondary mirror coatings when sent with the primary, and charges for old coating removal. Customers are responsible for return postage and insurance.",
+      "categories": [
+        "advertisement",
+        "services",
+        "optics",
+        "astronomy equipment"
+      ],
+      "keywords": [
+        "ATA coatings",
+        "aluminum coatings",
+        "silicon monoxide",
+        "telescope mirrors",
+        "mirror recoating",
+        "optical coatings",
+        "astronomy",
+        "Bushnell Optical",
+        "University Optics",
+        "Edmund Scientific",
+        "Celestron",
+        "Accutrack",
+        "Lumicon"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-02-everything-for-astronomers",
+      "documentId": "eph84-02",
+      "title": "Everything For Astronomers",
+      "summary": "This document is an advertisement for 'Everything For Astronomers', inviting customers to visit their showroom located at 704 Charcot Avenue, San Jose, CA. It highlights a range of astronomy-related brands and products available, including Meade, Kalt Corporation, Star Atlases, Tele-Vue Optics, Dynamax, Odyssey, and Swift Instruments.",
+      "categories": [
+        "Advertisement",
+        "Retail",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Everything For Astronomers",
+        "Showroom",
+        "San Jose CA",
+        "Meade",
+        "Kalt Corporation",
+        "Star Atlases",
+        "Tele-Vue Optics",
+        "Dynamax",
+        "Odyssey",
+        "Swift Instruments"
+      ],
+      "pageStart": 15,
+      "pageEnd": 15
+    },
+    {
+      "id": "eph84-02-sma-ferraris",
+      "documentId": "eph84-02",
+      "title": "SMA FERRARIS",
+      "summary": "This document, identified as \"SMA FERRARIS,\" contains an address in San Jose, CA, and is explicitly labeled as \"TIME VALUE - DATED NEWS MATERIAL.\" The inclusion of \"BULK RATE\" postage details suggests it was distributed widely, likely as a time-sensitive newsletter or official mailing.",
+      "categories": [
+        "News",
+        "Publication",
+        "Mailing/Postal",
+        "Organization Information"
+      ],
+      "keywords": [
+        "SMA FERRARIS",
+        "News Material",
+        "San Jose",
+        "California",
+        "Bulk Rate",
+        "Dated Material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8402/Eph84_02.pdf",
+      "txtPath": "8402/Eph84_02.md"
+    }
+  ]
+}

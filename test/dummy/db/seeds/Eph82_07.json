@@ -1,0 +1,495 @@
+{
+  "articles": [
+    {
+      "id": "eph82-07-ephemeris",
+      "documentId": "eph82-07",
+      "title": "Ephemeris",
+      "summary": "This document provides the San Jose Astronomical Association's (SJAA) ephemeris for July, August, and September, detailing a packed schedule of events. It includes various star parties at locations like Fremont Peak and Mt. Umunhum, monthly board and general meetings featuring guest speakers such as Dr. Sandra Faber, and special events like the annual picnic, a going-away party, and a joint astronomy conference.",
+      "categories": [
+        "Events Calendar",
+        "Club Activities",
+        "Astronomy Meetings",
+        "Observing Events",
+        "Organizational News"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association (SJAA)",
+        "Astronomy events",
+        "Star parties",
+        "Board meetings",
+        "General meetings",
+        "Light pollution",
+        "Perseid meteor shower",
+        "Space medicine",
+        "Fremont Peak",
+        "Mt. Umunhum",
+        "Henry Coe State Park",
+        "NASA Ames Research Center",
+        "Lick Observatory",
+        "Columbia (Space Shuttle)",
+        "Solar telescopes",
+        "Club membership"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-07-observations",
+      "documentId": "eph82-07",
+      "title": "Observations",
+      "summary": "This article details the election of new members and officers to the SJAA Board of Directors. It also covers challenges to astronomical observations due to volcanic ash and pollen, and a unique fundraising initiative selling star deeds. The main scientific focus is on J. Mayo Greenberg's research into comet formation, specifically his laboratory experiment creating \"Greenberg Glue,\" a complex organic material formed in simulated interstellar conditions, which may explain anomalous cometary outbursts.",
+      "categories": [
+        "Club News",
+        "Observing Challenges",
+        "Astronomy Research",
+        "Cometary Science",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board of Directors",
+        "Elections",
+        "Volcanic ash",
+        "Pollen",
+        "Kitt Peak National Observatory",
+        "Star sales",
+        "Museum of Science",
+        "Comets",
+        "Comet formation",
+        "Greenberg Glue",
+        "J. Mayo Greenberg",
+        "Interstellar clouds",
+        "Organic compounds",
+        "Ultraviolet light",
+        "Laboratory experiment",
+        "Schwassmann-Wachmann 1"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-07-riverside",
+      "documentId": "eph82-07",
+      "title": "Riverside!",
+      "summary": "The article recounts the author's experience at the Riverside Telescope Maker's Conference (RTMC), emphasizing the astonishing number of exceptionally large telescopes, including a 29-inch Dobsonian. The author contrasts this with the historical scarcity of large optics in amateur astronomy and discusses two prevailing trends in telescope making: sophisticated high-tech designs versus simple, elegant Dobsonian systems. The piece celebrates the craftsmanship and ingenuity displayed, suggesting even bigger telescopes are on the horizon.",
+      "categories": [
+        "Astronomy Conference",
+        "Telescope Making",
+        "Amateur Astronomy",
+        "Observing Report",
+        "Technology Trends"
+      ],
+      "keywords": [
+        "Riverside Telescope Maker's Conference (RTMC)",
+        "Dobsonian telescopes",
+        "Large optics",
+        "Telescope making",
+        "Amateur astronomy",
+        "Coulter Optical Co.",
+        "Cosmos 1",
+        "Telescope design",
+        "Mirror making",
+        "Star party"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-07-the-celestial-tourist-speaks",
+      "documentId": "eph82-07",
+      "title": "The Celestial Tourist Speaks",
+      "summary": "This article discusses the challenges and rewards of observing deep-sky objects in southern constellations like Corona Australis, detailing specific targets such as the globular cluster NGC 6541 and various nebulae, while emphasizing the need for patience and optimal viewing conditions due to low horizon angles. It then transitions to a technical explanation of telescope eyepieces, covering factors like focal length, apparent field of view, and image quality. The author highlights how these features impact cost and performance, particularly noting the difficulty and expense in designing eyepieces for \"fast\" telescopes (low f-numbers) due to optical demands.",
+      "categories": [
+        "Amateur Astronomy",
+        "Deep-Sky Observing",
+        "Observing Reports",
+        "Telescope Equipment",
+        "Optics",
+        "Technical Analysis"
+      ],
+      "keywords": [
+        "Corona Australis",
+        "NGC 6541",
+        "NGC 6726",
+        "NGC 6727",
+        "NGC 6729",
+        "IC 1297",
+        "Deep-sky objects",
+        "Southern skies",
+        "Eyepieces",
+        "Focal length",
+        "Apparent field of view",
+        "Image quality",
+        "Telescope f-number",
+        "Globular cluster",
+        "Nebulae",
+        "Planetary nebula"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-07-comet-comments",
+      "documentId": "eph82-07",
+      "title": "Comet Comments",
+      "summary": "This article, 'Comet Comments' by Don Machholz, announces the recovery of two comets, D'Arrest (1982e) and Churyumov-Gerasimenko (1982f), which are expected to become visible with small telescopes and potentially reach 9th magnitude later in the year. It also provides current ephemerides and observational details for Comets Bowell (1980b) and Grigg-Skjellerup (1982a). A historical note on the Great Comet Ikeya-Seki (1965VIII) is also included.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astronomy News",
+        "Ephemerides",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet D'Arrest",
+        "Comet Churyumov-Gerasimenko",
+        "Comet Bowell",
+        "Comet Grigg-Skjellerup",
+        "Comet Ikeya-Seki",
+        "Ephemerides",
+        "Magnitude",
+        "Telescopes",
+        "Comet recovery",
+        "Observing",
+        "Kreutz Sungrazing Group"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-07-from-pg-4",
+      "documentId": "eph82-07",
+      "title": "From pg. 4",
+      "summary": "This snippet discusses the common misconception that expensive, complex eyepieces are always necessary for telescope users. It clarifies that such elaborate designs are primarily beneficial for telescopes with wide apparent fields and small f/numbers, suggesting that many users may not require these high-end accessories.",
+      "categories": [
+        "Observing Advice",
+        "Equipment",
+        "Optics",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "eyepieces",
+        "telescopes",
+        "f/number",
+        "apparent field",
+        "optical design",
+        "astronomy accessories",
+        "buying guide"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-07-letters-to-the-editor",
+      "documentId": "eph82-07",
+      "title": "Letters to the Editor",
+      "summary": "This 'Letters to the Editor' section features reader feedback on various astronomical topics. One letter details preferred eyepieces like Plössls and Erfles, discussing their performance under different seeing conditions using the Antoniadi scale, and mentions a useful filter adapter. Another letter critiques the timing of Astronomy Day for Western States, suggesting an earlier date due to adverse weather and poor visibility for objects like the Orion Nebula, while a third praises a regular astronomical bulletin for its engaging content.",
+      "categories": [
+        "Reader Feedback",
+        "Observing Equipment",
+        "Observing Conditions",
+        "Astronomical Events",
+        "Technical Discussion"
+      ],
+      "keywords": [
+        "Eyepieces",
+        "Plössl",
+        "Erfle",
+        "Televue",
+        "Galoc",
+        "Antoniadi scale",
+        "Seeing conditions",
+        "Astronomy Day",
+        "Orion Nebula",
+        "Celestron",
+        "Filter adapter",
+        "C-8"
+      ],
+      "pageStart": 20,
+      "pageEnd": 20
+    },
+    {
+      "id": "eph82-07-ads",
+      "documentId": "eph82-07",
+      "title": "Ads",
+      "summary": "This document contains a classified advertisement for a complete C-8 telescope package. The package includes the telescope, coatings, wedge, tripod, Accutrak Compact two-axis drive, five eyepieces, Barlow lens, prime focus adapter, tele-extender, off-axis guider, University Optics Omniguide reticle, deluxe telecompressor, and a Celestron-Williams cold camera, all described as being in new condition and priced at $1700.",
+      "categories": [
+        "Advertisement",
+        "For Sale",
+        "Equipment"
+      ],
+      "keywords": [
+        "C-8 telescope",
+        "Celestron",
+        "astronomy equipment",
+        "cold camera",
+        "eyepieces",
+        "accessories",
+        "used equipment"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-07-fourth-shuttle-flight",
+      "documentId": "eph82-07",
+      "title": "Fourth Shuttle Flight",
+      "summary": "The article details the upcoming fourth Space Shuttle Columbia flight, including a rescheduled July 4th landing and a historic on-pad payload installation. It also covers the imminent delivery of the Challenger orbiter and private funding initiatives for a fifth shuttle. Internationally, the report highlights Salyut 7 operations, a rare pre-announced French mission to Salyut 7, and the test flight of a new Russian shuttle-type winged spacecraft, Cosmos 1374. Other developments include the launch of Westar 5, lightweight solid rocket motor advancements, Australian satellite plans, ESA's Eureca project, and the renaming of White Sands Space Harbor.",
+      "categories": [
+        "Space Shuttle Program",
+        "International Space Programs",
+        "Satellite Launches",
+        "Space Policy",
+        "Aerospace Technology",
+        "Space Stations"
+      ],
+      "keywords": [
+        "Space Shuttle Columbia",
+        "Challenger",
+        "Salyut 7",
+        "Cosmos 1374",
+        "NASA",
+        "Defense Department",
+        "President Reagan",
+        "Space Transportation Company",
+        "Prudential Insurance Company",
+        "Westar 5",
+        "Hercules Aerospace Division",
+        "European Space Agency (ESA)",
+        "Eureca",
+        "White Sands Space Harbor",
+        "Solid Rocket Motors",
+        "Payload capacity",
+        "Russian space program",
+        "French space mission",
+        "Materials processing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-07-galaxy",
+      "documentId": "eph82-07",
+      "title": "Galaxy",
+      "summary": "This article, part of the 'Galaxy' miscellany department, provides an ephemeris for observing the Great Red Spot (GRS) in transit across Jupiter during July and August. It offers advice on when and how to detect the GRS, notes Jupiter's current observing conditions before it moves behind the sun, and encourages observers to compare and report their perceptions of the Spot's color. This marks the last GRS ephemeris for the current apparition, with observations expected to resume in November.",
+      "categories": [
+        "Observing Guide",
+        "Planetary Astronomy",
+        "Ephemeris",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "transit",
+        "ephemeris",
+        "observing",
+        "planetary observation",
+        "amateur astronomy"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-07-ads",
+      "documentId": "eph82-07",
+      "title": "Ads",
+      "summary": "This document consists of classified advertisements for various astronomical equipment. Items for sale include TIRION ATLASES at a discount, Celestron binoculars, Coulter and Parks telescope mirrors, and several refractor and Newtonian telescope assemblies with specific features and negotiable prices.",
+      "categories": [
+        "Classifieds",
+        "For Sale",
+        "Astronomical Equipment",
+        "Optics"
+      ],
+      "keywords": [
+        "TIRION ATLASES",
+        "Celestron binoculars",
+        "Coulter mirror",
+        "Parks mirror",
+        "Jaegers refractor",
+        "Newtonian telescope",
+        "telescope assembly",
+        "Meade mount",
+        "focuser",
+        "diagonal",
+        "finder scope",
+        "astronomy",
+        "optics"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-07-rattley-rattles",
+      "documentId": "eph82-07",
+      "title": "Rattley Rattles",
+      "summary": "The article traces the historical development of astronomical catalogs for nebulae and star clusters, starting with Charles Messier's compilation of comet-like objects. It details Sir William Herschel's extensive work, assisted by his sister Caroline, in discovering and classifying approximately 2500 new deep-sky objects with a pioneering eight-category system. The narrative continues through John Herschel's General Catalogue and Dr. Dreyer's comprehensive New General Catalogue (NGC) and subsequent Index Catalogues, highlighting the continuous effort to document celestial objects.",
+      "categories": [
+        "History of Astronomy",
+        "Astronomical Catalogs",
+        "Deep-Sky Objects",
+        "Classification Systems"
+      ],
+      "keywords": [
+        "Astronomical Catalogs",
+        "Messier Catalogue",
+        "William Herschel",
+        "Herschel Catalogue",
+        "New General Catalogue",
+        "NGC",
+        "Index Catalogues",
+        "Nebulae",
+        "Star Clusters",
+        "Charles Messier",
+        "John Herschel",
+        "J.L.E. Dreyer",
+        "Deep-Sky Objects",
+        "Celestial Classification"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-07-from-pg-7",
+      "documentId": "eph82-07",
+      "title": "From pg. 7",
+      "summary": "This article clarifies the identities of several Messier objects, addressing historical confusions and current beliefs regarding their correlation with NGC and Herschel catalog entries. It identifies M91 with NGC 6543, details knots within M101, and states that M102 is currently believed to be identical to M101, while listing M104-M110 as later additions to Messier's catalogue.",
+      "categories": [
+        "Historical Astronomy",
+        "Deep Sky Objects",
+        "Cataloging/Nomenclature"
+      ],
+      "keywords": [
+        "Messier objects",
+        "NGC objects",
+        "Herschel objects",
+        "M91",
+        "M101",
+        "M102",
+        "M104",
+        "M105",
+        "M106",
+        "M107",
+        "M108",
+        "M109",
+        "M110",
+        "Object identification",
+        "Galaxies",
+        "Nebulae"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-07-astronomy-day",
+      "documentId": "eph82-07",
+      "title": "Astronomy Day",
+      "summary": "This article details the successful, yet logistically challenging, Astronomy Day events organized by the San Jose Astronomical Association (SJAA) at various locations including Fremont Peak, a last-minute K-Mart site, and DeAnza College. Volunteers engaged hundreds of members of the public by providing telescope views of celestial objects like Saturn, Jupiter, and the Moon. A separate observing report from Chabot Observatory also recounts detailed planetary and lunar observations despite significant cloud cover, highlighting both the joys and occasional frustrations of public observing.",
+      "categories": [
+        "Events",
+        "Observing Reports",
+        "Club Activities",
+        "Public Outreach"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "SJAA",
+        "Fremont Peak",
+        "DeAnza College",
+        "K-Mart",
+        "Chabot Observatory",
+        "Telescopes",
+        "Public Observing",
+        "Saturn",
+        "Jupiter",
+        "Moon",
+        "Mars",
+        "Volunteers",
+        "Cloud Cover"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph82-07-joint-conference-on-astronomy",
+      "documentId": "eph82-07",
+      "title": "JOINT CONFERENCE ON ASTRONOMY",
+      "summary": "This document announces a Joint Conference on Astronomy hosted by the Astronomical Association of Northern California (AANC) in conjunction with the Western Amateur Astronomers (WAA) annual summer convention and NASA/Ames Research Center. Scheduled for August 27-29, 1982, at NASA/Ames Research Center, the event requires pre-registration for $9, with attendance limited and U.S. citizenship status mandatory for NASA clearance. The conference promises an excellent program, including a banquet, proceedings, and a call for papers.",
+      "categories": [
+        "Events",
+        "Conference Announcement",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Joint Conference on Astronomy",
+        "Western Amateur Astronomers",
+        "AANC",
+        "NASA Ames Research Center",
+        "Conference Registration",
+        "Call for Papers",
+        "Moffett Field",
+        "1982"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-07-and-call-for-papers",
+      "documentId": "eph82-07",
+      "title": "AND CALL FOR PAPERS",
+      "summary": "The Astronomical Association of Northern California (AANC) has issued a call for papers for an upcoming event. Attendees can register for $9.00, with the option to present a paper, and submissions are handled by Registrar/Papers Chairman Frank A. Miller.",
+      "categories": [
+        "Call for Papers",
+        "Event Announcement",
+        "Astronomy",
+        "Association News"
+      ],
+      "keywords": [
+        "Call for Papers",
+        "Astronomical Association of Northern California",
+        "AANC",
+        "Conference",
+        "Registration",
+        "Frank A. Miller",
+        "Astronomy event",
+        "Paper submission"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph82-07-news-materials",
+      "documentId": "eph82-07",
+      "title": "NEWS MATERIALS",
+      "summary": "This document appears to be a news bulletin or material from the San Jose Astronomical Association (SJAA). It provides the association's contact details, mailing information, and introduces a map illustrating the locations for their meetings and star parties.",
+      "categories": [
+        "News",
+        "Club Information",
+        "Events",
+        "Locations"
+      ],
+      "keywords": [
+        "San Jose Astronomical Association",
+        "SJAA",
+        "Bulletin",
+        "Meeting Sites",
+        "Star Parties",
+        "Astronomy Club",
+        "Club Locations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8207/Eph82_07.pdf",
+      "txtPath": "8207/Eph82_07.md"
+    }
+  ]
+}

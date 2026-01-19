@@ -93,4 +93,5 @@ ENV RUBY_DEBUG_OPEN=false
 ENV RUBY_DEBUG_HOST=0.0.0.0
 ENV RUBY_DEBUG_PORT=1234
 
-CMD ["sh", "-c", "RUBY_DEBUG_OPEN=true ruby -r debug/open_nonstop -S ./bin/rails server"]
+WORKDIR /rails/test/dummy
+CMD ["sh", "-c", "./bin/rails server -b 0.0.0.0"]

@@ -1,0 +1,281 @@
+{
+  "articles": [
+    {
+      "id": "eph80-12-observations",
+      "documentId": "eph80-12",
+      "title": "Observations",
+      "summary": "This article from the SJAA announces several upcoming events and initiatives for its members, including general meetings with notable speakers like a Solar Physics expert and a Saturn ring expert. It details a reduced-rate subscription offer for Astronomy Magazine, a new telescope-making class, and a dedicated 'beginner's night' for new telescope owners. Additionally, it highlights external astronomical resources such as a solar activity hotline and a comet news service.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Membership Benefits",
+        "Astronomy Resources",
+        "Education",
+        "Observing"
+      ],
+      "keywords": [
+        "SJAA",
+        "Observations",
+        "Telescope making",
+        "General meetings",
+        "DeAnza",
+        "Solar Physics",
+        "Dr. Geoffrey Cuzzi",
+        "Saturn rings",
+        "Voyager I data",
+        "Astronomy Magazine",
+        "IDSP",
+        "Beginner's night",
+        "Star party",
+        "Solar activity hotline",
+        "Comet News Service",
+        "Pleiades",
+        "Orion",
+        "Gemini"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph80-12-the-astronomical-society-of-the-pacific",
+      "documentId": "eph80-12",
+      "title": "The Astronomical Society of the Pacific",
+      "summary": "The Astronomical Society of the Pacific is offering a free directory of national amateur astronomical associations. The article also discusses the growing scientific acceptance of the idea of asteroid satellites, highlighting observations by SJAA members of secondary occultations. Additionally, several SJAA members are recognized for their recent contributions to various astronomy-related magazines and publications.",
+      "categories": [
+        "News",
+        "Amateur Astronomy",
+        "Scientific Research",
+        "Observing Reports",
+        "Community Engagement"
+      ],
+      "keywords": [
+        "Astronomical Society of the Pacific (ASP)",
+        "Amateur astronomical associations",
+        "Asteroid satellites",
+        "Stellar occultations",
+        "San Jose Astronomical Association (SJAA)",
+        "Science News",
+        "Sky & Telescope",
+        "Astronomy magazine",
+        "Voyager-Saturn flyby",
+        "CID cameras"
+      ],
+      "pageStart": 295,
+      "pageEnd": 295
+    },
+    {
+      "id": "eph80-12-the-american-institute-of-aeronautics-and-astronautics",
+      "documentId": "eph80-12",
+      "title": "The American Institute of Aeronautics and Astronautics",
+      "summary": "The American Institute of Aeronautics and Astronautics (AIAA) is sponsoring a competition offering two $5,000 prizes to undergraduate student teams for proposals to secure Space Shuttle payload space from NASA. Additionally, the article includes announcements for a Red Cross blood drive, a reminder about sharing public star party sites with other amateur astronomers, and a call for more submissions for the club's bulletin.",
+      "categories": [
+        "Student Opportunities",
+        "Competitions",
+        "News",
+        "Events",
+        "Club Announcements",
+        "Community Relations"
+      ],
+      "keywords": [
+        "AIAA",
+        "Student Competition",
+        "Space Shuttle",
+        "NASA",
+        "Payload Space",
+        "Undergraduate",
+        "Blood Drive",
+        "Red Cross",
+        "Star Party",
+        "Amateur Astronomers",
+        "Club Bulletin"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-12-new-addresses",
+      "documentId": "eph80-12",
+      "title": "New Addresses",
+      "summary": "This document, titled \"New Addresses,\" provides updated contact details for several individuals, including their residential addresses and phone numbers. It also lists names and contact numbers for key organizational roles such as president, vice-president, and editor.",
+      "categories": [
+        "Contact Information",
+        "Administrative Update",
+        "Directory Information"
+      ],
+      "keywords": [
+        "Addresses",
+        "Phone numbers",
+        "Contact details",
+        "Organizational roles",
+        "Directory",
+        "Member information"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph80-12-comet-comments",
+      "documentId": "eph80-12",
+      "title": "COMET COMMENTS",
+      "summary": "This article provides an update on comet observations as of late 1980. It notes two periodic comets departing, one remaining, and a new discovery. Notably, Comet Helin-Dunbar (1980p) was determined to be a ghost image, while Comet Meier (1980q) was a new discovery observed in November 1980, with details on its brightness and trajectory.",
+      "categories": [
+        "observing reports",
+        "comet discovery",
+        "astronomical observations",
+        "news"
+      ],
+      "keywords": [
+        "comets",
+        "1980",
+        "Helin-Dunbar",
+        "1980p",
+        "Meier",
+        "1980q",
+        "Palomar",
+        "Regulus",
+        "Vega",
+        "Ottawa",
+        "magnitude"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-12-comet-meier-1980q",
+      "documentId": "eph80-12",
+      "title": "Comet Meier (1980q)",
+      "summary": "This document provides astrometric data for Comet Meier (1980q), detailing its Right Ascension, Declination, and observed magnitude for several dates in November. It notes the comet's southwest trajectory and advises observers to look for it in late November after the full moon before it enters twilight.",
+      "categories": [
+        "Observing Reports",
+        "Comets",
+        "Astrodynamics"
+      ],
+      "keywords": [
+        "Comet Meier (1980q)",
+        "Astrometry",
+        "Comet Observation",
+        "Magnitude",
+        "Right Ascension",
+        "Declination"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-12-and-our-three-periodic-comets",
+      "documentId": "eph80-12",
+      "title": "And our three periodic comets....",
+      "summary": "This article provides an observational guide for three periodic comets: Stephen-Oterma (1980g), Tuttle (1980h), and Encke. It details their ephemerides, including Right Ascension, Declination, and estimated magnitudes for observations from November 1980 to January 1981. Each comet's path and visibility are briefly described, supplemented by personal observing notes from mid-November.",
+      "categories": [
+        "Observing Reports",
+        "Comet Observations",
+        "Ephemeris",
+        "Astronomical Data"
+      ],
+      "keywords": [
+        "periodic comets",
+        "Comet Stephen-Oterma",
+        "Comet Tuttle",
+        "Comet Encke",
+        "ephemeris",
+        "magnitude",
+        "Right Ascension",
+        "Declination",
+        "Orion",
+        "Taurus",
+        "M1",
+        "astronomical observations"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-12-comets-in-your-eyes-reporting-a-comet-discovery",
+      "documentId": "eph80-12",
+      "title": "Comets in Your Eyes: Reporting a comet discovery.",
+      "summary": "This article provides a step-by-step guide for amateur astronomers on how to report a potential comet discovery. It details initial checks to confirm a fuzzy object is indeed a comet, the specific information required, and the preferred method of reporting via telegram to the Smithsonian Astrophysical Observatory's Central Bureau for Astronomical Telegrams. The document also includes contact information for follow-up and additional resources.",
+      "categories": [
+        "How-to Guide",
+        "Observing Techniques",
+        "Astronomical Discovery",
+        "Amateur Astronomy",
+        "Reporting Protocols"
+      ],
+      "keywords": [
+        "comet discovery",
+        "reporting",
+        "Smithsonian Astrophysical Observatory",
+        "Central Bureau for Astronomical Telegrams",
+        "telegram",
+        "observation",
+        "magnitude",
+        "position",
+        "amateur astronomer",
+        "Don Machholz"
+      ],
+      "pageStart": 5,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph80-12-november-8-star-party-at-fremont-peak",
+      "documentId": "eph80-12",
+      "title": "NOVEMBER 8 STAR PARTY AT FREMONT PEAK",
+      "summary": "The November 8 star party at Fremont Peak experienced low attendance from SJAA members, despite good sky conditions and bearable temperatures. The author focused on observing various celestial objects with a new Celestron 14, sharing views of globular clusters and nebulae with other attendees. The event featured diverse telescopes, some minor equipment issues, and concluded with a practical tip for preserving night vision when departing.",
+      "categories": [
+        "Observing Report",
+        "Event Recap",
+        "Amateur Astronomy",
+        "Astronomy Equipment"
+      ],
+      "keywords": [
+        "Fremont Peak",
+        "Star Party",
+        "Astronomy Observation",
+        "Celestron 14",
+        "Messier Objects",
+        "Nebulae",
+        "Telescopes",
+        "Sky Conditions",
+        "Dewing",
+        "Night Vision"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph80-12-behind-the-scenes-at-voyager-saturn",
+      "documentId": "eph80-12",
+      "title": "Behind the Scenes at Voyager-Saturn",
+      "summary": "This article provides a humorous, behind-the-scenes look at the Press Room during the Voyager-Saturn encounter at JPL. It recounts amusing anecdotes involving Carl Sagan, a national TV reporter's unusual ideas for supporting the space program, and a journalist's notable lack of scientific knowledge. The piece also includes a satirical, fictional description of an image from Titan.",
+      "categories": [
+        "Humor",
+        "Behind-the-scenes",
+        "Science Communication",
+        "Media Relations",
+        "Space Exploration"
+      ],
+      "keywords": [
+        "Voyager-Saturn",
+        "JPL",
+        "Press Room",
+        "Carl Sagan",
+        "Science Journalism",
+        "NASA",
+        "Titan",
+        "Humor",
+        "Media"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph80-12",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8012/Eph80_12.pdf",
+      "txtPath": "8012/Eph80_12.md"
+    }
+  ]
+}

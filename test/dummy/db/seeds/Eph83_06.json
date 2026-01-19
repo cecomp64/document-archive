@@ -1,0 +1,660 @@
+{
+  "articles": [
+    {
+      "id": "eph83-06-ephemeris",
+      "documentId": "eph83-06",
+      "title": "EPHEMERIS",
+      "summary": "This document appears to be an introductory or cover page for an \"EPHEMERIS\" from June 1983, likely associated with the organization SJAA. It features a black and white astronomical photograph showcasing a nebula or cosmic cloud formation against a starry background.",
+      "categories": [
+        "Astronomy",
+        "Historical Document",
+        "Publications",
+        "Astrophotography"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "SJAA",
+        "June 1983",
+        "Nebula",
+        "Cosmic Cloud",
+        "Astronomical Photograph",
+        "Astronomy"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph83-06-calendar",
+      "documentId": "eph83-06",
+      "title": "CALENDAR",
+      "summary": "This document presents a calendar of astronomical and organizational events scheduled for June and July. It details various activities including multiple star parties (both indoor and outdoor), board meetings, a general membership meeting featuring annual elections, and an annual picnic. Specific dates, locations, and times are provided for these community and astronomy-related gatherings.",
+      "categories": [
+        "Events",
+        "Calendar",
+        "Astronomy Club Activities",
+        "Meetings",
+        "Social Events"
+      ],
+      "keywords": [
+        "Star Party",
+        "Board Meeting",
+        "Membership Meeting",
+        "Annual Election",
+        "Picnic",
+        "Fremont Peak",
+        "Henry Coe State Park",
+        "Los Gatos",
+        "Santa Clara",
+        "Astronomy Events",
+        "June",
+        "July",
+        "Public Star Party",
+        "Indoor Star Party",
+        "Outdoor Star Party"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-for-sale",
+      "documentId": "eph83-06",
+      "title": "FOR SALE",
+      "summary": "The document primarily features a \"for sale\" advertisement for a C-8 telescope in like-new condition with various accessories, priced at $800 or best offer. It also contains detailed information about \"EPHEMERIS,\" the monthly publication of the San Jose Astronomical Association (SJAA), including submission guidelines for articles and photos. Additionally, the page lists contact information for the SJAA president, treasurer, and board of directors, noting the June cover image as the Triffid Nebula.",
+      "categories": [
+        "Classifieds",
+        "Astronomy Club Information",
+        "Publication Information",
+        "Astronomical Equipment"
+      ],
+      "keywords": [
+        "C-8 telescope",
+        "astronomical equipment",
+        "for sale",
+        "used equipment",
+        "San Jose Astronomical Association",
+        "SJAA",
+        "EPHEMERIS",
+        "newsletter",
+        "publication submissions",
+        "club officers",
+        "board of directors",
+        "Triffid Nebula"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph83-06-by-denni-frerichs",
+      "documentId": "eph83-06",
+      "title": "BY DENNI FRERICHS",
+      "summary": "April was a busy month for the astronomy club, highlighted by a successful Astronomy Day on the 22nd, despite a late start to the observing season and challenging weather. The main event at Great America, a last-minute venue change, saw volunteers engaging hundreds of people with telescopes even through heavy rain, leading to invitations for future events. Concurrently, another successful Astronomy Day event was held at a local elementary school, attracting over 100 participants.",
+      "categories": [
+        "Club Activity Report",
+        "Events",
+        "Public Outreach",
+        "Observing Reports",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "Astronomy Day",
+        "Great America",
+        "Fremont Peak",
+        "Star Party",
+        "Public Outreach",
+        "Telescopes",
+        "Volunteering",
+        "Venus",
+        "Moon",
+        "Jupiter",
+        "Saturn",
+        "Sunspots",
+        "Weather Impact"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-auction-report",
+      "documentId": "eph83-06",
+      "title": "AUCTION REPORT",
+      "summary": "This auction report details an event held on April 30th, which attracted over 125 attendees, including 82 registered bidders. A significant increase from the previous year, the auction featured 411 registered items.",
+      "categories": [
+        "Auction Report",
+        "Events",
+        "Statistics"
+      ],
+      "keywords": [
+        "Auction",
+        "Report",
+        "Attendance",
+        "Bidders",
+        "Items",
+        "Statistics",
+        "April event"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph83-06-sjaa-picnic-july-23",
+      "documentId": "eph83-06",
+      "title": "SJAA PICNIC—JULY 23",
+      "summary": "The article details the success of the third annual SJAA Auction, which raised over $1000 with increased attendance and numerous volunteers. It also announces the upcoming annual club picnic on July 23rd at Portal Park, featuring officer installation, the Dr. A.B. Gregory Award, and a potluck BBQ. Additionally, the piece includes a farewell to member Jeff Horne and an announcement of the president's resignation.",
+      "categories": [
+        "Events",
+        "Club News",
+        "Member Recognition"
+      ],
+      "keywords": [
+        "SJAA",
+        "Annual Auction",
+        "Club Picnic",
+        "Officer Installation",
+        "Dr. A.B. Gregory Award",
+        "Volunteer Appreciation",
+        "Fundraiser",
+        "Member Farewell",
+        "President Resignation"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph83-06-by-jim-van-nuland",
+      "documentId": "eph83-06",
+      "title": "BY JIM VAN NULAND",
+      "summary": "Jim Van Nuland provides updated predictions for Jupiter's Great Red Spot (GRS) transit times, based on recent observations from California after skies cleared. He notes that early predictions were inaccurate and offers a table of corrected GRS meridian transit times, adjusted for PDT, aspect, phase, and light time. The article also includes practical observing tips for amateur astronomers, detailing the GRS's current appearance (light yellow/pink, more contrasty) and recommending equipment and techniques for successful viewing.",
+      "categories": [
+        "Observing Reports",
+        "Predictions",
+        "Amateur Astronomy",
+        "Planetary Astronomy",
+        "Observing Guides"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot (GRS)",
+        "Transit times",
+        "Observations",
+        "Predictions",
+        "Amateur astronomy",
+        "Observing tips",
+        "PDT",
+        "Telescope",
+        "Seeing",
+        "Aperture",
+        "South equatorial belt"
+      ],
+      "pageStart": 184,
+      "pageEnd": 184
+    },
+    {
+      "id": "eph83-06-sts-7-scheduled-for-june-18-launch",
+      "documentId": "eph83-06",
+      "title": "STS-7 SCHEDULED FOR JUNE 18 LAUNCH",
+      "summary": "The STS-7 mission aboard the Space Shuttle Challenger is scheduled for launch on June 18, 1983, carrying a crew of five astronauts, including the first American woman in space, Sally Ride. The mission will deploy two communication satellites, Canada's Anik C2 and Indonesia's Palpa B-1, and conduct several scientific experiments including the OSTA 2 project and the German SPAS satellite.",
+      "categories": [
+        "news",
+        "space missions",
+        "events",
+        "space exploration"
+      ],
+      "keywords": [
+        "STS-7",
+        "Challenger",
+        "June 18 launch",
+        "Sally K. Ride",
+        "space shuttle",
+        "communication satellites",
+        "Anik C2",
+        "Palpa B-1",
+        "OSTA 2",
+        "SPAS satellite",
+        "Robert L. Crippen",
+        "Frederick H. Hauck",
+        "John M. Fabian",
+        "Norman E. Thagard"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-cosmonauts-fail-to-rendezvous",
+      "documentId": "eph83-06",
+      "title": "COSMONAUTS FAIL TO RENDEZVOUS",
+      "summary": "The Soviet Soyuz T-8 mission failed in its attempt to rendezvous with the Salute 7 space station. After two days in space, the mission was aborted and returned to Earth on April 22.",
+      "categories": [
+        "news",
+        "space exploration",
+        "mission report"
+      ],
+      "keywords": [
+        "Soyuz T-8",
+        "Salute 7",
+        "space station",
+        "rendezvous failure",
+        "Soviet space program",
+        "cosmonauts",
+        "space mission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-soviet-bomber-damaged-while-carrying-shuttle",
+      "documentId": "eph83-06",
+      "title": "SOVIET BOMBER DAMAGED WHILE CARRYING SHUTTLE",
+      "summary": "A Soviet Bison bomber, carrying a shuttle orbiter piggyback, was damaged after a downwind landing incident caused it to run off the runway. Fortunately, the shuttle orbiter itself remained undamaged during the event.",
+      "categories": [
+        "Aviation Incident",
+        "Space Transportation",
+        "News Report",
+        "Aerospace"
+      ],
+      "keywords": [
+        "Soviet bomber",
+        "Bison bomber",
+        "Shuttle orbiter",
+        "Piggyback transport",
+        "Landing incident",
+        "Runway excursion",
+        "Aircraft damage"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-satcom-1r-launched",
+      "documentId": "eph83-06",
+      "title": "SATCOM 1R LAUNCHED",
+      "summary": "The RCA communications satellite, SATCOM 1R, was successfully launched on April 11 using a Delta 3924 booster. This new satellite is designed to have an operational lifespan of ten years.",
+      "categories": [
+        "news",
+        "launch",
+        "satellite",
+        "spacecraft"
+      ],
+      "keywords": [
+        "SATCOM 1R",
+        "RCA",
+        "communications satellite",
+        "launch",
+        "Delta 3924 booster",
+        "satellite launch",
+        "ten year lifetime"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-noaa-8-spacecraft-stabelized",
+      "documentId": "eph83-06",
+      "title": "NOAA-8 SPACECRAFT STABELIZED",
+      "summary": "The NOAA-8 spacecraft, which had been tumbling since its March 28 launch from Vandenberg AFB, has now been successfully stabilized. Its primary mission involves monitoring global weather conditions and providing assistance to international search and rescue operations.",
+      "categories": [
+        "News",
+        "Spacecraft Operations",
+        "Satellite Technology",
+        "Meteorology",
+        "Emergency Services"
+      ],
+      "keywords": [
+        "NOAA-8",
+        "spacecraft",
+        "stabilized",
+        "launch",
+        "Vandenberg AFB",
+        "global weather",
+        "search and rescue",
+        "satellite"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-shuttle-enterprise-to-tour-europe",
+      "documentId": "eph83-06",
+      "title": "SHUTTLE ENTERPRISE, TO TOUR EUROPE",
+      "summary": "The Space Shuttle Enterprise is scheduled to tour Europe atop its Boeing 747 carrier aircraft, with planned displays in Germany (Bonn-Cologne, May 21-23), France (Paris Airshow, May 26-June 5), and England (Stanstead, June 5-7). Although never intended for spaceflight, the Enterprise is vital for launch pad checkout work at Vandenberg AFB and will also stop in Ottawa, Canada, on its return journey.",
+      "categories": [
+        "News",
+        "Events",
+        "Aerospace",
+        "Space Shuttle Program"
+      ],
+      "keywords": [
+        "Shuttle Enterprise",
+        "European tour",
+        "Boeing 747",
+        "Paris Airshow",
+        "Aerospace events",
+        "Space exploration",
+        "Vandenberg AFB"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-tdrs-being-moved-toward-synchronous-orbit",
+      "documentId": "eph83-06",
+      "title": "TDRS BEING MOVED TOWARD SYNCHRONOUS ORBIT",
+      "summary": "The Tracking Data Relay Satellite (TDRS), launched during the sixth shuttle flight, is undergoing orbital maneuvers to raise its orbit towards synchronous altitude after a failure of the Initial Upper Stage (IUS) left it in a low orbit. The IUS failure is under investigation, leading to the removal of a second TDRS from the upcoming eighth shuttle flight, which is now scheduled for August 11.",
+      "categories": [
+        "Spaceflight",
+        "Satellite Operations",
+        "Technical Issue",
+        "Program Update"
+      ],
+      "keywords": [
+        "TDRS",
+        "Tracking Data Relay Satellite",
+        "IUS failure",
+        "Initial Upper Stage",
+        "Shuttle flight",
+        "Synchronous orbit",
+        "Orbital maneuver",
+        "Space Shuttle"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph83-06-pioneer-10-passes-pluto-s-orbit",
+      "documentId": "eph83-06",
+      "title": "PIONEER 10 PASSES PLUTO'S ORBIT",
+      "summary": "The Pioneer 10 spacecraft has now surpassed Pluto's orbit and is projected to cross Neptune's orbit on June 13. Launched 11 years ago, the probe remains operational and continues to send back data from the far reaches of the solar system.",
+      "categories": [
+        "news",
+        "space missions",
+        "astronomy",
+        "outer solar system"
+      ],
+      "keywords": [
+        "Pioneer 10",
+        "Pluto",
+        "Neptune",
+        "outer solar system",
+        "spacecraft",
+        "orbit",
+        "space exploration"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-ariane-scheduled-for-june-launch",
+      "documentId": "eph83-06",
+      "title": "ARIANE SCHEDULED FOR JUNE LAUNCH",
+      "summary": "The sixth flight of the Ariane launch vehicle, initially set for June 3rd, is facing a potential delay. This is due to ground validation testing of the launcher's third stage falling behind schedule.",
+      "categories": [
+        "News",
+        "Space Launch",
+        "Program Update"
+      ],
+      "keywords": [
+        "Ariane",
+        "Space Launch",
+        "Schedule Delay",
+        "Third Stage Testing"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-by-don-machholz",
+      "documentId": "eph83-06",
+      "title": "BY DON MACHHOLZ",
+      "summary": "This article details the discovery and observation of two recent bright comets: Comet IRAS-Araki-Alcock (1983d) and Comet Sugano-Saigusa-Fujikawa (1983e). Comet IRAS-Araki-Alcock approached within 3 million miles of Earth, becoming naked-eye visible, and notably was the first comet officially named after a satellite. The author also discusses challenges in public viewing due to light pollution and mentions other periodic comets visible, along with communication methods for urgent astronomical news.",
+      "categories": [
+        "Observing Reports",
+        "Comet Discoveries",
+        "Astronomical News",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Comet IRAS-Araki-Alcock (1983d)",
+        "Comet Sugano-Saigusa-Fujikawa (1983e)",
+        "Comets",
+        "Comet-watching",
+        "Discovery",
+        "IRAS satellite",
+        "Naked-eye visibility",
+        "Light pollution",
+        "Halley's Comet",
+        "Observing",
+        "Magnitude"
+      ],
+      "pageStart": 8,
+      "pageEnd": 1983
+    },
+    {
+      "id": "eph83-06-past-discoveries",
+      "documentId": "eph83-06",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article details the discoveries of two comets by amateur astronomers in the Southern Hemisphere: Comet Austin (1982g) and Comet Bradfield (1979c). It describes the conditions and equipment used by Rodney Austin and William Bradfield for their respective finds, noting the extensive search hours and the celestial circumstances at discovery. The text also discusses missed opportunities for earlier discovery and highlights the dedication of these observers, particularly in the Southern Hemisphere.",
+      "categories": [
+        "Observing Reports",
+        "Amateur Astronomy",
+        "Comets",
+        "Historical Astronomy",
+        "Discovery Reports"
+      ],
+      "keywords": [
+        "Comet Austin (1982g)",
+        "Comet Bradfield (1979c)",
+        "Comet discovery",
+        "Rodney Austin",
+        "William Bradfield",
+        "Amateur astronomers",
+        "Southern Hemisphere",
+        "Refractor telescope",
+        "Naked-eye object"
+      ],
+      "pageStart": 9,
+      "pageEnd": 9
+    },
+    {
+      "id": "eph83-06-periodic-comet-tempel-1-1982j",
+      "documentId": "eph83-06",
+      "title": "Periodic Comet Tempel 1 (1982j)",
+      "summary": "This article provides an ephemeris for Periodic Comet Tempel 1 (1982j) from late May to early July 1983, listing its right ascension, declination, and estimated magnitude. It notes the comet's path through Virgo, its approximate 3' diameter, and condensed appearance, referencing IAU Circular 3773.",
+      "categories": [
+        "Ephemeris",
+        "Cometary Science",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Comet Tempel 1",
+        "1982j",
+        "Ephemeris",
+        "Right Ascension",
+        "Declination",
+        "Magnitude",
+        "Virgo",
+        "IAU Circular 3773"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-periodic-comet-kopff-1982k",
+      "documentId": "eph83-06",
+      "title": "Periodic Comet Kopff (1982k)",
+      "summary": "This article provides observational data and characteristics for Periodic Comet Kopff (1982k) from late May to early July. The comet was observed to be around magnitude 9.5-10.0, displaying retrograde motion in the constellation Libra, and appearing as a diffuse object approximately 4 arcminutes in diameter. The observations were also referenced in IAU Circular 3779.",
+      "categories": [
+        "observing reports",
+        "comets",
+        "ephemeris",
+        "astronomy"
+      ],
+      "keywords": [
+        "Comet Kopff",
+        "1982k",
+        "periodic comet",
+        "ephemeris",
+        "magnitude",
+        "retrograde motion",
+        "Libra",
+        "IAU Circular"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-periodic-comet-tempel-2",
+      "documentId": "eph83-06",
+      "title": "Periodic Comet Tempel 2",
+      "summary": "This document provides an ephemeris for Periodic Comet Tempel 2, detailing its celestial coordinates (Right Ascension, Declination) and estimated magnitude from May 26 to July 5. It describes the comet's trajectory as a straight-line path, moving from the constellation Pisces into Cetus. The data is sourced from IAU Circular 3794.",
+      "categories": [
+        "Observational Data",
+        "Cometary Astronomy",
+        "Ephemeris",
+        "Celestial Mechanics"
+      ],
+      "keywords": [
+        "Periodic Comet Tempel 2",
+        "Comet",
+        "Ephemeris",
+        "Magnitude",
+        "Right Ascension",
+        "Declination",
+        "Pisces",
+        "Cetus",
+        "IAU Circular"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-comet-comments-update",
+      "documentId": "eph83-06",
+      "title": "Comet Comments Update",
+      "summary": "The article provides an updated ephemeris for Comet Sugano-Siagusa-Fujikawa (1983e), detailing its projected brightness and path for observers in June 1983, noting its close approach to Earth. It also outlines the San Jose Astronomical Association's (SJAA) election process for its Board of Directors, explaining eligibility, nomination, and voting procedures while encouraging active member participation.",
+      "categories": [
+        "Astronomy",
+        "Observing Reports",
+        "Club News",
+        "Elections",
+        "Organizational Procedures"
+      ],
+      "keywords": [
+        "Comet Sugano-Siagusa-Fujikawa (1983e)",
+        "Ephemeris",
+        "Comet observation",
+        "San Jose Astronomical Association (SJAA)",
+        "Board of Directors",
+        "Club elections",
+        "Member participation",
+        "Don Machholz",
+        "John Bortle",
+        "Frank Dibbell"
+      ],
+      "pageStart": 10,
+      "pageEnd": 10
+    },
+    {
+      "id": "eph83-06-while-the-town-below-sleeps-the-astronomer-sweeps-some-thoughts-about-early-morning-observing-by-don-machholz",
+      "documentId": "eph83-06",
+      "title": "WHILE THE TOWN BELOW SLEEPS, THE ASTRONOMER SWEEPS Some Thoughts about Early Morning Observing by Don Machholz",
+      "summary": "Don Machholz advocates for early morning astronomical observing, particularly for comet hunting, citing numerous benefits such as clearer, darker, and calmer skies, reduced artificial and natural light pollution, and better personal alertness. He details his routine of going to bed early and waking up in the pre-dawn hours to observe. The article emphasizes that early morning conditions often yield the most ideal observing opportunities.",
+      "categories": [
+        "observing tips",
+        "personal experience",
+        "comet hunting",
+        "astronomy lifestyle"
+      ],
+      "keywords": [
+        "early morning observing",
+        "comet hunting",
+        "sky conditions",
+        "light pollution",
+        "wind",
+        "air steadiness",
+        "night vision",
+        "observing routine",
+        "alarm clock"
+      ],
+      "pageStart": 11,
+      "pageEnd": 11
+    },
+    {
+      "id": "eph83-06-the-mid-july-messier-marathon",
+      "documentId": "eph83-06",
+      "title": "The Mid-July Messier Marathon",
+      "summary": "Don Machholz is organizing a Messier Marathon for July 9-10, following a previous clouded-out attempt, taking advantage of a new moon, warmer weather, and the visibility of approximately 98 Messier Objects. He invites participants to join him on Loma Prieta or observe from their own sites during the short summer night, also highlighting the presence of planets and the summer Milky Way.",
+      "categories": [
+        "Events",
+        "Amateur Astronomy",
+        "Observing Event Announcement"
+      ],
+      "keywords": [
+        "Messier Marathon",
+        "Messier Objects",
+        "July 9-10",
+        "Loma Prieta",
+        "New Moon",
+        "Stargazing",
+        "Amateur Astronomy",
+        "Don Machholz",
+        "Deep-sky objects"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph83-06-sjaa-membership-application-renewal",
+      "documentId": "eph83-06",
+      "title": "SJAA MEMBERSHIP APPLICATION/RENEWAL",
+      "summary": "This document is an application and renewal form for membership with the SJAA organization. It requests personal contact information, areas of interest, and offers three distinct membership tiers: Membership/S&T for $21.00, Junior (under 12) for $15.00, and Membership Only for $8.00.",
+      "categories": [
+        "Membership",
+        "Application Form",
+        "Renewal",
+        "Organization Administration",
+        "Pricing"
+      ],
+      "keywords": [
+        "SJAA",
+        "membership",
+        "application",
+        "renewal",
+        "fees",
+        "junior membership",
+        "Sky & Telescope",
+        "form"
+      ],
+      "pageStart": 12,
+      "pageEnd": 12
+    },
+    {
+      "id": "eph83-06-siaa-ppihens",
+      "documentId": "eph83-06",
+      "title": "SIAA PPIHENS",
+      "summary": "This document appears to be a mailing label or header for \"NEWS MATERIAL\" from an entity identified as SIAA PPIHENS, located at 3509 CHILDPEAS, San Jose, CA. It indicates the material is time-sensitive and was sent via bulk rate U.S. postage.",
+      "categories": [
+        "News Distribution",
+        "Mailing Logistics",
+        "Administrative"
+      ],
+      "keywords": [
+        "SIAA PPIHENS",
+        "News Material",
+        "San Jose CA",
+        "Bulk Rate",
+        "US Postage Paid",
+        "Dated Material"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph83-06",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8306/Eph83_06.pdf",
+      "txtPath": "8306/Eph83_06.md"
+    }
+  ]
+}

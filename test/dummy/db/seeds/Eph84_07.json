@@ -1,0 +1,419 @@
+{
+  "articles": [
+    {
+      "id": "eph84-07-from-the-editors-desk",
+      "documentId": "eph84-07",
+      "title": "FROM THE EDITORS DESK",
+      "summary": "The editor, John Gleason, details changes to the 'Ephemeris' publication format aimed at reducing workload and costs, including new monthly submission guidelines and the consideration of bi-monthly publishing to benefit the observatory fund. The article also thanks contributors and highlights a discussion on 'Cold Camera Techniques for Astrophotography' and alternative film processing methods for deep-sky imaging. Feedback from members is requested to guide future decisions.",
+      "categories": [
+        "Editorial",
+        "Publication Update",
+        "Guidelines",
+        "Astrophotography",
+        "Operational Update"
+      ],
+      "keywords": [
+        "Ephemeris",
+        "Publication format",
+        "Submission guidelines",
+        "Cost reduction",
+        "Astrophotography",
+        "Cold camera techniques",
+        "Deep Sky Astrophotography",
+        "Observatory fund",
+        "John Gleason"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-june-elections",
+      "documentId": "eph84-07",
+      "title": "JUNE ELECTIONS",
+      "summary": "The SJAA Board of Directors held elections in June, welcoming new member Joe Sunseri. Gene Cisneros, Bob Ambrose, Club President Doug, and Treasurer Bob Fingerhut were all re-elected to their positions, ensuring continuity in leadership.",
+      "categories": [
+        "News",
+        "Club Affairs",
+        "Elections"
+      ],
+      "keywords": [
+        "SJAA Board of Directors",
+        "June Elections",
+        "Joe Sunseri",
+        "Gene Cisneros",
+        "Bob Ambrose",
+        "Club President",
+        "Doug",
+        "Bob Fingerhut",
+        "Treasurer"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-events-calendar",
+      "documentId": "eph84-07",
+      "title": "EVENTS CALENDAR",
+      "summary": "This document is an events calendar for July and August, detailing various astronomical activities and club gatherings. It lists several public and private star parties at locations like Marriott's Great America, Dartmouth Jr. High, Fremont Peak, and Yosemite National Park. Additionally, it includes an annual picnic, general meetings, and a call for volunteers to assist with telescope manning.",
+      "categories": [
+        "Events Calendar",
+        "Observing Reports",
+        "Club Activities",
+        "Volunteer Opportunities"
+      ],
+      "keywords": [
+        "star party",
+        "July events",
+        "August events",
+        "astronomy",
+        "telescopes",
+        "SJAA",
+        "picnic",
+        "meetings",
+        "Marriott's Great America",
+        "Dartmouth Jr. High",
+        "Portal Park",
+        "Red Cross",
+        "Fremont Peak",
+        "Yosemite National Park",
+        "Glacier Point"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-membership-renewal",
+      "documentId": "eph84-07",
+      "title": "MEMBERSHIP RENEWAL",
+      "summary": "It is now time for membership renewal. Members should contact Bob Fingerhut at (408) 268-4455 for details regarding the renewal process. The membership year covers the period from July 1st to June 30th.",
+      "categories": [
+        "Announcement",
+        "Administrative",
+        "Membership Update"
+      ],
+      "keywords": [
+        "Membership renewal",
+        "Dues",
+        "Contact information",
+        "Bob Fingerhut",
+        "Membership period"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph84-07-dartmouth-astronomy",
+      "documentId": "eph84-07",
+      "title": "DARTMOUTH ASTRONOMY",
+      "summary": "The SJAA, led by Tom Ahl and Ron Carmichael, is organizing two astronomy demonstration evenings at Dartmouth Jr. High on July 12th and 18th for 30-40 students. These events, which include telescope demonstrations and astronomy talks, are part of the SJAA's commitment to ongoing public outreach programs. Members interested in volunteering their time or telescopes for these educational sessions are encouraged to contact Tom Ahl or Ron Carmichael.",
+      "categories": [
+        "Events",
+        "Outreach",
+        "Education",
+        "Volunteer Opportunity"
+      ],
+      "keywords": [
+        "SJAA",
+        "Dartmouth Jr. High",
+        "Astronomy",
+        "Telescope Demonstration",
+        "Public Outreach",
+        "Volunteer",
+        "Educational Event"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-yosemite-star-party",
+      "documentId": "eph84-07",
+      "title": "YOSEMITE STAR PARTY",
+      "summary": "The article announces the San Jose Astronomical Association's participation in the annual Yosemite Star Party on the weekend of July 28th, building on the success of last year's event. Attendees are invited to join observing sessions at Glacier Point, with limited overnight camping at the Ranger Station and alternative options at Bridalveil Creek due to high park occupancy. Camping and entrance fees are waived for those bringing a telescope, and interested individuals should contact Walt MacDonald or John Gleason for reservations and detailed guidelines.",
+      "categories": [
+        "Event Announcement",
+        "Observing Report",
+        "Logistics",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Yosemite Star Party",
+        "Glacier Point",
+        "SJAA",
+        "N.A.A.",
+        "observing sessions",
+        "camping",
+        "July 28th",
+        "N.P.S.",
+        "telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-observatory-fund",
+      "documentId": "eph84-07",
+      "title": "OBSERVATORY FUND",
+      "summary": "The club's observatory fund has reached $1500. The Board of Directors is currently discussing the potential purchase of 10-inch Dobsonian telescopes and planning how to utilize the observatory. Members are encouraged to submit their ideas and suggestions to the board.",
+      "categories": [
+        "Club News",
+        "Observatory Planning",
+        "Fund Update",
+        "Equipment"
+      ],
+      "keywords": [
+        "Observatory Fund",
+        "Dobsonian",
+        "Board of Directors",
+        "Telescopes",
+        "Club",
+        "Fundraising",
+        "Observatory Use",
+        "Member Input"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-deep-sky-notes",
+      "documentId": "eph84-07",
+      "title": "DEEP SKY NOTES",
+      "summary": "Steve Gottlieb's \"Deep Sky Notes\" for July focuses on observing globular clusters in Ophiuchus, a constellation rich with these ancient stellar systems. The article discusses factors influencing their visual resolution through telescopes and provides detailed observing notes for several Messier and IC objects, describing their appearance through various amateur instruments like the C8 and a 13\" Odyssey II.",
+      "categories": [
+        "Observing Reports",
+        "Deep Sky Astronomy",
+        "Amateur Astronomy",
+        "Celestial Objects"
+      ],
+      "keywords": [
+        "Globular Clusters",
+        "Ophiuchus",
+        "Deep Sky",
+        "Visual Observing",
+        "Amateur Astronomy",
+        "Messier Objects",
+        "Stellar Resolution",
+        "Telescope Observations",
+        "NGC Objects",
+        "Steve Gottlieb"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-comet-comments",
+      "documentId": "eph84-07",
+      "title": "COMET COMMENTS",
+      "summary": "This article discusses Comet Bradfield (1984l), noting its periodicity of approximately 165 years, making it the first of Don Machholz's discoveries with a period under 200 years. It also briefly mentions Halley's Comet, a new discovery by professional astronomers expected to be visible next year, and announces a future section on comet discoveries by country, coinciding with the L.A. Olympic Games.",
+      "categories": [
+        "comet observations",
+        "astronomical discoveries",
+        "news",
+        "historical astronomy"
+      ],
+      "keywords": [
+        "Comet Bradfield",
+        "1984l",
+        "Don Machholz",
+        "periodic comet",
+        "Halley's Comet",
+        "new discovery",
+        "L.A. Olympic Games"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph84-07-comet-shoemaker-1984f",
+      "documentId": "eph84-07",
+      "title": "Comet Shoemaker (1984f)",
+      "summary": "The article details the discovery of Comet Shoemaker (1984f) on May 27 by Carolyn and Eugene Shoemaker at Mt. Palomar. Despite being magnitude 16, its high intrinsic brightness suggests it could reach 10-1 mag around its predicted September 1985 perihelion, offering extended visibility primarily in the southern sky. It also includes a brief update on Halley's Comet and an ephemeris for Periodic Comet Clark (1983w).",
+      "categories": [
+        "Comet Discovery",
+        "Observing Reports",
+        "Astronomical Predictions",
+        "Ephemeris Data"
+      ],
+      "keywords": [
+        "Comet Shoemaker (1984f)",
+        "Carolyn Shoemaker",
+        "Eugene Shoemaker",
+        "Mt. Palomar",
+        "Magnitude",
+        "Perihelion",
+        "Halley's Comet",
+        "Periodic Comet Clark (1983w)",
+        "Ephemeris",
+        "Telescope"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-past-discoveries",
+      "documentId": "eph84-07",
+      "title": "PAST DISCOVERIES",
+      "summary": "This article analyzes amateur comet discoveries made between 1975 and 1983, detailing 28 unique comets and their discoverers by country. It highlights the competitive and cooperative nature of comet hunting, with Japan, Australia, and the U.S.A. being prominent in first discoveries and Japan showing the highest overall involvement. The text also provides a historical context of comet discovery trends and notes the increased accessibility of equipment for amateurs over time.",
+      "categories": [
+        "Astronomy",
+        "Amateur Astronomy",
+        "Comet Discovery",
+        "Historical Analysis",
+        "Statistical Analysis"
+      ],
+      "keywords": [
+        "comets",
+        "amateur astronomers",
+        "comet hunting",
+        "discoveries",
+        "astronomical trends",
+        "Japan",
+        "Australia",
+        "USA",
+        "observational astronomy",
+        "discovery statistics"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-space-update",
+      "documentId": "eph84-07",
+      "title": "SPACE UPDATE",
+      "summary": "This 'SPACE UPDATE' reports on several key space activities, including a delay in Space Shuttle Discovery's launch due to an engine issue and the Salyut-7 cosmonauts' spacewalk to install new solar array structures. NASA also announced 17 new astronaut candidates for its shuttle and space station programs, while France finalized the design for its manned Hermes mini-shuttle. Additionally, the Pioneer Venus orbiter conducted observations of Comet Encke and is being reoriented to view Halley's Comet.",
+      "categories": [
+        "Space News",
+        "Human Spaceflight",
+        "Space Exploration",
+        "Astronomy",
+        "Space Programs",
+        "Technical Developments",
+        "Observing Reports"
+      ],
+      "keywords": [
+        "Space Shuttle Discovery",
+        "Salyut-7",
+        "NASA",
+        "astronaut candidates",
+        "Hermes mini-shuttle",
+        "Pioneer Venus",
+        "Comet Encke",
+        "Halley's Comet",
+        "launch delay",
+        "space stations",
+        "European space program",
+        "deep space missions",
+        "flight readiness firing"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph84-07-siaa",
+      "documentId": "eph84-07",
+      "title": "SIAA",
+      "summary": "The document provides instructions for placing commercial advertisements with SIAA. It specifies that ad pricing is determined by size and directs interested parties to contact Gene Cisneros at (408) 923-6800 to place an ad.",
+      "categories": [
+        "Advertising",
+        "Commercial",
+        "Contact Information",
+        "Publication Information"
+      ],
+      "keywords": [
+        "SIAA",
+        "Commercial ads",
+        "advertising",
+        "pricing",
+        "contact",
+        "Gene Cisneros",
+        "ad placement"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-atm-coatings",
+      "documentId": "eph84-07",
+      "title": "ATM coatings",
+      "summary": "The document advertises a telescope mirror coating service specializing in aluminum with silicon monoxide over-coating, detailing prices for various mirror sizes and additional services like old coating removal. It also features an advertisement for LUMICON, a company offering a large selection of in-stock telescopes, accessories, and astrophotography equipment.",
+      "categories": [
+        "Service",
+        "Advertisement",
+        "Astronomy Equipment",
+        "Optics"
+      ],
+      "keywords": [
+        "ATM coatings",
+        "Telescope mirrors",
+        "Aluminum coatings",
+        "Silicon monoxide",
+        "Mirror coating service",
+        "Lumicon",
+        "Astrophotography",
+        "Telescopes",
+        "Accessories"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph84-07-astromart",
+      "documentId": "eph84-07",
+      "title": "ASTROMART",
+      "summary": "This 'ASTROMART' document provides a schedule of Great Red Spot meridian transits for Jupiter from Calico Observatory during July and early August, observed and reported by Jim Van Nuland. Additionally, it features classified advertisements for used astronomical equipment, including a Celestron 8 telescope with extensive accessories and a high-quality 8-inch f/15 refractor with a sophisticated mount and various optical components.",
+      "categories": [
+        "Observing Schedules",
+        "Amateur Astronomy",
+        "Classifieds",
+        "Astronomical Equipment Sales"
+      ],
+      "keywords": [
+        "Jupiter",
+        "Great Red Spot",
+        "GRS",
+        "Meridian Transit",
+        "Calico Observatory",
+        "Telescope",
+        "Celestron 8",
+        "Refractor",
+        "Astronomical Equipment",
+        "Telescope Mount",
+        "Eyepieces",
+        "Observing Report",
+        "PDT"
+      ],
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "eph84-07-siaa-ephemeris",
+      "documentId": "eph84-07",
+      "title": "SIAA EPHEMERIS",
+      "summary": "This document, titled \"SIAA EPHEMERIS\", provides a physical address in San Jose, CA. It features an image of Skylab depicted on US postage stamps, suggesting a connection to astronomy or space-related content for the SIAA organization.",
+      "categories": [
+        "Astronomy",
+        "Organizations",
+        "Publications"
+      ],
+      "keywords": [
+        "SIAA",
+        "Ephemeris",
+        "San Jose",
+        "Skylab",
+        "Postage stamps",
+        "Space exploration",
+        "Astronomical data"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph84-07",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8407/Eph84_07.pdf",
+      "txtPath": "8407/Eph84_07.md"
+    }
+  ]
+}

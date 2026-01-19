@@ -1,0 +1,346 @@
+{
+  "articles": [
+    {
+      "id": "eph82-02-sjaa",
+      "documentId": "eph82-02",
+      "title": "SJAA",
+      "summary": "The San Jose Astronomical Association (SJAA) outlines its schedule for February and March 1982, featuring general meetings with topics like the Space Shuttle and Mars opposition, various indoor and outdoor star parties, and a Messier Marathon. The bulletin also includes information on board meetings, membership rates, and contact details for the association and its publication.",
+      "categories": [
+        "Club News",
+        "Events",
+        "Meetings",
+        "Observing Events",
+        "Membership Information"
+      ],
+      "keywords": [
+        "SJAA",
+        "February 1982",
+        "March 1982",
+        "General Meeting",
+        "Star Party",
+        "Indoor Star Party",
+        "Board Meeting",
+        "Space Shuttle",
+        "Mars Opposition",
+        "Ten-Meter Telescope",
+        "Messier Marathon",
+        "Amateur Astronomy",
+        "De Anza College",
+        "Loma Prieta"
+      ],
+      "pageStart": 2,
+      "pageEnd": 2
+    },
+    {
+      "id": "eph82-02-observations",
+      "documentId": "eph82-02",
+      "title": "OBSERVATIONS",
+      "summary": "The San Jose Astronomical Association is actively campaigning to prevent Mt. Umunhum from becoming a jail facility, advocating instead for its use as a public astronomical observing site or observatory, and urges members to contact city officials. The article also provides various club updates, including a recap of an eclipse presentation, details on borrowing club telescopes, and a call for legal advice on tax status. Furthermore, it announces upcoming events like the ASP Annual Meeting and the WAA conference, mentions the \"STARDATE\" radio program, and humorously discusses sky atlas preferences.",
+      "categories": [
+        "Club News",
+        "Observing Sites",
+        "Events",
+        "Advocacy",
+        "Public Outreach",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Mt. Umunhum",
+        "Public Observatory",
+        "SJAA",
+        "Astronomical Observing Sites",
+        "Sky Atlases",
+        "Total Solar Eclipse",
+        "ASP Annual Meeting",
+        "WAA Conference",
+        "STARDATE"
+      ],
+      "pageStart": 3,
+      "pageEnd": 3
+    },
+    {
+      "id": "eph82-02-for-sale",
+      "documentId": "eph82-02",
+      "title": "FOR SALE",
+      "summary": "This document features a classifieds section with various astronomical equipment for sale, including telescopes, optics, accessories, and books, along with seller contact details. Additionally, it announces the 1982 Messier Marathon event, detailing dates (March 19-21 and 26-28), suggesting White Mountain as an observing site, and providing contact information for participants.",
+      "categories": [
+        "Classifieds",
+        "Events",
+        "Astronomy Activities",
+        "Observing Reports",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Telescopes",
+        "Optics",
+        "Astronomical Equipment",
+        "Messier Marathon",
+        "Messier Objects",
+        "Observing",
+        "Astronomy Sales",
+        "Eyepieces",
+        "Mounts",
+        "Celestron",
+        "Coulter",
+        "Jaegers",
+        "Parks",
+        "Cave",
+        "Don Machholz"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-02-sjaa-profiles",
+      "documentId": "eph82-02",
+      "title": "SJAA PROFILES",
+      "summary": "This article profiles Jack Zeiders, a longtime member of the San Jose Astronomical Association (SJAA). Zeiders, whose interest in astronomy began in his youth, is known for his love of club star parties, his expertise in building telescopes and designing astronomical equipment like a superior cold camera, and his passion for deep-sky observing. He has recently rejoined the SJAA Board of Directors, aiming to increase member involvement and opportunities within the club.",
+      "categories": [
+        "member profile",
+        "club news",
+        "amateur astronomy",
+        "technical"
+      ],
+      "keywords": [
+        "Jack Zeiders",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "amateur astronomy",
+        "telescope building",
+        "astrophotography",
+        "deep-sky observing",
+        "star parties",
+        "cold camera",
+        "board of directors"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-02-sjaa-board-members",
+      "documentId": "eph82-02",
+      "title": "SJAA Board Members",
+      "summary": "The document lists the names, positions, and phone numbers of the SJAA Board Members. It details the key officeholders including the President (Denni Frerichs), Vice President (Chris Pratt), Treasurer (Shea Pratt), and Secretary (Jim Van Nuland), alongside other board members.",
+      "categories": [
+        "Organization Information",
+        "Contact List",
+        "Board Members",
+        "Internal Directory"
+      ],
+      "keywords": [
+        "SJAA",
+        "Board Members",
+        "President",
+        "Vice President",
+        "Treasurer",
+        "Secretary",
+        "Contact Information",
+        "Organization Structure"
+      ],
+      "pageStart": 4,
+      "pageEnd": 4
+    },
+    {
+      "id": "eph82-02-the-celestial-tourist-speaks",
+      "documentId": "eph82-02",
+      "title": "THE CELESTIAL TOURIST SPEAKS",
+      "summary": "Jay Freeman details recent observing challenges due to bad weather and a move to a new location, though he notes improved seeing conditions. He also describes the successful collaboration with Fremont Peak State Park rangers regarding a new mercury-vapor light. The article provides observing tips for several double stars, including Sirius, and offers advice for viewing Mars during its 1982 opposition, covering timing, magnification, and filter use.",
+      "categories": [
+        "Observing Reports",
+        "Observing Guides",
+        "Community Relations",
+        "Celestial Targets",
+        "Technical Astronomy"
+      ],
+      "keywords": [
+        "Observing",
+        "Fremont Peak",
+        "Double Stars",
+        "Mars",
+        "Sirius B",
+        "Seeing",
+        "Light Pollution",
+        "Amateur Astronomy",
+        "1982 Opposition",
+        "Filters",
+        "Weather"
+      ],
+      "pageStart": 5,
+      "pageEnd": 5
+    },
+    {
+      "id": "eph82-02-comet-comments",
+      "documentId": "eph82-02",
+      "title": "COMET COMMENTS",
+      "summary": "Don Machholz's \"COMET COMMENTS\" provides updates on several comets, including the rediscovery of Periodic Comet Vaisala 1 (1981L) and the unconfirmed possible discovery of Comet Shcherbanovskij. A detailed discussion of Periodic Comet Bowell (1980b) covers its discovery, upcoming perihelion in March 1982, and a revised, dimmer brightness forecast, along with an ephemeris for its observation. The article also briefly mentions Comet Stearns (1927IV) and recommends subscribing to IAU Circulars for timely astronomical notifications.",
+      "categories": [
+        "Astronomical News",
+        "Comet Discoveries",
+        "Observing Reports",
+        "Ephemeris Data",
+        "Amateur Astronomy Resources"
+      ],
+      "keywords": [
+        "Comets",
+        "Comet Bowell (1980b)",
+        "Comet Vaisala 1 (1981L)",
+        "Comet Shcherbanovskij",
+        "Comet Stearns (1927IV)",
+        "Comet Discovery",
+        "Comet Observation",
+        "Astronomical Magnitude",
+        "Ephemeris",
+        "IAU Circulars",
+        "Orbital Dynamics",
+        "Perihelion"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-02-titan-speaks",
+      "documentId": "eph82-02",
+      "title": "TITAN SPEAKS",
+      "summary": "This article features a poetic piece titled \"Titan Speaks,\" where Saturn's moon Titan, personified, reacts to human observations from Voyager I data. Titan defensively highlights its nitrogen-rich atmosphere, challenges its perceived size relative to other moons, and hints at the presence of microbial life beneath its polar clouds. The document also includes a short anecdote about astronomer Bart Bok's modesty concerning \"Bok Globules.\"",
+      "categories": [
+        "Poetry",
+        "Astronomy",
+        "Space Exploration",
+        "Science Communication",
+        "Personification"
+      ],
+      "keywords": [
+        "Titan",
+        "Voyager I",
+        "Saturn's moons",
+        "Atmosphere",
+        "Nitrogen",
+        "Microbes",
+        "Bart Bok",
+        "Bok Globules",
+        "Poem"
+      ],
+      "pageStart": 6,
+      "pageEnd": 6
+    },
+    {
+      "id": "eph82-02-space-program-update",
+      "documentId": "eph82-02",
+      "title": "SPACE PROGRAM UPDATE",
+      "summary": "This article provides a comprehensive update on various space programs, detailing NASA's successful 1981 operations, including Space Shuttle Columbia flights and Voyager 2's Saturn flyby. It covers critical budget decisions affecting the Galileo mission's reinstatement and the cancellation of the Venus Orbiting Imaging Radar (VOIR) program. The update also includes information on upcoming shuttle missions, the operational declaration of the European Space Agency's Ariane launch vehicle, progress on the Space Telescope mirror, the re-entry of HEAO-3, and the launch of India's Bhaskara 2 satellite.",
+      "categories": [
+        "Space Exploration",
+        "Aerospace News",
+        "NASA Updates",
+        "Mission Updates",
+        "Budget and Policy"
+      ],
+      "keywords": [
+        "NASA",
+        "Space Shuttle Columbia",
+        "Voyager 2",
+        "Galileo mission",
+        "Venus Orbiting Imaging Radar (VOIR)",
+        "Ariane launch vehicle",
+        "Space Telescope",
+        "HEAO-3",
+        "Bhaskara 2",
+        "STS-2",
+        "STS-3",
+        "Budget cuts",
+        "Jupiter orbiter",
+        "Saturn flyby",
+        "European Space Agency",
+        "Indian Space Research Organization"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    },
+    {
+      "id": "eph82-02-space-travel",
+      "documentId": "eph82-02",
+      "title": "SPACE TRAVEL",
+      "summary": "This poem explores the profound experience of space travel, portraying it as an ascent to a higher plane of existence where one discovers new worlds and gains a fresh perspective on Earth. It delves into themes of distance, silence, and the transformative power of exploring the cosmos, likening the journey to a spiritual or angelic flight.",
+      "categories": [
+        "Poetry",
+        "Space Exploration",
+        "Philosophy"
+      ],
+      "keywords": [
+        "space travel",
+        "cosmos",
+        "discovery",
+        "new worlds",
+        "perspective",
+        "exploration",
+        "silence",
+        "distance",
+        "wonder"
+      ],
+      "pageStart": 7,
+      "pageEnd": 7
+    },
+    {
+      "id": "eph82-02-astronomical-auction",
+      "documentId": "eph82-02",
+      "title": "ASTRONOMICAL AUCTION",
+      "summary": "The San Jose Astronomical Association (SJAA) announced its annual Astronomical Auction for April 10th, 1982, promising good bargains on a variety of astronomical equipment like telescopes, eyepieces, and camera gear. Sellers are encouraged to pre-register larger or more expensive items by March 15th to be included in a pre-auction flyer, with the SJAA taking a 10% commission or accepting full donations. The event, held at the Los Gatos Red Cross building, aims to support amateur and public astronomical activities.",
+      "categories": [
+        "Event Announcement",
+        "Fundraising",
+        "Community Activity",
+        "Amateur Astronomy"
+      ],
+      "keywords": [
+        "Astronomical Auction",
+        "SJAA",
+        "San Jose Astronomical Association",
+        "Telescopes",
+        "Eyepieces",
+        "Camera Equipment",
+        "Clock Drives",
+        "Pre-registration",
+        "Los Gatos",
+        "Fundraiser",
+        "Amateur Astronomy Equipment"
+      ],
+      "pageStart": 8,
+      "pageEnd": 8
+    },
+    {
+      "id": "eph82-02-sjaa-auction-pre-registration-form",
+      "documentId": "eph82-02",
+      "title": "SJAA AUCTION PRE-REGISTRATION FORM",
+      "summary": "This document is a pre-registration form for an auction organized by the San Jose Astronomical Association (SJAA). It allows individuals to submit items for sale, detailing the item description, minimum bid, and terms, along with their contact information. The form is to be sent to a specified Oakland address for auction processing.",
+      "categories": [
+        "Events",
+        "Club Activities",
+        "Administrative",
+        "Forms",
+        "Fundraising"
+      ],
+      "keywords": [
+        "SJAA",
+        "San Jose Astronomical Association",
+        "auction",
+        "pre-registration",
+        "form",
+        "bidding",
+        "astronomy club",
+        "fundraising",
+        "item submission"
+      ],
+      "pageStart": null,
+      "pageEnd": null
+    }
+  ],
+  "documents": [
+    {
+      "id": "eph82-02",
+      "title": "=== PAGE 1 ===",
+      "issueDate": null,
+      "pdfPath": "8202/Eph82_02.pdf",
+      "txtPath": "8202/Eph82_02.md"
+    }
+  ]
+}
