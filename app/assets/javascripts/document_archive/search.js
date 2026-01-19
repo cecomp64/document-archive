@@ -1,15 +1,15 @@
-// Configuration
-const API_BASE_URL = window.location.origin;
-
-// State
-let currentPage = 0;
-let totalArticles = 0;
-const articlesPerPage = 20;
+// Search pagination state
+let currentQuery = '';
+let searchLimit = 10;
+const searchState = {
+    keywords: { page: 0, total: 0 },
+    categories: { page: 0, total: 0 },
+    summary: { page: 0, total: 0 }
+};
 
 // Initialize the app
 document.addEventListener('DOMContentLoaded', () => {
-    loadStats();
-    loadArticles(0);
+    DocumentArchive.loadStats('full');
     setupEventListeners();
 });
 
@@ -18,28 +18,42 @@ function setupEventListeners() {
     document.getElementById('searchInput').addEventListener('keypress', (e) => {
         if (e.key === 'Enter') performSearch();
     });
-    document.getElementById('prevButton').addEventListener('click', () => {
-        if (currentPage > 0) {
-            currentPage--;
-            loadArticles(currentPage * articlesPerPage);
+
+    // Keywords pagination
+    document.getElementById('keywordsPrevButton').addEventListener('click', () => {
+        if (searchState.keywords.page > 0) {
+            searchState.keywords.page--;
+            loadKeywordsResults();
         }
     });
-    document.getElementById('nextButton').addEventListener('click', () => {
-        currentPage++;
-        loadArticles(currentPage * articlesPerPage);
+    document.getElementById('keywordsNextButton').addEventListener('click', () => {
+        searchState.keywords.page++;
+        loadKeywordsResults();
     });
-}
 
-async function loadStats() {
-    try {
-        const response = await fetch(`${API_BASE_URL}/api/stats`);
-        const stats = await response.json();
-        document.getElementById('stats').textContent =
-            `${stats.articles} articles • ${stats.documents} documents • ${stats.embeddings} embeddings`;
-    } catch (error) {
-        console.error('Error loading stats:', error);
-        document.getElementById('stats').textContent = 'Unable to load statistics';
-    }
+    // Categories pagination
+    document.getElementById('categoriesPrevButton').addEventListener('click', () => {
+        if (searchState.categories.page > 0) {
+            searchState.categories.page--;
+            loadCategoriesResults();
+        }
+    });
+    document.getElementById('categoriesNextButton').addEventListener('click', () => {
+        searchState.categories.page++;
+        loadCategoriesResults();
+    });
+
+    // Summary pagination
+    document.getElementById('summaryPrevButton').addEventListener('click', () => {
+        if (searchState.summary.page > 0) {
+            searchState.summary.page--;
+            loadSummaryResults();
+        }
+    });
+    document.getElementById('summaryNextButton').addEventListener('click', () => {
+        searchState.summary.page++;
+        loadSummaryResults();
+    });
 }
 
 async function performSearch() {
@@ -49,176 +63,246 @@ async function performSearch() {
         return;
     }
 
-    const limit = parseInt(document.getElementById('limitSelect').value);
+    currentQuery = query;
+    searchLimit = parseInt(document.getElementById('limitSelect').value);
+
+    // Reset pagination state
+    searchState.keywords.page = 0;
+    searchState.categories.page = 0;
+    searchState.summary.page = 0;
 
     // Show loading indicator
     document.getElementById('loadingIndicator').classList.remove('hidden');
-    document.getElementById('resultsContainer').classList.add('hidden');
+    document.getElementById('semanticResultsContainer').classList.add('hidden');
+    document.getElementById('textSearchResultsContainer').classList.add('hidden');
 
     try {
-        // Call server-side search endpoint (handles embedding generation)
-        const response = await fetch(`${API_BASE_URL}/api/search-text`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                query: query,
-                limit: limit
-            })
-        });
+        // Perform all searches in parallel
+        const [semanticResults, keywordsResults, categoriesResults, summaryResults] = await Promise.all([
+            performSemanticSearch(query, searchLimit),
+            performKeywordsSearch(query, searchLimit, 0),
+            performCategoriesSearch(query, searchLimit, 0),
+            performSummarySearch(query, searchLimit, 0)
+        ]);
 
-        const data = await response.json();
+        // Update state
+        searchState.keywords.total = keywordsResults.total;
+        searchState.categories.total = categoriesResults.total;
+        searchState.summary.total = summaryResults.total;
 
-        if (response.ok) {
-            displaySearchResults(data.results);
-        } else {
-            document.getElementById('loadingIndicator').classList.add('hidden');
+        // Display results
+        displaySemanticResults(semanticResults);
+        displayKeywordsResults(keywordsResults.results);
+        displayCategoriesResults(categoriesResults.results);
+        displaySummaryResults(summaryResults.results);
 
-            // Show helpful error message
-            let errorMsg = data.error || 'Unknown error occurred';
-            if (errorMsg.includes('GEMINI_API_KEY')) {
-                errorMsg = 'Embedding service not configured.\n\n' +
-                          'To enable search:\n' +
-                          '1. Set GEMINI_API_KEY environment variable, OR\n' +
-                          '2. Install sentence-transformers: pip install sentence-transformers\n' +
-                          '   and set EMBEDDING_PROVIDER=sentence-transformers\n\n' +
-                          'See README for details.';
-            } else if (errorMsg.includes('not installed')) {
-                errorMsg = 'Missing package: ' + errorMsg + '\n\n' +
-                          'Install with pip and restart the server.';
-            }
+        // Update pagination
+        updateSearchPagination('keywords');
+        updateSearchPagination('categories');
+        updateSearchPagination('summary');
 
-            alert('Search error:\n\n' + errorMsg);
-        }
+        // Show containers and hide browse prompt
+        document.getElementById('loadingIndicator').classList.add('hidden');
+        document.getElementById('semanticResultsContainer').classList.remove('hidden');
+        document.getElementById('textSearchResultsContainer').classList.remove('hidden');
+        document.getElementById('browsePrompt').classList.add('hidden');
 
     } catch (error) {
         console.error('Error performing search:', error);
         document.getElementById('loadingIndicator').classList.add('hidden');
-        alert('Network error: Unable to reach the server.\n\n' + error.message);
+        alert('Search error:\n\n' + error.message);
     }
 }
 
-function displaySearchResults(results) {
-    const container = document.getElementById('results');
-    const resultsContainer = document.getElementById('resultsContainer');
-    const resultCount = document.getElementById('resultCount');
+async function performSemanticSearch(query, limit) {
+    const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-text`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, limit })
+    });
+
+    const data = await response.json();
+    if (!response.ok) {
+        throw new Error(data.error || 'Semantic search failed');
+    }
+    return data.results;
+}
+
+async function performKeywordsSearch(query, limit, offset) {
+    const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-keywords`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, limit, offset })
+    });
+
+    const data = await response.json();
+    if (!response.ok) {
+        throw new Error(data.error || 'Keywords search failed');
+    }
+    return data;
+}
+
+async function performCategoriesSearch(query, limit, offset) {
+    const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-categories`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, limit, offset })
+    });
+
+    const data = await response.json();
+    if (!response.ok) {
+        throw new Error(data.error || 'Categories search failed');
+    }
+    return data;
+}
+
+async function performSummarySearch(query, limit, offset) {
+    const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-summary`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, limit, offset })
+    });
+
+    const data = await response.json();
+    if (!response.ok) {
+        throw new Error(data.error || 'Summary search failed');
+    }
+    return data;
+}
+
+async function loadKeywordsResults() {
+    try {
+        const data = await performKeywordsSearch(
+            currentQuery,
+            searchLimit,
+            searchState.keywords.page * searchLimit
+        );
+        searchState.keywords.total = data.total;
+        displayKeywordsResults(data.results);
+        updateSearchPagination('keywords');
+    } catch (error) {
+        console.error('Error loading keywords results:', error);
+    }
+}
+
+async function loadCategoriesResults() {
+    try {
+        const data = await performCategoriesSearch(
+            currentQuery,
+            searchLimit,
+            searchState.categories.page * searchLimit
+        );
+        searchState.categories.total = data.total;
+        displayCategoriesResults(data.results);
+        updateSearchPagination('categories');
+    } catch (error) {
+        console.error('Error loading categories results:', error);
+    }
+}
+
+async function loadSummaryResults() {
+    try {
+        const data = await performSummarySearch(
+            currentQuery,
+            searchLimit,
+            searchState.summary.page * searchLimit
+        );
+        searchState.summary.total = data.total;
+        displaySummaryResults(data.results);
+        updateSearchPagination('summary');
+    } catch (error) {
+        console.error('Error loading summary results:', error);
+    }
+}
+
+function displaySemanticResults(results) {
+    const container = document.getElementById('semanticResults');
+    const resultCount = document.getElementById('semanticResultCount');
 
     container.innerHTML = '';
     resultCount.textContent = results.length;
 
     if (results.length === 0) {
-        container.innerHTML = '<p>No results found.</p>';
+        container.innerHTML = '<p class="no-results">No semantic matches found.</p>';
     } else {
         results.forEach(article => {
-            container.appendChild(createArticleCard(article, true));
+            container.appendChild(DocumentArchive.createArticleCard(article, { showSimilarity: true }));
         });
     }
-
-    document.getElementById('loadingIndicator').classList.add('hidden');
-    resultsContainer.classList.remove('hidden');
 }
 
-async function loadArticles(offset) {
-    try {
-        const response = await fetch(`${API_BASE_URL}/api/articles?limit=${articlesPerPage}&offset=${offset}`);
-        const data = await response.json();
+function displayKeywordsResults(results) {
+    const container = document.getElementById('keywordsResults');
+    const resultCount = document.getElementById('keywordsResultCount');
 
-        totalArticles = data.total;
-        displayBrowseResults(data.articles);
-        updatePagination();
-    } catch (error) {
-        console.error('Error loading articles:', error);
-        document.getElementById('browseResults').innerHTML =
-            '<p>Error loading articles. Make sure the API server is running.</p>';
-    }
-}
-
-function displayBrowseResults(articles) {
-    const container = document.getElementById('browseResults');
     container.innerHTML = '';
+    resultCount.textContent = searchState.keywords.total;
 
-    if (articles.length === 0) {
-        container.innerHTML = '<p>No articles found.</p>';
+    if (results.length === 0) {
+        container.innerHTML = '<p class="no-results">No keyword matches found.</p>';
     } else {
-        articles.forEach(article => {
-            container.appendChild(createArticleCard(article, false));
+        results.forEach(article => {
+            container.appendChild(DocumentArchive.createArticleCard(article, {
+                highlightType: 'keywords',
+                highlightQuery: currentQuery
+            }));
         });
     }
 }
 
-function createArticleCard(article, showSimilarity) {
-    const card = document.createElement('div');
-    card.className = 'article-card';
+function displayCategoriesResults(results) {
+    const container = document.getElementById('categoriesResults');
+    const resultCount = document.getElementById('categoriesResultCount');
 
-    const header = document.createElement('div');
-    header.className = 'article-header';
+    container.innerHTML = '';
+    resultCount.textContent = searchState.categories.total;
 
-    const titleDiv = document.createElement('div');
-    titleDiv.style.flex = '1';
-
-    const title = document.createElement('div');
-    title.className = 'article-title';
-    title.textContent = article.title;
-    titleDiv.appendChild(title);
-
-    const meta = document.createElement('div');
-    meta.className = 'article-meta';
-    meta.innerHTML = `
-        <span><strong>ID:</strong> ${article.id}</span>
-        <span><strong>Document:</strong> ${article.documentId}</span>
-        ${article.pageStart ? `<span><strong>Pages:</strong> ${article.pageStart}-${article.pageEnd}</span>` : ''}
-    `;
-    titleDiv.appendChild(meta);
-
-    header.appendChild(titleDiv);
-
-    if (showSimilarity && article.similarity !== undefined) {
-        const similarity = document.createElement('div');
-        similarity.className = 'similarity-score';
-        similarity.textContent = `${(article.similarity * 100).toFixed(1)}% match`;
-        header.appendChild(similarity);
-    }
-
-    card.appendChild(header);
-
-    const summary = document.createElement('div');
-    summary.className = 'article-summary';
-    summary.textContent = article.summary;
-    card.appendChild(summary);
-
-    const tags = document.createElement('div');
-    tags.className = 'article-tags';
-
-    if (article.categories && article.categories.length > 0) {
-        article.categories.forEach(cat => {
-            const tag = document.createElement('span');
-            tag.className = 'tag category';
-            tag.textContent = cat;
-            tags.appendChild(tag);
+    if (results.length === 0) {
+        container.innerHTML = '<p class="no-results">No category matches found.</p>';
+    } else {
+        results.forEach(article => {
+            container.appendChild(DocumentArchive.createArticleCard(article, {
+                highlightType: 'categories',
+                highlightQuery: currentQuery
+            }));
         });
     }
-
-    if (article.keywords && article.keywords.length > 0) {
-        article.keywords.slice(0, 5).forEach(keyword => {
-            const tag = document.createElement('span');
-            tag.className = 'tag keyword';
-            tag.textContent = keyword;
-            tags.appendChild(tag);
-        });
-    }
-
-    card.appendChild(tags);
-    return card;
 }
 
-function updatePagination() {
-    const totalPages = Math.ceil(totalArticles / articlesPerPage);
-    const pageInfo = document.getElementById('pageInfo');
-    const prevButton = document.getElementById('prevButton');
-    const nextButton = document.getElementById('nextButton');
+function displaySummaryResults(results) {
+    const container = document.getElementById('summaryResults');
+    const resultCount = document.getElementById('summaryResultCount');
 
-    pageInfo.textContent = `Page ${currentPage + 1} of ${totalPages}`;
-    prevButton.disabled = currentPage === 0;
-    nextButton.disabled = currentPage >= totalPages - 1;
+    container.innerHTML = '';
+    resultCount.textContent = searchState.summary.total;
+
+    if (results.length === 0) {
+        container.innerHTML = '<p class="no-results">No summary matches found.</p>';
+    } else {
+        results.forEach(article => {
+            container.appendChild(DocumentArchive.createArticleCard(article, {
+                highlightType: 'summary',
+                highlightQuery: currentQuery
+            }));
+        });
+    }
+}
+
+function updateSearchPagination(type) {
+    const state = searchState[type];
+    const totalPages = Math.ceil(state.total / searchLimit);
+    const pageInfo = document.getElementById(`${type}PageInfo`);
+    const prevButton = document.getElementById(`${type}PrevButton`);
+    const nextButton = document.getElementById(`${type}NextButton`);
+    const pagination = document.getElementById(`${type}Pagination`);
+
+    if (state.total === 0) {
+        pagination.classList.add('hidden');
+        return;
+    }
+
+    pagination.classList.remove('hidden');
+    pageInfo.textContent = `Page ${state.page + 1} of ${totalPages}`;
+    prevButton.disabled = state.page === 0;
+    nextButton.disabled = state.page >= totalPages - 1;
 }

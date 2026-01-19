@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browse Articles - Article Explorer</title>
+    <%= stylesheet_link_tag "document_archive/search", media: "all" %>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Browse Articles</h1>
+            <p class="subtitle">Explore all articles in the archive</p>
+        </header>
+
+        <nav class="main-nav">
+            <a href="<%= root_path %>" class="nav-link">Search</a>
+            <a href="<%= articles_path %>" class="nav-link active">Articles</a>
+            <a href="<%= documents_path %>" class="nav-link">Documents</a>
+        </nav>
+
+        <div class="stats-bar" id="statsBar">
+            <span id="stats">Loading...</span>
+        </div>
+
+        <div class="browse-section">
+            <div id="browseResults"></div>
+            <div class="pagination">
+                <button id="prevButton" disabled>Previous</button>
+                <span id="pageInfo"></span>
+                <button id="nextButton">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <%= javascript_include_tag "document_archive/common" %>
+    <script>
+        let currentPage = 0;
+        let totalArticles = 0;
+        const articlesPerPage = 20;
+
+        document.addEventListener('DOMContentLoaded', () => {
+            DocumentArchive.loadStats('articles');
+            loadArticles(0);
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            document.getElementById('prevButton').addEventListener('click', () => {
+                if (currentPage > 0) {
+                    currentPage--;
+                    loadArticles(currentPage * articlesPerPage);
+                }
+            });
+            document.getElementById('nextButton').addEventListener('click', () => {
+                currentPage++;
+                loadArticles(currentPage * articlesPerPage);
+            });
+        }
+
+        async function loadArticles(offset) {
+            try {
+                const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/articles?limit=${articlesPerPage}&offset=${offset}`);
+                const data = await response.json();
+
+                totalArticles = data.total;
+                DocumentArchive.displayArticles(
+                    document.getElementById('browseResults'),
+                    data.articles
+                );
+                DocumentArchive.updatePagination({
+                    currentPage,
+                    totalItems: totalArticles,
+                    itemsPerPage: articlesPerPage,
+                    pageInfoId: 'pageInfo',
+                    prevButtonId: 'prevButton',
+                    nextButtonId: 'nextButton'
+                });
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                document.getElementById('browseResults').innerHTML =
+                    '<p>Error loading articles. Make sure the API server is running.</p>';
+            }
+        }
+    </script>
+</body>
+</html>

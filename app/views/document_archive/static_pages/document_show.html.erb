@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Details - Article Explorer</title>
+    <%= stylesheet_link_tag "document_archive/search", media: "all" %>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="documentTitle">Loading...</h1>
+            <p class="subtitle" id="documentSubtitle"></p>
+        </header>
+
+        <nav class="main-nav">
+            <a href="<%= root_path %>" class="nav-link">Search</a>
+            <a href="<%= articles_path %>" class="nav-link">Articles</a>
+            <a href="<%= documents_path %>" class="nav-link active">Documents</a>
+        </nav>
+
+        <div class="stats-bar" id="statsBar">
+            <span id="stats">Loading...</span>
+        </div>
+
+        <div class="browse-section">
+            <h2>Articles in this Document</h2>
+            <div id="articleResults"></div>
+        </div>
+    </div>
+
+    <%= javascript_include_tag "document_archive/common" %>
+    <script>
+        const documentId = '<%= @document_id %>';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadDocument();
+        });
+
+        async function loadDocument() {
+            try {
+                const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/documents/${documentId}`);
+                if (!response.ok) {
+                    throw new Error('Document not found');
+                }
+                const doc = await response.json();
+
+                document.getElementById('documentTitle').textContent = doc.name || 'Untitled Document';
+                document.getElementById('documentSubtitle').textContent = `${doc.articles.length} article${doc.articles.length !== 1 ? 's' : ''} in this document`;
+                document.getElementById('stats').textContent = `Document ID: ${doc.id}`;
+
+                DocumentArchive.displayArticles(
+                    document.getElementById('articleResults'),
+                    doc.articles
+                );
+            } catch (error) {
+                console.error('Error loading document:', error);
+                document.getElementById('documentTitle').textContent = 'Document Not Found';
+                document.getElementById('documentSubtitle').textContent = '';
+                document.getElementById('articleResults').innerHTML =
+                    '<p class="no-results">Unable to load document. It may not exist.</p>';
+            }
+        }
+    </script>
+</body>
+</html>

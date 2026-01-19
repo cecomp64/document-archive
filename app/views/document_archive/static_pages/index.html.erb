@@ -13,6 +13,12 @@
             <p class="subtitle">Search through articles using natural language</p>
         </header>
 
+        <nav class="main-nav">
+            <a href="<%= root_path %>" class="nav-link active">Search</a>
+            <a href="<%= articles_path %>" class="nav-link">Articles</a>
+            <a href="<%= documents_path %>" class="nav-link">Documents</a>
+        </nav>
+
         <div class="stats-bar" id="statsBar">
             <span id="stats">Loading...</span>
         </div>
@@ -29,7 +35,7 @@
             </div>
             <div class="search-options">
                 <label>
-                    Results:
+                    Results per section:
                     <select id="limitSelect">
                         <option value="5">5</option>
                         <option value="10" selected>10</option>
@@ -40,33 +46,79 @@
             </div>
         </div>
 
-        <div class="info-message" id="infoMessage">
-            <strong>Semantic Search:</strong> Server-side embedding generation enabled.
-            Configure with GEMINI_API_KEY (cloud) or EMBEDDING_PROVIDER=sentence-transformers (local).
-            See README for setup instructions.
-        </div>
-
         <div id="loadingIndicator" class="loading hidden">
             <div class="spinner"></div>
             <p>Searching...</p>
         </div>
 
-        <div id="resultsContainer" class="results-container hidden">
-            <h2>Search Results (<span id="resultCount">0</span>)</h2>
-            <div id="results"></div>
+        <!-- Semantic Search Results -->
+        <div id="semanticResultsContainer" class="results-container hidden">
+            <h2 class="section-header">
+                <span class="section-icon">🧠</span>
+                Semantic Search Results (<span id="semanticResultCount">0</span>)
+            </h2>
+            <div id="semanticResults"></div>
         </div>
 
-        <div id="browseSection" class="browse-section">
-            <h2>Browse All Articles</h2>
-            <div id="browseResults"></div>
-            <div class="pagination">
-                <button id="prevButton" disabled>Previous</button>
-                <span id="pageInfo"></span>
-                <button id="nextButton">Next</button>
+        <!-- Text-Based Search Results -->
+        <div id="textSearchResultsContainer" class="results-container hidden">
+            <h2 class="section-header collapsible">
+                <span class="section-icon">📝</span>
+                Text-Based Search Results
+                <span class="collapse-toggle">▼</span>
+            </h2>
+
+            <!-- Keywords Results -->
+            <div class="search-subsection" id="keywordsSection">
+                <h3 class="subsection-header">
+                    <span class="subsection-icon">🏷️</span>
+                    Keywords Matches (<span id="keywordsResultCount">0</span>)
+                </h3>
+                <div id="keywordsResults"></div>
+                <div class="pagination" id="keywordsPagination">
+                    <button id="keywordsPrevButton" disabled>Previous</button>
+                    <span id="keywordsPageInfo"></span>
+                    <button id="keywordsNextButton">Next</button>
+                </div>
             </div>
+
+            <!-- Categories Results -->
+            <div class="search-subsection" id="categoriesSection">
+                <h3 class="subsection-header">
+                    <span class="subsection-icon">📁</span>
+                    Categories Matches (<span id="categoriesResultCount">0</span>)
+                </h3>
+                <div id="categoriesResults"></div>
+                <div class="pagination" id="categoriesPagination">
+                    <button id="categoriesPrevButton" disabled>Previous</button>
+                    <span id="categoriesPageInfo"></span>
+                    <button id="categoriesNextButton">Next</button>
+                </div>
+            </div>
+
+            <!-- Summary Results -->
+            <div class="search-subsection" id="summarySection">
+                <h3 class="subsection-header">
+                    <span class="subsection-icon">📄</span>
+                    Summary Matches (<span id="summaryResultCount">0</span>)
+                </h3>
+                <div id="summaryResults"></div>
+                <div class="pagination" id="summaryPagination">
+                    <button id="summaryPrevButton" disabled>Previous</button>
+                    <span id="summaryPageInfo"></span>
+                    <button id="summaryNextButton">Next</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="browsePrompt" class="browse-prompt">
+            <p>Or explore the archive:</p>
+            <a href="<%= articles_path %>" class="browse-link">Browse by Article</a>
+            <a href="<%= documents_path %>" class="browse-link">Browse by Document</a>
         </div>
     </div>
 
+    <%= javascript_include_tag "document_archive/common" %>
     <%= javascript_include_tag "document_archive/search" %>
 </body>
 </html>

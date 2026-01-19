@@ -18,7 +18,94 @@ module DocumentArchive
                            .includes(article: :document)
 
         render json: {
-          results: results.map { |embedding| serialize_result(embedding) }
+          results: results.map { |embedding| serialize_embedding_result(embedding) }
+        }
+      rescue => e
+        render json: { error: e.message }, status: :service_unavailable
+      end
+
+      def search_keywords
+        query = params[:query]
+        limit = (params[:limit] || 10).to_i
+        offset = (params[:offset] || 0).to_i
+
+        if query.blank?
+          render json: { error: "Query parameter is required" }, status: :bad_request
+          return
+        end
+
+        search_terms = query.downcase.split(/\s+/)
+
+        # Search for articles where any keyword matches any search term
+        articles = Article.includes(:document)
+                          .where("EXISTS (SELECT 1 FROM jsonb_array_elements_text(keywords) AS kw WHERE LOWER(kw) LIKE ANY(ARRAY[:patterns]))",
+                                 patterns: search_terms.map { |t| "%#{t}%" })
+                          .order(created_at: :desc)
+
+        total = articles.count
+        results = articles.limit(limit).offset(offset)
+
+        render json: {
+          total: total,
+          results: results.map { |article| serialize_article(article) }
+        }
+      rescue => e
+        render json: { error: e.message }, status: :service_unavailable
+      end
+
+      def search_categories
+        query = params[:query]
+        limit = (params[:limit] || 10).to_i
+        offset = (params[:offset] || 0).to_i
+
+        if query.blank?
+          render json: { error: "Query parameter is required" }, status: :bad_request
+          return
+        end
+
+        search_terms = query.downcase.split(/\s+/)
+
+        # Search for articles where any category matches any search term
+        articles = Article.includes(:document)
+                          .where("EXISTS (SELECT 1 FROM jsonb_array_elements_text(categories) AS cat WHERE LOWER(cat) LIKE ANY(ARRAY[:patterns]))",
+                                 patterns: search_terms.map { |t| "%#{t}%" })
+                          .order(created_at: :desc)
+
+        total = articles.count
+        results = articles.limit(limit).offset(offset)
+
+        render json: {
+          total: total,
+          results: results.map { |article| serialize_article(article) }
+        }
+      rescue => e
+        render json: { error: e.message }, status: :service_unavailable
+      end
+
+      def search_summary
+        query = params[:query]
+        limit = (params[:limit] || 10).to_i
+        offset = (params[:offset] || 0).to_i
+
+        if query.blank?
+          render json: { error: "Query parameter is required" }, status: :bad_request
+          return
+        end
+
+        search_terms = query.downcase.split(/\s+/)
+
+        # Search for articles where summary contains any search term
+        articles = Article.includes(:document)
+                          .where("LOWER(summary) LIKE ANY(ARRAY[:patterns])",
+                                 patterns: search_terms.map { |t| "%#{t}%" })
+                          .order(created_at: :desc)
+
+        total = articles.count
+        results = articles.limit(limit).offset(offset)
+
+        render json: {
+          total: total,
+          results: results.map { |article| serialize_article(article) }
         }
       rescue => e
         render json: { error: e.message }, status: :service_unavailable
@@ -26,7 +113,7 @@ module DocumentArchive
 
       private
 
-      def serialize_result(embedding)
+      def serialize_embedding_result(embedding)
         article = embedding.article
         {
           id: article.id,
@@ -38,6 +125,19 @@ module DocumentArchive
           pageStart: article.page_start,
           pageEnd: article.page_end,
           similarity: 1 - embedding.neighbor_distance
+        }
+      end
+
+      def serialize_article(article)
+        {
+          id: article.id,
+          title: article.title,
+          documentId: article.document_id,
+          summary: article.summary,
+          categories: article.categories || [],
+          keywords: article.keywords || [],
+          pageStart: article.page_start,
+          pageEnd: article.page_end
         }
       end
     end

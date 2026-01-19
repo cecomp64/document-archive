@@ -51,17 +51,18 @@ module DocumentArchive
       puts "Processing #{File.basename(file)}..."
       data = JSON.parse(File.read(file))
 
-      import_documents(data["documents"]) if data["documents"]
+      document_name = File.basename(file, ".json")
+      import_documents(data["documents"], document_name) if data["documents"]
       import_articles(data["articles"]) if data["articles"]
 
       embeddings_file = file.sub(".json", "-embeddings.json")
       import_embeddings(embeddings_file) if File.exist?(embeddings_file)
     end
 
-    def import_documents(documents)
+    def import_documents(documents, document_name)
       documents.each do |doc_data|
         document = Document.create!(
-          name: doc_data["title"] || doc_data["name"]
+          name: document_name
         )
         @document_id_map[doc_data["id"]] = document.id
         @stats[:documents] += 1
