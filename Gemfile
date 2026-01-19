@@ -11,5 +11,7 @@ gem "neighbor"
 
 gem "sprockets-rails"
 
+gem "dotenv-rails", groups: [:development, :test]
+
 # Start debugger with binding.b [https://github.com/ruby/debug]
 # gem "debug", ">= 1.0.0"

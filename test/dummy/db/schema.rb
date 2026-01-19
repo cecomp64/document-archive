@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_01_18_000004) do
+ActiveRecord::Schema[8.1].define(version: 2026_01_19_000001) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "vector"
@@ -40,7 +40,7 @@ ActiveRecord::Schema[8.1].define(version: 2026_01_18_000004) do
     t.uuid "article_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.vector "vector", limit: 1536
+    t.vector "vector", limit: 768
     t.index ["article_id"], name: "index_document_archive_embeddings_on_article_id"
     t.index ["vector"], name: "index_document_archive_embeddings_on_vector", opclass: :vector_cosine_ops, using: :hnsw
   end

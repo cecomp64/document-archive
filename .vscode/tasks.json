@@ -1,0 +1,25 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "migrate",
+            "type": "shell",
+            "command": "docker compose run --rm app bin/rails db:migrate"
+        },
+        {
+            "label": "import",
+            "type": "shell",
+            "command": "docker compose run --rm app bin/rails 'document_archive:import[${input:importPath}]'"
+        }
+    ],
+    "inputs": [
+        {
+            "id": "importPath",
+            "type": "promptString",
+            "description": "Path to JSON files directory",
+            "default": "/rails/test/dummy/db/seeds"
+        }
+    ]
+}
