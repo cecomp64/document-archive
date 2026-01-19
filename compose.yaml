@@ -1,0 +1,71 @@
+services:
+  db:
+    image: postgres:17.6
+    platform: linux/amd64
+    container_name: document-archive-db
+    build:
+      context: .
+      dockerfile: Dockerfile-postgres
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      #POSTGRES_DB: sjaa-db-dev
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready" ]
+      interval: 2s
+      retries: 5
+      start_period: 2s
+      timeout: 10s
+    networks:
+      - archivenet
+    ports:
+      - "5431:5431"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+  app:
+    image: document-archive-app
+    env_file:
+      - .env
+    platform: linux/amd64
+    tmpfs:
+      - /tmp
+    shm_size: '2gb'
+    environment:
+      DATABASE_HOST: db
+      DATABASE_USER: root
+      DATABASE_PASSWORD: root
+      PGHOST: db
+      PGUSER: root
+      PGPASSWORD: root
+      RUBY_DEBUG_OPEN: "false"
+      RUBY_DEBUG_HOST: "0.0.0.0"
+      RUBY_DEBUG_PORT: "1234"
+    build:
+      context: .
+      dockerfile: Dockerfile-dev
+      args:
+        GITHUB_USERNAME: ${GITHUB_USERNAME}
+        GITHUB_TOKEN: ${GITHUB_TOKEN}
+    depends_on:
+      db:
+        condition: service_healthy
+    #command: tail -f /dev/null
+    #command: rm -f /rails/tmp/pids/server.pid
+    networks:
+      - archivenet
+    ports:
+      - "127.0.0.1:3000:3000"
+      - "127.0.0.1:3001:3001"
+      - "127.0.0.1:9876:9876"
+      - "127.0.0.1:1234:1234"  # Debug port
+    volumes:
+      - type: bind
+        source: ./
+        target: /rails
+
+volumes:
+  postgres_data:
+
+
+networks:
+  archivenet:
