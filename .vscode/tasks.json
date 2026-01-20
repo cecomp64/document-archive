@@ -14,6 +14,11 @@
             "command": "docker compose run --rm app bin/rails 'document_archive:import[${input:importPath}]'"
         },
         {
+            "label": "dump-data",
+            "type": "shell",
+            "command": "docker container exec document-archive-db pg_dump --data-only --inserts -U root document_archive_development > test/dummy/db/`date -I`.sql"
+        },
+        {
             "label": "console",
             "type": "shell",
             "command": "docker compose run --rm app bin/rails c"
