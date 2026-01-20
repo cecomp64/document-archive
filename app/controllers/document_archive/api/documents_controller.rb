@@ -36,14 +36,17 @@ module DocumentArchive
         document = Document.find(params[:id])
 
         markdown_content = nil
+        html_content = nil
         if document.markdown.present?
           markdown_content = fetch_markdown_content(document)
+          html_content = render_markdown_to_html(markdown_content) if markdown_content
         end
 
         render json: {
           id: document.id,
           name: document.name,
-          markdownContent: markdown_content
+          markdownContent: markdown_content,
+          htmlContent: html_content
         }
       rescue ActiveRecord::RecordNotFound
         render json: { error: "Document not found" }, status: :not_found
@@ -63,6 +66,23 @@ module DocumentArchive
       rescue StandardError => e
         Rails.logger.error "Failed to fetch markdown for document #{document.id}: #{e.message}"
         nil
+      end
+
+      def render_markdown_to_html(markdown)
+        renderer = Redcarpet::Render::HTML.new(
+          hard_wrap: true,
+          link_attributes: { target: "_blank", rel: "noopener" }
+        )
+        markdown_parser = Redcarpet::Markdown.new(
+          renderer,
+          autolink: true,
+          tables: true,
+          fenced_code_blocks: true,
+          strikethrough: true,
+          highlight: true,
+          superscript: true
+        )
+        markdown_parser.render(markdown)
       end
 
       def serialize_document(document)

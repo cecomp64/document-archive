@@ -26,6 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "neighbor"
   spec.add_dependency "sprockets-rails"
   spec.add_dependency "aws-sdk-s3", "~> 1.0"
+  spec.add_dependency "redcarpet"
 
   spec.add_development_dependency "puma"
   spec.add_development_dependency "dotenv-rails"

@@ -133,8 +133,8 @@
 
                 document.getElementById('documentTitle').textContent = data.name || 'Untitled Document';
 
-                if (data.markdownContent) {
-                    document.getElementById('markdownContent').innerHTML = renderMarkdown(data.markdownContent);
+                if (data.htmlContent) {
+                    document.getElementById('markdownContent').innerHTML = data.htmlContent;
                 } else {
                     document.getElementById('markdownContent').innerHTML =
                         '<div class="error-message">No markdown content available for this document.</div>';
@@ -145,51 +145,6 @@
                 document.getElementById('markdownContent').innerHTML =
                     '<div class="error-message">Unable to load document content.</div>';
             }
-        }
-
-        function renderMarkdown(markdown) {
-            // Basic markdown rendering - converts common markdown to HTML
-            let html = markdown
-                // Escape HTML
-                .replace(/&/g, '&amp;')
-                .replace(/</g, '&lt;')
-                .replace(/>/g, '&gt;')
-                // Code blocks (must come before other processing)
-                .replace(/```(\w*)\n([\s\S]*?)```/g, '<pre><code class="language-$1">$2</code></pre>')
-                // Inline code
-                .replace(/`([^`]+)`/g, '<code>$1</code>')
-                // Headers
-                .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-                .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-                .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-                // Bold and italic
-                .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
-                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\*(.+?)\*/g, '<em>$1</em>')
-                // Links
-                .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-                // Blockquotes
-                .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
-                // Horizontal rules
-                .replace(/^---$/gm, '<hr>')
-                // Line breaks and paragraphs
-                .replace(/\n\n/g, '</p><p>')
-                .replace(/\n/g, '<br>');
-
-            // Wrap in paragraph tags
-            html = '<p>' + html + '</p>';
-
-            // Clean up empty paragraphs
-            html = html.replace(/<p><\/p>/g, '');
-            html = html.replace(/<p>(<h[1-6]>)/g, '$1');
-            html = html.replace(/(<\/h[1-6]>)<\/p>/g, '$1');
-            html = html.replace(/<p>(<pre>)/g, '$1');
-            html = html.replace(/(<\/pre>)<\/p>/g, '$1');
-            html = html.replace(/<p>(<blockquote>)/g, '$1');
-            html = html.replace(/(<\/blockquote>)<\/p>/g, '$1');
-            html = html.replace(/<p>(<hr>)<\/p>/g, '$1');
-
-            return html;
         }
     </script>
 </body>
