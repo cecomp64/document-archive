@@ -16,7 +16,7 @@
         {
             "label": "dump-data",
             "type": "shell",
-            "command": "docker container exec document-archive-db pg_dump --data-only --inserts -U root document_archive_development > test/dummy/db/`date -I`.sql"
+            "command": "docker container exec document-archive-db pg_dump --data-only --exclude-table=schema_migrations --column-inserts -U root document_archive_development > test/dummy/db/`date -I`.sql"
         },
         {
             "label": "console",

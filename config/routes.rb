@@ -16,5 +16,6 @@ DocumentArchive::Engine.routes.draw do
     post "search-keywords", to: "search#search_keywords"
     post "search-categories", to: "search#search_categories"
     post "search-summary", to: "search#search_summary"
+    post "import", to: "import#create"
   end
 end

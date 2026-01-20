@@ -1,4 +1,18 @@
 namespace :document_archive do
+  desc "Export documents, articles, and embeddings to JSON with URLs for remote import"
+  task :export, [:output_file] => :environment do |_t, args|
+    output_file = args[:output_file] || "export.json"
+
+    exporter = DocumentArchive::JsonExporter.new
+    data = exporter.export
+
+    File.write(output_file, JSON.pretty_generate(data))
+    puts "Exported to #{output_file}"
+    puts "  Documents:   #{data[:documents].size}"
+    puts "  Articles:    #{data[:articles].size}"
+    puts "  Embeddings:  #{data[:embeddings].size}"
+  end
+
   desc "Import documents, articles, and embeddings from JSON files"
   task :import, [:directory] => :environment do |_t, args|
     directory = args[:directory]
@@ -202,6 +216,69 @@ module DocumentArchive
       puts "  Articles:    #{@stats[:articles]}"
       puts "  Embeddings:  #{@stats[:embeddings]}"
       puts "  Attachments: #{@stats[:attachments]}"
+    end
+  end
+
+  class JsonExporter
+    def export
+      {
+        documents: export_documents,
+        articles: export_articles,
+        embeddings: export_embeddings
+      }
+    end
+
+    private
+
+    def export_documents
+      Document.includes(pdf_attachment: :blob, txt_attachment: :blob,
+                        markdown_attachment: :blob, json_attachment: :blob).map do |doc|
+        {
+          id: doc.id,
+          name: doc.name,
+          pdf_url: attachment_url(doc.pdf),
+          txt_url: attachment_url(doc.txt),
+          markdown_url: attachment_url(doc.markdown),
+          json_url: attachment_url(doc.json)
+        }
+      end
+    end
+
+    def export_articles
+      Article.all.map do |article|
+        {
+          id: article.id,
+          documentId: article.document_id,
+          title: article.title,
+          summary: article.summary,
+          categories: article.categories,
+          keywords: article.keywords,
+          pageStart: article.page_start,
+          pageEnd: article.page_end
+        }
+      end
+    end
+
+    def export_embeddings
+      Embedding.all.map do |embedding|
+        {
+          articleId: embedding.article_id,
+          vector: embedding.vector
+        }
+      end
+    end
+
+    def attachment_url(attachment)
+      return nil unless attachment.attached?
+
+      if Rails.application.config.active_storage.service == :amazon
+        attachment.url(expires_in: 7.days)
+      else
+        Rails.application.routes.url_helpers.rails_blob_url(
+          attachment,
+          host: ENV.fetch("APP_HOST", "http://localhost:3000")
+        )
+      end
     end
   end
 end

@@ -10,3 +10,4 @@
 /test/dummy/tmp/
 .env
 /test/dummy/db/backups/
+export.json
