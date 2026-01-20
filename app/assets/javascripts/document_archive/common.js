@@ -1,6 +1,11 @@
 // Shared utilities for Document Archive
 const DocumentArchive = {
-    API_BASE_URL: window.location.origin,
+    // Use the root path from Rails engine config, falling back to empty string for root mount
+    ROOT_PATH: (window.DocumentArchiveConfig && window.DocumentArchiveConfig.rootPath) || '',
+
+    get API_BASE_URL() {
+        return this.ROOT_PATH;
+    },
 
     // Load and display stats in the stats bar
     async loadStats(format = 'full') {
@@ -86,7 +91,7 @@ const DocumentArchive = {
 
             if (article.markdownUrl) {
                 const mdLink = document.createElement('a');
-                mdLink.href = `/documents/${article.documentId}/markdown`;
+                mdLink.href = `${this.ROOT_PATH}/documents/${article.documentId}/markdown`;
                 mdLink.className = 'format-link format-md';
                 mdLink.textContent = 'MD';
                 mdLink.title = 'View markdown';
@@ -163,14 +168,14 @@ const DocumentArchive = {
 
     // Create a document card element
     createDocumentCard(doc, options = {}) {
-        const { linkToDetail = false, basePath = '' } = options;
+        const { linkToDetail = false } = options;
 
         const card = document.createElement('div');
         card.className = 'article-card document-card';
         if (linkToDetail) {
             card.style.cursor = 'pointer';
             card.addEventListener('click', () => {
-                window.location.href = `${basePath}/documents/${doc.id}`;
+                window.location.href = `${this.ROOT_PATH}/documents/${doc.id}`;
             });
         }
 

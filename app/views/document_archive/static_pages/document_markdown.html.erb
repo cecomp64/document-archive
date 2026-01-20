@@ -112,6 +112,9 @@
         </div>
     </div>
 
+    <script>
+        window.DocumentArchiveConfig = { rootPath: "<%= document_archive.root_path.chomp('/') %>" };
+    </script>
     <%= javascript_include_tag "document_archive/common" %>
     <script>
         const documentId = '<%= @document_id %>';
