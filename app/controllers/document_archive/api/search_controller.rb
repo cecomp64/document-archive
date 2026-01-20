@@ -115,29 +115,39 @@ module DocumentArchive
 
       def serialize_embedding_result(embedding)
         article = embedding.article
+        document = article.document
         {
           id: article.id,
           title: article.title,
           documentId: article.document_id,
+          documentName: document&.name,
           summary: article.summary,
           categories: article.categories || [],
           keywords: article.keywords || [],
           pageStart: article.page_start,
           pageEnd: article.page_end,
-          similarity: 1 - embedding.neighbor_distance
+          similarity: 1 - embedding.neighbor_distance,
+          pdfUrl: document&.pdf_url,
+          txtUrl: document&.txt_url,
+          markdownUrl: document&.markdown_url
         }
       end
 
       def serialize_article(article)
+        document = article.document
         {
           id: article.id,
           title: article.title,
           documentId: article.document_id,
+          documentName: document&.name,
           summary: article.summary,
           categories: article.categories || [],
           keywords: article.keywords || [],
           pageStart: article.page_start,
-          pageEnd: article.page_end
+          pageEnd: article.page_end,
+          pdfUrl: document&.pdf_url,
+          txtUrl: document&.txt_url,
+          markdownUrl: document&.markdown_url
         }
       end
     end

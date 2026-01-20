@@ -22,7 +22,28 @@ module DocumentArchive
           id: document.id,
           name: document.name,
           createdAt: document.created_at.iso8601,
-          articles: document.articles.map { |article| serialize_article(article) }
+          pdfUrl: document.pdf_url,
+          txtUrl: document.txt_url,
+          markdownUrl: document.markdown_url,
+          jsonUrl: document.json_url,
+          articles: document.articles.map { |article| serialize_article(article, document) }
+        }
+      rescue ActiveRecord::RecordNotFound
+        render json: { error: "Document not found" }, status: :not_found
+      end
+
+      def markdown
+        document = Document.find(params[:id])
+
+        markdown_content = nil
+        if document.markdown.present?
+          markdown_content = fetch_markdown_content(document)
+        end
+
+        render json: {
+          id: document.id,
+          name: document.name,
+          markdownContent: markdown_content
         }
       rescue ActiveRecord::RecordNotFound
         render json: { error: "Document not found" }, status: :not_found
@@ -30,25 +51,48 @@ module DocumentArchive
 
       private
 
+      def fetch_markdown_content(document)
+        # If using S3 storage, fetch from S3 URL
+        if document.markdown_url.present?
+          require "net/http"
+          uri = URI.parse(document.markdown_url)
+          response = Net::HTTP.get_response(uri)
+          return response.body if response.is_a?(Net::HTTPSuccess)
+        end
+        nil
+      rescue StandardError => e
+        Rails.logger.error "Failed to fetch markdown for document #{document.id}: #{e.message}"
+        nil
+      end
+
       def serialize_document(document)
         {
           id: document.id,
           name: document.name,
           articleCount: document.articles.count,
-          createdAt: document.created_at.iso8601
+          createdAt: document.created_at.iso8601,
+          pdfUrl: document.pdf_url,
+          txtUrl: document.txt_url,
+          markdownUrl: document.markdown_url,
+          jsonUrl: document.json_url
         }
       end
 
-      def serialize_article(article)
+      def serialize_article(article, document = nil)
+        document ||= article.document
         {
           id: article.id,
           title: article.title,
           documentId: article.document_id,
+          documentName: document&.name,
           summary: article.summary,
           categories: article.categories || [],
           keywords: article.keywords || [],
           pageStart: article.page_start,
-          pageEnd: article.page_end
+          pageEnd: article.page_end,
+          pdfUrl: document&.pdf_url,
+          txtUrl: document&.txt_url,
+          markdownUrl: document&.markdown_url
         }
       end
     end

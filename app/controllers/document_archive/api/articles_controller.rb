@@ -19,15 +19,20 @@ module DocumentArchive
       private
 
       def serialize_article(article)
+        document = article.document
         {
           id: article.id,
           title: article.title,
           documentId: article.document_id,
+          documentName: document&.name,
           summary: article.summary,
           categories: article.categories || [],
           keywords: article.keywords || [],
           pageStart: article.page_start,
-          pageEnd: article.page_end
+          pageEnd: article.page_end,
+          pdfUrl: document&.pdf_url,
+          txtUrl: document&.txt_url,
+          markdownUrl: document&.markdown_url
         }
       end
     end

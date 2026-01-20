@@ -12,6 +12,11 @@
             "label": "import",
             "type": "shell",
             "command": "docker compose run --rm app bin/rails 'document_archive:import[${input:importPath}]'"
+        },
+        {
+            "label": "console",
+            "type": "shell",
+            "command": "docker compose run --rm app bin/rails c"
         }
     ],
     "inputs": [

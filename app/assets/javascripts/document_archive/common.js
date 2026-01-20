@@ -46,11 +46,64 @@ const DocumentArchive = {
         title.textContent = article.title;
         titleDiv.appendChild(title);
 
+        // Document info with name and format links
+        const docInfo = document.createElement('div');
+        docInfo.className = 'article-doc-info';
+
+        const docName = article.documentName || 'Unknown Document';
+        const hasFormats = article.pdfUrl || article.txtUrl || article.markdownUrl;
+
+        if (hasFormats) {
+            const docLabel = document.createElement('span');
+            docLabel.className = 'doc-label';
+            docLabel.textContent = docName;
+            docInfo.appendChild(docLabel);
+
+            const formatLinks = document.createElement('span');
+            formatLinks.className = 'format-links';
+
+            if (article.pdfUrl) {
+                const pdfLink = document.createElement('a');
+                pdfLink.href = article.pdfUrl;
+                pdfLink.target = '_blank';
+                pdfLink.rel = 'noopener';
+                pdfLink.className = 'format-link format-pdf';
+                pdfLink.textContent = 'PDF';
+                pdfLink.title = 'Open PDF in new window';
+                formatLinks.appendChild(pdfLink);
+            }
+
+            if (article.txtUrl) {
+                const txtLink = document.createElement('a');
+                txtLink.href = article.txtUrl;
+                txtLink.target = '_blank';
+                txtLink.rel = 'noopener';
+                txtLink.className = 'format-link format-txt';
+                txtLink.textContent = 'TXT';
+                txtLink.title = 'Open text file in new window';
+                formatLinks.appendChild(txtLink);
+            }
+
+            if (article.markdownUrl) {
+                const mdLink = document.createElement('a');
+                mdLink.href = `/documents/${article.documentId}/markdown`;
+                mdLink.className = 'format-link format-md';
+                mdLink.textContent = 'MD';
+                mdLink.title = 'View markdown';
+                formatLinks.appendChild(mdLink);
+            }
+
+            docInfo.appendChild(formatLinks);
+        } else {
+            docInfo.textContent = docName;
+        }
+
+        titleDiv.appendChild(docInfo);
+
         const meta = document.createElement('div');
         meta.className = 'article-meta';
         meta.innerHTML = `
             <span><strong>ID:</strong> ${article.id}</span>
-            <span><strong>Document:</strong> ${article.documentId}</span>
             ${article.pageStart ? `<span><strong>Pages:</strong> ${article.pageStart}-${article.pageEnd}</span>` : ''}
         `;
         titleDiv.appendChild(meta);

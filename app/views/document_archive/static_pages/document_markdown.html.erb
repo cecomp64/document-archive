@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Viewer - Article Explorer</title>
+    <%= stylesheet_link_tag "document_archive/search", media: "all" %>
+    <style>
+        .markdown-content {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            line-height: 1.8;
+            font-size: 16px;
+        }
+        .markdown-content h1 { font-size: 2em; margin: 1em 0 0.5em; color: #333; }
+        .markdown-content h2 { font-size: 1.6em; margin: 1em 0 0.5em; color: #444; }
+        .markdown-content h3 { font-size: 1.3em; margin: 1em 0 0.5em; color: #555; }
+        .markdown-content p { margin: 1em 0; }
+        .markdown-content ul, .markdown-content ol { margin: 1em 0; padding-left: 2em; }
+        .markdown-content li { margin: 0.5em 0; }
+        .markdown-content code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 0.9em;
+        }
+        .markdown-content pre {
+            background: #f4f4f4;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+        .markdown-content pre code {
+            background: none;
+            padding: 0;
+        }
+        .markdown-content blockquote {
+            border-left: 4px solid #667eea;
+            margin: 1em 0;
+            padding-left: 1em;
+            color: #666;
+        }
+        .markdown-content a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        .markdown-content a:hover {
+            text-decoration: underline;
+        }
+        .markdown-content table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1em 0;
+        }
+        .markdown-content th, .markdown-content td {
+            border: 1px solid #ddd;
+            padding: 8px 12px;
+            text-align: left;
+        }
+        .markdown-content th {
+            background: #f4f4f4;
+        }
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 15px;
+            opacity: 0.9;
+        }
+        .back-link:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+        .loading-markdown {
+            text-align: center;
+            padding: 60px;
+            color: #666;
+        }
+        .error-message {
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c00;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="<%= documents_path %>" class="back-link">&larr; Back to Documents</a>
+
+        <header>
+            <h1 id="documentTitle">Loading...</h1>
+            <p class="subtitle">Document Content</p>
+        </header>
+
+        <nav class="main-nav">
+            <a href="<%= root_path %>" class="nav-link">Search</a>
+            <a href="<%= articles_path %>" class="nav-link">Articles</a>
+            <a href="<%= documents_path %>" class="nav-link active">Documents</a>
+        </nav>
+
+        <div class="markdown-content" id="markdownContent">
+            <div class="loading-markdown">
+                <div class="spinner"></div>
+                <p>Loading document content...</p>
+            </div>
+        </div>
+    </div>
+
+    <%= javascript_include_tag "document_archive/common" %>
+    <script>
+        const documentId = '<%= @document_id %>';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadDocumentMarkdown();
+        });
+
+        async function loadDocumentMarkdown() {
+            try {
+                const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/documents/${documentId}/markdown`);
+                if (!response.ok) {
+                    throw new Error('Document not found');
+                }
+                const data = await response.json();
+
+                document.getElementById('documentTitle').textContent = data.name || 'Untitled Document';
+
+                if (data.markdownContent) {
+                    document.getElementById('markdownContent').innerHTML = renderMarkdown(data.markdownContent);
+                } else {
+                    document.getElementById('markdownContent').innerHTML =
+                        '<div class="error-message">No markdown content available for this document.</div>';
+                }
+            } catch (error) {
+                console.error('Error loading document:', error);
+                document.getElementById('documentTitle').textContent = 'Document Not Found';
+                document.getElementById('markdownContent').innerHTML =
+                    '<div class="error-message">Unable to load document content.</div>';
+            }
+        }
+
+        function renderMarkdown(markdown) {
+            // Basic markdown rendering - converts common markdown to HTML
+            let html = markdown
+                // Escape HTML
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                // Code blocks (must come before other processing)
+                .replace(/```(\w*)\n([\s\S]*?)```/g, '<pre><code class="language-$1">$2</code></pre>')
+                // Inline code
+                .replace(/`([^`]+)`/g, '<code>$1</code>')
+                // Headers
+                .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+                .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+                .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+                // Bold and italic
+                .replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>')
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*(.+?)\*/g, '<em>$1</em>')
+                // Links
+                .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+                // Blockquotes
+                .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+                // Horizontal rules
+                .replace(/^---$/gm, '<hr>')
+                // Line breaks and paragraphs
+                .replace(/\n\n/g, '</p><p>')
+                .replace(/\n/g, '<br>');
+
+            // Wrap in paragraph tags
+            html = '<p>' + html + '</p>';
+
+            // Clean up empty paragraphs
+            html = html.replace(/<p><\/p>/g, '');
+            html = html.replace(/<p>(<h[1-6]>)/g, '$1');
+            html = html.replace(/(<\/h[1-6]>)<\/p>/g, '$1');
+            html = html.replace(/<p>(<pre>)/g, '$1');
+            html = html.replace(/(<\/pre>)<\/p>/g, '$1');
+            html = html.replace(/<p>(<blockquote>)/g, '$1');
+            html = html.replace(/(<\/blockquote>)<\/p>/g, '$1');
+            html = html.replace(/<p>(<hr>)<\/p>/g, '$1');
+
+            return html;
+        }
+    </script>
+</body>
+</html>

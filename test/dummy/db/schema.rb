@@ -10,10 +10,38 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_01_19_000001) do
+ActiveRecord::Schema[8.1].define(version: 2026_01_20_031235) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "vector"
+
+  create_table "active_storage_attachments", force: :cascade do |t|
+    t.bigint "blob_id", null: false
+    t.datetime "created_at", null: false
+    t.string "name", null: false
+    t.uuid "record_id", null: false
+    t.string "record_type", null: false
+    t.index ["blob_id"], name: "index_active_storage_attachments_on_blob_id"
+    t.index ["record_type", "record_id", "name", "blob_id"], name: "index_active_storage_attachments_uniqueness", unique: true
+  end
+
+  create_table "active_storage_blobs", force: :cascade do |t|
+    t.bigint "byte_size", null: false
+    t.string "checksum"
+    t.string "content_type"
+    t.datetime "created_at", null: false
+    t.string "filename", null: false
+    t.string "key", null: false
+    t.text "metadata"
+    t.string "service_name", null: false
+    t.index ["key"], name: "index_active_storage_blobs_on_key", unique: true
+  end
+
+  create_table "active_storage_variant_records", force: :cascade do |t|
+    t.bigint "blob_id", null: false
+    t.string "variation_digest", null: false
+    t.index ["blob_id", "variation_digest"], name: "index_active_storage_variant_records_uniqueness", unique: true
+  end
 
   create_table "document_archive_articles", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
     t.jsonb "categories", default: []
@@ -32,7 +60,23 @@ ActiveRecord::Schema[8.1].define(version: 2026_01_19_000001) do
 
   create_table "document_archive_documents", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
     t.datetime "created_at", null: false
+    t.string "json_content_type"
+    t.string "json_file_name"
+    t.bigint "json_file_size"
+    t.datetime "json_updated_at"
+    t.string "markdown_content_type"
+    t.string "markdown_file_name"
+    t.bigint "markdown_file_size"
+    t.datetime "markdown_updated_at"
     t.string "name"
+    t.string "pdf_content_type"
+    t.string "pdf_file_name"
+    t.bigint "pdf_file_size"
+    t.datetime "pdf_updated_at"
+    t.string "txt_content_type"
+    t.string "txt_file_name"
+    t.bigint "txt_file_size"
+    t.datetime "txt_updated_at"
     t.datetime "updated_at", null: false
   end
 
@@ -45,6 +89,8 @@ ActiveRecord::Schema[8.1].define(version: 2026_01_19_000001) do
     t.index ["vector"], name: "index_document_archive_embeddings_on_vector", opclass: :vector_cosine_ops, using: :hnsw
   end
 
+  add_foreign_key "active_storage_attachments", "active_storage_blobs", column: "blob_id"
+  add_foreign_key "active_storage_variant_records", "active_storage_blobs", column: "blob_id"
   add_foreign_key "document_archive_articles", "document_archive_documents", column: "document_id"
   add_foreign_key "document_archive_embeddings", "document_archive_articles", column: "article_id"
 end

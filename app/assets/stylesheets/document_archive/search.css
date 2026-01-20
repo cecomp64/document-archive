@@ -329,6 +329,71 @@ mark {
     margin-right: 15px;
 }
 
+/* Document info and format links */
+.article-doc-info {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.doc-label {
+    font-weight: 500;
+    color: #444;
+}
+
+.format-links {
+    display: inline-flex;
+    gap: 6px;
+}
+
+.format-link {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.format-link:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.format-pdf {
+    background: #dc3545;
+    color: white;
+}
+
+.format-pdf:hover {
+    background: #c82333;
+}
+
+.format-txt {
+    background: #6c757d;
+    color: white;
+}
+
+.format-txt:hover {
+    background: #5a6268;
+}
+
+.format-md {
+    background: #28a745;
+    color: white;
+}
+
+.format-md:hover {
+    background: #218838;
+}
+
 .article-summary {
     color: #555;
     line-height: 1.6;

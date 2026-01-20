@@ -24,13 +24,13 @@ module DocumentArchive
       @directory = directory
       @document_id_map = {}
       @article_id_map = {}
-      @stats = { documents: 0, articles: 0, embeddings: 0 }
+      @stats = { documents: 0, articles: 0, embeddings: 0, attachments: 0 }
     end
 
     def import
       puts "Starting import from #{@directory}..."
 
-      json_files = Dir.glob(File.join(@directory, "*.json"))
+      json_files = Dir.glob(File.join(@directory, "**", "*.json"))
                       .reject { |f| f.end_with?("-embeddings.json") }
 
       if json_files.empty?
@@ -52,21 +52,105 @@ module DocumentArchive
       data = JSON.parse(File.read(file))
 
       document_name = File.basename(file, ".json")
-      import_documents(data["documents"], document_name) if data["documents"]
+
+      # Always create a document, even if JSON doesn't have explicit documents array
+      if data["documents"].present?
+        import_documents(data["documents"], document_name, file)
+      else
+        # Create a single document for this file
+        document = Document.create!(name: document_name)
+        # Use the document name as the ID for article lookups
+        @document_id_map[document_name] = document.id
+        @stats[:documents] += 1
+        upload_attachments(document, document_name, file)
+      end
+
       import_articles(data["articles"]) if data["articles"]
 
       embeddings_file = file.sub(".json", "-embeddings.json")
       import_embeddings(embeddings_file) if File.exist?(embeddings_file)
     end
 
-    def import_documents(documents, document_name)
+    def import_documents(documents, document_name, json_file)
       documents.each do |doc_data|
         document = Document.create!(
           name: document_name
         )
         @document_id_map[doc_data["id"]] = document.id
         @stats[:documents] += 1
+
+        # Upload attachments for this document
+        upload_attachments(document, document_name, json_file)
       end
+    end
+
+    def upload_attachments(document, document_name, json_file)
+      base_path = File.dirname(json_file)
+      base_name = document_name
+
+      # Upload JSON file
+      if File.exist?(json_file)
+        puts "  Uploading JSON: #{File.basename(json_file)}"
+        document.json.attach(
+          io: File.open(json_file),
+          filename: File.basename(json_file),
+          content_type: "application/json"
+        )
+        @stats[:attachments] += 1
+      end
+
+      # Upload PDF file
+      pdf_file = find_attachment_file(base_path, base_name, %w[.pdf])
+      if pdf_file
+        puts "  Uploading PDF: #{File.basename(pdf_file)}"
+        document.pdf.attach(
+          io: File.open(pdf_file),
+          filename: File.basename(pdf_file),
+          content_type: "application/pdf"
+        )
+        @stats[:attachments] += 1
+      end
+
+      # Upload text file
+      txt_file = find_attachment_file(base_path, base_name, %w[.txt])
+      if txt_file
+        puts "  Uploading TXT: #{File.basename(txt_file)}"
+        document.txt.attach(
+          io: File.open(txt_file),
+          filename: File.basename(txt_file),
+          content_type: "text/plain"
+        )
+        @stats[:attachments] += 1
+      end
+
+      # Upload markdown file
+      md_file = find_attachment_file(base_path, base_name, %w[.md .markdown])
+      if md_file
+        puts "  Uploading Markdown: #{File.basename(md_file)}"
+        document.markdown.attach(
+          io: File.open(md_file),
+          filename: File.basename(md_file),
+          content_type: "text/markdown"
+        )
+        @stats[:attachments] += 1
+      end
+    end
+
+    def find_attachment_file(base_path, base_name, extensions)
+      extensions.each do |ext|
+        # Try exact match with base name
+        file_path = File.join(base_path, "#{base_name}#{ext}")
+        return file_path if File.exist?(file_path)
+
+        # Try case-insensitive search
+        Dir.glob(File.join(base_path, "*#{ext}"), File::FNM_CASEFOLD).each do |found|
+          found_base = File.basename(found, ext)
+          if found_base.downcase == base_name.downcase
+            return found
+          end
+        end
+      end
+      nil
     end
 
     def import_articles(articles)
@@ -114,9 +198,10 @@ module DocumentArchive
 
     def print_summary
       puts "\nImport complete!"
-      puts "  Documents: #{@stats[:documents]}"
-      puts "  Articles:  #{@stats[:articles]}"
-      puts "  Embeddings: #{@stats[:embeddings]}"
+      puts "  Documents:   #{@stats[:documents]}"
+      puts "  Articles:    #{@stats[:articles]}"
+      puts "  Embeddings:  #{@stats[:embeddings]}"
+      puts "  Attachments: #{@stats[:attachments]}"
     end
   end
 end
