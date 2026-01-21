@@ -1,16 +1,24 @@
 namespace :document_archive do
   desc "Export documents, articles, and embeddings to JSON with URLs for remote import"
-  task :export, [:output_file] => :environment do |_t, args|
-    output_file = args[:output_file] || "export.json"
+  task :export, [:output_dir, :chunk_size] => :environment do |_t, args|
+    output_dir = args[:output_dir] || "export"
+    chunk_size = (args[:chunk_size] || 10).to_i
 
-    exporter = DocumentArchive::JsonExporter.new
-    data = exporter.export
+    FileUtils.mkdir_p(output_dir)
 
-    File.write(output_file, JSON.pretty_generate(data))
-    puts "Exported to #{output_file}"
-    puts "  Documents:   #{data[:documents].size}"
-    puts "  Articles:    #{data[:articles].size}"
-    puts "  Embeddings:  #{data[:embeddings].size}"
+    exporter = DocumentArchive::ChunkedExporter.new(output_dir, chunk_size)
+    stats = exporter.export
+
+    puts "\nExport complete to #{output_dir}/"
+    puts "  Documents:   #{stats[:documents]} (#{stats[:chunks]} chunks)"
+    puts "  Articles:    #{stats[:articles]}"
+    puts "  Embeddings:  #{stats[:embeddings]}"
+    puts "\nImport with:"
+    puts "  for f in #{output_dir}/chunk_*.json; do"
+    puts "    curl -X POST https://your-app/document_archive/api/import \\"
+    puts "      -H 'Authorization: Bearer $TOKEN' \\"
+    puts "      -H 'Content-Type: application/json' -d @$f"
+    puts "  done"
   end
 
   desc "Import documents, articles, and embeddings from JSON files"
@@ -219,53 +227,77 @@ module DocumentArchive
     end
   end
 
-  class JsonExporter
+  class ChunkedExporter
+    def initialize(output_dir, chunk_size)
+      @output_dir = output_dir
+      @chunk_size = chunk_size
+      @stats = { documents: 0, articles: 0, embeddings: 0, chunks: 0 }
+    end
+
     def export
-      {
-        documents: export_documents,
-        articles: export_articles,
-        embeddings: export_embeddings
-      }
+      documents = Document.includes(:articles, pdf_attachment: :blob, txt_attachment: :blob,
+                                    markdown_attachment: :blob, json_attachment: :blob)
+
+      documents.each_slice(@chunk_size).with_index do |doc_batch, index|
+        chunk_data = export_chunk(doc_batch)
+        filename = File.join(@output_dir, "chunk_#{index.to_s.rjust(3, '0')}.json")
+
+        File.write(filename, JSON.generate(chunk_data))
+        puts "  Written #{filename} (#{doc_batch.size} documents)"
+
+        @stats[:chunks] += 1
+      end
+
+      @stats
     end
 
     private
 
-    def export_documents
-      Document.includes(pdf_attachment: :blob, txt_attachment: :blob,
-                        markdown_attachment: :blob, json_attachment: :blob).map do |doc|
-        {
-          id: doc.id,
-          name: doc.name,
-          pdf_url: attachment_url(doc.pdf),
-          txt_url: attachment_url(doc.txt),
-          markdown_url: attachment_url(doc.markdown),
-          json_url: attachment_url(doc.json)
-        }
-      end
+    def export_chunk(documents)
+      doc_ids = documents.map(&:id)
+      articles = Article.where(document_id: doc_ids).includes(:embedding)
+
+      {
+        documents: documents.map { |doc| serialize_document(doc) },
+        articles: articles.map { |article| serialize_article(article) },
+        embeddings: articles.filter_map { |article| serialize_embedding(article.embedding) }
+      }
     end
 
-    def export_articles
-      Article.all.map do |article|
-        {
-          id: article.id,
-          documentId: article.document_id,
-          title: article.title,
-          summary: article.summary,
-          categories: article.categories,
-          keywords: article.keywords,
-          pageStart: article.page_start,
-          pageEnd: article.page_end
-        }
-      end
+    def serialize_document(doc)
+      @stats[:documents] += 1
+      {
+        id: doc.id,
+        name: doc.name,
+        pdf_url: attachment_url(doc.pdf),
+        txt_url: attachment_url(doc.txt),
+        markdown_url: attachment_url(doc.markdown),
+        json_url: attachment_url(doc.json)
+      }
     end
 
-    def export_embeddings
-      Embedding.all.map do |embedding|
-        {
-          articleId: embedding.article_id,
-          vector: embedding.vector
-        }
-      end
+    def serialize_article(article)
+      @stats[:articles] += 1
+      {
+        id: article.id,
+        documentId: article.document_id,
+        title: article.title,
+        summary: article.summary,
+        categories: article.categories,
+        keywords: article.keywords,
+        pageStart: article.page_start,
+        pageEnd: article.page_end
+      }
+    end
+
+    def serialize_embedding(embedding)
+      return nil unless embedding
+
+      @stats[:embeddings] += 1
+      {
+        articleId: embedding.article_id,
+        vector: embedding.vector
+      }
     end
 
     def attachment_url(attachment)

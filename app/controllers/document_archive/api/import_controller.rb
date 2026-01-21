@@ -1,6 +1,8 @@
 module DocumentArchive
   module Api
-    class ImportController < BaseController
+    class ImportController < ActionController::API
+      # Skip all inherited auth - this controller handles its own authentication
+      # via IMPORT_API_TOKEN environment variable
       before_action :authenticate_import_token
 
       def create
@@ -71,11 +73,20 @@ module DocumentArchive
 
       def attach_from_url(document, attachment_name, url, content_type)
         return if url.blank?
+        raise "Document is nil when attaching #{attachment_name}" if document.nil?
 
         uri = URI.parse(url)
         filename = File.basename(uri.path)
 
-        response = Net::HTTP.get_response(uri)
+        # Handle HTTPS properly
+        http = Net::HTTP.new(uri.host, uri.port)
+        http.use_ssl = (uri.scheme == "https")
+        http.open_timeout = 10
+        http.read_timeout = 30
+
+        request = Net::HTTP::Get.new(uri)
+        response = http.request(request)
+
         raise "Failed to fetch #{url}: #{response.code}" unless response.is_a?(Net::HTTPSuccess)
 
         document.public_send(attachment_name).attach(
@@ -85,7 +96,8 @@ module DocumentArchive
         )
         @stats[:attachments] += 1
       rescue StandardError => e
-        Rails.logger.warn("Failed to attach #{attachment_name} from #{url}: #{e.message}")
+        Rails.logger.error("Failed to attach #{attachment_name} from #{url}: #{e.message}")
+        raise # Re-raise to fail the import
       end
 
       def import_articles(articles)

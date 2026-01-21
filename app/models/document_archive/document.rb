@@ -20,19 +20,31 @@ module DocumentArchive
     end
 
     def pdf_url
-      pdf.attached? ? pdf.url : nil
+      attachment_url(pdf)
     end
 
     def txt_url
-      txt.attached? ? txt.url : nil
+      attachment_url(txt)
     end
 
     def markdown_url
-      markdown.attached? ? markdown.url : nil
+      attachment_url(markdown)
     end
 
     def json_url
-      json.attached? ? json.url : nil
+      attachment_url(json)
+    end
+
+    private
+
+    def attachment_url(attachment)
+      return nil unless attachment.attached?
+
+      if Rails.application.config.active_storage.service == :amazon
+        attachment.url
+      else
+        Rails.application.routes.url_helpers.rails_blob_path(attachment, only_path: true)
+      end
     end
   end
 end
