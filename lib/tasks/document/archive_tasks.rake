@@ -21,6 +21,76 @@ namespace :document_archive do
     puts "  done"
   end
 
+  desc "Upload chunked export files to a remote API endpoint"
+  task :upload_chunks, [:directory, :api_url, :token] => :environment do |_t, args|
+    directory = args[:directory]
+    api_url = args[:api_url]
+    token = args[:token] || ENV["IMPORT_API_TOKEN"]
+
+    if directory.blank? || api_url.blank?
+      puts "Usage: rake document_archive:upload_chunks[export,https://your-app.com/document_archive/api/import,your-token]"
+      puts "  Token can also be set via IMPORT_API_TOKEN environment variable"
+      exit 1
+    end
+
+    if token.blank?
+      puts "Error: Token is required (pass as 3rd argument or set IMPORT_API_TOKEN env var)"
+      exit 1
+    end
+
+    unless Dir.exist?(directory)
+      puts "Error: Directory '#{directory}' does not exist"
+      exit 1
+    end
+
+    chunks = Dir.glob(File.join(directory, "chunk_*.json")).sort
+    if chunks.empty?
+      puts "No chunk files found in #{directory}"
+      exit 1
+    end
+
+    puts "Found #{chunks.size} chunks to upload to #{api_url}"
+    puts ""
+
+    uri = URI.parse(api_url)
+    successful = 0
+    failed = 0
+
+    chunks.each_with_index do |chunk_file, index|
+      print "Uploading #{File.basename(chunk_file)} (#{index + 1}/#{chunks.size})... "
+
+      begin
+        http = Net::HTTP.new(uri.host, uri.port)
+        http.use_ssl = (uri.scheme == "https")
+        http.open_timeout = 30
+        http.read_timeout = 120
+
+        request = Net::HTTP::Post.new(uri.path)
+        request["Authorization"] = "Bearer #{token}"
+        request["Content-Type"] = "application/json"
+        request.body = File.read(chunk_file)
+
+        response = http.request(request)
+
+        if response.is_a?(Net::HTTPSuccess)
+          result = JSON.parse(response.body)
+          stats = result["imported"]
+          puts "OK (#{stats['documents']} docs, #{stats['articles']} articles, #{stats['embeddings']} embeddings)"
+          successful += 1
+        else
+          puts "FAILED (#{response.code}: #{response.body.truncate(100)})"
+          failed += 1
+        end
+      rescue StandardError => e
+        puts "ERROR (#{e.message})"
+        failed += 1
+      end
+    end
+
+    puts ""
+    puts "Upload complete: #{successful} successful, #{failed} failed"
+  end
+
   desc "Import documents, articles, and embeddings from JSON files"
   task :import, [:directory] => :environment do |_t, args|
     directory = args[:directory]

@@ -1,3 +1,5 @@
+require "net/http"
+
 module DocumentArchive
   module Api
     class ImportController < ActionController::API
@@ -74,6 +76,7 @@ module DocumentArchive
       def attach_from_url(document, attachment_name, url, content_type)
         return if url.blank?
         raise "Document is nil when attaching #{attachment_name}" if document.nil?
+        raise "Document not persisted when attaching #{attachment_name}" unless document.persisted?
 
         uri = URI.parse(url)
         filename = File.basename(uri.path)
@@ -82,22 +85,25 @@ module DocumentArchive
         http = Net::HTTP.new(uri.host, uri.port)
         http.use_ssl = (uri.scheme == "https")
         http.open_timeout = 10
-        http.read_timeout = 30
+        http.read_timeout = 60  # Increased for large files
 
         request = Net::HTTP::Get.new(uri)
         response = http.request(request)
 
         raise "Failed to fetch #{url}: #{response.code}" unless response.is_a?(Net::HTTPSuccess)
 
-        document.public_send(attachment_name).attach(
+        attachment = document.public_send(attachment_name)
+        raise "Attachment proxy is nil for #{attachment_name}" if attachment.nil?
+
+        attachment.attach(
           io: StringIO.new(response.body),
           filename: filename,
           content_type: content_type
         )
         @stats[:attachments] += 1
       rescue StandardError => e
-        Rails.logger.error("Failed to attach #{attachment_name} from #{url}: #{e.message}")
-        raise # Re-raise to fail the import
+        Rails.logger.error("Failed to attach #{attachment_name} for doc #{document&.id}: #{e.message}\n#{e.backtrace&.first(5)&.join("\n")}")
+        raise
       end
 
       def import_articles(articles)

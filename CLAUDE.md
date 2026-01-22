@@ -67,10 +67,16 @@ This generates `export/chunk_000.json`, `chunk_001.json`, etc. Each chunk contai
 **API import** - Import chunks via HTTP to remote environments:
 
 ```bash
-# Set the import token on the target app
+# Set the import token
 export IMPORT_API_TOKEN=your-secret-token
 
-# Import all chunks
+# Upload all chunks using the rake task
+bin/rails "document_archive:upload_chunks[export,https://your-app.herokuapp.com/document_archive/api/import]"
+```
+
+Or manually with curl:
+
+```bash
 for f in export/chunk_*.json; do
   echo "Importing $f..."
   curl -X POST https://your-app.herokuapp.com/document_archive/api/import \
