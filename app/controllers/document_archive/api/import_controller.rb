@@ -81,25 +81,14 @@ module DocumentArchive
         # Reload the document to ensure we have fresh ActiveStorage associations
         document.reload
 
-        uri = URI.parse(url)
-        filename = File.basename(uri.path)
+        # URI.open handles the full signed S3 URL correctly
+        downloaded_file = URI.open(url, open_timeout: 10, read_timeout: 60)
 
-        # Handle HTTPS properly
-        http = Net::HTTP.new(uri.host, uri.port)
-        http.use_ssl = (uri.scheme == "https")
-        http.open_timeout = 10
-        http.read_timeout = 60  # Increased for large files
+        # Use the original filename from the URL path
+        filename = File.basename(URI.parse(url).path)
 
-        request = Net::HTTP::Get.new(uri)
-        response = http.request(request)
-
-        raise "Failed to fetch #{url}: #{response.code}" unless response.is_a?(Net::HTTPSuccess)
-
-        attachment = document.public_send(attachment_name)
-        raise "Attachment proxy is nil for #{attachment_name}" if attachment.nil?
-
-        attachment.attach(
-          io: StringIO.new(response.body),
+        document.public_send(attachment_name).attach(
+          io: downloaded_file,
           filename: filename,
           content_type: content_type
         )
