@@ -78,6 +78,9 @@ module DocumentArchive
         raise "Document is nil when attaching #{attachment_name}" if document.nil?
         raise "Document not persisted when attaching #{attachment_name}" unless document.persisted?
 
+        # Reload the document to ensure we have fresh ActiveStorage associations
+        document.reload
+
         uri = URI.parse(url)
         filename = File.basename(uri.path)
 
