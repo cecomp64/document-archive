@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name        = "document-archive"
-  spec.version     = "0.2.5" #Document::Archive::VERSION
+  spec.version     = "0.2.6" #Document::Archive::VERSION
   spec.authors     = ["Carl Svensson"]
   spec.email       = [""]
   spec.homepage    = "https://github.com/cecomp64/document-archive"

@@ -88,11 +88,17 @@ module DocumentArchive
         # Use the original filename from the URL path
         filename = File.basename(URI.parse(url).path)
 
-        document.public_send(attachment_name).attach(
+        #document.public_send(attachment_name).attach(
+        blob = ActiveStorage::Blob.create_and_upload!(
           io: downloaded_file,
           filename: filename,
-          content_type: content_type
+          content_type: content_type,
+          identify: false
         )
+
+        document.public_send(attachment_name).attach(blob)
+        Rails.logger.info "New Key: #{blob.key}"
+        Rails.logger.info "Exists in S3? #{blob.service.exist?(blob.key)}"
         @stats[:attachments] += 1
       rescue StandardError => e
         Rails.logger.error("Failed to attach #{attachment_name} for doc #{document&.id}: #{e.message}\n#{e.backtrace&.first(5)&.join("\n")}")
