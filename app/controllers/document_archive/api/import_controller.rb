@@ -1,4 +1,5 @@
 require "net/http"
+require 'open-uri'
 
 module DocumentArchive
   module Api
@@ -82,7 +83,7 @@ module DocumentArchive
         document.reload
 
         # URI.open handles the full signed S3 URL correctly
-        downloaded_file = URI.open(url, open_timeout: 10, read_timeout: 60)
+        downloaded_file = URI.parse(url).open(open_timeout: 10, read_timeout: 60)
 
         # Use the original filename from the URL path
         filename = File.basename(URI.parse(url).path)

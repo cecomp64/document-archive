@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    document-archive (0.2.2)
+    document-archive (0.2.3)
       aws-sdk-s3 (~> 1.0)
       neighbor
       pg
