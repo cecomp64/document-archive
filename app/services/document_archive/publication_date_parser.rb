@@ -120,7 +120,10 @@ module DocumentArchive
         return nil unless year && year >= 1900 && year <= 2100
         return nil unless month && month >= 1 && month <= 12
 
-        Date.new(year, month, 1)
+        # Use Time.zone to create a timezone-aware time, then extract the date
+        # This ensures the date is interpreted in the server's local timezone
+        # rather than UTC, avoiding off-by-one errors when displaying dates
+        Time.zone.local(year, month, 1).to_date
       rescue ArgumentError
         nil
       end

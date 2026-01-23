@@ -10,6 +10,9 @@ A Rails Engine gem that provides semantic search over documents and articles usi
 - Google Gemini API integration for embedding generation
 - RESTful API endpoints for search and data access
 - Import/export functionality for data migration between environments
+- Publication date support with year-based filtering across all views
+- Documents sorted and grouped by publication year
+- Clickable category and keyword tags for quick filtering
 
 ## Installation
 
@@ -69,14 +72,50 @@ The engine provides the following API endpoints:
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/stats` | GET | Returns document, article, and embedding counts |
-| `/api/articles` | GET | Paginated article list (supports `limit` and `offset` params) |
+| `/api/documents` | GET | Paginated document list with year grouping |
+| `/api/articles` | GET | Paginated article list |
 | `/api/search-text` | POST | Vector similarity search (requires `GEMINI_API_KEY`) |
+| `/api/search-keywords` | POST | Search articles by keywords |
+| `/api/search-categories` | POST | Search articles by categories |
+| `/api/search-summary` | POST | Search articles by summary text |
+
+#### Filtering Parameters
+
+All list and search endpoints support year-based filtering:
+
+| Parameter | Description |
+|-----------|-------------|
+| `start_year` | Filter results to documents published on or after this year |
+| `end_year` | Filter results to documents published on or before this year |
+
+The `/api/documents` endpoint also supports:
+
+| Parameter | Description |
+|-----------|-------------|
+| `group_by_year` | Set to `true` to group results by publication year |
+
+The `/api/articles` endpoint also supports:
+
+| Parameter | Description |
+|-----------|-------------|
+| `category` | Filter by exact category match |
+| `keyword` | Filter by exact keyword match |
 
 ### Models
 
-- **Document** - Container for articles, uses UUID primary key
+- **Document** - Container for articles, uses UUID primary key, has `publication_date` for sorting/filtering
 - **Article** - Belongs to a document, stores content with JSONB for categories/keywords
 - **Embedding** - Stores 1536-dimensional vector for an article, uses HNSW index for cosine similarity search
+
+### Web Interface
+
+The engine provides a web interface with three main views:
+
+- **Search** (`/`) - Semantic and text-based search with year filtering
+- **Articles** (`/articles`) - Browse all articles with year and category/keyword filtering
+- **Documents** (`/documents`) - Browse documents grouped by publication year
+
+All views support filtering by publication year range. Articles display clickable category and keyword tags that link to filtered article lists.
 
 ## Data Import/Export
 
