@@ -1,7 +1,11 @@
 // Search pagination state
 let currentQuery = '';
+let currentEmbedding = null;
 let searchLimit = 10;
+let filterStartYear = '';
+let filterEndYear = '';
 const searchState = {
+    semantic: { page: 0, total: 0 },
     keywords: { page: 0, total: 0 },
     categories: { page: 0, total: 0 },
     summary: { page: 0, total: 0 }
@@ -17,6 +21,18 @@ function setupEventListeners() {
     document.getElementById('searchButton').addEventListener('click', performSearch);
     document.getElementById('searchInput').addEventListener('keypress', (e) => {
         if (e.key === 'Enter') performSearch();
+    });
+
+    // Semantic pagination
+    document.getElementById('semanticPrevButton').addEventListener('click', () => {
+        if (searchState.semantic.page > 0) {
+            searchState.semantic.page--;
+            loadSemanticResults();
+        }
+    });
+    document.getElementById('semanticNextButton').addEventListener('click', () => {
+        searchState.semantic.page++;
+        loadSemanticResults();
     });
 
     // Keywords pagination
@@ -65,8 +81,11 @@ async function performSearch() {
 
     currentQuery = query;
     searchLimit = parseInt(document.getElementById('limitSelect').value);
+    filterStartYear = document.getElementById('startYear').value;
+    filterEndYear = document.getElementById('endYear').value;
 
     // Reset pagination state
+    searchState.semantic.page = 0;
     searchState.keywords.page = 0;
     searchState.categories.page = 0;
     searchState.summary.page = 0;
@@ -78,25 +97,28 @@ async function performSearch() {
 
     try {
         // Perform all searches in parallel
-        const [semanticResults, keywordsResults, categoriesResults, summaryResults] = await Promise.all([
-            performSemanticSearch(query, searchLimit),
+        const [semanticData, keywordsResults, categoriesResults, summaryResults] = await Promise.all([
+            performSemanticSearch(query, searchLimit, 0),
             performKeywordsSearch(query, searchLimit, 0),
             performCategoriesSearch(query, searchLimit, 0),
             performSummarySearch(query, searchLimit, 0)
         ]);
 
         // Update state
+        currentEmbedding = semanticData.embedding;
+        searchState.semantic.total = semanticData.total;
         searchState.keywords.total = keywordsResults.total;
         searchState.categories.total = categoriesResults.total;
         searchState.summary.total = summaryResults.total;
 
         // Display results
-        displaySemanticResults(semanticResults);
+        displaySemanticResults(semanticData.results);
         displayKeywordsResults(keywordsResults.results);
         displayCategoriesResults(categoriesResults.results);
         displaySummaryResults(summaryResults.results);
 
         // Update pagination
+        updateSearchPagination('semantic');
         updateSearchPagination('keywords');
         updateSearchPagination('categories');
         updateSearchPagination('summary');
@@ -114,25 +136,38 @@ async function performSearch() {
     }
 }
 
-async function performSemanticSearch(query, limit) {
+async function performSemanticSearch(query, limit, offset, embedding = null) {
+    const body = { limit, offset };
+    if (embedding) {
+        body.embedding = embedding;
+    } else {
+        body.query = query;
+    }
+    if (filterStartYear) body.start_year = filterStartYear;
+    if (filterEndYear) body.end_year = filterEndYear;
+
     const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-text`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, limit })
+        body: JSON.stringify(body)
     });
 
     const data = await response.json();
     if (!response.ok) {
         throw new Error(data.error || 'Semantic search failed');
     }
-    return data.results;
+    return data;
 }
 
 async function performKeywordsSearch(query, limit, offset) {
+    const body = { query, limit, offset };
+    if (filterStartYear) body.start_year = filterStartYear;
+    if (filterEndYear) body.end_year = filterEndYear;
+
     const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-keywords`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, limit, offset })
+        body: JSON.stringify(body)
     });
 
     const data = await response.json();
@@ -143,10 +178,14 @@ async function performKeywordsSearch(query, limit, offset) {
 }
 
 async function performCategoriesSearch(query, limit, offset) {
+    const body = { query, limit, offset };
+    if (filterStartYear) body.start_year = filterStartYear;
+    if (filterEndYear) body.end_year = filterEndYear;
+
     const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-categories`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, limit, offset })
+        body: JSON.stringify(body)
     });
 
     const data = await response.json();
@@ -157,10 +196,14 @@ async function performCategoriesSearch(query, limit, offset) {
 }
 
 async function performSummarySearch(query, limit, offset) {
+    const body = { query, limit, offset };
+    if (filterStartYear) body.start_year = filterStartYear;
+    if (filterEndYear) body.end_year = filterEndYear;
+
     const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/search-summary`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query, limit, offset })
+        body: JSON.stringify(body)
     });
 
     const data = await response.json();
@@ -168,6 +211,22 @@ async function performSummarySearch(query, limit, offset) {
         throw new Error(data.error || 'Summary search failed');
     }
     return data;
+}
+
+async function loadSemanticResults() {
+    try {
+        const data = await performSemanticSearch(
+            currentQuery,
+            searchLimit,
+            searchState.semantic.page * searchLimit,
+            currentEmbedding
+        );
+        searchState.semantic.total = data.total;
+        displaySemanticResults(data.results);
+        updateSearchPagination('semantic');
+    } catch (error) {
+        console.error('Error loading semantic results:', error);
+    }
 }
 
 async function loadKeywordsResults() {
@@ -220,7 +279,7 @@ function displaySemanticResults(results) {
     const resultCount = document.getElementById('semanticResultCount');
 
     container.innerHTML = '';
-    resultCount.textContent = results.length;
+    resultCount.textContent = searchState.semantic.total;
 
     if (results.length === 0) {
         container.innerHTML = '<p class="no-results">No semantic matches found.</p>';

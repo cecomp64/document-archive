@@ -43,6 +43,16 @@
                         <option value="50">50</option>
                     </select>
                 </label>
+                <div class="date-filter-inline">
+                    <label>
+                        From Year:
+                        <input type="number" id="startYear" min="1900" max="2100" placeholder="YYYY" />
+                    </label>
+                    <label>
+                        To Year:
+                        <input type="number" id="endYear" min="1900" max="2100" placeholder="YYYY" />
+                    </label>
+                </div>
             </div>
         </div>
 
@@ -58,6 +68,11 @@
                 Semantic Search Results (<span id="semanticResultCount">0</span>)
             </h2>
             <div id="semanticResults"></div>
+            <div class="pagination" id="semanticPagination">
+                <button id="semanticPrevButton" disabled>Previous</button>
+                <span id="semanticPageInfo"></span>
+                <button id="semanticNextButton">Next</button>
+            </div>
         </div>
 
         <!-- Text-Based Search Results -->

@@ -23,6 +23,26 @@
             <span id="stats">Loading...</span>
         </div>
 
+        <div class="filter-section">
+            <div class="active-filters" id="activeFilters" style="display: none;">
+                <span class="active-filter-label">Filtering by:</span>
+                <span id="activeFilterTags"></span>
+                <button id="clearAllFilters" class="filter-button secondary" style="margin-left: 10px; padding: 5px 15px;">Clear All</button>
+            </div>
+            <div class="date-filter">
+                <label>
+                    From Year:
+                    <input type="number" id="startYear" min="1900" max="2100" placeholder="YYYY" />
+                </label>
+                <label>
+                    To Year:
+                    <input type="number" id="endYear" min="1900" max="2100" placeholder="YYYY" />
+                </label>
+                <button id="applyFilter" class="filter-button">Apply Filter</button>
+                <button id="clearFilter" class="filter-button secondary">Clear</button>
+            </div>
+        </div>
+
         <div class="browse-section">
             <div id="browseResults"></div>
             <div class="pagination">
@@ -41,8 +61,24 @@
         let currentPage = 0;
         let totalArticles = 0;
         const articlesPerPage = 20;
+        let filterStartYear = '';
+        let filterEndYear = '';
+        let filterCategory = '';
+        let filterKeyword = '';
 
         document.addEventListener('DOMContentLoaded', () => {
+            // Read filters from URL parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            filterCategory = urlParams.get('category') || '';
+            filterKeyword = urlParams.get('keyword') || '';
+            filterStartYear = urlParams.get('start_year') || '';
+            filterEndYear = urlParams.get('end_year') || '';
+
+            // Populate year inputs if present
+            if (filterStartYear) document.getElementById('startYear').value = filterStartYear;
+            if (filterEndYear) document.getElementById('endYear').value = filterEndYear;
+
+            updateActiveFiltersDisplay();
             DocumentArchive.loadStats('articles');
             loadArticles(0);
             setupEventListeners();
@@ -59,11 +95,103 @@
                 currentPage++;
                 loadArticles(currentPage * articlesPerPage);
             });
+
+            document.getElementById('applyFilter').addEventListener('click', () => {
+                filterStartYear = document.getElementById('startYear').value;
+                filterEndYear = document.getElementById('endYear').value;
+                currentPage = 0;
+                updateUrlAndLoad();
+            });
+
+            document.getElementById('clearFilter').addEventListener('click', () => {
+                document.getElementById('startYear').value = '';
+                document.getElementById('endYear').value = '';
+                filterStartYear = '';
+                filterEndYear = '';
+                currentPage = 0;
+                updateUrlAndLoad();
+            });
+
+            document.getElementById('clearAllFilters').addEventListener('click', () => {
+                document.getElementById('startYear').value = '';
+                document.getElementById('endYear').value = '';
+                filterStartYear = '';
+                filterEndYear = '';
+                filterCategory = '';
+                filterKeyword = '';
+                currentPage = 0;
+                updateUrlAndLoad();
+            });
+        }
+
+        function updateActiveFiltersDisplay() {
+            const container = document.getElementById('activeFilters');
+            const tagsContainer = document.getElementById('activeFilterTags');
+
+            if (!filterCategory && !filterKeyword) {
+                container.style.display = 'none';
+                return;
+            }
+
+            container.style.display = 'flex';
+            tagsContainer.innerHTML = '';
+
+            if (filterCategory) {
+                const tag = document.createElement('span');
+                tag.className = 'tag category active-filter-tag';
+                tag.innerHTML = `Category: ${filterCategory} <button class="remove-filter" data-type="category">&times;</button>`;
+                tag.querySelector('button').addEventListener('click', () => {
+                    filterCategory = '';
+                    currentPage = 0;
+                    updateUrlAndLoad();
+                });
+                tagsContainer.appendChild(tag);
+            }
+
+            if (filterKeyword) {
+                const tag = document.createElement('span');
+                tag.className = 'tag keyword active-filter-tag';
+                tag.innerHTML = `Keyword: ${filterKeyword} <button class="remove-filter" data-type="keyword">&times;</button>`;
+                tag.querySelector('button').addEventListener('click', () => {
+                    filterKeyword = '';
+                    currentPage = 0;
+                    updateUrlAndLoad();
+                });
+                tagsContainer.appendChild(tag);
+            }
+        }
+
+        function updateUrlAndLoad() {
+            const url = new URL(window.location.href);
+            url.search = '';
+
+            if (filterCategory) url.searchParams.set('category', filterCategory);
+            if (filterKeyword) url.searchParams.set('keyword', filterKeyword);
+            if (filterStartYear) url.searchParams.set('start_year', filterStartYear);
+            if (filterEndYear) url.searchParams.set('end_year', filterEndYear);
+
+            window.history.replaceState({}, '', url);
+            updateActiveFiltersDisplay();
+            loadArticles(0);
         }
 
         async function loadArticles(offset) {
             try {
-                const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/articles?limit=${articlesPerPage}&offset=${offset}`);
+                let url = `${DocumentArchive.API_BASE_URL}/api/articles?limit=${articlesPerPage}&offset=${offset}`;
+                if (filterStartYear) {
+                    url += `&start_year=${filterStartYear}`;
+                }
+                if (filterEndYear) {
+                    url += `&end_year=${filterEndYear}`;
+                }
+                if (filterCategory) {
+                    url += `&category=${encodeURIComponent(filterCategory)}`;
+                }
+                if (filterKeyword) {
+                    url += `&keyword=${encodeURIComponent(filterKeyword)}`;
+                }
+
+                const response = await fetch(url);
                 const data = await response.json();
 
                 totalArticles = data.total;

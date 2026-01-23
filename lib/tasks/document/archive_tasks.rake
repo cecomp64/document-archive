@@ -1,4 +1,29 @@
 namespace :document_archive do
+  desc "Derive publication dates from document names and update documents"
+  task derive_publication_dates: :environment do
+    updated = 0
+    skipped = 0
+    failed = 0
+
+    DocumentArchive::Document.find_each do |document|
+      date = DocumentArchive::PublicationDateParser.parse(document.name)
+
+      if date
+        document.update!(publication_date: date)
+        puts "  #{document.name} => #{date}"
+        updated += 1
+      else
+        puts "  #{document.name} => (no date found)"
+        skipped += 1
+      end
+    rescue StandardError => e
+      puts "  #{document.name} => ERROR: #{e.message}"
+      failed += 1
+    end
+
+    puts "\nComplete: #{updated} updated, #{skipped} skipped, #{failed} failed"
+  end
+
   desc "Export documents, articles, and embeddings to JSON with URLs for remote import"
   task :export, [:output_dir, :chunk_size] => :environment do |_t, args|
     output_dir = args[:output_dir] || "export"

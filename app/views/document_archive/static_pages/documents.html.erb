@@ -23,6 +23,21 @@
             <span id="stats">Loading...</span>
         </div>
 
+        <div class="filter-section">
+            <div class="date-filter">
+                <label>
+                    From Year:
+                    <input type="number" id="startYear" min="1900" max="2100" placeholder="YYYY" />
+                </label>
+                <label>
+                    To Year:
+                    <input type="number" id="endYear" min="1900" max="2100" placeholder="YYYY" />
+                </label>
+                <button id="applyFilter" class="filter-button">Apply Filter</button>
+                <button id="clearFilter" class="filter-button secondary">Clear</button>
+            </div>
+        </div>
+
         <div class="browse-section">
             <div id="browseResults"></div>
             <div class="pagination">
@@ -41,6 +56,8 @@
         let currentPage = 0;
         let totalDocuments = 0;
         const documentsPerPage = 20;
+        let filterStartYear = '';
+        let filterEndYear = '';
 
         document.addEventListener('DOMContentLoaded', () => {
             DocumentArchive.loadStats('documents');
@@ -59,19 +76,49 @@
                 currentPage++;
                 loadDocuments(currentPage * documentsPerPage);
             });
+
+            document.getElementById('applyFilter').addEventListener('click', () => {
+                filterStartYear = document.getElementById('startYear').value;
+                filterEndYear = document.getElementById('endYear').value;
+                currentPage = 0;
+                loadDocuments(0);
+            });
+
+            document.getElementById('clearFilter').addEventListener('click', () => {
+                document.getElementById('startYear').value = '';
+                document.getElementById('endYear').value = '';
+                filterStartYear = '';
+                filterEndYear = '';
+                currentPage = 0;
+                loadDocuments(0);
+            });
         }
 
         async function loadDocuments(offset) {
             try {
-                const response = await fetch(`${DocumentArchive.API_BASE_URL}/api/documents?limit=${documentsPerPage}&offset=${offset}`);
+                let url = `${DocumentArchive.API_BASE_URL}/api/documents?limit=${documentsPerPage}&offset=${offset}&group_by_year=true`;
+                if (filterStartYear) {
+                    url += `&start_year=${filterStartYear}`;
+                }
+                if (filterEndYear) {
+                    url += `&end_year=${filterEndYear}`;
+                }
+
+                const response = await fetch(url);
                 const data = await response.json();
 
                 totalDocuments = data.total;
-                DocumentArchive.displayDocuments(
-                    document.getElementById('browseResults'),
-                    data.documents,
-                    { linkToDetail: true }
-                );
+
+                if (data.grouped && data.years) {
+                    displayGroupedDocuments(data.years);
+                } else {
+                    DocumentArchive.displayDocuments(
+                        document.getElementById('browseResults'),
+                        data.documents,
+                        { linkToDetail: true }
+                    );
+                }
+
                 DocumentArchive.updatePagination({
                     currentPage,
                     totalItems: totalDocuments,
@@ -85,6 +132,36 @@
                 document.getElementById('browseResults').innerHTML =
                     '<p>Error loading documents. Make sure the API server is running.</p>';
             }
+        }
+
+        function displayGroupedDocuments(years) {
+            const container = document.getElementById('browseResults');
+            container.innerHTML = '';
+
+            if (years.length === 0) {
+                container.innerHTML = '<p class="no-results">No documents found.</p>';
+                return;
+            }
+
+            years.forEach(yearGroup => {
+                const yearSection = document.createElement('div');
+                yearSection.className = 'year-section';
+
+                const yearHeader = document.createElement('h3');
+                yearHeader.className = 'year-header';
+                yearHeader.textContent = yearGroup.year ? yearGroup.year : 'Unknown Year';
+                yearSection.appendChild(yearHeader);
+
+                const docsContainer = document.createElement('div');
+                docsContainer.className = 'year-documents';
+
+                yearGroup.documents.forEach(doc => {
+                    docsContainer.appendChild(DocumentArchive.createDocumentCard(doc, { linkToDetail: true }));
+                });
+
+                yearSection.appendChild(docsContainer);
+                container.appendChild(yearSection);
+            });
         }
     </script>
 </body>

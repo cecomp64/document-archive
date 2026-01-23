@@ -4,16 +4,48 @@ module DocumentArchive
       def index
         limit = (params[:limit] || 20).to_i
         offset = (params[:offset] || 0).to_i
+        start_year = params[:start_year].presence&.to_i
+        end_year = params[:end_year].presence&.to_i
+        group_by_year = params[:group_by_year] == "true"
 
         documents = Document.includes(:articles)
-                            .order(created_at: :desc)
-                            .limit(limit)
-                            .offset(offset)
 
-        render json: {
-          total: Document.count,
-          documents: documents.map { |document| serialize_document(document) }
-        }
+        # Apply year filtering
+        if start_year.present?
+          documents = documents.where("EXTRACT(YEAR FROM publication_date) >= ?", start_year)
+        end
+        if end_year.present?
+          documents = documents.where("EXTRACT(YEAR FROM publication_date) <= ?", end_year)
+        end
+
+        total = documents.count
+
+        # Sort by publication_date (nulls last), then by created_at
+        documents = documents.order(Arel.sql("publication_date DESC NULLS LAST, created_at DESC"))
+                             .limit(limit)
+                             .offset(offset)
+
+        if group_by_year
+          # Group documents by year
+          grouped = documents.group_by { |doc| doc.publication_date&.year }
+          years_data = grouped.map do |year, docs|
+            {
+              year: year,
+              documents: docs.map { |document| serialize_document(document) }
+            }
+          end.sort_by { |g| g[:year] || 0 }.reverse
+
+          render json: {
+            total: total,
+            grouped: true,
+            years: years_data
+          }
+        else
+          render json: {
+            total: total,
+            documents: documents.map { |document| serialize_document(document) }
+          }
+        end
       end
 
       def show
@@ -91,6 +123,7 @@ module DocumentArchive
           name: document.name,
           articleCount: document.articles.count,
           createdAt: document.created_at.iso8601,
+          publicationDate: document.publication_date&.iso8601,
           pdfUrl: document.pdf_url,
           txtUrl: document.txt_url,
           markdownUrl: document.markdown_url,

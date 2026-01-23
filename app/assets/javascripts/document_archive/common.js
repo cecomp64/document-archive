@@ -138,8 +138,10 @@ const DocumentArchive = {
 
         if (article.categories && article.categories.length > 0) {
             article.categories.forEach(cat => {
-                const tag = document.createElement('span');
-                tag.className = 'tag category';
+                const tag = document.createElement('a');
+                tag.className = 'tag category tag-link';
+                tag.href = `${this.ROOT_PATH}/articles?category=${encodeURIComponent(cat)}`;
+                tag.title = `View all articles in category: ${cat}`;
                 if (highlightType === 'categories' && highlightQuery) {
                     tag.innerHTML = this.highlightMatches(cat, highlightQuery);
                 } else {
@@ -151,8 +153,10 @@ const DocumentArchive = {
 
         if (article.keywords && article.keywords.length > 0) {
             article.keywords.slice(0, 5).forEach(keyword => {
-                const tag = document.createElement('span');
-                tag.className = 'tag keyword';
+                const tag = document.createElement('a');
+                tag.className = 'tag keyword tag-link';
+                tag.href = `${this.ROOT_PATH}/articles?keyword=${encodeURIComponent(keyword)}`;
+                tag.title = `View all articles with keyword: ${keyword}`;
                 if (highlightType === 'keywords' && highlightQuery) {
                     tag.innerHTML = this.highlightMatches(keyword, highlightQuery);
                 } else {
@@ -192,9 +196,12 @@ const DocumentArchive = {
 
         const meta = document.createElement('div');
         meta.className = 'article-meta';
+        const pubDateDisplay = doc.publicationDate
+            ? new Date(doc.publicationDate).toLocaleDateString()
+            : 'Unknown';
         meta.innerHTML = `
             <span><strong>ID:</strong> ${doc.id}</span>
-            <span><strong>Created:</strong> ${new Date(doc.createdAt).toLocaleDateString()}</span>
+            <span><strong>Published:</strong> ${pubDateDisplay}</span>
         `;
         titleDiv.appendChild(meta);
 
