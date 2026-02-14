@@ -26,46 +26,70 @@ module DocumentArchive
       def reimport_embeddings
         data = JSON.parse(request.body.read)
         embeddings = data["embeddings"]
+        document_name = data["document_name"]
+        articles = data["articles"]
 
         if embeddings.blank?
           render json: { error: "No 'embeddings' key found in JSON" }, status: :bad_request
           return
         end
 
+        # Build mapping from original article IDs to database UUIDs
+        article_id_map = {}
+        if document_name.present? && articles.present?
+          document = Document.find_by(name: document_name)
+          if document
+            articles.each do |article_data|
+              db_article = Article.find_by(
+                document_id: document.id,
+                title: article_data["title"]
+              )
+              article_id_map[article_data["id"]] = db_article.id if db_article
+            end
+          end
+        end
+
         updated = 0
         created = 0
         skipped = 0
+        errored = 0
 
-        ActiveRecord::Base.transaction do
-          embeddings.each do |embedding_data|
-            article_id = embedding_data["articleId"]
-            vector = embedding_data["vector"]
+        embeddings.each do |embedding_data|
+          original_id = embedding_data["articleId"]
+          vector = embedding_data["vector"]
 
-            unless article_id && vector
-              skipped += 1
-              next
-            end
+          unless original_id && vector
+            skipped += 1
+            next
+          end
 
-            article = Article.find_by(id: article_id)
-            unless article
-              skipped += 1
-              next
-            end
+          # Try mapped ID first, then fall back to direct UUID lookup
+          db_article_id = article_id_map[original_id]
+          db_article_id ||= original_id if Article.exists?(id: original_id)
 
-            existing = Embedding.find_by(article_id: article_id)
+          unless db_article_id
+            skipped += 1
+            next
+          end
+
+          begin
+            existing = Embedding.find_by(article_id: db_article_id)
             if existing
               existing.update!(vector: vector)
               updated += 1
             else
-              Embedding.create!(article_id: article_id, vector: vector)
+              Embedding.create!(article_id: db_article_id, vector: vector)
               created += 1
             end
+          rescue StandardError => e
+            Rails.logger.warn("Embedding error for article '#{original_id}': #{e.message}")
+            errored += 1
           end
         end
 
         render json: {
           success: true,
-          reimported: { updated: updated, created: created, skipped: skipped }
+          reimported: { updated: updated, created: created, skipped: skipped, errored: errored }
         }
       rescue JSON::ParserError => e
         render json: { error: "Invalid JSON: #{e.message}" }, status: :bad_request

@@ -4,7 +4,7 @@ A Rails Engine gem that provides semantic search over documents and articles usi
 
 ## Features
 
-- Semantic search using vector embeddings (3072-dimensional vectors with HNSW indexing)
+- Semantic search using vector embeddings (768-dimensional vectors with HNSW indexing)
 - Document and article management with UUID primary keys
 - PostgreSQL with pgvector for efficient similarity search
 - Google Gemini API integration for embedding generation
@@ -107,7 +107,7 @@ The `/api/articles` endpoint also supports:
 
 - **Document** - Container for articles, uses UUID primary key, has `publication_date` for sorting/filtering
 - **Article** - Belongs to a document, stores content with JSONB for categories/keywords
-- **Embedding** - Stores 3072-dimensional vector for an article, uses HNSW index for cosine similarity search
+- **Embedding** - Stores 768-dimensional vector for an article, uses HNSW index for cosine similarity search
 
 ### Web Interface
 

@@ -5,6 +5,7 @@ module DocumentArchive
   class GeminiEmbeddingService
     BASE_URL = "https://generativelanguage.googleapis.com/v1beta"
     DEFAULT_MODEL = "gemini-embedding-001"
+    OUTPUT_DIMENSIONALITY = 768
 
     attr_reader :model_name
 
@@ -53,7 +54,8 @@ module DocumentArchive
         model: "models/#{model}",
         content: {
           parts: [{ text: text }]
-        }
+        },
+        output_dimensionality: OUTPUT_DIMENSIONALITY
       }.to_json
 
       Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|

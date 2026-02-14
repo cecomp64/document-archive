@@ -157,6 +157,15 @@ namespace :document_archive do
       print "Uploading #{File.basename(file)} (#{index + 1}/#{files.size})... "
 
       begin
+        # Merge companion data so the server can map original IDs to DB UUIDs
+        embedding_data = JSON.parse(File.read(file))
+        companion_file = file.sub("-embeddings.json", ".json")
+        if File.exist?(companion_file)
+          companion_data = JSON.parse(File.read(companion_file))
+          embedding_data["document_name"] = File.basename(companion_file, ".json")
+          embedding_data["articles"] = companion_data["articles"] if companion_data["articles"]
+        end
+
         http = Net::HTTP.new(uri.host, uri.port)
         http.use_ssl = (uri.scheme == "https")
         http.open_timeout = 30
@@ -165,7 +174,7 @@ namespace :document_archive do
         request = Net::HTTP::Post.new(uri.path)
         request["Authorization"] = "Bearer #{token}"
         request["Content-Type"] = "application/json"
-        request.body = File.read(file)
+        request.body = JSON.generate(embedding_data)
 
         response = http.request(request)
 
@@ -200,7 +209,7 @@ namespace :document_archive do
 
     if directory.blank?
       puts "Usage: rake document_archive:reimport_embeddings[/path/to/embeddings]"
-      puts "  Expects JSON files with: { \"embeddings\": [{ \"articleId\": \"...\", \"vector\": [...] }] }"
+      puts "  Expects *-embeddings.json files alongside their companion *.json data files"
       exit 1
     end
 
@@ -209,52 +218,85 @@ namespace :document_archive do
       exit 1
     end
 
-    files = Dir.glob(File.join(directory, "**", "*.json")).sort
-    if files.empty?
-      puts "No JSON files found in #{directory}"
+    embedding_files = Dir.glob(File.join(directory, "**", "*-embeddings.json")).sort
+    if embedding_files.empty?
+      puts "No *-embeddings.json files found in #{directory}"
       exit 1
     end
 
     updated = 0
     created = 0
     skipped = 0
+    errored = 0
 
-    ActiveRecord::Base.transaction do
-      files.each do |file|
-        puts "Processing #{File.basename(file)}..."
-        data = JSON.parse(File.read(file))
+    embedding_files.each do |embedding_file|
+      puts "Processing #{File.basename(embedding_file)}..."
 
-        embeddings = data["embeddings"]
-        unless embeddings
-          puts "  Skipping (no 'embeddings' key)"
+      # Find the companion data file to build article ID mapping
+      companion_file = embedding_file.sub("-embeddings.json", ".json")
+      unless File.exist?(companion_file)
+        puts "  Warning: Companion file #{File.basename(companion_file)} not found, skipping"
+        skipped += 1
+        next
+      end
+
+      # Build mapping from original article IDs to database UUIDs
+      companion_data = JSON.parse(File.read(companion_file))
+      document_name = File.basename(companion_file, ".json")
+      article_id_map = {}
+
+      document = DocumentArchive::Document.find_by(name: document_name)
+      unless document
+        puts "  Warning: Document '#{document_name}' not found in database, skipping"
+        skipped += 1
+        next
+      end
+
+      (companion_data["articles"] || []).each do |article_data|
+        db_article = DocumentArchive::Article.find_by(
+          document_id: document.id,
+          title: article_data["title"]
+        )
+        if db_article
+          article_id_map[article_data["id"]] = db_article.id
+        else
+          puts "  Warning: Article '#{article_data["title"]}' not found in document '#{document_name}'"
+        end
+      end
+
+      puts "  Matched #{article_id_map.size} articles"
+
+      # Process embeddings
+      embedding_data = JSON.parse(File.read(embedding_file))
+      (embedding_data["embeddings"] || []).each do |entry|
+        original_id = entry["articleId"]
+        vector = entry["vector"]
+
+        unless original_id && vector
+          puts "  Skipping entry: missing articleId or vector"
+          skipped += 1
           next
         end
 
-        embeddings.each do |embedding_data|
-          article_id = embedding_data["articleId"]
-          vector = embedding_data["vector"]
+        db_article_id = article_id_map[original_id]
+        unless db_article_id
+          puts "  Warning: No mapping for article '#{original_id}', skipping"
+          skipped += 1
+          next
+        end
 
-          unless article_id && vector
-            puts "  Skipping entry: missing articleId or vector"
-            skipped += 1
-            next
-          end
-
-          article = DocumentArchive::Article.find_by(id: article_id)
-          unless article
-            puts "  Warning: Article '#{article_id}' not found, skipping"
-            skipped += 1
-            next
-          end
-
-          existing = DocumentArchive::Embedding.find_by(article_id: article_id)
+        begin
+          existing = DocumentArchive::Embedding.find_by(article_id: db_article_id)
           if existing
             existing.update!(vector: vector)
             updated += 1
           else
-            DocumentArchive::Embedding.create!(article_id: article_id, vector: vector)
+            DocumentArchive::Embedding.create!(article_id: db_article_id, vector: vector)
             created += 1
           end
+        rescue StandardError => e
+          puts "  Error on article '#{original_id}': #{e.message}"
+          errored += 1
         end
       end
     end
@@ -263,6 +305,7 @@ namespace :document_archive do
     puts "  Updated:  #{updated}"
     puts "  Created:  #{created}"
     puts "  Skipped:  #{skipped}"
+    puts "  Errored:  #{errored}" if errored > 0
   end
 
   desc "Import documents, articles, and embeddings from JSON files"
