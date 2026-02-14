@@ -116,6 +116,155 @@ namespace :document_archive do
     puts "Upload complete: #{successful} successful, #{failed} failed"
   end
 
+  desc "Upload embedding files to a remote API endpoint to update existing embeddings"
+  task :upload_embeddings, [:directory, :api_url, :token] => :environment do |_t, args|
+    directory = args[:directory]
+    api_url = args[:api_url]
+    token = args[:token] || ENV["IMPORT_API_TOKEN"]
+
+    if directory.blank? || api_url.blank?
+      puts "Usage: rake document_archive:upload_embeddings[/path/to/embeddings,https://your-app.com/document_archive/api/import-embeddings,your-token]"
+      puts "  Token can also be set via IMPORT_API_TOKEN environment variable"
+      puts "  Finds all *-embeddings.json files recursively in the directory"
+      exit 1
+    end
+
+    if token.blank?
+      puts "Error: Token is required (pass as 3rd argument or set IMPORT_API_TOKEN env var)"
+      exit 1
+    end
+
+    unless Dir.exist?(directory)
+      puts "Error: Directory '#{directory}' does not exist"
+      exit 1
+    end
+
+    files = Dir.glob(File.join(directory, "**", "*-embeddings.json")).sort
+    if files.empty?
+      puts "No *-embeddings.json files found in #{directory}"
+      exit 1
+    end
+
+    puts "Found #{files.size} embedding files to upload to #{api_url}"
+    puts ""
+
+    uri = URI.parse(api_url)
+    successful = 0
+    failed = 0
+    totals = { updated: 0, created: 0, skipped: 0 }
+
+    files.each_with_index do |file, index|
+      print "Uploading #{File.basename(file)} (#{index + 1}/#{files.size})... "
+
+      begin
+        http = Net::HTTP.new(uri.host, uri.port)
+        http.use_ssl = (uri.scheme == "https")
+        http.open_timeout = 30
+        http.read_timeout = 120
+
+        request = Net::HTTP::Post.new(uri.path)
+        request["Authorization"] = "Bearer #{token}"
+        request["Content-Type"] = "application/json"
+        request.body = File.read(file)
+
+        response = http.request(request)
+
+        if response.is_a?(Net::HTTPSuccess)
+          result = JSON.parse(response.body)
+          stats = result["reimported"]
+          puts "OK (#{stats['updated']} updated, #{stats['created']} created, #{stats['skipped']} skipped)"
+          totals[:updated] += stats["updated"]
+          totals[:created] += stats["created"]
+          totals[:skipped] += stats["skipped"]
+          successful += 1
+        else
+          puts "FAILED (#{response.code}: #{response.body.truncate(100)})"
+          failed += 1
+        end
+      rescue StandardError => e
+        puts "ERROR (#{e.message})"
+        failed += 1
+      end
+    end
+
+    puts ""
+    puts "Upload complete: #{successful} successful, #{failed} failed"
+    puts "  Updated:  #{totals[:updated]}"
+    puts "  Created:  #{totals[:created]}"
+    puts "  Skipped:  #{totals[:skipped]}"
+  end
+
+  desc "Re-import embeddings for existing articles from JSON files"
+  task :reimport_embeddings, [:directory] => :environment do |_t, args|
+    directory = args[:directory]
+
+    if directory.blank?
+      puts "Usage: rake document_archive:reimport_embeddings[/path/to/embeddings]"
+      puts "  Expects JSON files with: { \"embeddings\": [{ \"articleId\": \"...\", \"vector\": [...] }] }"
+      exit 1
+    end
+
+    unless Dir.exist?(directory)
+      puts "Error: Directory '#{directory}' does not exist"
+      exit 1
+    end
+
+    files = Dir.glob(File.join(directory, "**", "*.json")).sort
+    if files.empty?
+      puts "No JSON files found in #{directory}"
+      exit 1
+    end
+
+    updated = 0
+    created = 0
+    skipped = 0
+
+    ActiveRecord::Base.transaction do
+      files.each do |file|
+        puts "Processing #{File.basename(file)}..."
+        data = JSON.parse(File.read(file))
+
+        embeddings = data["embeddings"]
+        unless embeddings
+          puts "  Skipping (no 'embeddings' key)"
+          next
+        end
+
+        embeddings.each do |embedding_data|
+          article_id = embedding_data["articleId"]
+          vector = embedding_data["vector"]
+
+          unless article_id && vector
+            puts "  Skipping entry: missing articleId or vector"
+            skipped += 1
+            next
+          end
+
+          article = DocumentArchive::Article.find_by(id: article_id)
+          unless article
+            puts "  Warning: Article '#{article_id}' not found, skipping"
+            skipped += 1
+            next
+          end
+
+          existing = DocumentArchive::Embedding.find_by(article_id: article_id)
+          if existing
+            existing.update!(vector: vector)
+            updated += 1
+          else
+            DocumentArchive::Embedding.create!(article_id: article_id, vector: vector)
+            created += 1
+          end
+        end
+      end
+    end
+
+    puts "\nRe-import complete!"
+    puts "  Updated:  #{updated}"
+    puts "  Created:  #{created}"
+    puts "  Skipped:  #{skipped}"
+  end
+
   desc "Import documents, articles, and embeddings from JSON files"
   task :import, [:directory] => :environment do |_t, args|
     directory = args[:directory]

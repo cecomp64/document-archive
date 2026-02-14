@@ -351,10 +351,22 @@ header h1 {
 }
 
 /* Section headers with icons */
+.section-header-wrap {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4px 8px;
+}
+
 .section-header {
     display: flex;
     align-items: center;
     gap: 10px;
+}
+
+.embedding-model-label {
+    color: #888;
+    font-size: 0.8em;
 }
 
 .section-icon {

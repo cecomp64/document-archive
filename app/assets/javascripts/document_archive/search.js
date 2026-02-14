@@ -107,6 +107,9 @@ async function performSearch() {
         // Update state
         currentEmbedding = semanticData.embedding;
         searchState.semantic.total = semanticData.total;
+        if (semanticData.embedding_model) {
+            document.getElementById('embeddingModelLabel').textContent = `model: ${semanticData.embedding_model}`;
+        }
         searchState.keywords.total = keywordsResults.total;
         searchState.categories.total = categoriesResults.total;
         searchState.summary.total = summaryResults.total;

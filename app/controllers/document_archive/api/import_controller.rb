@@ -23,6 +23,56 @@ module DocumentArchive
         render json: { error: e.message }, status: :unprocessable_entity
       end
 
+      def reimport_embeddings
+        data = JSON.parse(request.body.read)
+        embeddings = data["embeddings"]
+
+        if embeddings.blank?
+          render json: { error: "No 'embeddings' key found in JSON" }, status: :bad_request
+          return
+        end
+
+        updated = 0
+        created = 0
+        skipped = 0
+
+        ActiveRecord::Base.transaction do
+          embeddings.each do |embedding_data|
+            article_id = embedding_data["articleId"]
+            vector = embedding_data["vector"]
+
+            unless article_id && vector
+              skipped += 1
+              next
+            end
+
+            article = Article.find_by(id: article_id)
+            unless article
+              skipped += 1
+              next
+            end
+
+            existing = Embedding.find_by(article_id: article_id)
+            if existing
+              existing.update!(vector: vector)
+              updated += 1
+            else
+              Embedding.create!(article_id: article_id, vector: vector)
+              created += 1
+            end
+          end
+        end
+
+        render json: {
+          success: true,
+          reimported: { updated: updated, created: created, skipped: skipped }
+        }
+      rescue JSON::ParserError => e
+        render json: { error: "Invalid JSON: #{e.message}" }, status: :bad_request
+      rescue StandardError => e
+        render json: { error: e.message }, status: :unprocessable_entity
+      end
+
       private
 
       def authenticate_import_token

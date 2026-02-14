@@ -16,9 +16,11 @@ module DocumentArchive
         # Use provided embedding if available, otherwise generate from query
         if params[:embedding].present?
           query_embedding = params[:embedding]
+          embedding_model = nil
         else
           embedding_service = GeminiEmbeddingService.new
           query_embedding = embedding_service.embed(query)
+          embedding_model = embedding_service.model_name
         end
 
         # Build the base scope with year filtering first
@@ -41,6 +43,7 @@ module DocumentArchive
 
         render json: {
           total: total,
+          embedding_model: embedding_model,
           embedding: query_embedding,
           results: results.map { |embedding| serialize_embedding_result(embedding) }
         }

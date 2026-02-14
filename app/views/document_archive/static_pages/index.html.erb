@@ -63,10 +63,13 @@
 
         <!-- Semantic Search Results -->
         <div id="semanticResultsContainer" class="results-container hidden">
-            <h2 class="section-header">
-                <span class="section-icon">🧠</span>
-                Semantic Search Results (<span id="semanticResultCount">0</span>)
-            </h2>
+            <div class="section-header-wrap">
+                <h2 class="section-header">
+                    <span class="section-icon">🧠</span>
+                    Semantic Search Results (<span id="semanticResultCount">0</span>)
+                </h2>
+                <small id="embeddingModelLabel" class="embedding-model-label"></small>
+            </div>
             <div id="semanticResults"></div>
             <div class="pagination" id="semanticPagination">
                 <button id="semanticPrevButton" disabled>Previous</button>
