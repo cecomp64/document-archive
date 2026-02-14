@@ -447,6 +447,15 @@ mark {
     font-weight: 600;
 }
 
+a.article-title {
+    text-decoration: none;
+    display: block;
+}
+
+a.article-title:hover {
+    text-decoration: underline;
+}
+
 .similarity-score {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;

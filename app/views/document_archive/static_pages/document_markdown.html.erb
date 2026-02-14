@@ -94,6 +94,13 @@
             border-radius: 10px;
             text-align: center;
         }
+        .highlight-target {
+            animation: highlight-fade 2s ease-out;
+        }
+        @keyframes highlight-fade {
+            0% { background-color: rgba(102, 126, 234, 0.3); }
+            100% { background-color: transparent; }
+        }
     </style>
 </head>
 <body>
@@ -142,6 +149,7 @@
 
                 if (data.htmlContent) {
                     document.getElementById('markdownContent').innerHTML = data.htmlContent;
+                    scrollToArticle();
                 } else {
                     document.getElementById('markdownContent').innerHTML =
                         '<div class="error-message">No markdown content available for this document.</div>';
@@ -151,6 +159,23 @@
                 document.getElementById('documentTitle').textContent = 'Document Not Found';
                 document.getElementById('markdownContent').innerHTML =
                     '<div class="error-message">Unable to load document content.</div>';
+            }
+        }
+
+        function scrollToArticle() {
+            const params = new URLSearchParams(window.location.search);
+            const articleTitle = params.get('article');
+            if (!articleTitle) return;
+
+            const headings = document.querySelectorAll('#markdownContent h1, #markdownContent h2, #markdownContent h3, #markdownContent h4');
+            for (const heading of headings) {
+                if (heading.textContent.trim().toLowerCase() === articleTitle.trim().toLowerCase()) {
+                    heading.classList.add('highlight-target');
+                    setTimeout(() => {
+                        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }, 100);
+                    return;
+                }
             }
         }
     </script>

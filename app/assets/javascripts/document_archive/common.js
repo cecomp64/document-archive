@@ -46,9 +46,17 @@ const DocumentArchive = {
         const titleDiv = document.createElement('div');
         titleDiv.style.flex = '1';
 
-        const title = document.createElement('div');
-        title.className = 'article-title';
-        title.textContent = article.title;
+        let title;
+        if (article.markdownUrl) {
+            title = document.createElement('a');
+            title.className = 'article-title';
+            title.href = `${this.ROOT_PATH}/documents/${article.documentId}/markdown?article=${encodeURIComponent(article.title)}`;
+            title.textContent = article.title;
+        } else {
+            title = document.createElement('div');
+            title.className = 'article-title';
+            title.textContent = article.title;
+        }
         titleDiv.appendChild(title);
 
         // Document info with name and format links
