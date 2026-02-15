@@ -60,7 +60,7 @@ services:
         source: ./
         target: /rails
       - type: bind
-        source: "/Users/csvensson/Library/CloudStorage/GoogleDrive-ephemeris.production@sjaa.net/My Drive/1954-2004 Back Issues"
+        source: "/Users/csvensson/Git/sjaa-document-archive"
         target: /data
         read_only: true
       - bundle_cache:/usr/local/bundle

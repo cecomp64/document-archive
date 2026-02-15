@@ -164,7 +164,7 @@ With Docker:
 docker compose exec app bin/rails "document_archive:import[/path/to/json/files]"
 ```
 
-### 2. Seed a Remote Database
+### 2. Seed a Remote Database From a Local One
 
 For environments without filesystem access (e.g., Heroku), first export the data to chunked JSON files, then upload via the API.
 

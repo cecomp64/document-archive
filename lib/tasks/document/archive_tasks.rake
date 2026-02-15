@@ -203,6 +203,48 @@ namespace :document_archive do
     puts "  Skipped:  #{totals[:skipped]}"
   end
 
+  desc "Upload local JSON files and attachments directly to a remote API via S3"
+  task :upload_import, [:directory, :api_url, :token, :chunk_size] => :environment do |_t, args|
+    directory = args[:directory]
+    api_url = args[:api_url]
+    token = args[:token] || ENV["IMPORT_API_TOKEN"]
+    chunk_size = (args[:chunk_size] || 5).to_i
+
+    if directory.blank? || api_url.blank?
+      puts "Usage: rake document_archive:upload_import[/path/to/json/files,https://your-app.com/document_archive/api/import,your-token,5]"
+      puts "  Token can also be set via IMPORT_API_TOKEN environment variable"
+      puts "  chunk_size (optional, default 5) controls how many documents per API call"
+      puts ""
+      puts "Required env vars for S3: S3_ACCESS_KEY, S3_ACCESS_SECRET, S3_REGION, S3_BUCKET_NAME"
+      exit 1
+    end
+
+    if token.blank?
+      puts "Error: Token is required (pass as 3rd argument or set IMPORT_API_TOKEN env var)"
+      exit 1
+    end
+
+    unless Dir.exist?(directory)
+      puts "Error: Directory '#{directory}' does not exist"
+      exit 1
+    end
+
+    %w[S3_ACCESS_KEY S3_ACCESS_SECRET S3_REGION S3_BUCKET_NAME].each do |var|
+      if ENV[var].blank?
+        puts "Error: #{var} environment variable is required"
+        exit 1
+      end
+    end
+
+    importer = DocumentArchive::FileToRemoteImporter.new(
+      directory: directory,
+      api_url: api_url,
+      token: token,
+      chunk_size: chunk_size
+    )
+    importer.run
+  end
+
   desc "Re-import embeddings for existing articles from JSON files"
   task :reimport_embeddings, [:directory] => :environment do |_t, args|
     directory = args[:directory]
@@ -556,6 +598,7 @@ module DocumentArchive
       {
         id: doc.id,
         name: doc.name,
+        publication_date: doc.publication_date&.iso8601,
         pdf_url: attachment_url(doc.pdf),
         txt_url: attachment_url(doc.txt),
         markdown_url: attachment_url(doc.markdown),
@@ -598,6 +641,258 @@ module DocumentArchive
           host: ENV.fetch("APP_HOST", "http://localhost:3000")
         )
       end
+    end
+  end
+
+  class FileToRemoteImporter
+    require "aws-sdk-s3"
+
+    PRESIGNED_URL_EXPIRY = 7 * 24 * 60 * 60 # 7 days in seconds
+    S3_KEY_PREFIX = "imports".freeze
+
+    def initialize(directory:, api_url:, token:, chunk_size: 5)
+      @directory = directory
+      @api_url = api_url
+      @token = token
+      @chunk_size = chunk_size
+      @stats = { documents: 0, articles: 0, embeddings: 0, attachments: 0, chunks_ok: 0, chunks_failed: 0 }
+    end
+
+    def run
+      json_files = discover_json_files
+      if json_files.empty?
+        puts "No JSON files found in #{@directory}"
+        return
+      end
+
+      total_chunks = (json_files.size.to_f / @chunk_size).ceil
+      puts "Found #{json_files.size} document files in #{@directory}"
+      puts "Will upload in #{total_chunks} chunks of #{@chunk_size} to #{@api_url}"
+      puts ""
+
+      json_files.each_slice(@chunk_size).with_index do |batch, index|
+        process_chunk(batch, index, total_chunks)
+      end
+
+      print_summary
+    end
+
+    private
+
+    def discover_json_files
+      Dir.glob(File.join(@directory, "**", "*.json"))
+         .reject { |f| f.end_with?("-embeddings.json") }
+         .sort
+    end
+
+    def find_attachment_file(base_path, base_name, extensions)
+      extensions.each do |ext|
+        file_path = File.join(base_path, "#{base_name}#{ext}")
+        return file_path if File.exist?(file_path)
+
+        Dir.glob(File.join(base_path, "*#{ext}"), File::FNM_CASEFOLD).each do |found|
+          found_base = File.basename(found, ext)
+          return found if found_base.downcase == base_name.downcase
+        end
+      end
+      nil
+    end
+
+    # --- S3 ---
+
+    def s3_client
+      @s3_client ||= Aws::S3::Client.new(
+        access_key_id: ENV["S3_ACCESS_KEY"],
+        secret_access_key: ENV["S3_ACCESS_SECRET"],
+        region: ENV["S3_REGION"]
+      )
+    end
+
+    def s3_bucket
+      ENV["S3_BUCKET_NAME"]
+    end
+
+    def upload_to_s3(local_path, content_type)
+      filename = File.basename(local_path)
+      s3_key = "#{S3_KEY_PREFIX}/#{filename}"
+
+      puts "    Uploading to S3: #{filename}"
+      File.open(local_path, "rb") do |file|
+        s3_client.put_object(
+          bucket: s3_bucket,
+          key: s3_key,
+          body: file,
+          content_type: content_type
+        )
+      end
+
+      generate_presigned_url(s3_key)
+    end
+
+    def generate_presigned_url(s3_key)
+      signer = Aws::S3::Presigner.new(client: s3_client)
+      signer.presigned_url(
+        :get_object,
+        bucket: s3_bucket,
+        key: s3_key,
+        expires_in: PRESIGNED_URL_EXPIRY
+      )
+    end
+
+    # --- Chunk processing ---
+
+    def process_chunk(json_files, chunk_index, total_chunks)
+      chunk_number = chunk_index + 1
+      puts "Processing chunk #{chunk_number}/#{total_chunks} (#{json_files.size} documents)..."
+
+      documents = []
+      articles = []
+      embeddings = []
+
+      json_files.each do |json_file|
+        doc_data = process_document_file(json_file)
+        next unless doc_data
+
+        documents.concat(doc_data[:documents])
+        articles.concat(doc_data[:articles])
+        embeddings.concat(doc_data[:embeddings])
+      end
+
+      payload = { documents: documents, articles: articles, embeddings: embeddings }
+      post_chunk(payload, chunk_number, total_chunks)
+    end
+
+    def process_document_file(json_file)
+      document_name = File.basename(json_file, ".json")
+      base_path = File.dirname(json_file)
+      puts "  Processing #{document_name}..."
+
+      data = JSON.parse(File.read(json_file))
+
+      # Generate a temporary UUID for cross-referencing within this chunk
+      doc_id = SecureRandom.uuid
+
+      # Upload attachments to S3 and get presigned URLs
+      pdf_url = upload_attachment(base_path, document_name, %w[.pdf], "application/pdf")
+      txt_url = upload_attachment(base_path, document_name, %w[.txt], "text/plain")
+      markdown_url = upload_attachment(base_path, document_name, %w[.md .markdown], "text/markdown")
+      json_url = upload_to_s3(json_file, "application/json")
+      @stats[:attachments] += 1
+
+      publication_date = PublicationDateParser.parse(document_name)
+
+      document_entry = {
+        id: doc_id,
+        name: document_name,
+        publication_date: publication_date&.iso8601,
+        pdf_url: pdf_url,
+        txt_url: txt_url,
+        markdown_url: markdown_url,
+        json_url: json_url
+      }
+      @stats[:documents] += 1
+
+      # Build article entries, remapping documentId to our generated doc_id
+      article_entries = (data["articles"] || []).map do |article_data|
+        article_id = SecureRandom.uuid
+        @stats[:articles] += 1
+
+        {
+          id: article_id,
+          documentId: doc_id,
+          title: article_data["title"],
+          summary: article_data["summary"],
+          categories: article_data["categories"] || [],
+          keywords: article_data["keywords"] || [],
+          pageStart: article_data["pageStart"],
+          pageEnd: article_data["pageEnd"],
+          _original_id: article_data["id"]
+        }
+      end
+
+      # Build embedding entries from companion embeddings file
+      embedding_entries = []
+      embeddings_file = json_file.sub(".json", "-embeddings.json")
+      if File.exist?(embeddings_file)
+        embedding_data = JSON.parse(File.read(embeddings_file))
+
+        # Map original article IDs to our generated UUIDs
+        original_to_uuid = {}
+        article_entries.each { |ae| original_to_uuid[ae[:_original_id]] = ae[:id] }
+
+        (embedding_data["embeddings"] || []).each do |entry|
+          mapped_article_id = original_to_uuid[entry["articleId"]]
+          unless mapped_article_id
+            puts "    Warning: No article match for embedding articleId '#{entry["articleId"]}'"
+            next
+          end
+
+          embedding_entries << { articleId: mapped_article_id, vector: entry["vector"] }
+          @stats[:embeddings] += 1
+        end
+      end
+
+      # Strip internal _original_id before sending to API
+      clean_articles = article_entries.map { |ae| ae.except(:_original_id) }
+
+      { documents: [document_entry], articles: clean_articles, embeddings: embedding_entries }
+    rescue JSON::ParserError => e
+      puts "    Warning: Invalid JSON in #{json_file}: #{e.message}"
+      nil
+    rescue StandardError => e
+      puts "    Error processing #{json_file}: #{e.message}"
+      nil
+    end
+
+    def upload_attachment(base_path, document_name, extensions, content_type)
+      file_path = find_attachment_file(base_path, document_name, extensions)
+      return nil unless file_path
+
+      url = upload_to_s3(file_path, content_type)
+      @stats[:attachments] += 1
+      url
+    end
+
+    # --- HTTP ---
+
+    def post_chunk(payload, chunk_number, total_chunks)
+      print "  Uploading chunk #{chunk_number}/#{total_chunks} to API... "
+
+      uri = URI.parse(@api_url)
+      http = Net::HTTP.new(uri.host, uri.port)
+      http.use_ssl = (uri.scheme == "https")
+      http.open_timeout = 30
+      http.read_timeout = 120
+
+      request = Net::HTTP::Post.new(uri.path)
+      request["Authorization"] = "Bearer #{@token}"
+      request["Content-Type"] = "application/json"
+      request.body = JSON.generate(payload)
+
+      response = http.request(request)
+
+      if response.is_a?(Net::HTTPSuccess)
+        result = JSON.parse(response.body)
+        stats = result["imported"]
+        puts "OK (#{stats['documents']} docs, #{stats['articles']} articles, #{stats['embeddings']} embeddings)"
+        @stats[:chunks_ok] += 1
+      else
+        puts "FAILED (#{response.code}: #{response.body.truncate(100)})"
+        @stats[:chunks_failed] += 1
+      end
+    rescue StandardError => e
+      puts "ERROR (#{e.message})"
+      @stats[:chunks_failed] += 1
+    end
+
+    def print_summary
+      puts ""
+      puts "Upload import complete!"
+      puts "  Chunks:      #{@stats[:chunks_ok]} successful, #{@stats[:chunks_failed]} failed"
+      puts "  Documents:   #{@stats[:documents]}"
+      puts "  Articles:    #{@stats[:articles]}"
+      puts "  Embeddings:  #{@stats[:embeddings]}"
+      puts "  Attachments: #{@stats[:attachments]} uploaded to S3"
     end
   end
 end

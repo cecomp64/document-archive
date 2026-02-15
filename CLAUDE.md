@@ -86,9 +86,22 @@ for f in export/chunk_*.json; do
 done
 ```
 
+**Direct file-to-remote import** - Seed a remote database directly from local JSON files without needing a local database. Uploads attachments to S3 and calls the remote API:
+
+```bash
+# Requires S3 env vars: S3_ACCESS_KEY, S3_ACCESS_SECRET, S3_REGION, S3_BUCKET_NAME
+export IMPORT_API_TOKEN=your-secret-token
+
+bin/rails "document_archive:upload_import[/path/to/json/files,https://your-app.herokuapp.com/document_archive/api/import]"
+
+# With custom chunk size (default 5 documents per API call)
+bin/rails "document_archive:upload_import[/path/to/json/files,https://your-app.herokuapp.com/document_archive/api/import,,10]"
+```
+
 ## Environment Variables
 
 Required in `.env` or compose.yaml:
 - `GEMINI_API_KEY` - Google Gemini API key for embedding generation
 - `DATABASE_HOST`, `DATABASE_USER`, `DATABASE_PASSWORD` - PostgreSQL connection
 - `IMPORT_API_TOKEN` - Secret token for the `/api/import` endpoint (required on target app)
+- `S3_ACCESS_KEY`, `S3_ACCESS_SECRET`, `S3_REGION`, `S3_BUCKET_NAME` - AWS S3 credentials (required for `upload_import` task)

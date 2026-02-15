@@ -137,7 +137,10 @@ module DocumentArchive
 
       def import_documents(documents)
         documents.each do |doc_data|
-          document = Document.create!(name: doc_data["name"])
+          document = Document.create!(
+            name: doc_data["name"],
+            publication_date: doc_data["publication_date"]
+          )
           @document_id_map[doc_data["id"]] = document.id
           @stats[:documents] += 1
 
