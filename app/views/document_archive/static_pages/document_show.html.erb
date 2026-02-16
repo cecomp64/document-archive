@@ -21,6 +21,7 @@
 
         <div class="stats-bar" id="statsBar">
             <span id="stats">Loading...</span>
+            <span class="document-actions" id="documentActions"></span>
         </div>
 
         <div class="browse-section">
@@ -51,6 +52,25 @@
                 document.getElementById('documentTitle').textContent = doc.name || 'Untitled Document';
                 document.getElementById('documentSubtitle').textContent = `${doc.articles.length} article${doc.articles.length !== 1 ? 's' : ''} in this document`;
                 document.getElementById('stats').textContent = `Document ID: ${doc.id}`;
+
+                const actions = document.getElementById('documentActions');
+                if (doc.pdfUrl) {
+                    const pdfLink = Object.assign(document.createElement('a'), {
+                        href: doc.pdfUrl,
+                        target: '_blank',
+                        className: 'document-action-btn action-pdf',
+                        textContent: 'PDF'
+                    });
+                    actions.appendChild(pdfLink);
+                }
+                if (doc.markdownUrl) {
+                    const mdLink = Object.assign(document.createElement('a'), {
+                        href: `${DocumentArchive.ROOT_PATH}/documents/${doc.id}/markdown`,
+                        className: 'document-action-btn action-md',
+                        textContent: 'Markdown'
+                    });
+                    actions.appendChild(mdLink);
+                }
 
                 DocumentArchive.displayArticles(
                     document.getElementById('articleResults'),
